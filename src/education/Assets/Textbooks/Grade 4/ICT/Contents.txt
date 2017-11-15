@@ -1,0 +1,935 @@
+ICT in Schools 
+Inspectorate Evaluation Studies 
+
+
+INSPECTORATE 
+
+
+PROMOTING THE QUALITY OF LEARNING 
+
+ICT in Schools 
+Inspectorate Evaluation Studies 
+
+
+INSPECTORATE 
+
+
+PROMOTING THE QUALITY OF LEARNING 
+
+ICT in Schools 
+The Inspectorate wishes to thank the following for the use of photographs: 
+Clonakilty Community College, Clonakilty, Co Cork 
+Saint Mark’s Community School, Tallaght, Dublin 24 
+Saint Mac Dara’s Community College, Templeogue, Dublin 6W 
+Scoil Barra Naofa, Monkstown, Cork 
+Scoil Nano Nagle and Talbot Senior National School, Clondalkin, Dublin 22 
+Whitechurch National School, Whitechurch Road, Dublin 16 
+
+© 2008 Department of Education and Science 
+ISBN-0-0000-0000-X 
+
+Designed by Slick Fish Design, Dublin 
+Printed by Brunswick Press, Dublin 
+
+Published by 
+Evaluation Support and Research Unit 
+Inspectorate 
+Department of Education and Science 
+Marlborough Street 
+Dublin 1 
+
+To be purchased directly from 
+Government Publications Sales Office 
+Sun Alliance House 
+Molesworth Street 
+Dublin 2 
+
+or by post from 
+Government Publications 
+Postal Trade Section 
+Unit 20 
+Lakeside Retail Park 
+Claremorris 
+Co Mayo 
+
+€20 
+
+
+Contents 
+
+Foreword 
+
+xi 
+Executive summary 
+
+xiii 
+
+Part 1 Introduction 
+
+Chapter 1 ICT in primary and post-primary education in Ireland 1 
+1.1 Introduction 2 
+1.2 Background 3 
+
+1.3 ICT policy and investment in education 6 
+
+1.3.1 Policy for ICT in education 6 
+
+1.3.2 ICT in the curriculum 9 
+
+1.3.3 Investment in ICT in education 11 
+
+1.4 ICT infrastructure census in schools (2005) 12 
+
+1.4.1 Computers in schools 12 
+
+1.4.2 Other ICT equipment in schools 14 
+
+1.4.3 Expenditure on ICT and technical support 15 
+
+1.4.4 Other areas covered in the census 16 
+1.5 Summary 16 
+
+Chapter 2 Evaluation methods 17 
+2.1 Introduction 18 
+
+2.2 Approaches to evaluating ICT in schools 18 
+
+2.3 Overview and aims of the evaluation 20 
+
+2.4 National survey of primary and post-primary principals and teachers 21 
+
+2.4.1 Survey sampling methods 21 
+
+2.4.2 Survey research methods 22 
+
+2.4.3 Response rate 23 
+
+2.4.4 Comparison of respondents and population 24 
+
+2.5 Case-study school evaluations 25 
+
+2.6 Observations during classroom inspections (primary) and subject inspections (post-primary) 27 
+
+2.6.1 Primary schools 27 
+
+2.6.2 Post-primary schools 
+
+28 
+
+2.7 On-line evaluation 
+
+30 
+
+2.8 Evaluation outputs and terms 
+
+30 
+
+2.8.1 Outputs 
+
+30 
+
+2.8.2 Junior and senior classes 
+
+30 
+
+2.8.3 Quantitative terms used in this report 
+
+30 
+
+iii 
+
+
+
+ICT in Schools 
+Part 2 ICT infrastructure and planning in schools 
+
+Chapter 3 ICT infrastructure in primary and post-primary schools 
+
+31 
+
+3.1 Introduction 
+
+32 
+
+3.2 The ICT advisory service 
+
+33 
+
+3.3 ICT and funding 37 
+
+3.4 ICT maintenance, technical support, and obsolescence 38 
+
+3.5 Access to computers 41 
+
+3.5.1 Access by teachers 41 
+
+3.5.2 Access by students 42 
+
+3.6 The use of computers in schools 45 
+
+3.6.1 Organisation of ICT facilities in case-study primary schools 45 
+
+3.6.2 Organisation of ICT facilities in case-study post-primary schools 49 
+
+3.7 ICT peripherals 53 
+3.8 Software 56 
+
+3.9 Use of e-mail 57 
+
+3.10 The on-line environment 59 
+
+3.10.1 The learning platform 59 
+
+3.10.2 The school web site 61 
+
+3.11 Summary of findings and recommendations 64 
+
+3.11.1 Main findings 64 
+3.11.2 Recommendations 66 
+
+Chapter 4 ICT planning in primary and post-primary schools 69 
+4.1 Introduction 70 
+
+4.2 The planning process 70 
+
+4.2.1 The ICT steering committee 72 
+
+4.2.2 The ICT co-ordinator 73 
+
+4.2.3 The ICT plan 75 
+
+4.2.4 The acceptable-use policy 79 
+
+4.3 Implementation of ICT planning 80 
+
+4.3.1 Teachers’ professional development 81 
+
+4.3.2 Using ICT in classroom and lesson planning and preparation 
+
+90 
+
+4.3.3 Planning for using ICT in teaching and learning 
+
+98 
+
+4.4 Forward planning 
+
+99 
+
+4.4.1 Principals’ priorities for ICT development 
+
+99 
+
+4.4.2 Teachers’ priorities for ICT development 
+
+101 
+
+4.5 Findings and recommendations 
+
+102 
+
+4.5.1 Main findings 
+
+102 
+
+4.5.2 Recommendations 
+
+105 
+
+iv 
+
+
+
+Part 3 ICT and teaching and learning in schools 
+
+Chapter 5 ICT and teaching and learning in primary schools 
+
+107 
+
+5.1 Introduction 
+
+108 
+
+5.2 Teachers’ ICT qualifications and skills 
+
+108 
+
+5.3 Classroom practice and ICT 111 
+5.3.1 Planning 111 
+
+5.3.2 Frequency of ICT use 112 
+
+5.3.3 Organisation of ICT use 113 
+
+5.3.4 Focus of ICT use 114 
+
+5.3.5 Use of resources and applications in the classroom 116 
+
+5.3.6 Quality of provision 120 
+
+5.3.7 Provision for students with special educational needs by mainstream class teachers 126 
+
+5.4 ICT in special education 127 
+
+5.4.1 Access to ICT 127 
+
+5.4.2 Planning for the use of ICT 127 
+
+5.4.3 Frequency of ICT use 128 
+
+5.4.4 Focus of ICT use 129 
+
+5.4.5 Use of resources and applications 130 
+
+5.4.6 Quality of provision 131 
+5.5 Assessment 133 
+
+5.6 Developing ICT in the classroom 134 
+
+5.6.1 Factors that constrain the development of ICT in the curriculum 134 
+
+5.6.2 Factors that facilitate the development of ICT in the curriculum 134 
+
+5.7 Findings and recommendations 135 
+
+5.7.1 Main findings 135 
+5.7.2 Recommendations 137 
+
+Chapter 6 ICT and teaching and learning in post-primary schools 139 
+6.1 Introduction 140 
+
+6.2 ICT qualifications and skills 141 
+
+6.2.1 Teachers’ ICT qualifications and skill levels 141 
+
+6.2.2 Students’ ICT skill levels 
+
+145 
+
+6.3 Dedicated ICT lessons 
+
+148 
+
+6.3.1 Timetabling of dedicated ICT lessons 
+
+149 
+
+6.3.2 Curriculum and content of dedicated ICT lessons 
+
+151 
+
+6.4 Classroom practice and ICT 
+
+152 
+
+6.4.1 School principals’ support for the use of ICT in the classroom 
+
+153 
+
+6.4.2 ICT in practice in the classroom 
+
+155 
+
+6.4.3 Quality of provision 
+
+163 
+
+6.5 ICT and special educational needs 
+
+167 
+
+v 
+
+
+
+ICT in Schools 
+6.6 Assessment 
+
+168 
+
+6.7 Developing ICT in the classroom 
+
+168 
+
+6.7.1 Factors that constrain the development of ICT in the classroom 
+
+168 
+
+6.7.2 Factors that facilitate the development of ICT in the classroom 
+
+170 
+
+6.8 Findings and recommendations 172 
+
+6.8.1 Main findings 172 
+6.8.2 Recommendations 174 
+
+Part 4 Summary of findings and recommendations 
+
+Chapter 7 Main findings and recommendations 177 
+7.1 Introduction 178 
+
+7.2 Main findings 179 
+7.2.1 Infrastructure 179 
+
+7.2.2 ICT Planning 181 
+
+7.2.3 ICT in teaching and learning 182 
+
+7.3 Main recommendations for policy-makers and policy advisors 184 
+
+7.3.1 ICT infrastructure 184 
+
+7.3.2 Professional development needs of teachers 186 
+
+7.4 Main recommendations for schools 188 
+
+7.4.1 ICT infrastructure in schools 188 
+
+7.4.2 Planning for ICT in schools 189 
+
+7.4.3 ICT in teaching and learning 191 
+
+References 194 
+
+Appendix 197 
+
+vi 
+
+
+
+Abbreviations 
+
+AP assistant principal 
+AUP acceptable use policy 
+BOM board of management 
+CAD computer-aided design 
+CEB Commercial Examining Board 
+CESI Computer Studies Society of Ireland 
+CPD continuing professional development 
+DES Department of Education and Science 
+ECDL European Computer Driving Licence 
+EGFSN Expert Group on Future Skills Needs 
+ERNIST European Research Network for ICT in Schools of Tomorrow 
+ESI Education Services Interactive (Project) 
+EU European Union 
+FETAC Further Education and Training Awards Council 
+ICD in-career development 
+ICT information and communications technology 
+ISC Information Society Commission 
+LC Leaving Certificate (Established) 
+LCA Leaving Certificate—Applied 
+LCVP Leaving Certificate Vocational Programme 
+LSRT learning-support resource teacher 
+MLE managed learning environment 
+NCC National Competitiveness Council 
+NCCA National Council for Curriculum and Assessment 
+NCTE National Centre for Technology in Education 
+NPADC National Policy Advisory and Development Committee 
+OECD Organisation for Economic Co-operation and Development 
+PCSP Primary Curriculum Support Programme 
+PISA Programme for International Student Assessment 
+SCR student-computer ratio 
+SDP school development planning 
+SDPI School Development Planning Initiative (Post-primary) 
+SDPS School Development Planning Support (Primary) 
+SDT special-duties teacher 
+SESE Social, Environmental and Scientific Education 
+SESS Special Education Support Service 
+SIP Schools Integration Project 
+TIF Telecommunications and Internet Federation 
+VEC Vocational Education Committee 
+VLE virtual learning environment 
+WSE whole-school evaluation 
+
+vii 
+
+
+
+ICT in Schools 
+Tables 
+
+Table 1.1 Funding of ICT in education policy initiatives 
+
+12 
+Table 1.2 Student-computer ratio (SCR) in each school sector in given years 
+
+13 
+Table 1.3 Proportion of schools having at least one fixed and one mobile data projector 14 
+Table 2.1 Comparison of survey sample and population, primary schools 24 
+Table 2.2 Comparison of survey sample and population, post-primary schools 25 
+Table 2.3 Number and level of lessons observed, post-primary schools 29 
+Table 2.4 Quantitative terms used in the report 30 
+Table 3.1 Awareness and use of NCTE and ICT advisory services among teachers 36 
+Table 4.1 Teachers’ attendance at NCTE and ICT advisory service training courses 83 
+Table 4.2 Professional development preferences of post-primary teachers, by subject 88 
+Table 4.3 Teachers’ use of internet resources in planning and preparation for teaching 93 
+Table 4.4 Primary principals’ views on the strategic development of ICT 100 
+Table 4.5 Post-primary principals’ views on the strategic development of ICT 100 
+Table 4.6 Teachers’ priority areas for the development of ICT 102 
+Table 5.1 Proportion of primary teachers who rated their proficiency in ICT skills as either 
+“intermediate” or “advanced” 109 
+Table 5.2 Proportion of primary teachers who rated their ability in each of three ICT tasks 
+that facilitate teaching and learning as either “intermediate” or “advanced” 111 
+Table 5.3 Inspectors’ observations on the use of ICT to facilitate teaching and learning in 
+classrooms 113 
+Table 5.4 Teachers’ use of software and the internet to facilitate learning 117 
+Table 5.5 Most frequently used applications in the teaching of individual curricular areas 117 
+Table 5.6 Inspectors’ comments on the quality of use of ICT observed in teaching and learning 123 
+Table 5.7 Applications used by members of special-education support teams to promote the 
+development of skills 130 
+Table 5.8 Most frequently used applications to promote the development of individual 
+learning priority areas 131 
+Table 5.9 Comparison of inspectors’ ratings of the quality of ICT provision in supporting 
+children with special educational needs in mainstream and special-education 
+support settings 
+
+132 
+Table 5.10 Sample of inspectors’ comments on the quality of ICT use in special-education 
+support settings 
+
+133 
+Table 6.1 Proportion of post-primary teachers who rated their proficiency in ICT skills as 
+either “intermediate” or “advanced” 
+
+142 
+Table 6.2 Proportions of post-primary teachers who rated their ability in each of three ICT 
+tasks that facilitate teaching and learning as either “intermediate” or “advanced” 144 
+Table 6.3 Timetabled dedicated ICT lessons in post-primary schools 
+
+149 
+
+viii 
+
+
+
+Table 6.4 Commonly taught topics in dedicated ICT lessons 
+
+151 
+Table 6.5 Principals’ descriptions of how ICT is used in some subjects 
+
+153 
+Table 6.6 Principals’ views on the impact of ICT on teaching and learning 
+
+154 
+Table 6.7 Location of lessons observed during subject inspections 
+
+155 
+Table 6.8 ICT resources available in the classrooms of lessons observed 155 
+Table 6.9 Use of the internet and software in teaching and learning 161 
+
+Diagrams 
+
+Fig. 2.1 Survey response rates 23 
+Fig. 2.2 Mainstream lesson observations in primary schools 28 
+Fig. 2.3 Subjects reviewed at post-primary level 29 
+Fig. 3.1 Teachers’ ratings of NCTE and ICT advisory services 34 
+Fig. 3.2 Access to computers by primary teachers 41 
+Fig. 3.3 Access to computers by post-primary teachers 42 
+Fig. 3.4 Access to computers by fifth-class students 43 
+Fig. 3.5 Access to computers by fifth-year students 44 
+Fig. 3.6 Frequency of use of ICT peripherals by primary teachers 54 
+Fig. 3.7 Frequency of use of ICT peripherals by post-primary teachers 54 
+Fig. 3.8 Provision and use of e-mail address by subject taught, post-primary schools 58 
+Fig. 3.9 The primary school web site: teachers’ responses 62 
+Fig. 3.10 The post-primary school web site: teachers’ responses 62 
+Fig. 4.1 Contents of ICT plans, primary schools 77 
+Fig. 4.2 Contents of ICT plans, post-primary schools 77 
+Fig. 4.3 Staff ICT training in primary schools within the previous three years 81 
+Fig. 4.4 Staff ICT training in post-primary schools within the previous three years 82 
+Fig. 4.5 Principals’ and teachers’ views on ICT training requirements, primary schools 86 
+Fig. 4.6 Principals’ and teachers’ views on ICT training requirements, post-primary schools 87 
+Fig. 4.7 Use of computers for lesson preparation 90 
+Fig. 4.8 Resources provided by mainstream primary teachers using ICT 91 
+Fig. 4.9 Use of the internet in planning and preparation for teaching, by subject 
+
+93 
+Fig. 4.10 Scoilnet visits by teachers 
+
+94 
+Fig. 4.11 The most popular sections of Scoilnet among teachers 
+
+95 
+Fig. 4.12 Teachers’ ratings of Scoilnet 
+
+96 
+Fig. 4.13 Teachers’ views on what Scoilnet should contain 
+
+97 
+Fig. 5.1 Use and related proficiency of applications in teaching 
+
+110 
+Fig. 5.2 Extent to which mainstream teachers plan for the use of ICT 
+
+112 
+Fig. 5.3 Organisation of teaching and learning during use of ICT 
+
+113 
+
+ix 
+
+
+
+ICT in Schools 
+Fig. 5.4 Frequency of ICT use to promote learning in curricular areas 
+
+114 
+Fig. 5.5 Frequency of ICT use among mainstream and special class teachers to facilitate 
+development of skills 
+
+115 
+Fig. 5.6 Frequency of use of individual internet resources by internet users 
+
+119 
+Fig. 5.7 Inspectors’ rating of the quality of use of ICT in teaching and learning 122 
+Fig. 5.8 Students’ proficiency in individual tasks 125 
+Fig. 5.9 Level of ICT support for students with special educational needs in mainstream 
+classrooms 126 
+Fig. 5.10 Level of access by students with special educational needs in special-education 
+support settings 127 
+Fig. 5.11 Extent to which special-education support team members plan for the use of ICT 128 
+Fig. 5.12 Inspectors’ observations of the use of ICT to facilitate teaching and learning in 
+special-education support settings 128 
+Fig. 5.13 Frequency of ICT use in special-education support settings to facilitate 
+development of skills 129 
+Fig. 5.14 Inspectors’ ratings of the quality of use of ICT in teaching and learning observed in 
+special-education support settings 132 
+Fig. 6.1 Proficiency and use of applications in teaching 143 
+Fig. 6.2 Students’ use of computers 146 
+Fig. 6.3 Students’ ICT skill levels 147 
+Fig. 6.4 Use of ICT in the planning and preparation of observed lessons 156 
+Fig. 6.5 Main uses of ICT in teaching and learning in the subjects inspected, as 
+reported by teachers 157 
+Fig. 6.6 Frequency of use of computers in teaching 158 
+Fig. 6.7 Settings in which ICT is used in classrooms 159 
+Fig. 6.8 Use of the internet and applications, by subject area 162 
+Fig. 6.9 Inspectors’ rating of the quality of use of ICT in teaching and learning observed 164 
+Fig. 7.1 International student-computer ratios from PISA 2003 179 
+
+x 
+
+
+
+Foreword 
+
+Information and communication technology has brought profound changes to almost all aspects of 
+our lives in recent years. It has transformed activities as basic as how we work, communicate with 
+each other, treat illnesses, travel, shop and enjoy our leisure time. The pace of change shows no sign 
+of slowing: indeed, the development of ICT and its applications to areas such as the integration of 
+media, are continuing at even faster rates than heretofore. In a relatively short period of time, ICT 
+skills have become as fundamental to living a full life as being able to read, write and compute. 
+
+Ireland has been a leading player in the development of the ICT industry. We have been a leading 
+exporter of ICT hardware and software, and many of the key businesses in the industry have 
+important bases here. Like other countries, we have also recognised that if our young people are to 
+live full lives in a world transformed by ICT, they need to have opportunities to acquire and develop 
+ICT skills from an early age. Since the late 1990s, we have made considerable investments in ICT 
+infrastructure in schools, and in training for teachers and other professionals. Until now, little 
+national research evidence has been published on the impact that the new technologies have had 
+on schools and especially on teaching and learning. This report examines the extent to which ICT 
+has been used in schools at both primary and post-primary levels and, more importantly, assesses 
+the impact that ICT has had on teaching and learning, including the ways in which ICT is used to 
+support the learning of students with special educational needs. 
+
+The evaluation shows that while much progress has been achieved in the roll-out of ICT in schools, 
+considerable challenges remain. The report presents findings and recommendations that will be of 
+interest to teachers, principals, school support services, curriculum developers and policy-makers. I 
+hope that it will inform debate and policy decisions on how we can ensure that young people have 
+the skills, knowledge and attitudes necessary to benefit from the opportunities presented by this 
+powerful technology in the years ahead. 
+
+Eamon Stack 
+Chief Inspector 
+
+
+xi 
+
+
+
+ICT in Schools 
+xii 
+
+
+
+Executive summary 
+xiiiExecutive summary 
+xiii
+
+ICT in Schools ICT in Schools 
+Executive summary 
+
+An evaluation of the infrastructure, planning and use of information and communications 
+technology in teaching and learning was conducted by the Inspectorate in primary and post-primary 
+schools during the school year 2005/06. The objectives of the evaluation were: 
+
+• to examine the extent to which ICT was used in primary and post-primary schools 
+• to evaluate the impact of ICT on teaching and learning 
+• to assess the ICT skills of students at selected points in the education system and to obtain their 
+
+views on their experience of ICT in their schooling 
+• to obtain the views of principals and teachers on their ICT skills and their opinions of the impact 
+and future role of ICT in education 
+• to make recommendations for policy development regarding ICT in schools. 
+
+xiv 
+
+
+
+Executive summary 
+The evaluation methods comprised: 
+• a national survey of primary (234) and post-primary (110) principals 
+
+• a national survey of primary (1,162) and post-primary (800) teachers 
+
+• case-study school evaluations by inspectors (32 primary schools, 20 post-primary schools) 
+
+• observations during classroom inspections (77 primary schools) 
+
+• observations during subject inspections (111 post-primary schools) 
+
+• a follow-up on-line survey of teachers in case-study post-primary schools. 
+
+Summary of main findings 
+
+The findings and recommendations are summarised here and are elaborated in chapter 7. 
+
+Infrastructure 
+
+• The student-computer ratio (SCR) in Irish schools is 9.1:1 at primary level and 7:1 at post-primary 
+level. Information available from the OECD suggests that countries that have taken the lead in 
+the provision of ICT in schools are aiming for or achieving a SCR of 5:1. 
+
+• In the main, schools make effective use of the grants provided by the DES for developing their 
+ICT systems. However, schools generally spend considerably more on ICT than the sums made 
+available through these grants schemes. 
+
+• The lack of technical support and maintenance is a significant impediment to the development of 
+ICT in schools. 
+
+• At primary level, computer rooms are generally a feature of the larger schools. However, access 
+by students to computers was found to be superior where the computers were located in the 
+classrooms. At the post-primary level there is a greater permeation of computers in specialist 
+rooms than in general classrooms. 
+
+• Schools were found to use a limited range of ICT peripherals, mainly printers, scanners, and 
+digital cameras. Digital projectors were found in post-primary schools. At primary level, interactive 
+whiteboards were present in a small number of schools. 
+
+• Schools that made dedicated computer facilities available to teachers reported that it led to the 
+use of more high-quality and creative teaching resources in classrooms. 
+
+xv 
+
+
+
+ICT in Schools 
+Planning 
+
+• Responsibility for ICT in a school can lie with an ICT steering committee, the principal, the deputy 
+principal, an ICT co-ordinator, or a combination of these personnel. Greater efficiency is achieved 
+where a named person has responsibility for ICT within a school and where their role is clearly 
+defined. 
+
+• The majority (71%) of primary schools surveyed, but fewer than half (46%) of post-primary 
+schools, were found to have a written ICT plan. These plans tend to concentrate more on 
+infrastructural issues than on how ICT can be used to enhance teaching and learning. 
+
+• Most schools (83% of primary schools, 87% of post-primary schools) were found to have an 
+acceptable-use policy (AUP). This is a product of the requirements of the Schools Broadband 
+Access Programme and the safety-awareness initiatives of the NCTE. It is also an indication of the 
+seriousness that schools attach to the risks associated with the use of the internet. 
+
+• The majority of teachers make some use of ICT in lesson planning and preparation. Newly 
+qualified teachers are more likely to use ICT for this purpose than their more experienced 
+colleagues. However, fewer teachers were found to plan for the use of ICT in teaching and 
+learning. At the post-primary level, planning for the use of ICT in teaching varies between 
+subjects. The programmes for Transition Year, LCVP and LCA specifically encourage planning for 
+the use of ICT in teaching and learning. Teachers of these programmes regularly reported that 
+their involvement also encouraged them to use ICT in their teaching with other class groups. 
+
+• School principals and teachers identified the provision and maintenance of hardware in schools 
+and the provision of professional development opportunities in ICT as being strategically 
+important for the development of ICT in their school. Generic programmes of professional 
+development, because of their wider appeal, were found to have a greater take-up among 
+teachers than topic-specific programmes. 
+
+Teaching and learning 
+
+• Only 30% of primary teachers and 25% of post-primary teachers rated their ability as either 
+“intermediate” or “advanced” with regard to using teaching and learning methods that are 
+facilitated by ICT. Recently qualified teachers had a higher perception of their ICT skills than more 
+experienced teachers. 
+
+• At the primary level, the inspectors reported evidence of the use of ICT to facilitate teaching and 
+learning in 59% of the classrooms visited. However, the inspectors observed ICT actually being 
+used in only 22% of the lessons observed. Nearly a quarter of all inspections showed a 
+competent or optimal level of performance in relation to the use of ICT in the classroom. 
+
+xvi 
+
+
+
+Executive summary 
+• Where ICT is used in primary classrooms it predominates in core curricular areas, such as English 
+and Mathematics, and in Social, Environmental and Scientific Education (SESE). 
+
+• The evaluation found that many fifth-class students in primary schools do not have the 
+competence to complete basic tasks on the computer. While most students reported being able 
+to perform many of the most basic computer tasks, such as turning a computer on and off and 
+opening or saving a file, more than 30% reported that they were not able to print a document or 
+to go on the internet by themselves. Almost half (47%) reported not being able to create a 
+document by themselves. The majority did not know how to create a presentation (72%), use a 
+spreadsheet (86%), or send an attachment with an e-mail message (88%). Competence in the 
+use of ICT is limited for the most part to basic ICT skills, centred on the use of word-processing. 
+
+• Only 18% of the post-primary lessons observed by the inspectors involved an ICT-related activity. 
+Students’ interaction with the technology was observed in only about a quarter of these 
+instances. The most common ICT-related activity observed was the use of a data projector to 
+make a presentation to a class group. Inspectors judged that effective integration of ICT in 
+teaching and learning was occurring in approximately half of the lessons in which the use of ICT 
+was observed (i.e. in approximately 11% of all lessons observed). 
+
+• Dedicated ICT lessons at the post-primary level are more prevalent among first-year classes, and 
+are provided less frequently as students progress towards the Junior Certificate. The majority of 
+schools concentrate on providing students with such lessons in their Transition Year, in the LCVP, 
+and in the LCA. 
+
+• High levels of integration of ICT were found at the post-primary level in the science and applied 
+science subjects and in subjects in the social studies I group.1 Subjects were also identified that 
+rarely made use of ICT, the most notable being Irish. 
+
+• The evaluation found that fifth-year students in post-primary schools had the confidence to 
+perform many basic computer operations by themselves, for example saving, printing, deleting, 
+opening and editing a document. However, it also found that they generally needed some 
+assistance to perform more complicated tasks, such as moving files, copying files to external 
+storage devices, and writing and sending e-mail. A relatively low proportion of these students 
+reported being able to create a multimedia presentation. Students required most help with 
+attaching a file to an e-mail message, constructing a web page, or dealing with computer viruses. 
+While the post-primary inspectors generally commented positively on the students’ ICT work that 
+they observed, they were also concerned that the tasks undertaken by the students were largely 
+word-processing and presentation tasks. 
+
+1 
+
+Social Studies I group includes History; Geography; Art, Craft, and Design; and Music. Social Studies II group includes Religious 
+Education; Physical Education; Civic, Social and Political Education (CSPE); and Social, Personal and Health Education (SPHE). 
+
+xvii 
+
+
+
+ICT in Schools 
+• ICT is widely used to facilitate the provision by schools of special education. Generally, ICT is used 
+more frequently by members of the special-education team rather than by mainstream class 
+teachers. The emphasis in students’ engagement with ICT in special-education settings is mainly 
+on the support of literacy. 
+
+Support for ICT 
+
+• The level of awareness among teachers of the ICT advisory service is generally low, with fewer 
+than half the respondents at both the primary and the post-primary level reporting an awareness 
+of it. Awareness is higher, however, among ICT co-ordinators than among other teachers. 
+
+• The use of the ICT advisory service is also low. At the primary level only 22% of all respondents 
+reported having used the service, while at the post-primary level the corresponding figure was 
+15%. 
+
+Summary of key recommendations for policy-makers and policy 
+advisors 
+
+• The level of ICT infrastructure in schools needs to be improved. Specifically, Ireland should be 
+working towards equipping not just all schools but all classrooms with an appropriate level of ICT 
+infrastructure. Consideration should be given to equipping all classrooms with a computer for use 
+by the teacher, broadband internet access with adequate bandwidth, and a fixed data projector 
+and screen for use by the teacher in presentations. Furthermore, to ensure appropriate access to 
+ICT by students, Ireland should strive to reduce its student-computer ratio (SCR) from the present 
+
+9.1:1 in primary schools and 7:1 in post-primary schools. International evidence suggests that 
+countries that have taken a lead in this area are aiming for or achieving a ratio of 5:1 or less in all 
+schools. 
+• Improvements in ICT infrastructure will need to be supported by the introduction of a national 
+ICT technical support and maintenance system for schools. Schools also need to be provided with 
+the capacity to regularly upgrade their own ICT infrastructure. 
+
+• The pedagogical dimension of the ICT advisors’ role in an education centre could be more 
+appropriately provided by the relevant school support services, in liaison with the ICT school coordinators. 
+The technical dimension of the ICT advisors’ role could be provided in a number of 
+ways, including for example, by having a commercially supplied ICT maintenance and support for 
+schools. With an effective IT maintenance system in place, the pedagogical role of ICT coordinators 
+within schools could be enhanced and supported with appropriate training. 
+
+xviii 
+
+
+
+Executive summary 
+• Support services should give priority to the integration of ICT in teaching and learning. There is 
+an opportunity for such services to work more closely with schools, and with school ICT coordinators 
+in particular, to determine staff training needs and assist in organising appropriate 
+professional development courses for teachers. Support service personnel should aim to be 
+proactive in providing examples of how ICT can be used to facilitate teaching and learning in any 
+programmes provided. Furthermore, course organisers should take greater account of the wide 
+range of ICT abilities and experiences commonly found in groups of teachers and should provide 
+differentiated ICT learning experiences for course participants. 
+
+• Additional guidance should be provided to schools and teachers of students with special 
+educational needs so that the needs of learners may be matched more appropriately with the 
+technology available. 
+
+• There needs to be an increased emphasis on the application of ICT in teaching and learning in 
+teacher education at pre-service, induction and continuing professional development stages. It is 
+recommended that teacher education departments in third-level colleges should provide student 
+teachers with the skills necessary to effectively use ICT in teaching and foster in them a culture of 
+using ICT in their work. Consideration should also be given to extending and expanding 
+significantly the current range of professional development courses available for teachers. A 
+major focus of such an initiative should be on how ICT may be integrated fully in the teaching 
+and learning of specific subjects and curricular areas. The ICT Framework for Schools, which the 
+NCCA will issue in the near future, will be a further assistance to schools in this regard. 
+
+Key recommendations for schools 
+
+• Schools and teachers should regularly review the use of ICT in their work. In particular, they 
+should strive to ensure greater integration of ICT within teaching and learning activities in 
+classrooms and other settings. 
+
+• Teachers should exploit the potential of ICT to develop as wide a range of students’ skills as 
+possible, including the higher-order skills of problem-solving, synthesis, analysis, and evaluation. 
+
+• Principals should encourage and facilitate suitable ICT training for teachers. Schools should liase 
+with relevant support services and should endeavour to establish mechanisms to facilitate the 
+sharing of good practice among members of the staff. 
+
+• Schools should endeavour to provide all their students with an appropriate and equitable level of 
+experience of ICT at all class levels: at the primary level and at both junior and senior cycle at the 
+post-primary level. 
+
+xix 
+
+
+
+ICT in Schools 
+• Schools should plan for the maintenance and upgrading of their ICT systems. 
+
+• Computer rooms, where they exist, should be used to maximum effect. Staff members and 
+students should be provided with adequate access to the internet. Post-primary schools in 
+particular should aim to increase the permeation of ICT in general classrooms. 
+
+• A designated staff member should be responsible for ICT development. An ICT plan should be 
+developed, using a consultative process, and an appropriate-use policy (AUP) should also be 
+established. 
+
+• Teachers should endeavour to integrate ICT more in their planning and preparation for teaching. 
+
+• Schools need to ensure that ICT is used to support students with special educational needs in the 
+most effective and appropriate way. Schools need to ensure that they match students' needs to 
+the most appropriate technology available, and that ICT is used to support not only the 
+acquisition of literacy but the widest range of students' needs. 
+
+• Schools should exploit the benefits to be had from ICT in their assessment procedures and also in 
+their administrative practices. 
+
+xx 
+
+
+
+ICT in primary and post-primary education in Ireland 

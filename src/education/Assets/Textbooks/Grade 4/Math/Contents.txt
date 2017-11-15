@@ -1,0 +1,368 @@
+MATHEMATICS FOR 
+:-JUNIOR HIGH SCHOOL 
+VOLUME 1 
+
+PART I 
+
+
+School Mathematics Study Group 
+
+Mathematics for Junior High School, Volume 
+
+Unit 3 
+
+
+Mathematics for Junior High School, volume : 
+
+Teacher's Commentary, Part I 
+
+Preparrd under the supervision of the 
+Panel on Seventh and Eighth Grades 
+ofthe School Mathematics Study Group: 
+
+R. D. Anderson Louisiana State University 
+J. A. Brown University of Delaware 
+Lenore John University of Chicago 
+B.W. Jones University of Colorado 
+P. S. Jones Urliversity of Michigan 
+J. R. Mayor American Association for the 
+Advancement of Science 
+P.C.~osenbloom University oEMinnesota 
+Veryl Schult Supervisor of Mathematics, 
+Washington, D.C. 
+
+New Haven and London, Yale University Press 
+
+
+Copyright @ 1960,1961by Yale University. 
+Printed in the United States of America. 
+
+All rights reserved. his book may not 
+be reproduced, in whole or in part, in 
+any form, without written permission from 
+the publishers. 
+
+Financial support for che School Mathematics 
+Study Group has been provided by the National 
+Science Foundaaon. 
+
+
+Key ideas of Junior high school mathematics emphasized In 
+'thls text are: structure of arithmetic from an algebraic view-
+:point; the real number system as a progressing development; 
+;metricand non-metric relations in geometry. Throughout the 
+'materialstheas ideas are associated wlth their applications, 
+.Important at this level are experience with and appreciation of 
+
+abstract concepts, the role of definition, development of 
+precise vocabulary and thought, experimentation, and proof. 
+Substantial progress can be made on these concepts in the juniorhigh school. 
+
+Fourteen experimental unita far use In the seventh and/ eighth grades were written in the summer of 1958 and tried out1 by approximately 100 teachers in 12 centers in various parts1 of the country in the ~choolyear 1958-59. On the basis of 
+I teacher evaluations theee unita were revised during the summer 
+
+of 1959 and, wlth a number of new units, were made a part of 
+sample textbooks for grade 7 and a book of experimental units 
+for grade 8. In the school year 1959-60, these seventh and 
+eighth grade books were used by about 175 teachers in many 
+parts of the country,and then further revised in the summer of 
+1960. 
+
+Mathematice is fascinating to many persons because of its 
+opportunities for creation and discovery as well as for its 
+utility. It is continuously and rapidly growing under the 
+prodding of both Intellectual curiosity and practical applica-
+tions. Even junior high school students may formulate 
+mathematical questions and conjectures which they can test and 
+perhaps settle; they can develop systematic attacks on 
+mathematical problems whether or not the problems have routine 
+OP immediately determinable solutions. Recognition of these 
+important factors has played a considerable part in selection 
+of content and method in thls text, 
+
+1 
+
+We firmly believe mathematics can and should be studiedi with success and enjoyment. ~tis our hope that this text may1 greatly assist all teachers who use it to achieve thls highlyI desirable goal. 
+
+1 
+
+
+~eprelim1na~eedltionofthiavolumewaspreparedatawritingaeaaionheldattheUniversity of Michigan during the summer of 1959, baaed, in part, on mterlal prepared at 
+the flrat SWG writing session, held at Yale University Zn the summer of 19%. This re-
+viaion was prepared at Stanford University In the summer of 1960, taking into account the 
+cla5smam experience with the preliminary edition during the academic year 1959-60. 
+
+The following is a list of all thoae who have participated in the preparation of this 
+volume. 
+
+R .D. Anderaon, Louisiana State University 
+B.H. Arnold, Oregon State College 
+J.A. Brown, University of Delaware 
+Kenneth E, Brown, U.S. Offlce of Education 
+Mildred B. Cole, K.D. Waldo Junior Wgh School, Aurora, Illinoia 
+B.H. Colvln, Weing Scientific Research Laboratorlee 
+3.A. Cooleg, Univeraity of TennesBee 
+Richard Dean, California Institute of Technology 
+H.M. khman, University of Buffalo 
+L. Roland Genise, Brentwood Junior High School, Brentwood, New York 
+E. Glenadine Gibb, Iowa State Teachers College 
+Richard Good, Universlty of Maryland 
+Alice Hach, Racine Public Schools, Racine, Wlaeonain 
+S.B. Jackson, University of blaryland 
+Lenore John, University High School, Unlvereity of Chicago 
+B.U. Jones, University of Colorado 
+P.S. Jones, University of Michigan 
+Houston Kames, Louisiana State University 
+Mildred Keif'fer, Cincinnati Public Schools, Cincinnati, Ohio 
+Nick Lovdjiefr, Anthony Junior High School, Mnneapolla, Minnesota 
+J.R. Mayor, AmerLcan Association for the Advanoement of Science 
+Sheldon Meyers, Educational Testing Service 
+Muriel Milla, Hill Junior High School, Denver, Colorado 
+P .C. Rosenblcom, University of Minnesota 
+Elizabeth Roudebuah, Seattle Public Schoola, Seattle, Washington 
+Very1 Schult, Washington Public Schools, Washington, D.C. 
+QeoPge Schaefer, Alexis I. DuPont High School, Xilinington, Delaware 
+Allen Shielda, University of Mlchigan 
+Rothwell Stephens, Knox College 
+John Wagner, Sohool Mathematics Study Group, New Haven, Connecticut 
+Ray Walch, Weatport Public Schoole, Meetpert, Connecticut 
+O.C. Webbsr, University of Delaware 
+A.B. Willcox, Amherst college 
+
+CONTENTS 
+
+rnFACE ....................... 
+Nom To TEACHERS ................... 
+
+1. WHATISMATKEMATICS? ............. 
+
+1-1. Mathematics as a Method of Reaaonlng 
+
+1-2. Deductive Reasoning ......... 
+
+1-3 . From Arithmetic to Mathematics ... 
+
+1-4. Kind8 of Mathematics ........
+
+j 1-5. Mathematics Today .......... 
+
+I 1-6. Mathematics aa a Vocation ...... 
+
+. Mathenatica InOther Vocations ... 
+
+1-.....
+
+I-i$. Mathematice for Recreation 
+
+1-9. Highlighte of Flmt Year Junior High 
+
+School Mathematics ........ 
+
+2 . NUMEfUTION ...........+......... 13 
+
+2-1. ~istor~r ............ 16
+
+of N=~S 
+
+2-2. TheDecimalSystem ............ 18 
+
+2-3. Expanded Numerale and EZponentlal Notation. 20 
+
+2-4 . Numerals in Base Seven .......... 22 
+
+2-5. omp put at ion in kae seven ......... 26 
+
+2-6. Changing from Base Ten to Base Seven ... 32 
+
+2-7. Numerals InOther Bases .......... 34 
+
+2-8.The Binary and Duodecimal Systems ..... 36 
+
+2-g . Summarg .................. 45 
+SmpleQuestions forchapter2 .......... 47 
+
+UHom NUMBeRS ................... 53 
+3-1. Counting Numbers ............. 53 
+3-2 . Commutative Properties for Whole Numbera . 54 
+3-3. Associative Properties for Whole Numbers . 56 
+
+3-4 . The Distributive Property ......... 58 
+
+3-5. Set8 and the Closure Property ....... 62 
+
+3-6 . fnverae Operations ............ 64 
+
+3-7. Betweme88 and the Number Line ...... 66 
+
+3-8 . TheNurnberOne .............. 67 
+
+3-9. The Number Zero .............. 69 
+
+3-10. Summ~w.................. 70 
+
+Answera to 'HOW Are You Questions .... 71 
+
+Sample Questions for Chapter 3 .......... 72 
+
++Included Inetudent text only. 
+
+vii 
+
+
+Chapter 
+
+4 . 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+NON-METRICGEOmTRY ................ 
+
+4-1. Points. Lines. and Space ......... 
+
+4.2 . Planes .................. go 
+
+4-3 . Namea and Symbols ............. 82 
+
+4-4 . ~ntersectionor sets ........... 84 
+
+4-5 . ~nteraectionsof Lines and Planes ..... 86 
+
+4-6. Segmenta ................. 88 
+
+4-7. Separations ................ 90 
+
+4-8 Angles and Triangles ........... 92 
+
+4-9 One-to-one Correspondenoe ......... 94 
+
+4-10. SimpleClosedCumres ........... 97 
+
+Sample Questions for Chapter 4 .......... 99 
+
+FACTORING AND PRIMES ................ 105 
+
+5-1 Primes .................. 
+
+5-2. Factors .................. 101°8 
+
+5-3 .Divisibility ............... 114 
+
+5-4 . Greatest Common Factor .......... 117 
+
+5-5. Remindera in Division .......... 121 
+
+5-6. Review .................. 125 
+
+. Least Comon Multiple ........... 130
+
+.I.. Summary .................. 134 
+
+Sample Questions for Chapter 5 .......... 139 
+THERATIONALNUMBERSYSl%M ............. 
+
+Overview ..................... 
+
+6-1. Hiatory of Fractions ........... 
+
+6-2. ~ational umbers ............. 
+
+6-3 . Properties of Rational Numbera ...... 
+
+6-4. Re~lpmcala................ 
+
+6-5. Ualng the Number Line *.......... 
+
+6-6. Multlplicatlon of Rational Numbers .... 
+
+6-7. Division of Rational Numbere ....... 
+
+6-8. Addition and Subtraction of Ratloml Numbers 
+
+6-9 and 6-10. Ratio and Decimsls ........ 
+
+6.11 . Orderlng ...... .......... 
+
+Sample mestions io~ ..........
+
+Chapter 6 
+
+MEASUREMENT .................... 
+
+Introduction ................... 
+
+7-1. Counting and Meaauring .......... 
+
+7-2. Subdivision and Measurement ........ 
+
+7-3 . Subdividing Unib of Measurement ..... 
+
+7-4 . Standard Unite .............. 
+
+7-5. Precision of Measurement and the Oreateat 
+
+Possible Error ............. 
+
+7-6. Measurement of Angles ........... 
+
+Sample Queatiom for Chapter 7 .......... 
+ARRA. VOLUME. WEIGHTAND TIME ........... 217 
+
+8-1. Rectangle ................. 
+
+212
+
+8-2.Rectangular Prism ............. 23 
+
+8-3 . Other Meaeums ... .......... 245 
+
+Sample Questtom for Chapter 6 .......... 252 
+
+
+NOTE TO TFACHERS 
+
+I Based on the teaching experience of nearly 200 junior 
+
+thigh school teachere In all parta of the country and the estimates!of' the authors of the revision ( including junior high school 
+
+teachem), it is recommended that teaching time for Part 1, be 
+
+as follows : 
+
+Chapter Approximate number 
+
+of days 
+
+7 
+
+15 
+
+14 
+
+15 
+
+12 
+
+17 
+
+13 
+
+13 
+
+Total 106 
+
+Teachers are urged to trg not to exceed theae approximate 
+time allotments so that pupile will not miss the chapters at the 
+end of the courae, Some classes will be able to finish certain 
+chaptere Ln leas than the estimated time. 
+Throughout the text, problems, topics and section8 which 
+were designed for the better students are indicated by an 
+aaterisk (*) . Items starred in thla mer should be used or 
+omitted aa a means of adjusting the approximate time schedule. 
+
+

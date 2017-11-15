@@ -1,0 +1,665 @@
+
+Chapter 1 
+1Part 1 
+Introduction 
+ICT in primary and post-primary education in Ireland 
+Chapter 1 
+1Part 1 
+Introduction 
+
+ICT in Schools • Part 1 Introduction ICT in Schools • Part 1 Introduction 
+1.1 Introduction 
+Information and communications technology (ICT) is an accepted element in all our lives and has a 
+central role to play in education. Since the appearance of the first Government policy on ICT in 
+education in 1997, a substantial investment has been made in ICT facilities and training in Irish 
+schools. In Ireland, as in other countries, the debate about ICT in education concentrates on the 
+potential impact of ICT on teaching and learning and on the measures that need to be adopted to 
+ensure that the potential of ICT to enrich students’ learning experience is realised. 
+
+This Inspectorate report presents the findings of a major evaluation of the impact of ICT on teaching 
+and learning in both primary and post-primary schools in Ireland. The evaluation set out to establish 
+the extent to which ICT was used in the schools at both levels and, more importantly, to assess the 
+impact ICT had on teaching and learning, including the ways in which ICT is used to facilitate the 
+learning of students with special educational needs. The views of principals and teachers about their 
+own ICT skills, and their opinions about the impact and future role of ICT in education, were sought 
+during the evaluation. 
+
+This chapter examines the background to the provision of ICT in Irish schools. It first seeks to place 
+the development of ICT in education in the wider social and economic context. The policy context 
+for the development of ICT in schools is then considered. The findings of the census of ICT 
+
+2 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+infrastructure (2005) carried out by the National Centre for Technology in Education (NCTE) are then 
+reviewed. 
+
+1.2 Background 
+As the OECD has pointed out, ICT is now ubiquitous in the modern world (OECD, 2001). The OECD 
+has reported that, in the twenty-one OECD countries for which data was available, employment in 
+the ICT industry represented about 6.6% of total business employment (OECD, 2003). This 
+translated into more than 16 million people employed in the industry. The European Union 
+accounted for more than a third of this figure. 
+
+The same OECD report noted that average employment growth in the ICT industry over the 
+previous five years had been more than 4.3% annually, a figure that was more than three times that 
+of business in general. A more recent and even more dramatic indicator of the growth in ICT, 
+published by the OECD in 2006, shows an increase in broadband penetration of 33% in the OECD 
+between June 2005 and June 2006 (OECD, 2006b). Similar statistics could be quoted for numerous 
+indicators of the growth in ICT around the world. Such statistics provide irrefutable proof of the 
+extent to which ICT is becoming an increasingly integral part of modern society, with ICT 
+competence becoming increasingly important for effective participation in social and economic 
+activity. 
+
+In Ireland, no less than in other OECD countries, the impact of ICT on business and society generally 
+has increased dramatically in recent years. In many respects Ireland has been a leader in the 
+adoption of the technology and in capitalising on its potential to develop our economy. For 
+example, in 2003 Ireland was the leading exporter of computer software, while, according to 
+Eurostat, a third of all personal computers sold in Europe are manufactured in Ireland2. However, not 
+all the indicators of progress towards a knowledge economy are as positive. The 2006 OECD report 
+referred to above showed that Ireland was 24th out of 30 OECD countries in broadband 
+penetration. It is clear that, at least in certain areas, Ireland still has some way to go to be a leader in 
+the field of ICT. 
+
+The increasing permeation of ICT in all aspects of modern life has led to the concept of a 
+“knowledge-based society,” one aspect of which is the knowledge-based economy3. It is now 
+widely accepted that the future prosperity of the country is predicated on our ability to develop a 
+knowledge-based economy. Arising from the Lisbon agenda4, the development of such an economy 
+is the stated aim of the Government. The Technology Foresight Reports recommended that the 
+Government establish a major fund to develop Ireland as a centre for world-class research excellence 
+in ICT and biotechnology (Irish Council for Science Technology and Innovation, 1999). As part of its 
+
+2 Statistical Office of the European Communities. 
+3 It [a knowledge-based economy] may be defined as an economy in which the generation and the exploitation of knowledge has 
+
+come to play the predominant part in the creation of wealth. (Accenture, 2004) 
+4 
+
+The European Council of Heads of State and Governments held in Lisbon in 2000 set as a strategic goal that the European Union 
+should become the world’s most competitive and dynamic knowledge-based economy by 2010. The programme of reforms intended 
+to implement this goal is referred to as the Lisbon Agenda or the Lisbon Process. 
+
+3 
+
+
+
+ICT in Schools • Part 1 Introduction 
+response, the Government initiated the Technology Foresight Fund of more than €700 million in 
+2000. Science Foundation Ireland (SFI) was created to administer this fund, first as a sub-group 
+within Forfás5 and subsequently on a statutory basis. In its Strategy for Science, Technology and 
+Innovation, 2006–2013, published in June 2006 (p.8), the Government committed itself to building 
+on the achievements of SFI over the previous six years and reiterated its vision for the development 
+of Ireland as a knowledge-based economy (Department of Enterprise Trade and Employment, 2006). 
+
+Ireland by 2013 will be internationally renowned for the excellence of its research, and will be to the 
+forefront in generating and using new knowledge for economic and social progress, within an innovation 
+driven culture. 
+
+This commitment was reiterated in the current social partnership agreement, Towards 2016 
+(Department of the Taoiseach, 2006). In the section on education and training (p.31), one of the 
+specific short-term commitments within the first phase is that “all children will have the opportunity 
+to become ICT literate by completion of second level.” This commitment to the development of ICT 
+underlines an appreciation of the fundamental role played by ICT in a knowledge-based economy. 
+
+The critical sector which underpins and enables the transition to a knowledge-based economy is the ICT 
+sector which provides the ability to create, store and distribute knowledge more cheaply than ever in 
+human history. The ICT sector essentially enables the existence and growth of the knowledge-based 
+economy (Accenture, 2004). 
+
+The world of education has not been immune to the development of ICT. As Michael Kompf (2005), 
+in a review of a number of books on the subject, notes, “each author assumes ICT as a permanent 
+feature in the landscape of teaching and learning”. The “ICT and education” page of the SURF6 
+web site takes this a step further when it says that 
+
+It is no longer possible nowadays to conceive of education without information and communications 
+technology (ICT). One can go even further by pointing out that education is increasingly being defined by 
+ICT. 
+
+Much has been achieved in recent years in developing the ICT infrastructure in schools. This 
+infrastructural development has required significant levels of investment, primarily by the State but 
+also by individual schools and institutions. Given the level of investment of both time and finance, as 
+described in this report, the need for a thorough evaluation of the impact of ICT in schools was 
+clear. 
+
+As pointed out by the OECD (2001) and others, there are three main rationales for promoting the 
+use of ICT in schools, namely the economic, the social, and the pedagogical. These, of course, are 
+not mutually exclusive. The first two derive directly from the proliferation of ICT in the modern 
+world, referred to earlier. As described above, the economic imperative for promoting ICT in schools 
+is well recognised in Ireland, as it is in other developed countries. The National Competitiveness 
+
+5 Forfás is the national policy and advisory board for enterprise, trade, science, technology, and innovation. It operates under the 
+auspices of the Department of Enterprise, Trade and Employment. 
+
+6 
+
+SURF is the Dutch higher education and research partnership organisation for network services and for information and 
+communications technology. 
+
+4 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+Council7, in its Annual Competitiveness Report for 2006, comments that “better use of ICT has 
+been identified as one of the key factors required to improve Ireland’s productivity performance.” 
+The report went on to point out that, while Ireland’s expenditure per capita on ICT was slightly 
+above the EU 15 average, Ireland ranked ninth of the EU 15 countries in expenditure per capita on 
+ICT. 
+
+While funding for research has increased dramatically in recent years, the Expert Group on Future 
+Skills Needs (EGFSN) continues to warn of shortfalls in the output of graduates in ICT. A submission 
+to the Minister for Enterprise, Trade and Employment in October 2005 by the EGFSN and Forfás 
+notes that “existing EGFSN forecasts suggest that there will be significant shortages of graduates 
+with ICT backgrounds in the period up to 2010” (Forfás, 2005). 
+
+Though ICT is a vital sector of the economy, requiring highly skilled professionals, it nevertheless 
+represents only a relatively small fraction of total employment. However, in the knowledge economy, 
+as it is now and more so as it will be in the future, ICT competence is a prerequisite for employees in 
+virtually every area. Furthermore, the need for a facility with ICT is not confined to the work 
+environment but increasingly permeates all aspects of everyday life, including home and leisure. The 
+social imperative for promoting ICT in schools, therefore, is clear: if students are to be prepared to 
+lead fulfilled and productive lives in a knowledge-based society they should be ICT-competent on 
+leaving the school system. 
+
+The pedagogical rationale for promoting ICT in schools is concerned with the use of ICT in teaching 
+and learning. It is intimately related, therefore, to the economic and social rationales, but ICT also 
+has additional application in the teaching and learning process. It provides teachers with a range of 
+new tools to facilitate traditional pedagogies; it also and perhaps more importantly, presents the 
+teacher with the potential to develop new teaching methods. For the student growing up in a 
+culture of all-pervasive technology, ICT provides new, and more exciting and relevant, learning 
+opportunities. 
+
+In 2002 a report by the Information Society Commission (ISC) noted that, compared with major 
+competitors, Ireland lagged some distance in the application of ICT in education (Information 
+Society Commission, 2002).8 The report recommended that basic ICT skills should, as far as possible, 
+become a core component of mainstream education. The ISC made a number of recommendations 
+to the Government, including: 
+• priority for capital investment in ICT in schools 
+• a commitment to establishing broadband connectivity for schools and other centres of learning 
+• provision of technical support for the education system 
+• integration of ICT in the curriculum 
+• a review of ICT in teacher education, both pre-service and in-service. 
+
+7 The National Competitiveness Council was established in 1997 as a social partnership body and reports to the Taoiseach on 
+competitiveness issues facing the economy. 
+
+8 
+
+The Information Society Commission was an independent advisory body to the Government, reporting directly to the Taoiseach. The 
+last commission served from November 2001 to December 2004. 
+
+5 
+
+
+
+ICT in Schools • Part 1 Introduction 
+Developing an education system responsive to the demands of a knowledge-based society presents 
+challenges for all the participants in education. Not the least of these challenges is the need for 
+significant additional funding to provide the necessary infrastructure to facilitate the development of 
+ICT in the classroom. The technical support and maintenance of this infrastructure, when it exists, is 
+also a challenge and is an issue for many schools (as discussed in later chapters of this report). As 
+noted above, ICT provides teachers with opportunities to develop new teaching methods. However, 
+to realise the potential of ICT to expand their methodological repertoire, most teachers require 
+continuing professional development and support in the use of the relevant technologies. Teachers 
+in specific subject areas also require support in responding to the demands presented by the 
+inclusion of ICT in revised syllabuses. At the school level the integration of ICT in teaching and 
+learning puts additional demands on timetabling as schools expand their curriculum to include 
+dedicated ICT lessons, particularly at the post-primary level, while ensuring equitable access to ICT 
+facilities for students in the context of subject-specific requirements. 
+
+1.3 ICT policy and investment in education 
+The importance of developing ICT in education and responding to the challenges outlined in the 
+previous section has been recognised by the Government for more than a decade. The White Paper 
+on education Charting Our Education Future (1995) stated as one of the objectives of the junior 
+cycle curriculum that “all students . . . will have achieved . . . competence and understanding in 
+practical skills, including computer literacy and information technology.” In 1997 the Government 
+published its first policy document on ICT in education, entitled Schools IT 2000. The publication of 
+this policy document led in 1998 to the introduction of the ICT in Schools Initiative. This initiative 
+established the basis for the development of ICT in the education system. 
+
+1.3.1 Policy for ICT in education 
+In 1998 the National Centre for Technology in Education (NCTE) was established, with a brief to 
+implement the Schools IT 2000 initiative. The NCTE’s brief also included the development of ICT 
+policy proposals and the provision of ICT policy advice to the Department of Education and Science. 
+
+The Schools IT 2000 initiative had three major strands: 
+• the Technology Integration Initiative 
+• the Teaching Skills Initiative 
+• the Schools Support Initiative, including 
+
+—the Schools Integration Project (SIP) 
+
+—Scoilnet. 
+
+The role of ICT in supporting children with special educational needs was a feature of all the IT 2000 
+initiatives. 
+
+6 
+
+
+
+ICT in primary and post-primary education Chapter 1 ICT in primary and post-primary education Chapter 1 
+The Technology Integration Initiative was designed to support schools in developing their ICT 
+infrastructure. Schools received grants for the purchase of computer hardware, and those schools 
+that did not already have an internet connection were assisted in getting on line. (See section 1.3.3.) 
+The aim of the Technology Integration Initiative was to have at least 60,000 computers in schools by 
+the end of 2001. In the following year the NCTE census reported that there were some 84,000 
+computers in Irish schools. 
+
+The Teaching Skills Initiative recognised that there was little point in putting computers in schools 
+unless teachers were trained in their use. This initiative provided for teacher training in three distinct 
+areas, namely ICT skills and awareness, professional skills development in ICT, and pedagogical skills 
+development. 
+
+The Schools Integration Project dealt with whole-school development and investigated a range of 
+teaching and learning topics with regard to ICT integration. Approximately ninety pilot projects were 
+established in a number of “lead” schools, which worked in partnership with education centres, 
+businesses, industry, third-level institutions, and the community. Most of the individual projects 
+implemented as part of the SIP concluded in 2001 and 2002, and the remainder were completed in 
+2004. 
+
+The Scoilnet initiative is responsible for the promotion and use of the internet and ICT in education. 
+The main emphasis of this initiative is on the development of the Scoilnet web site (www.scoilnet.ie) 
+
+7 
+
+
+
+ICT in Schools • Part 1 Introduction 
+as a resource for teachers and students. Resource materials for the web site are reviewed by a panel 
+of subject experts, thus ensuring their appropriateness for use in Irish classrooms. The Scoilnet web 
+site is the Department of Education and Science’s official portal for Irish education. The Scoilnet 
+initiative is also responsible for the development and maintenance of the NCTE web site, which 
+provides comprehensive advice and support on all aspects of ICT in education as well as serving as a 
+notice-board for the NCTE’s activities. 
+
+Schools IT 2000 envisaged that ICT advisors would be appointed in education centres to support the 
+work of the NCTE by providing leadership, training and support, including on-line support, at the 
+regional level and by providing regular feedback on progress and issues arising. Ultimately some 
+twenty ICT advisors (later increased to twenty-one)—one in each of the full-time education 
+centres—were appointed. The main role of these advisors may be summarised as follows: 
+• to advise and support teachers in their region in integrating ICT in their teaching and in their 
+
+students’ learning 
+• to build a knowledge base on all matters relating to the use of ICT in their local schools. 
+
+A report on the implementation of Schools IT 2000 published in 2001 revealed a high level of 
+satisfaction with the initiatives implemented under IT 2000 (National Policy Advisory and 
+Development Committee)9. The report, however, identified three issues of concern: 
+• the need for more training for teachers 
+• the need for more funding (equipment and computers, maintenance, support) 
+• the need for more support (technical support, encouragement to use ICT). 
+
+Based on its findings, the committee made recommendations covering a range of areas, including 
+policy, funding, the professional development of teachers, pre-service teacher education, 
+infrastructure, and technical support. 
+
+In 2001 the Government launched its second policy document on ICT in education, A Blueprint for 
+the Future of ICT in Irish Education. This was a three-year strategic plan designed to support the 
+continuation of the main initiatives begun under IT 2000 and to build on the progress achieved 
+under that plan. The main objectives of the Blueprint policy were to: 
+• expand ICT capital provision to schools 
+• increase access to, and the use of, internet technologies 
+• further integrate ICT in teaching and learning 
+• enhance professional development opportunities for teachers. 
+
+While support for children with special educational needs was a feature of all earlier initiatives under 
+IT 2000, the Blueprint gave priority to provision for these students. A further focus of the Blueprint 
+was planning for ICT at the school level. Arising from this focus, the NCTE in 2002 published a 
+planning pack entitled ICT Planning and Advice for Schools. This pack was designed to facilitate 
+
+9 
+
+The National Policy Advisory and Development Committee (NPADC) was set up in 1998 under Schools IT 2000 to assist the NCTE in 
+its work. The committee included representation from the education and social partners. 
+
+8 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+schools in developing ICT plans to meet the infrastructural and other ICT-related needs of their 
+individual schools. 
+
+1.3.2 ICT in the curriculum 
+The revised Primary School Curriculum was launched in 1999. The introduction to the curriculum 
+states: 
+
+Technological skills are increasingly important for advancement in education, work, and leisure. The 
+curriculum integrates ICT into the teaching and learning process and provides children with opportunities 
+to use modern technology to enhance their learning in all subjects (Department of Education and 
+Science, 1999, p. 29). 
+
+As this statement suggests, ICT in the primary curriculum is seen primarily as a tool for facilitating 
+teaching and learning throughout the curriculum, rather than as a subject in its own right. The 
+teacher guidelines that accompany the curriculum document for each area provide detailed 
+suggestions on how ICT can be used to best effect in the teaching and learning of the particular 
+subject. Thus, for example, the teacher guidelines for English open the section on ICT with the 
+statement: 
+
+Computers and other items of information and communication technologies enrich the teaching and 
+learning of language considerably. The following are among some of the ways in which they may be 
+used. 
+
+The guidelines then go on to list some eight ways in which ICT might be used, from CD-based 
+reference materials to the internet and e-mail. In 2004 the National Council for Curriculum and 
+Assessment (NCCA) completed a comprehensive set of guidelines for teachers on the use of ICT 
+(National Council for Curriculum and Assessment, 2004a). These guidelines were designed to 
+complement the teacher guidelines provided with the different subjects in the Primary School 
+Curriculum while reflecting developments in ICT since the launch of the curriculum five years earlier. 
+In a discussion document published in the same year the NCCA set out seven key principles for 
+guiding learners’ use of ICT (National Council for Curriculum and Assessment, 2004b, pp. 31-34), 
+which adds value to the curriculum when it facilitates: 
+• students’ active involvement in their own learning 
+• the development of students’ higher-order thinking skills 
+• students’ learning in authentic environments 
+• students’ interest and engagement in learning 
+• differentiated learning for all students 
+• collaborative learning 
+• assessment of and for learning. 
+
+At the post-primary level, computers were first introduced as a course of study to the curriculum in 
+1980, when an optional computer studies module was included in the Leaving Certificate 
+
+9 
+
+
+
+ICT in Schools • Part 1 Introduction 
+Mathematics syllabus. Schools are required to develop their own syllabus for this option within 
+broad parameters laid down by the DES (Department of Education and Science, 2006). The module 
+is not examinable, but students who complete it satisfactorily are issued with a certificate by the 
+DES. While only minor modifications have been made to the published course parameters since its 
+introduction in 1980, anecdotal evidence suggests that the emphasis in those schools that continue 
+to provide the module has shifted significantly towards the development of skills in such areas as 
+word-processing and spreadsheets. 
+
+When the Leaving Certificate computer studies module was introduced in 1980 it was intended that 
+this would be a first step in the development of computer studies in the post-primary curriculum. In 
+1985 a computer studies course was introduced in the junior cycle. Unlike the senior-cycle module, 
+no certification is provided for those who complete this course. The national survey of school 
+principals reported that only 13% of them were providing this course. (See chapter 6.) 
+
+Neither of the computer studies courses has been revised since their introduction, nor has there 
+been any further development of computer studies courses, as such, as part of the curriculum in 
+either the junior or the senior cycle. However, in the LCA programme there are two courses in 
+information and communications technology. All students in the programme must complete a two-
+module course entitled Introduction to Information and Communications. In addition they may 
+choose, as one of their vocational specialisms, a four-module course in information and 
+communications technology. Like all the vocational specialisms, this latter course is assessed in a 
+written examination at the end of year 2. In 2007 this examination was taken by some 1,155 
+candidates, or 38% of the Leaving Certificate examination candidates who had followed the LCA 
+programme. 
+
+While the computer studies modules introduced in the 1980s were seen as independent subjects, 
+with an emphasis on computer programming, more recent trends have concentrated on the cross-
+curricular applications of ICT. Many of the revised syllabuses introduced in recent years have 
+included references to the relevant applications of ICT in the subject area as well as to the more 
+general applications of ICT to teaching and learning. For example, the teacher guidelines that 
+accompany the revised Junior Certificate Science syllabus, introduced in 2003, have a section on 
+“Using ICT in the teaching and learning of Science.” At the Leaving Certificate level one of the 
+stated aims of the Geography syllabus, introduced in 2004, is “to encourage the use of information 
+and communication technology in the teaching and learning of Geography.” This syllabus also 
+contains several other references to specific uses of ICT in the teaching and learning of the subject. 
+In the LCVP, in addition to the use of ICT in specific subject areas, students are required to use ICT in 
+the preparation and presentation of their portfolios. In Transition Year, many schools provide courses 
+in ICT-related areas; these include such courses as “Computer Science”, “Computer Applications” 
+and “Information Technology”. 
+
+10 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+As part of its work on the place of ICT in the post-primary curriculum, the National Council for 
+Curriculum and Assessment commissioned research in the area. This resulted in two research reports 
+being presented to the NCCA by the University of Limerick. The first study found that there was 
+overwhelming support from both the education system and industry for the introduction of a 
+computer-based subject to the Established Leaving Certificate programme (O'Doherty et al., 2000). 
+The primary reason put forward by respondents for introducing such a subject was the promotion of 
+“computer literacy.” The second study investigated the preferred nature of an ICT-related subject in 
+more depth (O'Doherty, et al., 2001). This study reported general agreement on the need to 
+introduce provision for “computer literacy” for all students as the first priority. However, there was 
+no agreement on how best this might be achieved. The findings of the University of Limerick study 
+were discussed at length by NCCA committees. The principal reasons for not proceeding with the 
+development of a discrete Leaving Certificate subject were concerned with the inequalities likely to 
+emanate from such a decision. Committees agreed that equity of access for all students would be 
+compromised, as a discrete subject would, of necessity, be optional. 
+
+The NCCA has now adopted a twin-track approach to promoting ICT in the curriculum. Firstly, it 
+aims to facilitate the development of students’ competence in using ICT through its inclusion in 
+revised syllabuses and in teacher guidelines. For example, ICT features significantly in the revised 
+Leaving Certificate Design and Communications Graphics syllabus and also in its assessment. It also 
+arises as a focus of learning in the core of the new LC Technology syllabus. Secondly, the NCCA 
+aims to promote ICT as a resource for teaching and learning throughout the curriculum. It is now 
+developing a “Framework for ICT in Curriculum and Assessment” for primary schools and for the 
+junior cycle of post-primary schools. The ICT framework is not designed as a course in ICT but 
+instead is intended to be a cross-curricular support for schools and teachers in developing their 
+students’ competence in ICT. It is presented in four inter-related areas of learning, encompassing 
+such attributes as basic knowledge and skills, communication, collaboration, and critical thinking 
+and creativity. The framework is at present being tested in a number of schools, with resources and 
+training being provided. It is hoped to have the framework and support materials ready for use in 
+schools in September 2008. 
+
+1.3.3 Investment in ICT in education 
+Since the introduction of the ICT in Schools Initiative in 1998 the Government has made a 
+substantial investment in the integration of ICT in teaching and learning. As manifested in the NCTE 
+census described later in this chapter, this investment has resulted in significant progress in the 
+development of ICT infrastructure in schools. 
+
+Each of the policy initiatives described in the previous section was supported by substantial funding. 
+The details of this funding are summarised in table 1.1. 
+
+11 
+
+
+
+ICT in Schools • Part 1 Introduction 
+Table 1.1: Funding of ICT in education policy initiatives 
+
+Initiative Year begun Funding 
+Schools IT 2000: A Policy Framework for the New Millennium 1998 €52 million 
+Blueprint for the Future of ICT in Irish Schools 2001 €78 million 
+Networking Schools 2004 €23 million10 
+Schools Broadband Programme 2005 €30 million11 
+
+From the 2005/06 school year schools are being provided with broadband internet access as part of 
+a joint project between the Government and the Telecommunications and Internet Federation of the 
+Irish Business and Employers' Confederation. The local schools connectivity is being provided by 
+means of a Schools National Broadband Network. This network and the support services to schools 
+are managed by the National Centre for Technology in Education and supported by HEAnet. The 
+total costs of the Schools Broadband Programme, including the initial set-up and continuing costs to 
+June 2008, are estimated to amount to approximately €30 million. 
+
+1.4 ICT infrastructure census in schools (2005) 
+Beginning in 1998, the NCTE conducted a number of censuses of ICT infrastructure in schools. The 
+most recent of these, the fourth since 1998, was carried out in May and June 2005. The previous 
+census was carried out in 2002. The report of the 2005 census gives a valuable insight into the 
+development of the ICT infrastructure in schools at both primary and post-primary level (Shiel & 
+O’Flaherty, 2006). In so doing it presents an overview of the results of Government investment in 
+ICT while at the same time providing an indication of the need for further investment in the future. 
+The census report provides a comprehensive overview of the ICT infrastructure in schools. The 
+remainder of this section gives a summary of the salient features of the report. 
+
+1.4.1 Computers in schools 
+The NCTE census (2005) shows that since the previous census (2002) there was an increase of 
+approximately 15% in the number of computers in schools. Allowing for schools that did not 
+respond to the census, the total number of working computers in schools was estimated to be 
+97,709. These were approximately equally divided between primary and post-primary schools. 
+However, as there are almost four-and-a-half times as many primary schools as post-primary schools, 
+the number of computers per school is correspondingly lower at primary level. 
+
+The census also collected data on the location of computers in schools. In primary schools and 
+special schools approximately half the computers are in general classrooms. In post-primary schools 
+only 4% of computers are in general classrooms; in those schools almost 60% of computers are in 
+
+10 Expenditure to August 2007. 
+11 Estimated cost of set-up and continuing costs to June 2008. 
+
+12 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+computer rooms. Computers at post-primary level were also found in a range of specialist rooms, 
+such as science laboratories and technology rooms. The low penetration of computers in general 
+classrooms at post-primary level was commented on in the evaluation reports provided by 
+inspectors. (This is discussed in chapter 6.) 
+
+Rather than the number of computers per school, a more appropriate indicator of the penetration 
+of the technology in schools is the student-computer ratio (SCR).12 The SCR in 2005 for the three 
+school sectors – primary, post-primary, and special schools – is shown in table 1.2. The table also 
+shows the corresponding figures from the previous two censuses, in 2002 and 2000. It is clear from 
+table 1.2 that there has been a significant improvement in the SCR over the past five years, 
+particularly at primary level. At post-primary level the improvement is less marked, though still 
+significant. 
+
+Table 1.2: Student-computer ratio (SCR) in each school sector in given years 
+
+Primary Post-primary Special 
+2005 
+
+9.1 
+
+7.0 
+
+3.1 
+
+2002 
+
+11.3 
+
+7.4 
+
+3.8 
+
+2000 
+
+16.3 
+
+10.9 
+
+5.7 
+
+While the improvement in the SCR is welcome, the ratio is still substantially below international 
+standards. For example, in 2003 the Organisation for Economic Co-operation and Development 
+(OECD) Programme for International Student Assessment (PISA) gathered data on the numbers of 
+computers in schools.13 At that time the OECD calculated a SCR for post-primary schools in Ireland 
+of 9:1. This compared with an OECD average of 6:1. The SCR for the United States was 3:1, while 
+for a number of other countries, including Hungary and (South) Korea, it was 4:1. As can be seen 
+from table 1.2, the SCR at post-primary level in Ireland was estimated to be 7:1 in 2005. However, 
+this is still approximately twice what it was two years earlier in the other countries mentioned, and it 
+is likely that those countries will also have shown improvements in the interim. 
+
+As noted above, the stock of working computers in schools has increased significantly in recent 
+years. However, this technology is changing rapidly, and what was considered “state of the art” in 
+2000 is now of limited value for running modern software. The NCTE report shows that in primary 
+schools almost 29% of computers are more than six years old. The corresponding figures for post-
+primary and special schools are 19% and 21%, respectively. While these computers may be 
+adequate for basic tasks, such as word-processing, they are not capable of running much modern 
+software, and as computers age they become prone to technical problems. 
+
+12 The student-computer ratio (SCR) is the number of students enrolled in a school divided by the number of computers in the school. 
+See note 19 (chapter 2) for further details. 
+
+13 PISA is administered to fifteen-year-old pupils, and therefore the data refers to post-primary schools. 
+
+13 
+
+
+
+ICT in Schools • Part 1 Introduction ICT in Schools • Part 1 Introduction 
+1.4.2 Other ICT equipment in schools 
+The NCTE census gathered data on other aspects of schools’ ICT infrastructure as well as computers. 
+The most commonly found ICT equipment after the computer was a scanner. This equipment was 
+found in more than 80% of schools across all sectors, with close to 90% of post-primary schools 
+reporting having a scanner. The next most commonly found items of equipment across all sectors 
+were printers and digital (still) cameras. While printers were commonly found across all sectors laser 
+printers were much more common in post-primary schools, with almost 90% of those schools 
+having a laser printer, compared with 38% of primary schools. 
+
+Post-primary schools were also better equipped in a number of other areas. Not surprisingly, very 
+few primary or special schools had a data-logger, while almost half the post-primary schools had this 
+equipment. Perhaps more notable is the discrepancy in the availability of data projectors, particularly 
+fixed data projectors, as illustrated in table 1.3. It is also worth noting the low penetration of 
+interactive whiteboards. Only 5% of post-primary schools had an interactive whiteboard, while the 
+corresponding figures for special schools and primary schools were 3% and 2%, respectively. 
+
+Table 1.3: Proportion of schools having at least one fixed and one mobile data projector 
+
+Primary schools Post-primary schools Special schools 
+Mobile data projector 31% 78% 28% 
+Fixed data projector 6% 51% 5% 
+
+14 
+
+
+
+ICT in primary and post-primary education Chapter 1 
+In relation to special-needs provision, the report shows that, outside of the special schools, there is 
+relatively little provision of assistive technology devices. For example, “other computer control 
+devices (e.g. touch-screens, alternative mice and keyboards)” were reported in only 13% of schools 
+at both primary and post-primary level, compared with 55% of special schools. That such devices 
+are more commonly found in special schools is not, of course, a surprise. 
+
+While the NCTE report does show a low penetration of some ICTs relative to other countries, as 
+discussed above, it also shows that, in relation to at least some of the technologies, there have been 
+significant improvements since 2002. For example, the proportion of primary schools that have at 
+least one data projector, either fixed or mobile, more than doubled, from 16.5% in 2002 to 36.4% 
+in 2005. A similar increase was reported in special schools: from 13.3% in 2002 to 30.4% in 2005. 
+The increase in post-primary schools was much less marked, primarily because most of these schools 
+(84%) already had a data projector in 2002. In 2005 some 93% of post-primary schools had a least 
+one data projector. 
+
+In contrast to the increasing prevalence of data projectors the change in the adoption of interactive 
+whiteboards has been very slow. This technology was reported in about 2% of primary schools and 
+5% of post-primary schools in both 2002 and 2005. By contrast, a survey by the Department for 
+Education and Skills in England in 2004 estimated that 63% of primary schools had interactive 
+whiteboards, while the corresponding figure in secondary schools was 92%. 
+
+1.4.3 Expenditure on ICT and technical support 
+As referred to earlier in this chapter, the DES has provided financial support to schools for 
+developing their infrastructure. The NCTE census sought to establish the level of expenditure by 
+schools in addition to grants received from the Department. The response rate to the questions 
+relating to expenditure by schools was relatively low, with the proportion of non-respondents 
+ranging from 20% to 45%. As the report suggests, data on schools’ expenditure must therefore be 
+interpreted with caution. 
+
+For schools that did respond to the relevant question, the average additional expenditure on ICT in 
+the previous full financial year was €2,129 per school for primary schools, €11,583 for post-primary 
+schools, and €5,679 for special schools. 
+
+In relation to technical support, the average amount spent by responding schools was €741 for 
+primary schools, €3,765 for post-primary schools, and €1,239 for special schools. As the report 
+notes, approximately one-third of spending on ICTs was allocated to technical support at primary 
+and post-primary level and about one-fifth in special schools. 
+
+15 
+
+
+
+ICT in Schools • Part 1 Introduction 
+1.4.4 Other areas covered in the census 
+Other areas examined in the NCTE census included networking, ICT planning, the professional 
+development of staff members, the certification of students, technical support and maintenance, 
+and use of the internet. 
+
+1.5 Summary 
+That ICT should be an integral part of the education system is no longer a matter for debate. 
+Students must be provided with the opportunity to develop the competence required to equip them 
+for life in a knowledge-based society, while teachers cannot afford to ignore the potential of ICT for 
+enhancing teaching and learning in their classrooms. Yet achieving an appropriate level of 
+integration of ICT in teaching and learning presents a number of challenges. These range from the 
+provision of the necessary physical resources to issues of curriculum development and assessment 
+and the professional development of teachers. The remainder of this report describes the current 
+stage of development of ICT in primary and post-primary schools. It presents examples of good 
+practice as well as areas of concern and provides a series of recommendations for policy-makers and 
+schools that, if implemented, would serve to enhance the learning experience of the young people 
+in our schools. 
+
+16 
+
+
+

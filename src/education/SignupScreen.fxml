@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.ControllerSignup">
+    <children>
+      <ImageView fitHeight="726.0" fitWidth="1080.0" layoutY="-6.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+        <Label layoutX="401.0" layoutY="40.0" prefHeight="126.0" prefWidth="279.0" text="Sign Up" textFill="#eeeeee">
+            <font>
+                <Font name="Comic Sans MS" size="74.0" />
+            </font>
+        </Label>
+        <TextField fx:id="fullnameTextfield" layoutX="586.0" layoutY="266.0" prefHeight="47.0" prefWidth="220.0" promptText="Type full name here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="17.0" />
+            </font>
+        </TextField>
+        <TextField fx:id="userTextfield" layoutX="588.0" layoutY="342.0" prefHeight="47.0" prefWidth="220.0" promptText="Type username here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="17.0" />
+            </font></TextField>
+        <PasswordField fx:id="passTextField" layoutX="586.0" layoutY="416.0" onAction="#setDoesntMatchVisibility" onDragDetected="#setDoesntMatchVisibility" prefHeight="47.0" prefWidth="220.0" promptText="Type password here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="17.0" />
+            </font></PasswordField>
+        <PasswordField fx:id="confirmPassTextField" layoutX="588.0" layoutY="491.0" onAction="#setDoesntMatchVisibility" onDragDetected="#setDoesntMatchVisibility" prefHeight="47.0" prefWidth="220.0" promptText="Retype password here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="17.0" />
+            </font></PasswordField>
+      <ComboBox fx:id="gradeCombobox" layoutX="586.0" layoutY="565.0" prefHeight="47.0" prefWidth="220.0" promptText="Grade" styleClass="combo-box-signup" stylesheets="@SubjectScreenStyle.css" />
+        <TextField fx:id="instituteTextField" layoutX="586.0" layoutY="633.0" prefHeight="47.0" prefWidth="220.0" promptText="Type institute here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="17.0" />
+            </font></TextField>
+        <Label layoutX="392.0" layoutY="342.0" prefHeight="47.0" prefWidth="172.0" text="Username:">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Label>
+        <Label layoutX="392.0" layoutY="416.0" prefHeight="47.0" prefWidth="172.0" text="Password:">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Label>
+        <Label layoutX="392.0" layoutY="491.0" prefHeight="47.0" prefWidth="172.0" text="Confirm password:">
+            <font>
+                <Font name="Comic Sans MS" size="20.0" />
+            </font>
+        </Label>
+        <Label layoutX="392.0" layoutY="565.0" prefHeight="47.0" prefWidth="172.0" text="Grade:">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Label>
+        <Label layoutX="392.0" layoutY="633.0" prefHeight="47.0" prefWidth="172.0" text="Institute:">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Label>
+      <Label fx:id="doesntMatch" layoutX="838.0" layoutY="491.0" prefHeight="47.0" prefWidth="127.0" text="Doesn't match!" textFill="RED" visible="false">
+         <font>
+            <Font name="Comic Sans MS" size="18.0" />
+         </font>
+      </Label>
+        <Button fx:id="backButton" focusTraversable="false" layoutY="92.0" mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/back1600.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="homeButton" focusTraversable="false" layoutX="963.0" layoutY="92.0" mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/home.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="submitButton" focusTraversable="false" layoutX="866.0" layoutY="628.0" mnemonicParsing="false" onAction="#submitButtonPressed" prefHeight="58.0" prefWidth="127.0" stylesheets="@Red%20Button%20Highlight.css" text="Submit" textFill="WHITE">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font></Button>
+        <Label layoutX="392.0" layoutY="266.0" prefHeight="47.0" prefWidth="172.0" text="Full Name:">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Label>
+      <ImageView fitHeight="188.0" fitWidth="188.0" layoutX="179.0" layoutY="9.0">
+         <image>
+            <Image url="@Assets/register.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="68.0" fitWidth="68.0" layoutX="268.0" layoutY="256.0">
+         <image>
+            <Image url="@Assets/name-card-icon.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="68.0" fitWidth="68.0" layoutX="268.0" layoutY="406.0">
+         <image>
+            <Image url="@Assets/download.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="68.0" fitWidth="68.0" layoutX="268.0" layoutY="474.0">
+         <image>
+            <Image url="@Assets/download.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="68.0" fitWidth="68.0" layoutX="268.0" layoutY="329.0">
+         <image>
+            <Image url="@Assets/vr.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="68.0" fitWidth="68.0" layoutX="268.0" layoutY="555.0">
+         <image>
+            <Image url="@Assets/4th-grade-icon.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="83.0" fitWidth="83.0" layoutX="268.0" layoutY="623.0">
+         <image>
+            <Image url="@Assets/institute.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="fillAllFields" layoutX="391.0" layoutY="209.0" prefHeight="47.0" prefWidth="300.0" text="Please fill out all the fields." textFill="RED" visible="false">
+         <font>
+            <Font name="Comic Sans MS" size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="tooSmall" layoutX="46.0" layoutY="431.0" prefHeight="47.0" prefWidth="220.0" text="Must be atleast 6 characters!" textFill="RED" visible="false">
+         <font>
+            <Font name="Comic Sans MS" size="15.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

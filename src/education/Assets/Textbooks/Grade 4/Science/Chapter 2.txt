@@ -1,0 +1,207 @@
+
+4.2.1 Atoms and Molecules 
+Develop models to show that molecules are made of different kinds, proportions and 
+quantities of atoms. Emphasize understanding that there are differences between atoms 
+and molecules, and that certain combinations of atoms form specific molecules. 
+Examples of simple molecules could include water (H2O), atmospheric oxygen (O2), and 
+carbon dioxide (CO2). 
+In this section focus on proportions and quantities. There are differences 
+between atoms and molecules. It is important to develop models that show 
+how different proportions and quantities of atoms form different molecules. 
+Atoms and Molecules 
+Everything you can see, touch, smell, feel, and taste is made of atoms. Atoms are the 
+basic building-block of all matter (including you and me, and everyone else you'll ever 
+meet), if we want to know about what something is made of, then we have to know a few 
+things about these incredibly small particles. 
+Smallest Building Blocks 
+Everyday experiences should convince you that matter is found in many forms, yet all 
+matter you have ever seen is made of atoms. Atoms are the smallest unit of matter. These 
+atoms combine to form molecules, which can be made up of the same or different types 
+of atoms. Molecules are formed when two or more atoms link up. For instance, a molecule 
+of oxygen that we breathe is made of two atoms of oxygen (O2). A molecule of water is 
+made of two atoms of hydrogen (H2) and one atom of oxygen (O). All water molecules 
+have the same ratio: two hydrogen to one oxygen (H2O). The figure on the right shows a 
+water molecule that has two hydrogen atoms (shown in gray) bonded to one oxygen atom 
+(shown in red). 
+To help develop your model of of atoms and molecules, think of interlocking building 
+blocks. Each block is individual with its own color, shape, and size like an atom. You can 
+combine these blocks together to form a simple structure like a molecule. 
+
+www.ck12.org 
+55 
+Two things are important to know about molecules: 
+. A molecule always has the same type of atoms in the same proportions. For 
+example, carbon dioxide always has two atoms of oxygen for each atom of carbon, 
+and water always has two atoms of hydrogen for each atom of oxygen. 
+. A pure substance always has the same composition throughout. For example, all 
+the water in the ocean has the same type and proportion of atoms. 
+Properties of Molecules 
+The properties of a molecule are different from the properties of the atoms that form them. 
+That’s because atoms in a molecule combine and become an entirely different substance 
+with its own unique properties. Do you put salt on your food? Table salt is the molecule 
+sodium chloride. A molecule of table salt, contains an atom of sodium and an atom of 
+chlorine. As shown in the figure below, sodium is a solid that reacts explosively with water, 
+and chlorine is a poisonous gas. But together in table salt, sodium and chlorine form a 
+harmless unreactive compound that you can safely eat. 
+Focus Questions 
+1. How would a model of an atom and molecule be different? 
+2. How would you model a carbon dioxide molecule that has one atom of carbon 
+and two atoms of oxygen (CO2)? 
+
+www.ck12.org 
+59 
+Gases have the following characteristics: 
+. No definite shape (takes the shape of its container) 
+. No definite volume 
+. Particles move in random motion with little or no attraction to each other 
+How tightly atoms and molecules are packed together is referred to as density. Solids are 
+denser than liquids. Liquids are denser than gases. 
+What Is Heat? 
+Heat is the transfer of thermal energy between substances. Thermal energy is the energy 
+causing the particles of matter to move. Temperature is the average measure of that 
+energy. Thermal energy always moves from matter with greater thermal energy to matter 
+with less thermal energy, so it moves from warmer to cooler substances. You can see 
+this in the figure below. 
+Faster-moving particles of the warmer substance bump into and transfer some of their 
+energy to slower-moving particles of the cooler substance. Thermal energy is transferred 
+in this way until both substances have the same thermal energy and temperature. 
+
+www.ck12.org 
+60 
+As thermal energy is transferred, materials expand as temperature increases. The density 
+of a substance is temperature dependent and usually decreases as temperature 
+increases. Density is an important physical property of matter. It reflects how closely 
+packed and the arrangement of particle in matter. For instance, a golf ball and a table 
+tennis ball are about the same size. However, the golf ball is much heavier than the table 
+tennis ball. Now imagine a similar size ball made out of lead. That would be very heavy 
+indeed! What are we comparing? By comparing the mass of an object relative to its size, 
+we are studying a property called density. Matter with less density will rise and matter 
+with greater density will sink. 
+How do you cool down a glass of room-temperature cola? You probably add ice cubes to 
+it, as in the figure to the right. You might think that the ice cools down the cola, but in fact, 
+it works the other way around. The warm cola heats up the ice. Thermal energy from the 
+warm cola is transferred to the much colder ice, causing it to melt. The cola loses thermal 
+energy in the process, so its temperature falls. 
+Changes in States of Matter 
+A change of state occurs whenever matter changes from one state to another, for 
+example a solid changing to a liquid. This change is an effect of energy being transferred 
+from one substance to another. Changes of state are physical changes, meaning they 
+are reversible changes and do not change how molecules are combined. For example, 
+when fog changes to water vapor, it is still water (H2O) and can change back to liquid 
+water again. Matter may change back and forth between these states. 
+As energy in a substance is transferred, it causes a change in its state. In the previous 
+example, ice was added to a cola. The energy was transferred from the warmer cola to 
+the cooler ice. This caused the ice to melt and change from a solid to a liquid. 
+Types of Phase Changes 
+Melting occurs when particles of a solid absorb enough energy to partly overcome the 
+force of attraction holding them together. This allows them to move out of their fixed 
+positions and slip over one another. The solid becomes a liquid. 
+The process in which water or any other liquid changes to a solid is called freezing. 
+Freezing occurs when a liquid cools to a point at which its particles no longer have enough 
+
+www.ck12.org 
+61 
+energy to overcome the force of attraction between them. Instead, the particles remain in 
+fixed positions, crowded closely together. 
+When air cools, it can hold less water vapor, so some of the water vapor in the air changed 
+to liquid water. The process in which water vapor—or another gas—changes to a liquid 
+is called condensation. Another common example of condensation is pictured in the figure 
+below. 
+This picture shows the contrail (condensation trail) left behind by a jet. Water vapor in its 
+exhaust gases condensed on dust particles in the air. 
+Evaporation is the process in which a liquid changes to a gas. It occurs when individual 
+liquid particles at the exposed surface of the liquid absorb just enough energy to 
+overcome the force of attraction with other liquid particles. If the surface particles are 
+moving in the right direction, they will pull away from the liquid and move into the air 
+becoming a gas. 
+Focus Questions: 
+1. Draw a model that shows the motion of particles in a solid, liquid and a gas. 
+2. What is the effect as heat energy is added to a bar of chocolate? 
+3. Ice floats in water. What does this tell us about the ice’s density? 
+
+www.ck12.org 
+64 
+6.2.3 Heat Energy 
+Plan and carry out an investigation to determine the relationship between temperature, 
+the amount of heat transferred, and the change of average particle motion in various types 
+or amounts of matter. Emphasize recording and evaluating data, and communicating the 
+results of the investigation. 
+In this section, focus on the relationship between heat transfer and the 
+average particle motion in matter. 
+Heat Energy and Particle Motion 
+When heat flows into an object, its thermal energy increases and so does its temperature. 
+The amount of temperature increase depends on three things: 1) how much heat was 
+added, 2) the size of the object, and 3) the material of which the object is made. 
+Thermal energy and temperature are closely related. Both reflect the amount of moving 
+particles of matter as energy. However, temperature is the average measure of that 
+energy, whereas thermal energy is the total energy within a system. Does this mean that 
+matter with a lower temperature has less thermal energy than matter with a higher 
+temperature? Not necessarily. Another factor also affects thermal energy. The other 
+factor is mass. 
+The soup is boiling hot and has a temperature of 100 °C, whereas the water in the tub is 
+just comfortably warm, with a temperature of about 38 °C. Although the water in the tub 
+has a much lower temperature, it has greater thermal energy. This is because 
+temperature is a measure of the average energy of the particles, rather than a measure 
+of the total energy. The particles of soup have a greater average energy than the particles 
+of water in the tub; the soup has a higher temperature. However, the mass of the water 
+in the tub is much greater than the mass of the soup in the pot. This means that there are 
+many more particles of water in the tub than particles in the soup. All those moving 
+
+www.ck12.org 
+68 
+6.2.4 Engineering Design 
+Design an object, tool, or process that minimizes or maximizes heat energy transfer. 
+Identify criteria and constraints, develop a prototype for iterative testing, analyze data 
+from testing, and propose modifications for optimizing the design solution. Emphasize 
+demonstrating how the structure of differing materials allows them to function as either 
+conductors or insulators. 
+Engineering uses scientific knowledge to solve human needs and 
+wants. In this section focus on how the structure of different materials 
+helps them function as conductors or insulators. 
+Engineering Design 
+The process of designing a new technology includes much more than just coming up with 
+a good idea. Possible limitations, or constraints, on the design must be taken into account. 
+These might include factors such as the cost or safety of the new product or process. 
+Making and testing a model of the design are also important. These steps ensure that the 
+design actually works to solve the problem. This process also gives the designer a chance 
+to find problems and modify the design if necessary. No solution is perfect, but testing 
+and refining a design assures that the technology will provide a workable solution to the 
+problem it is intended to solve. 
+Engineering design can be accomplished in many different ways. Some of the steps have 
+to be repeated, and the steps may not always be done in the same sequence, but there 
+are some basic steps to solving an engineering problem. First, an engineer defines the 
+problem that needs to be solved, and researches what criteria and constraints they will 
+need to consider. In order to generate many possible solutions, engineers brainstorming 
+Consider the problem of developing a solar-powered car. Many questions would have to 
+be researched in the design process. For example, what is the best shape for gathering 
+the sun’s rays? How will sunlight be converted to useable energy to run the car? Will a 
+back-up energy source be needed? After researching the answers, possible designs are 
+developed. This generally takes imagination as well as sound reasoning. Then a model 
+must be designed and tested. This allows any problems with the design to be worked out 
+before a final design is selected and produced. 
+Heat Energy Transfer: Thermal Conductors 
+Conduction is the transfer of thermal energy between particles of matter that are touching. 
+Thermal conduction occurs when particles of warmer matter bump into particles of cooler 
+matter and transfer some of their thermal energy to the cooler particles. Conduction is 
+usually faster in certain solids and liquids than in gases. Materials that are good 
+conductors of thermal energy are called thermal conductors. 
+
+www.ck12.org 
+69 
+Besides the heating element inside a toaster, another example of a thermal conductor is 
+a metal radiator, like the one in the figure below. When hot water flows through the coils 
+of the radiator, the metal quickly heats up by conduction and then radiates thermal energy 
+into the surrounding air. 
+Thermal Insulators 
+One way to retain your own thermal energy on a cold day is to wear clothes that trap air. 
+That’s because air, like other gases, is a poor conductor of thermal energy. The particles 
+of gases are relatively far apart, so they don’t bump into each other or into other things 
+as often as the more closely spaced particles of liquids or solids. Therefore, particles of 
+gases have fewer opportunities to transfer thermal energy. Materials that are poor thermal 
+conductors are called thermal insulators. Down-filled snowsuits, like those in the figure 
+below, are good thermal insulators because their feather filling traps a lot of air. 
+Another example of a thermal insulator is pictured in the figure below. The picture shows 
+fluffy pink insulation inside the attic of a home. Like the down filling in a snowsuit, the 
+
+www.ck12.org 
+75 

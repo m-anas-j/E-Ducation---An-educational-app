@@ -1,0 +1,1625 @@
+
+ICT and teaching and learning in primary schools 
+Chapter 5 
+107Part 3 
+ICT and teaching 
+and learning in 
+schools 
+ICT and teaching and learning in primary schools 
+Chapter 5 
+107Part 3 
+ICT and teaching 
+and learning in 
+schools 
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools ICT in Schools • Part 3 ICT and teaching and learning in schools 
+5.1 Introduction 
+This chapter deals with ICT and its contribution to teaching and learning in primary schools. It 
+examines how familiar teachers are with the relevant technology and its applications by looking at 
+their ICT qualifications and skills. The chapter then reviews the use of ICT in both mainstream and 
+special-education settings and its use in assessment, drawing on information collated from 127 
+classroom observations made by inspectors during WSE inspections, national questionnaire returns 
+made by principals, teachers and students, and inspectors’ reports on thirty-two case-study schools. 
+
+The chapter continues by examining the nature of the impact that ICT has on teaching and learning 
+in the classroom. In this regard the views of inspectors, principals, teachers and students are all 
+explored. Finally, the chapter draws attention to factors that were found by the evaluation to 
+contribute to the successful integration of ICT in classrooms, as well as those that tend to constrain 
+its development. 
+
+5.2 Teachers’ ICT qualifications and skills 
+The national survey of teachers showed that a relatively small proportion of primary teachers held a 
+formal qualification in ICT. Approximately 4% of primary teachers had a postgraduate qualification 
+in ICT in education, while a further 6% had other informal qualifications in ICT.51 The proportion of 
+teachers with qualifications in ICT increased to 15% when other academic qualifications in ICT were 
+included.52 The survey showed that 48% of all teachers studied a module in ICT as part of their pre-
+service preparation. This proportion was higher for teachers under the age of thirty-five (81%) than 
+for teachers over thirty-five (14%). It may be assumed that teachers who have no formal 
+qualification will have developed their ICT skills through personal interest or by availing of relevant 
+professional development courses. 
+
+51 Informal qualifications refer to such courses as the European Computer Driving Licence (ECDL). 
+52 Other academic qualifications in ICT might include a BSc in computer science. 
+
+108 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Teachers were asked to state their perceived level of proficiency in a number of important ICT skills 
+areas.53 An analysis of the responses to this question showed that the majority of teachers do not 
+consider themselves proficient in a wide range of ICT skills and applications. In addition, the majority 
+of teachers report their ability to use ICT-facilitated methods and to assess the potential of computer 
+applications and the internet as low. The highest levels of proficiency were reported in word-
+processing, the internet, and e-mail. Table 5.1 shows that more than 60% of all teachers rated their 
+proficiency as “intermediate” or “advanced” in each of these areas. The lowest levels of proficiency 
+were reported for networking, data-logging, assistive technology software, and programming or 
+scripting. In general, proficiency correlated with age: younger teachers (under thirty-five) reported 
+higher levels of ICT proficiency and use than their more experienced colleagues. This probably 
+reflects a growing emphasis in teacher education on developing the ICT skills of student teachers, as 
+well as the impact of an increasingly technological society. In the light of the importance of ICT in 
+promoting a wider range of teaching and learning methods, including inquiry-based approaches, 
+the education departments in third-level colleges should consider giving further priority to the 
+inclusion of ICT in the preparation of students for teaching various aspects of the curriculum. 
+
+Table 5.1: Proportion of primary teachers who rated their proficiency in ICT skills as either 
+“intermediate” or “advanced” 
+
+Age Gender 
+Under 35 35–45 Over 45 Male Female Total 
+Word-processing 79% 63% 48% 68% 67% 67% 
+Internet 83% 57% 42% 72% 67% 66% 
+E-mail 79% 53% 40% 71% 63% 63% 
+Reference software 52% 42% 33% 51% 44% 45% 
+Operating systems 48% 32% 21% 38% 39% 38% 
+Painting or drawing programs 45% 28% 23% 43% 35% 36% 
+File management 45% 30% 20% 47% 34% 35% 
+Exploratory software 36% 36% 27% 47% 32% 34% 
+Presentation 47% 23% 16% 39% 33% 33% 
+Content-rich software 37% 30% 29% 37% 33% 33% 
+Spreadsheets 35% 13% 13% 28% 24% 24% 
+Graphics programs 33% 17% 11% 32% 23% 24% 
+Multimedia 33% 12% 11% 31% 21% 23% 
+Troubleshooting 23% 13% 11% 26% 17% 18% 
+Databases 24% 10% 9% 24% 16% 17% 
+Assistive technology software 12% 10% 12% 16% 11% 11% 
+Programming or scripting 17% 7% 3% 14% 11% 11% 
+Data-logging software 13% 6% 5% 15% 9% 10% 
+Networking 10% 5% 3% 11% 7% 7% 
+n 569 270 281 155 893 1,162 
+
+53 Respondents were able to describe their level of proficiency in the different skills areas as “none,” “basic,” “intermediate,” or 
+“advanced.” 
+
+109 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+However, when teachers’ reported use of the relevant applications was correlated with their 
+reported proficiency, as depicted in fig. 5.1, it was found that the level of proficiency was not 
+reflected in actual use of the application. For example, the relatively low level of use of the internet 
+and e-mail in classroom practice does not reflect teachers’ reported high levels of proficiency in their 
+use. Hence it can be assumed that other factors, such as individual teachers’ motivation and access, 
+influence the transfer of competence in individual applications to classroom practice. 
+
+Fig. 5.1: Use and related proficiency of applications in teaching 
+
+Word processing 
+Content-rich software 
+Paint/drawing packages 
+Reference software 
+Exploratory software 
+Internet 
+Graphics packages 
+Assistive technology software 
+E-mail 
+Presentation 
+Multimedia 
+Spreadsheets 
+Databases 
+Datalogging software 
+Programming/scripting 
+
+100% 75% 75% 25% 100% 75%75%25%0% 
+Usage in teaching (at least once) Proficiency of user (Intermediate or advanced) 
+84% 
+80% 
+71% 
+62% 
+62% 
+46% 
+32% 
+31% 
+29% 
+28% 
+27% 
+22% 
+21% 
+12% 
+8% 
+77% 
+47% 
+48% 
+63% 
+52% 
+76% 
+48% 
+31% 
+72% 
+67% 
+50% 
+47% 
+38% 
+28% 
+43% 
+Base: Usage is based on teachers using applications in their teaching (n > 793) 
+Proficiency is based on teachers using applications in their teaching (n > 63) 
+
+When asked about their ability to use teaching and learning methods that are facilitated by ICT, 
+30% of primary teachers felt they had “intermediate” or “advanced” ability. Table 5.2 also shows 
+that approximately four out of ten teachers reported that they had “intermediate” or “advanced” 
+ability to assess the potential of educational software (40% of teachers) or internet material (41% 
+of teachers) to facilitate teaching and learning. Younger teachers and male teachers were more 
+
+110 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+positive in the assessment of their abilities in all three areas. The SCR ratio had a negligible effect on 
+teachers’ self-assessment. 
+
+Table 5.2: Proportion of primary teachers who rated their ability in each of three ICT tasks 
+that facilitate teaching and learning as either “intermediate” or “advanced” 
+
+Age Gender SCR 
+Under 35 35-45 Over 45 Male Female Low High Overall 
+Using teaching and learning 
+
+38% 
+
+25% 
+
+20% 
+
+34% 
+
+29% 
+
+28% 
+
+32% 
+
+30% 
+methods that are facilitated by ICT 
+Assessing the quality of 
+
+46% 
+
+37% 
+
+27% 
+
+48% 
+
+38% 
+
+40% 
+
+41% 
+
+40% 
+educational software to support 
+teaching and learning 
+Assessing the quality of 
+
+50% 
+
+37% 
+
+26% 
+
+48% 
+
+40% 
+
+41% 
+
+41% 
+
+41% 
+internet material to support 
+teaching and learning 
+
+n 
+
+569 
+
+270 
+
+281 
+
+155 
+
+893 
+
+533 
+
+534 
+
+1,162 
+
+The analysis also shows that teachers’ competence is not of itself enough to ensure the transfer of 
+that competence into practice. Obviously other factors, such as the availability of resources, 
+teachers’ motivation, and the school culture, will affect actual use in teaching and learning. If ICT is 
+to be effectively integrated in teaching and learning it is clear that a holistic approach, embracing 
+awareness-raising, professional development (pre-service, induction and in-service), planning, and 
+infrastructure, will be required. 
+
+5.3 Classroom practice and ICT 
+5.3.1 Planning 
+Inspectors asked teachers during WSE inspections about their planning for the use ICT in their 
+teaching. Some 43% of mainstream teachers, as shown in fig. 5.2, reported that their planning 
+showed how they intended to use ICT in their teaching. 
+
+111 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+Fig. 5.2: Extent to which mainstream teachers plan for the use of ICT 
+
+Does your planning show how you intend to use ICT in your teaching? 
+
+No 57% Yes 43% 
+Base: All mainstream class teachers (n = 127) 
+
+Of those teachers who showed how they intended to use ICT in their teaching, the main planning 
+emphasis was on curricular areas (96%), followed by planning for the development of discrete ICT 
+skills (74%), and the use of ICT to provide for students with special needs (56%). English was the 
+most prominent curricular area for teachers who planned to use ICT in their teaching (94%), 
+followed by Mathematics (64%). Teachers of senior classes were more likely than teachers of junior 
+classes to plan for the use of ICT in the teaching of Science, History and Geography.54 Slightly more 
+than three-quarters (76%) of all teachers stated that their planning was based on the school’s 
+planning for ICT. 
+
+5.3.2 Frequency of ICT use 
+During their WSE inspections, inspectors distinguished between finding evidence of the use of ICT 
+to facilitate teaching and learning in the classrooms visited and actual observation of the use of ICT 
+during the inspection period.55 Table 5.3 shows that inspectors reported evidence of ICT being used 
+to facilitate teaching and learning in 59% of the 127 classroom observations carried out as part of 
+WSE inspections. However, in only 22% of instances did they observe ICT being used in the 
+classroom during an inspection period of approximately two hours. The differences between the 
+indirect evidence of the use of ICT and the inspectors’ first-hand observation of the use of ICT in 
+teaching suggests that there is limited integration of ICT in the teaching and learning processes. 
+Inspectors found evidence of higher levels of ICT use in senior classes (70% of classroom 
+observations) than in junior classes (46% of classroom observations). This would suggest that the 
+potential of ICT is not being fully realised in the critical early years of a child’s development. 
+
+54 Junior classes: infants to second class (inclusive). Senior classes: third class to sixth class (inclusive). 
+
+55 Examples of such evidence include samples of pupils’ work, displays of work involving ICT, and pupils’ responses to questions posed 
+by the inspector or teacher. 
+
+112 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Table 5.3: Inspectors’ observations on the use of ICT to facilitate teaching and learning in 
+classrooms 
+
+Class SCR Total 
+Junior classes Senior classes Low High 
+Evidence of the use of ICT to 
+
+facilitate teaching and learning 
+
+46% 
+
+70% 
+
+60% 
+
+62% 
+
+59% 
+
+Use of ICT observed in actual 
+
+teaching and learning during the 
+
+inspection period 
+
+20% 
+
+23% 
+
+27% 
+
+18% 
+
+22% 
+n 
+
+54 
+
+67 
+
+58 
+
+55 
+
+127 
+
+5.3.3 Organisation of ICT use 
+Inspectors who observed the actual use of ICT during inspection visits were asked to state how ICT 
+activities were organised. It was found that the most frequently used organisational approach to the 
+use of ICT in classrooms was one where the students used computers individually; this was followed 
+by paired use and then whole-class use. Much of the individual ICT activity was organised in 
+rotation. Similarly, respondents to the survey of teachers, as depicted in fig. 5.3, reported that the 
+most frequently used approach was classroom activity in which individual students worked in 
+rotation, followed by group activity and whole-class teaching in the classroom. In this instance, 46% 
+of all primary mainstream and special class teachers reported that they organise the use of ICT in 
+rotation at least once a week for individual students in the classroom. 
+
+Fig. 5.3: Organisation of teaching and learning during use of ICT 
+
+How is teaching and learning organised 
+during use of ICT? 
+
+Individual students working in classroom on a 
+rotational basis 
+
+Group activity in classroom 
+
+Whole-class teaching in classroom 
+
+Whole-class teaching in designated computer room 
+
+Group activity in designated computer room 
+
+Individual students working in designated computer 
+room/library on a rotational basis 
+
+80%60% 100%40%20%0% 
+46% 
+19% 19% 25% 
+11% 12% 23% 
+20% 9% 10% 
+11% 10% 13% 
+8% 
+20% 18% 
+7% 6% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary mainstream and special class teachers (n = 1026) 
+
+113 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+It could be assumed that this predominant use of ICT with individual students has a relatively low 
+impact, given the likelihood that each student would have access to ICT for relatively short periods. 
+However, it is positive that both paired and group approaches, as well as whole-class approaches, 
+are used. The findings of the evaluation also give an insight into how teachers organise the use of 
+ICT in accordance with specific school factors, such as the level of resources available. Individual or 
+paired activity in rotation reflects a sensible use of resources in situations where resources are 
+confined to a stand-alone computer (or computers). In this regard it is important that classroom 
+organisational matters be emphasised in support materials and courses for teachers so that they can 
+exploit potential opportunities for using ICT within the classroom, regardless of the resources 
+available. 
+
+5.3.4 Focus of ICT use 
+The evaluation found that ICT, where used, predominates in core curricular areas, such as English 
+and Mathematics, and Social, Environmental and Scientific Education (SESE), but that even this use 
+of ICT is relatively infrequent. The national survey of teachers, as shown in fig. 5.4, demonstrated 
+that ICT was used most frequently to promote learning in English. However, only 39% of these 
+teachers used ICT in their teaching of English at least once a week. This weekly use was high relative 
+to that for Mathematics and SESE, which had a weekly use of 28% and 14%, respectively. 
+Furthermore, the case-study evaluations suggest that the use of ICT in the teaching of English, 
+Mathematics and SESE is mainly to support and reinforce aspects of these subjects already taught. 
+
+Fig. 5.4: Frequency of ICT use to promote learning in curricular areas 
+
+80%60% 100%40%20%0% 
+39% 
+28% 
+14% 
+8% 
+6% 
+7% 
+5% 
+28% 25% 
+29% 29% 
+29% 33% 
+19% 42% 
+17% 30% 
+14% 
+19% 
+7% 
+6% 
+27% 
+English 
+Mathematics 
+SESE 
+The Arts 
+SPHE 
+Irish 
+Religious Education 
+Physical Education 
+Modern Languages 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary mainstream and special class teachers (n = 1026) 
+
+114 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Both teachers and inspectors reported limited use, if any, of ICT in the teaching of other curricular 
+areas. The low level of use in the teaching of Irish relative to the other core subjects is particularly 
+disappointing given the potential of ICT as a tool in enhancing students’ motivation to learn the 
+language. 
+
+Teachers were asked in their national survey how frequently they used ICT to develop certain skills in 
+their students. Fig. 5.5 shows that ICT is most frequently used to develop numeracy, reading and 
+writing skills and less frequently to develop other important cross-curricular skills, such as research, 
+presentation, social, problem-solving and communication skills. The use of ICT in developing 
+reading, numeracy and writing skills, however, was infrequent, with fewer than 30% of teachers 
+reporting using ICT at least once a week to develop these skills. 
+
+Fig. 5.5: Frequency of ICT use among mainstream and special class teachers to facilitate 
+development of skills 
+
+Frequency of ICT usage to develop the following skills 
+
+
+Skills in numeracy 
+Reading skills 
+Writing skills 
+Referencing/research 
+Presentation skills 
+Social/team/collaborative 
+Problem solving/analytical 
+Communication skills 
+
+80%60% 100%40%20%0% 
+25% 31% 27% 
+29% 26% 27% 
+22% 29% 30% 
+7% 26%14% 
+13%10% 
+6% 18%10% 
+8% 21% 
+13% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary mainstream and special class teachers (n = 1026) 
+
+In the course of WSE inspections, however, inspectors noted the prominent use of ICT to support 
+the teaching of reading and writing. Furthermore, the case-study school evaluations showed that 
+the use of ICT in reading and numeracy was mainly for the purpose of consolidating learning, and 
+that the use of ICT for the teaching of writing was generally limited to presenting personal writing 
+and writing for projects, with little emphasis on the writing process. The case-study evaluations 
+showed that the development of research skills was conducted mainly in the context of SESE and 
+looking-and-responding activities in the Visual Arts, while the use of ICT to develop discrete skills 
+was concentrated on word-processing and typing skills. 
+
+115 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+The evaluation showed a degree of correlation between a school’s SCR and the range of skills 
+taught. An analysis of inspectors’ observations during classroom inspections, for example, found 
+that schools with a low SCR were more likely to teach presentation, social, team and collaborative 
+skills or communication skills than schools with a high SCR. The use of ICT to develop numeracy and 
+reading skills was more prevalent in these schools. Similarly, the survey of teachers found that those 
+in schools with a low SCR were more likely to use ICT to develop most skills. In the questionnaires 
+for students a slightly higher proportion of those in schools with a low SCR said that they learnt 
+more about computers at school than those in schools with a high SCR. 
+
+The evaluation found a degree of progression in the development of ICT skills from junior to senior 
+classes. Inspectors’ observations during WSE inspection visits showed that ICT was used more 
+prominently to develop writing skills and referencing, research and investigation skills in senior 
+classes and to develop reading skills in junior classes. The survey of teachers similarly showed that 
+teachers of senior classes were more likely to use ICT for writing purposes and referencing, research 
+or investigation skills, while teachers of junior classes were more likely to use ICT to develop reading 
+skills. A range of inspectors’ reports on case-study schools showed a similar progression. 
+
+It is clear from this examination that the use of ICT is somewhat limited in primary schools, and that 
+the potential for using ICT to develop critical life skills, such as communication, problem-solving and 
+independent working skills, is not being realised. Evaluations of the implementation of the primary 
+curriculum in recent years have also drawn attention to the deficit of provision in relation to the 
+development of higher-order skills. The narrowness of the range of skills developed, particularly in 
+the junior classes, is of concern, given that this is a critical time in a child’s development. It is 
+important that these students should have the same opportunity as those in senior classes to 
+develop their presentation, research and higher-order skills through the use of ICT. There is a great 
+need, therefore, to promote the development of these skills through ICT with regard to the 
+implementation of the curriculum. The “Framework for ICT in Curriculum and Assessment” at 
+present being developed by the NCCA will provide schools with advice in this area. 
+
+5.3.5 Use of resources and applications in the classroom 
+Software 
+
+The national survey of teachers explored the extent to which software was used to facilitate 
+teaching and learning. In general, as shown in table 5.4, some 86% of teachers used software to 
+facilitate teaching and learning. Teachers of senior classes were slightly more likely to use software 
+to facilitate teaching and learning (90%) than teachers of junior classes (83%). A lower SCR tended 
+to have a positive impact on the use of software to facilitate teaching and learning, with 89% of 
+teachers in schools with a low SCR reporting such use, compared with 83% of those in schools with 
+a high SCR. It was also found that the three most common sources of advice regarding the selection 
+of applications for particular curriculum areas were colleagues (85%), educational software suppliers 
+(52%), and the ICT advisor (29%). 
+
+116 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Table 5.4: Teachers’ use of software and the internet to support learning 
+
+Class SCR Total 
+Junior classes Senior classes Low High 
+Use of internet resources in 
+planning and preparation for 
+teaching 
+
+69% 
+
+74% 
+
+71% 
+
+67% 
+
+69% 
+Use of the internet in classroom 
+practice 
+
+15% 
+
+37% 
+
+28% 
+
+20% 
+
+24% 
+Use of software to facilitate 
+teaching and learning 
+
+83% 
+
+90% 
+
+89% 
+
+83% 
+
+86% 
+n 
+
+486 
+
+430 
+
+533 
+
+534 
+
+1,162 
+
+Case-study school evaluation reports emphasised the importance of software in facilitating the use 
+of ICT in schools. A number of reports, for example, made explicit links between the availability of 
+software and the extent to which ICT was used in a given school. The inspectors found widespread 
+use of software resources in literacy and numeracy; however, they found that this was limited for 
+the most part to consolidation (that is, reinforcing number facts and phonic skills), especially in 
+junior classes and in the special-education setting. Apart from the use of software in SESE, case-
+study school evaluations found a dearth of software in use for other aspects of the curriculum. 
+
+Teachers of mainstream and special classes were asked in their survey to state which applications 
+they used in their teaching in different curricular areas. Table 5.5 shows that the use of software 
+predominated in the subject areas where ICT is used most frequently (that is, English, Mathematics, 
+SESE, and the Visual Arts). The reliance on word-processing and the internet for other subjects, such 
+as Irish, could be due to the relative lack of software available to support the use of ICT in those 
+curricular areas, in contrast to that available for the other core areas. 
+
+Table 5.5: Most frequently used applications in the teaching of individual curricular areas 
+
+Subject Application(s) 
+English Word-processing or desktop publishing [page layout] and content-rich software 
+Mathematics Content-rich software 
+Social, Environmental, and 
+Scientific Education (SESE) Reference software 
+Visual Arts Painting and drawing programs 
+Social, Personal and Health 
+Education (SPHE) Word-processing or desktop publishing 
+Irish Word-processing or desktop publishing 
+Religion Word-processing or desktop publishing and internet 
+Physical Education Internet 
+Modern Languages Word-processing or desktop publishing and internet 
+
+117 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+Given the importance of software in facilitating the integration of ICT throughout the curriculum, 
+there is a need to make primary teachers aware of the range of materials available in all curricular 
+areas. It is also important that teachers are able to assess the potential of computer applications for 
+use in their classrooms; developing this ability should be a central consideration in ICT training 
+opportunities. As recommended by inspectors in the case-study school evaluations, schools should 
+consider drawing up an inventory of computer applications in accordance with their suitability for 
+class levels. Teachers also need to become more aware of the potential of other ICT applications, to 
+become more competent in their use, and to engage in planning for their use in order that they can 
+more fully integrate ICT in the teaching of the curriculum. 
+
+The internet 
+
+The survey of teachers asked them about their use of internet resources in planning and preparation 
+for teaching and the use of the internet in classroom practice. As already seen in table 5.4, the 
+internet was reported to be used as a resource in planning and preparation for teaching by 69% of 
+all teachers. It was also found that such use was related to teaching experience, with recently 
+qualified teachers being more likely to use internet resources in planning and preparation for 
+teaching than their more experienced colleagues. 
+
+However, teachers’ reported use of the internet in classroom practice was much lower than its use for 
+planning and preparation. Only 24% of all teachers reported using the internet in classroom practice. 
+The main reason for this difference was lack of internet access in the classroom, as cited by 58% of 
+teachers. Presumably teachers have access to the internet outside school for the purposes of planning 
+and preparation, while access within school is still somewhat limited. Other reasons reported by 
+teachers for not using the internet in their classroom practice were lack of time (9%), lack of 
+knowledge (9%), lack of computers (8%), and lack of suitability for children of this age (8%). 
+
+Teachers of senior classes were more likely to use the internet in classroom practice (37%) than 
+teachers of junior classes (15%). A low SCR had a slightly positive impact on the use of the internet 
+to facilitate teaching and learning: some 28% of teachers in schools with a low SCR reported using 
+the internet in their classroom practice, compared with 20% of teachers in schools with a high SCR. 
+
+Those teachers who stated that they used the internet in their classroom practice (24% of all 
+teachers) were also asked how frequently they used various internet resources. Fig. 5.6 shows the 
+findings with regard to the use of internet resources in descending order of frequency of use.56 
+
+56 Any percentage on or below 5 % is not labelled. 
+
+118 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Fig. 5.6: Frequency of use of individual internet resources by internet users 
+
+How frequently do you use the following internet resources in 
+your teaching? 
+
+Teaching resources 
+
+Educational news/current events 
+
+E-mail 
+Strategies for integrating ICT inteaching and learning 
+On-line resources for students 
+with SEN 
+On-line professional development 
+
+On-line subscription-based 
+content 
+On-line discussions 
+
+On-line collaborative projects 
+
+Webquests 
+
+E-twinning 
+
+Videoconferences 
+
+Wikis 
+
+Blogs 
+
+80%60% 100%40%20%0% 
+26%36%35% 
+14% 30% 36% 
+22%17%20% 
+8% 13% 37% 
+33%14% 
+12% 28% 
+20% 
+14% 
+16% 
+8% 
+7% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary teachers using internet in teaching (n = 275) 
+
+Of the teachers who used the internet in classroom practice, the most frequently used internet 
+resources were teaching resources, educational news, information on current events, and e-mail. 
+More than a third (35%) of all teachers using the internet used it at least once a week to obtain 
+access to teaching resources. 
+
+In their visits to the thirty-two case-study schools inspectors found that teachers made very limited 
+use, if any, of the internet in their classrooms. In many of these instances there was an expectation 
+that the installation of broadband would greatly facilitate the use of the internet as a teaching and 
+learning tool. Where the internet was used, activities included carrying out research activities (for 
+example project work in SESE and Visual Arts) through the use of search engines and educational 
+sites. One school used e-pal web sites for the development of students’ communication skills. In 
+another school, students had used interactive web sites in support of their science programme. 
+
+119 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+It is clear that the use of the internet by teachers in the classroom is limited (for the most part 
+because of a lack of infrastructure), despite the fact that teachers themselves appear familiar with 
+internet use, particularly in planning and obtaining access to resources and ideas for teaching. 
+However, the practices observed in case-study schools, though engaged in on a limited scale, 
+illustrate the potential for use of the internet in the classroom for developing such abilities as 
+communication skills. Recent assistance to schools from the Department of Education and Science 
+with regard to enhancing connectivity in schools should help to facilitate teachers in realising the 
+potential of the internet. 
+
+Peripherals 
+
+Chapter 3 has already shown that there is little general use of peripherals, apart from printers, in 
+primary classrooms. This is a cause of concern, given the role that the effective use of peripherals 
+can play in the integration of ICT in teaching and learning, and the additional potential for their 
+effective use in tandem with other ICT resources. For example, one inspector in a case-study school 
+commented favourably on integrated ICT activity involving internet research, recording with a digital 
+camera during field trips, and presenting findings using presentation software. Other inspectors 
+commented favourably on the use of digital video recorders for the production of films. 
+
+It is clear that teachers need to be made more aware of the potential of software, the internet and 
+peripheral resources and to become more confident in their use. This may be addressed in more 
+focused ICT planning and enhanced training opportunities. 
+
+5.3.6 Quality of provision 
+The national survey of principals explored their views on how existing use of ICT in their school was 
+benefiting teaching and learning. The comments of principals were mainly positive. They expressed 
+the view that ICT is useful for motivating students, for consolidating their learning, for improving 
+how they present their work, and for presenting an additional challenge. They also suggested that 
+ICT motivates children, promotes imagination and creativity, and develops problem-solving skills. In 
+general, 51% of the principals surveyed were of the view that using ICT contributed to improved 
+ICT skills, while 34% felt that it contributed to improving class content and support of the 
+curriculum. 
+
+Teachers also expressed positive attitudes in relation to the impact of ICT on teaching and learning. 
+In the course of interviews in the case-study schools, teachers suggested a number of factors as 
+having a positive impact in the classroom. 
+
+• The visual impact and interactive nature of ICT has a positive effect on students’ motivation and 
+levels of interest. It enhances their confidence, particularly those with special educational needs, 
+and it increases students’ enjoyment of learning. 
+
+120 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 ICT and teaching and learning in primary schools Chapter 5 
+• ICT assists the development of good social skills in the classroom, the development of cooperation 
+between students and teachers, and the promotion of peer tutoring in classrooms. 
+
+• ICT facilitates the development of students’ recording and presentation skills, followed by 
+independent and self-correcting skills and research and information retrieval skills. 
+
+• ICT is important in reinforcing and consolidating skills and learning. 
+
+However, while teachers, both at the principal and the classroom level, were generally quite positive 
+about the role of ICT in teaching and learning in primary classrooms inspectors found that the 
+undoubted potential of ICT was frequently unrealised. As noted earlier inspectors found relatively 
+limited evidence of the integration of ICT in teaching and learning in the classroom, with, for 
+example, the use of ICT in only 22% of classroom observations. 
+
+121 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+As well as frequency of use inspectors also reported on the quality of use of ICT in teaching and 
+learning where it was observed during the inspection period in classrooms visited during WSEs. Fig. 
+
+5.7 shows that 34% of inspectors’ reports on classroom observations reveal limited or inappropriate 
+use, or no use, of ICT in teaching and learning. In 42% of instances the inspectors reported that 
+there was scope for development, while in 24% of instances they reported a competent or optimal 
+level of performance. The proportion of competent or optimal levels was higher for senior classes 
+(30%) than for junior classes (15%). 
+Fig. 5.7: Inspectors’ rating of the quality of use of ICT in teaching and learning 
+
+No, very little, or Scope for Competent Optimal level of 
+inappropriate use of ICT development practice performance 
+
+Base: All mainstream class observations (n=127) 
+
+Inspectors also provided some commentary in relation to their rating of the quality of use of ICT in 
+teaching and learning in the classroom. These comments point to a reliance on software for ICT use, 
+and show that such factors as lack of planning and preparation constrain the effective use of ICT in 
+classrooms and the systematic development of curricular skills using ICT. Table 5.6 provides a sample 
+of these comments. 
+
+60% 
+40% 
+20% 
+0% 
+34% 
+42% 
+19% 
+5% 
+122 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Table 5.6: Inspectors’ comments on the quality of use of ICT observed in teaching and 
+learning 
+
+Rating (class) Inspector’s comment 
+Very little use, or inappropriate 
+
+Discussions with the teacher reveal that ICT is used incidentally and for very short periods. 
+use, of ICT (junior classes) 
+
+Two programs were used intermittently, which are designed to enhance the students’ 
+literacy skills. The teacher uses the internet to research work occasionally. In general, the 
+use of ICT in the classroom is incidental rather than being planned or systematic. 
+
+Scope for development 
+
+The work the children were doing during the course of the evaluation was not adequately 
+(senior class) 
+
+prepared, and they were simply transcribing from the screen. It is worth noting, however, 
+that they did have the ability to operate the search engine to obtain access to information 
+on the topic of their choice. 
+
+Competent practice 
+
+Students are somewhat familiar with the use of Powerpoint as a medium of presentation 
+(senior class) 
+
+but still need clear direction from the teacher and are clearly dependent on her to an extent 
+in manipulating the computers in the room. The teacher uses Powerpoint in presentation. 
+Optimal level of performance 
+
+Software on Ancient Egyptians: excellent stimulation of students, clarification of 
+(middle class) 
+
+information and consolidation. ICT used in project work; also video and camcorder use. 
+
+Inspectors who visited case-study schools gave additional insights into the quality and range of ICT 
+activity in primary schools. Many commented favourably on the attitude, enthusiasm and 
+confidence of fifth-class students in using ICT, citing, for example, good use of relevant internet sites 
+and reference software, both for project work and incidental research. 
+
+Other commendable practices observed by the inspectors in case-study schools included: 
+• the use of ICT to facilitate the writing process of drafting and redrafting and students’ writing in 
+a variety of genres 
+• the use of ICT in higher-order activities, such as the development of students’ critical skills in 
+looking and responding to art, the use of exploratory software to develop problem-solving skills 
+and logic capabilities, and the use of spreadsheets 
+• the use of ICT to develop creative skills, such as drawing and design, listening and responding, 
+
+activity in music, and construction skills (through the use of robotics) 
+• the use of the digital camera in producing group and class projects 
+• the use of ICT in teaching Irish poetry 
+• the use of ICT to create and to record musical compositions 
+• the use of databases for the collation, examination and presentation of data 
+• the use of computer-generated presentations by students to present their project work. 
+
+123 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools ICT in Schools • Part 3 ICT and teaching and learning in schools 
+However, the inspectors found that the range of skills and knowledge displayed by students varied 
+significantly among case-study schools, and that competence in the use of ICT was limited for the 
+most part to basic ICT skills, centred on the use of word-processing for personal writing and project 
+work. One inspector described this in the following terms: 
+
+A number of students in senior classes have developed some competency in ICT skills relating to the use 
+of word-processing and the internet. They have also used the computer in the writing process and have 
+access to content-rich mathematics and reading software. Students enjoy opportunities to paint and draw 
+using the computer. Students are enthusiastic and confident in their discussion in respect of this relatively 
+simple use of ICT. 
+
+Despite this emphasis on the development of basic ICT skills, the survey of fifth-class students 
+showed, as illustrated in fig. 5.8, that many lack the competence to complete basic tasks on the 
+computer. While most reported that they were able to perform many basic computer tasks, such as 
+turning the computer on and off and opening or saving a file, more than 30% reported that they 
+were not able to print a document or to go on the internet by themselves, while almost half (47%) 
+reported not being able to create a document by themselves. The majority were unaware of how to 
+create a presentation (72%), use a spreadsheet (86%), or send an attachment with an e-mail 
+message (88%). 
+
+124 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Fig. 5.8: Students’ proficiency in individual tasks 
+
+How well can you do each of these tasks on a computer? 
+
+Shut down the computer 
+Turn on a computer 
+Open a file 
+Save a document or file 
+Print a document or file 
+Go on the internet 
+Create a document 
+Delete a document or file 
+Move files from one place to another 
+Open an e-mail 
+Write and send an e-mail 
+Copy or download files from the internet 
+Copy a file from a floppy disk 
+Create a graph 
+Create a presentation 
+Send an attachment with an e-mail 
+Use a spreadsheet 
+
+80%60% 100%40%20%0% 
+5%95% 
+4%95% 
+15%82% 
+14%77% 
+24%66% 
+26%64% 
+36%53% 
+25%63% 
+34%39% 
+33%40% 
+38%31% 
+39%31% 
+39%28% 
+33%28% 
+24%28% 
+37%12% 
+23%14% 
+I can do this very well by myself 
+I can do this with help from someone 
+
+Base: All primary students (n = 437) 
+
+Interestingly, more than four out of five students (82%) in the case-study schools who completed 
+questionnaires stated that using a computer helped them with their schoolwork. This was mainly 
+through the use of the internet for projects. Only 39% reported that they used their home 
+computer for homework. A higher proportion of girls (87%) than boys (77%) stated that using a 
+computer helped them with their schoolwork; this was primarily through typing stories, poems, and 
+essays. Similarly, slightly more girls (43%) than boys (36%) stated that a computer helped them with 
+their homework, again primarily for typing poems, essays, and stories. 
+
+In general, it can be said that limited use is at present made of ICT in teaching and learning in 
+primary schools. However, despite the constraints that inhibit the greater use of the technology, 
+there are examples of its effective use that could be extended and built on through taking such 
+steps as sharing good practice within and between schools. 
+
+125 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+5.3.7 Provision for students with special educational needs by 
+mainstream class teachers 
+The evaluation found that the level of ICT used to assist students with special educational needs 
+within mainstream classrooms is quite low, despite the fact that the great majority of classrooms 
+have children who have access to additional support. As shown in fig. 5.9, 53% of teachers in the 
+schools visited by inspectors during WSE classroom inspections reported that they used ICT to assist 
+students with special educational needs. Of those who did, teaching and learning was primarily 
+facilitated by a student working individually on a computer (64% of teachers). These teachers 
+reported using programs and web sites to assist their students. Teachers of senior classes were more 
+likely to use ICT to assist students with special educational needs in their class (63%) than teachers 
+of junior classes (39%). Given the predominantly individualised nature of the ICT-related activity 
+involved, this may be related to the greater ability of older students to work independently, 
+compared with that of the younger students. 
+
+Fig. 5.9: Level of ICT support for students with special educational needs in mainstream 
+classrooms 
+
+Do you use ICT to support students with special educational needs in class? 
+
+No 47% Yes 53% 
+Base: All mainstream class teachers (n = 127) 
+
+However, in only 11% of classroom observations did the inspectors on WSE visits observe the use of 
+ICT in mainstream classrooms to assist students with special educational needs. Similarly to what 
+was reported by teachers, the inspectors observed that the use of ICT to assist students with special 
+educational needs was highest for senior classes and was primarily organised individually. 
+
+The low level of ICT use with students with special educational needs in mainstream classrooms 
+shows that the potential of ICT to provide a differentiated curriculum for those students is not being 
+realised. There is clearly a need for teachers to become more aware of how to use ICT to 
+differentiate work for their students. It is also of note that where children with special educational 
+needs are given the opportunity to engage in ICT-related activity it is primarily as individuals. The 
+potential for embracing paired or group activity in this regard could be further explored. 
+
+126 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+5.4 ICT in special education 
+Over the past decade there has been a significant increase in the level of resources provided for 
+students with special educational needs within mainstream primary schools. The evaluation 
+attempted to gain an insight into the extent and quality of the use of ICT in special-needs 
+education. This section of the report looks at the provision for children with special educational 
+needs by members of the special-education support team.57 
+
+5.4.1 Access to ICT 
+Inspectors on WSE inspections explored the level of access that students had to ICT in the special-
+education setting. Some 85% of the seventy-one members of special-education support teams 
+interviewed in schools, as shown in fig. 5.10, stated that their students had access to ICT. Of those 
+with access, 90% said that ICT activity took place in the special-education support setting. Half 
+(50%) of all respondents said that teaching and learning using ICT was organised by individually 
+working with students with special educational needs. Somewhat less than half (45%) of 
+respondents said that a combination of individual and group or paired work was used. 
+
+Fig. 5.10: Level of access by students with special educational needs in special-education 
+support settings 
+
+Do students have access to ICT in this 
+context? 
+
+No 15% 
+Yes 85% 
+Base: All special education team members (n = 71) 
+
+5.4.2 Planning for the use of ICT 
+Approximately 57% of the members of special-education teams interviewed by the inspectors on 
+WSE visits, as illustrated in fig. 5.11, reported that their planning showed how they intended to use 
+ICT in their teaching. Of those who displayed an intention to use ICT in their teaching, the main 
+emphasis was on reading (92%), followed by numeracy (82%) and writing (56%). Some 60% of 
+special-education support teachers who planned for the use of ICT in their teaching reported that 
+this planning was based on the school’s planning for ICT. 
+
+57 Members of the special-education support team include the resource teacher, learning-support teacher and resource teacher for 
+Travellers. It should be noted that, in accordance with Circular 02/05, learning-support teachers and resource teachers are now 
+referred to as learning-support and resource teachers (LSRTs). 
+
+127 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+Fig. 5.11: Extent to which special-education support team members plan for the use of ICT 
+
+Does your planning show how you intend to use ICT in your teaching? 
+
+No 43% Yes 57% 
+Base: All special education team members (n = 71) 
+
+5.4.3 Frequency of ICT use 
+Inspectors were asked to distinguish between evidence of the use of ICT to facilitate teaching and 
+learning in the classrooms visited and actual observation of ICT in teaching and learning during the 
+inspection period.58 Fig. 5.12 shows that 63% of the inspectors reported that they saw evidence of 
+the use of ICT to facilitate teaching and learning in these classrooms, while 42% observed ICT being 
+used in teaching and learning during the inspection period. This use is much higher than the level of 
+ICT use observed by inspectors to provide for mainstream students (24%) and students with special 
+educational needs within mainstream classrooms (11%). Most ICT use by members of the special-
+education team was through individual work with the student (69% of instances). 
+
+Fig. 5.12: Inspectors’ observations of the use of ICT to facilitate teaching and learning in 
+special-education support settings 
+
+Is there evidence of the use of ICT Was use of ICT observed in actual teaching 
+to support teaching and learning? and learning during the inspection period? 
+
+No 37% Yes 63% 
+No 58% Yes 42% 
+Base: All special education team observations (n = 71) Base: All special education team observations (n = 71) 
+
+58 Examples of such evidence include samples of pupils’ work, displays of work involving ICT, and pupils’ responses to questions posed 
+by the inspector or teacher. 
+
+128 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+5.4.4 Focus of ICT use 
+The extent to which members of special-education support teams were using ICT to facilitate 
+teaching and learning in a number of priority areas was explored as part of the evaluation. The 
+special-education support teachers who responded to the national survey reported, as shown in fig. 
+5.13, that the main use of ICT in the special-education setting was for reading, numeracy, writing, 
+and the development of motor sensory skills. Some 75% of these special-education teachers 
+reported using ICT to develop reading skills at least once a week, which was far more frequent than 
+that reported for writing skills (40%), motor sensory skills (46%), and numeracy skills (54%). The 
+inspectors observing classroom practice during WSE inspections also found that the main skills being 
+developed were (in declining order of frequency) reading, numeracy, and writing. 
+
+The evaluation found that there is a greater general range of skills development in the special-
+education support setting than in mainstream classrooms. While ICT is used much less frequently for 
+the development of other skills, such as communication, referencing, presentation, and higher-order 
+skills, the use of ICT for the development of these skills is still much more frequent than that 
+reported for mainstream classrooms.59 
+
+Fig. 5.13: Frequency of ICT use in special-education support settings to facilitate 
+development of skills 
+
+How frequently is ICT used as a strategy to achieve learning targets 
+for students attending resource teaching and learning support in 
+each of the following areas? 
+
+Reading skills 
+
+Writing skills 
+
+Skills in numeracy 
+
+Motor sensory skills 
+
+Communication skills 
+
+Referencing/research 
+skills 
+
+Presentation skills 
+
+Behavioural 
+
+management skills 
+
+Problem solving/ 
+
+analytic skills 
+
+Social/team/ 
+
+collaborative skills 
+
+80%60% 100%40%20%0% 
+75% 18% 
+14%39%40% 
+54% 25% 11% 
+10%23%46% 
+30% 28% 16% 
+32%21%16% 
+15% 28% 24% 
+17%23%23% 
+25% 17% 19% 
+14%17%21% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary learning support teachers (n = 136) 
+
+59 This can be seen when fig. 5.5 and fig. 5.13 are compared. 
+
+129 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+In general, the relatively high frequency of use of ICT by members of the special-education support 
+team to promote the development of literacy and numeracy is not surprising, given the priority 
+attached to these core curricular skills in schools in this learning context. ICT facilitates a multi-
+sensory approach to the teaching of essential skills through the use, for example, of data projectors, 
+speakers, and interactive whiteboards, and this should be exploited in special-education settings 
+wherever appropriate. 
+
+5.4.5 Use of resources and applications 
+The survey of teachers explored the degree to which different applications were used in the 
+development of a range of special educational needs priority areas. Members of the special-
+education support teams, as illustrated in table 5.7, were found to use applications most frequently 
+for the development of reading and writing skills.60 
+
+Table 5.7: Applications used by members of special-education support teams to promote 
+the development of skills 
+
+ReadingWritingNumeracyPresentationMotor sensoryCommunicationProblem-solving and analyticalReferencing and researchSocialBehavioural management
+Content-rich 
+software 72% 37% 84% 15% 51% 46% 83% 16% 50% 44% 
+Word-processing 67% 89% 25% 74% 63% 61% 16% 13% 37% 25% 
+Reference 
+software 30% 10% 5% 11% 10% 16% 28% 71% 9% 16% 
+Painting and 
+drawing programs 8% 12% 5% 40% 40% 15% 5% 4% 15% 31% 
+Internet 19% 4% 8% 12% 5% 18% 16% 45% 24% 6% 
+Assistive technology 
+software 26% 18% 16% 11% 21% 23% 7% 4% 7% 16% 
+Presentation 16% 16% 0 26% 6% 18% 0 5% 13% 9% 
+Graphics programs 7% 11% 1% 21% 2% 13% 2% 9% 15% 6% 
+Multimedia 7% 6% 3% 11% 6% 13% 4% 4% 13% 0 
+E-mail 6% 7% 3% 4% 2% 16% 2% 13% 13% 0 
+Spreadsheets 2% 1% 6% 6% 0 2% 5% 11% 0 3% 
+Other 4% 1% 3% 0 3% 2% 2% 2% 2% 3% 
+Databases 2% 0 1% 1% 0 5% 0 4% 0 3% 
+Programming or 
+scripting 0 0 1% 0 3% 0 0 2% 2% 0 
+n (valid) 110 103 80 73 67 61 57 56 46 32 
+
+60 Care should be taken when interpreting the percentages from this table, as sample sizes are low. Only 14 % of respondents were 
+considered to be support teachers. 
+
+130 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Furthermore, table 5.8 reveals that those members of special-education support teams surveyed 
+made prominent use of word-processing and content-rich software to facilitate teaching and 
+learning in the different priority areas. 
+
+Table 5.8: Most frequently used applications to promote the development of individual 
+learning priority areas 
+
+Skills Applications 
+Reading skills Word-processing, content-rich software 
+Writing skills Word-processing 
+Numeracy skills Content-rich software 
+Presentation skills Word-processing, painting and drawing programs 
+Motor sensory skills Word-processing, content-rich software, painting and drawing programs 
+Communication skills Word-processing, content-rich software 
+Problem-solving skills Content-rich software 
+Referencing and research skills Reference software 
+Social skills Content-rich software 
+Behavioural management skills Content-rich software 
+
+However, this reliance on content-rich software and word-processing suggests that the full potential 
+of ICT is not being realised in special-education support settings. Teachers should explore the 
+possibility of making greater use of other applications such as exploratory, reference and assistive 
+technology software with students with special educational needs 
+
+5.4.6 Quality of provision 
+Inspectors were asked to describe the quality of ICT in special-education support settings during 
+WSE evaluations. Their observations on the quality of use of ICT in teaching and learning, as 
+illustrated in fig. 5.14, show a range of quality in provision. A third of the observations reveal very 
+little or inappropriate use, or no use, of ICT in the classroom. Another 38% of the observations 
+reveal scope for development. Approximately 29% of the observations stated that there was a 
+competent or optimal level of performance in the special-education setting. The proportion of 
+observations rated “competent” or “optimal” was higher (36%) for schools with a high SCR. 
+
+131 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+Fig. 5.14: Inspectors’ ratings of the quality of use of ICT in teaching and learning observed 
+in special-education support settings 
+
+60% 
+40% 
+20% 
+0% 
+33% 
+38% 
+23% 
+6% 
+No, very little, or Scope for Competent Optimal level of 
+inappropriate use of ICT development practice performance 
+
+Base: All speacial education team observations (n=71) 
+
+Inspectors’ ratings of the quality of use of ICT in teaching and learning in special-education support 
+settings are comparable, for the most part, with ratings on the use of ICT in mainstream classes. 
+However, as table 5.9 shows, slightly more special-education support settings were allocated a 
+“competent” or “optimal” rating (29%, compared with 24%). 
+
+Table 5.9: Comparison of inspectors’ ratings of the quality of ICT provision in supporting 
+children with special educational needs in mainstream and special-education support 
+settings 
+
+Mainstream settings and special classes Special-education support settings 
+Very little or inappropriate use 
+
+34% 
+
+33% 
+
+Scope for development 
+
+42% 
+
+38% 
+
+Competent or optimal use 
+
+24% 
+
+29% 
+
+Inspectors also provided some comments on the quality of use of ICT in teaching and learning in the 
+special-education support context in line with their ratings. These comments, a sample of which are 
+provided in table 5.10, suggest that quality of provision is mainly constrained by lack of resources, 
+lack of planning and timetabling, and lack of competence on the part of teachers. The accessibility 
+of such resources as computer applications would appear to be an important factor influencing 
+provision. Where competent practice was identified, the inspectors drew attention to the integration 
+of ICT in learning and the learning benefits that accrue from ICT-related activity. 
+
+132 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Table 5.10: Sample of inspectors’ comments on the quality of ICT use in special-education 
+support settings 
+
+Rating Comment 
+Very little use, or inappropriate There is potential for more frequent and structured use of ICT to support the development 
+use, of ICT of students’ literacy and numeracy skill. While a laptop computer has been purchased to 
+support the work of learning support, it was not available or in use in the classroom during 
+the inspection period. It is mainly used to support teachers’ planning and preparation. 
+Scope for development The activity noted took the form of games only. The work was done independently, with 
+little verbal interaction between teacher and student to ascertain whether understanding 
+was deepening. 
+Competent practice Teacher has a broad range of software to support her work with individual students and 
+groups of students in a learning-support role. Hardware and software positioned in a very 
+easily accessed corner. 
+Optimal level of performance Excellent work done, where ICT is an integral part of the teaching and learning that takes 
+place. A wide range of software used, and the work done is very well integrated in all 
+curricular areas. 
+
+Inspectors’ reports on case-study schools suggest that there are some good practices in the use of 
+ICT to support children with special educational needs, but that these are not widespread. For 
+example, inspectors commented favourably on effective use of ICT to promote creative writing, the 
+development of project skills, independent learning, social skills, and co-ordination or motor skills. 
+The use of creative writing software was also reported as a useful means of managing the teaching 
+of a range of abilities within a group. 
+
+In general, it is clear that there are some good practices in ICT use to facilitate teaching and learning 
+in special-education settings but that there is also significant room for development. 
+
+5.5 Assessment 
+While the evaluation found some evidence of administrative use of ICT by teachers during the 
+assessment of students, it found limited evidence of teachers engaging in the assessment of ICT-
+related activity and its impact on teaching and learning. More than two-fifths (42%) of teachers 
+interviewed as part of classroom inspections during WSEs said that they used ICT to record students’ 
+progress. Only 12% of respondents in the survey of teachers, however, reported that they had 
+attempted to assess the impact of ICT on teaching and learning. Of the teachers who attempted to 
+assess the impact of the use of ICT on teaching and learning in the class, 46% reported using 
+observation, while 22% reported using an assessment test. An analysis of inspectors’ reports on 
+case-study schools also illustrates the lack of attention to assessment of students’ progress in ICT-
+related activity throughout the curriculum. 
+
+133 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+It is clear that very little assessment of ICT-related activity takes place in primary school classrooms, 
+which is critical, given that assessment, followed by planning, is the starting-point for improving the 
+use of ICT in teaching and learning. Recent evaluations of the implementation of the curriculum 
+reveal that this lack of attention to assessment is not confined to ICT. The ICT framework from the 
+NCCA should help to address this deficit with regard to assessment of the use of ICT in the 
+curriculum. However, given the difficulties that teachers have with assessment, it is very important 
+that training be provided to facilitate the effective use of the framework and its assessment 
+mechanisms. 
+
+5.6 Developing ICT in the classroom 
+The evaluation identified factors that both constrain and facilitate the development of ICT in primary 
+classrooms. It is important that schools take account of these issues and work towards overcoming 
+the constraining factors and building on those factors that contribute to the development of ICT. 
+
+5.6.1 Factors that constrain the development of ICT in the 
+curriculum 
+In their reports on case-study schools, inspectors commented on the factors that constrained the 
+development of ICT in schools. The main factors related to poor infrastructure and lack of technical 
+support, low levels of competence and confidence on the part of teachers, insufficient time and 
+funding, and planning-related issues. Respondents in the survey of teachers also reported 
+infrastructural issues and lack of time as factors constraining the use of ICT in teaching and learning. 
+
+5.6.2 Factors that facilitate the development of ICT in the 
+curriculum 
+The most prominent factors facilitating the development of ICT in the curriculum include the 
+knowledge, enthusiasm, competence and experience of the teacher. The availability of appropriate 
+and accessible professional development clearly has a critical role to play in developing teachers’ 
+skills and confidence in the use of ICT. While teachers’ attitudes and competence are crucial, it is 
+also essential that they have ready access to functioning hardware and appropriate software. In this 
+regard, access to the internet and the availability of suitable peripherals are important factors in 
+facilitating the development of ICT in the classroom. 
+
+In the responses to their survey, teachers emphasised the ready availability of quality hardware in 
+sufficient quantity as a central factor. An analysis of the responses to this survey also suggests that 
+more experienced teachers gave priority to teacher training in ICT, while younger teachers gave 
+priority to the improved use of existing hardware and software in teaching and the updating of 
+specific software. 
+
+134 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Adequate funding is clearly an issue in relation to the provision of resources, including both 
+hardware and software. The grants provided to schools by the DES were recognised by teachers as 
+making a significant contribution to the development of their school’s resources. However, as 
+reported in chapter 1, schools find it necessary to supplement these grants through fund-raising and 
+other local contributions. As the availability of resources continues to be a constraining factor on the 
+development of ICT in schools, it must be concluded that additional funding for the development of 
+schools’ ICT infrastructure is required. 
+
+5.7 Findings and recommendations 
+5.7.1 Main findings 
+Teachers’ confidence and competence in the use of ICT 
+
+• Only 30% of primary teachers rated their ability either “intermediate” or “advanced” with 
+regard to using teaching and learning methods that are facilitated by ICT. Younger or more 
+recently qualified teachers had a higher perception of their ICT skills than more experienced 
+teachers. 
+
+Incidence of ICT use 
+
+• At primary level, inspectors reported evidence of the use of ICT to facilitate teaching and learning 
+in 59% of classroom observations carried out as part of WSEs. However, they observed ICT 
+actually used in only 22% of the lessons observed. 
+
+Integration of ICT in teaching and learning 
+
+• ICT is mainly used for the development of students’ writing, reading and numeracy skills. 
+However, even this use of ICT is infrequent. 
+
+• There is limited integration of ICT in the classroom. Where it is used, ICT predominates in core 
+curricular areas, such as English and Mathematics, and SESE 
+
+• There is limited use of ICT for the development of higher-order thinking skills, creative skills, social 
+skills, independent working skills, and communication skills. 
+
+• Students in junior classes experience a narrower range of ICT activity than their counterparts in 
+senior classes. 
+
+• Greater use is made of individual approaches to ICT-related activity than of paired, group or 
+whole-class approaches. 
+
+135 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+• The evaluation found limited evidence of teachers engaging in the assessment of ICT-related 
+activity in their classrooms or of its impact on teaching and learning. 
+
+Students’ ICT use and competence 
+
+• Most students reported being able to perform many basic computer tasks, such as turning a 
+computer on and off or opening and saving a file. 
+
+• More than 30% reported that they could not create a document, print a document, or log on to 
+the internet, or would need help to do so. 
+
+• The majority of students did not know how to create a presentation, use a spreadsheet, or send 
+an attachment with an e-mail message. 
+
+Use of resources 
+
+• There is a reliance on computer applications in both mainstream and special-education classes to 
+facilitate the use of ICT in teaching and learning. This use is mainly for the consolidation of 
+numeracy and literacy skills. 
+
+• While 69% of teachers reported using internet resources in planning and preparing for their 
+teaching, fewer than a quarter (24%) use the internet in classroom practice. 
+
+• There is very limited use of peripherals in primary schools, apart perhaps from the printer. 
+
+Quality of provision 
+
+• Inspectors were asked to describe the quality of the use of ICT in the teaching and learning they 
+observed during the inspection period in classrooms visited. Only a quarter of inspectors’ reports 
+on classroom observations suggest a competent or optimal level of performance. This proportion 
+was higher for senior classes than for junior classes. 
+
+Special-education settings 
+
+• Approximately half the mainstream teachers reported using ICT to assist students with special 
+educational needs in mainstream settings. A significantly higher use was reported by members of 
+schools’ special-education support teams. 
+
+• ICT is mainly used in special-education settings to develop reading, writing and numeracy skills, 
+with the most common applications used being word-processing and content-rich software. 
+
+• Inspectors’ observations of the use of ICT during classroom inspections suggest a range of quality 
+of provision in special-education settings, with only a third of instances rated “competent” or 
+“optimal.” 
+
+136 
+
+
+
+ICT and teaching and learning in primary schools Chapter 5 
+Factors constraining the use of ICT 
+
+• Factors constraining the development of ICT in the curriculum include poor infrastructure and 
+technical support, lack of competence or confidence on the part of teachers in the use of ICT, 
+and funding. 
+
+Factors facilitating the development of ICT 
+
+• Factors facilitating the development of ICT in the curriculum include knowledge, competence and 
+experience on the part of the teacher and access to functioning hardware, as well as funding. 
+
+5.7.2 Recommendations 
+Recommendations for policy-makers and policy advisors 
+
+Teachers need to be supported in meeting the challenge of effectively integrating ICT in their 
+classroom practices so that Irish classrooms can be placed at the forefront of advances in teaching 
+practices and students’ learning techniques. This can be done in the following ways: 
+
+• Consideration should be given to ensuring that teachers are provided with opportunities to 
+develop skills that are directly applicable to the use of ICT in the classroom. This should be 
+addressed in a strategic way through a combination of pre-service, induction and in-service 
+training methods. 
+
+• It is critical that teachers receive training in how to engage with the forthcoming “Framework for 
+ICT in Curriculum and Assessment” to be published by the NCCA. 
+
+• Education departments in third-level colleges should consider giving priority to the integration of 
+ICT in the different curricular areas when preparing students for teaching. 
+
+• It is important that classroom organisational matters be emphasised in support materials and 
+courses for teachers so that they can exploit potential opportunities for using ICT in the 
+classroom in accordance with the resources available. 
+
+Recommendations for schools 
+
+Teachers’ confidence and competence in using ICT 
+
+• Schools should endeavour to adopt mechanisms to facilitate the sharing of good practice among 
+members of the staff. For example, teachers who make effective use of ICT could act as mentors 
+to colleagues who are not as confident in their use of the technology. 
+
+• Teachers should be encouraged to become more critically reflective of their classroom practice, 
+particularly their practice with regard to ICT. 
+
+137 
+
+
+
+ICT in Schools • Part 3 ICT and teaching and learning in schools 
+Integration of ICT in teaching and learning 
+
+• Schools should endeavour to provide all their students with an appropriate and equitable level of 
+experience of ICT at all class levels. 
+
+• Continuous efforts should be made in schools to develop the level of teachers’ access to ICT 
+equipment. The provision of internet access in classrooms and access to a school network should 
+be a priority for schools. The relevant DES grants will help facilitate this provision. 
+
+• Teachers should regularly review their use of ICT with a view to expanding their repertoire of 
+teaching strategies, including opportunities for students’ engagement with the technology. 
+
+• Schools and teachers should make greater use of ICT to differentiate the implementation of the 
+curriculum within the mainstream classroom. 
+
+• Teachers should fully exploit the potential of ICT to facilitate the development of students’ literacy 
+and numeracy skills. 
+
+• Teachers should exploit the potential of ICT to develop a range of skills in students, including 
+research and collaborative skills, creative writing skills, communication skills, and the higher-order 
+skills of analysis, evaluation, and problem-solving. 
+
+Resources 
+
+• Schools should explore the use of as wide a range of resources and applications as possible, 
+including educational software, peripherals, e-mail, presentation software, Scoilnet, the NCTE 
+web site, and the internet. Schools could consider drawing up an inventory of software in 
+accordance with its suitability for class levels and curricular applications. The NCTE’s Software 
+Central web site, which provides advice and support to teachers on the use of software in their 
+classrooms, is a useful resource in this regard. 
+
+Special-education settings 
+
+• In using ICT as a teaching aid for students with special educational needs, schools should 
+endeavour to ensure that it is being used to support the widest range of students’ needs 
+possible, both within classrooms and in withdrawal settings. 
+
+• Schools should exploit the benefits of ICT in their assessment procedures and practices beyond 
+purely administrative functions. This could include using ICT to assess, track and analyse students’ 
+progress, using appropriate applications. 
+
+138 
+
+
+

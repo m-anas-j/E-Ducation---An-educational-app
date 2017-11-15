@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.QuizSelectionScreenController">
+   <children>
+      <ImageView fitHeight="729.0" fitWidth="1080.0" layoutY="-9.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+      <ComboBox fx:id="comboBoxGrade4Subjects" layoutX="293.0" layoutY="269.0" prefHeight="65.0" prefWidth="221.0" promptText="Grade 4" styleClass="combo-box-gradesubject" stylesheets="@SubjectScreenStyle.css" />
+      <ComboBox fx:id="comboBoxGrade5Subjects" layoutX="566.0" layoutY="269.0" prefHeight="65.0" prefWidth="221.0" promptText="Grade 5" styleClass="combo-box-gradesubject" stylesheets="@SubjectScreenStyle.css" />
+      <ComboBox fx:id="comboBoxGrade4SubjectChapters" disable="true" layoutX="293.0" layoutY="374.0" prefHeight="65.0" prefWidth="221.0" promptText="Chapters" styleClass="combo-box-gradesubject" stylesheets="@SubjectScreenStyle.css" />
+      <ComboBox fx:id="comboBoxGrade5SubjectChapters" disable="true" layoutX="566.0" layoutY="374.0" prefHeight="65.0" prefWidth="221.0" promptText="Chapters" styleClass="combo-box-gradesubject" stylesheets="@SubjectScreenStyle.css" />
+      <Label layoutX="357.0" layoutY="45.0" prefHeight="65.0" prefWidth="418.0" text="Pick a quiz!" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="75.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="172.0" fitWidth="172.0" layoutX="135.0" layoutY="12.0">
+         <image>
+            <Image url="@Assets/forum-27450_960_720.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="172.0" fitWidth="172.0" layoutX="775.0" layoutY="12.0">
+         <image>
+            <Image url="@Assets/Brain-Games.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="42.0" fitWidth="200.0" layoutX="304.0" layoutY="335.0">
+         <image>
+            <Image url="@Assets/separation-vertical.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="42.0" fitWidth="200.0" layoutX="587.0" layoutY="335.0">
+         <image>
+            <Image url="@Assets/separation-vertical.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="backButton" layoutY="90.0" mnemonicParsing="false" onAction="#backButtonPressed" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/back1600.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="homeButton" layoutX="964.0" layoutY="90.0" mnemonicParsing="false" onAction="#homeButtonPressed" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/home.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>

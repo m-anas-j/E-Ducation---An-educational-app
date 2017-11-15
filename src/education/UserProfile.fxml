@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.UserProfileController">
+   <children>
+      <ImageView fitHeight="727.0" fitWidth="1080.0" layoutY="-7.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+      <TextField fx:id="fullname" editable="false" focusTraversable="false" layoutX="234.0" layoutY="256.0" prefHeight="57.0" prefWidth="608.0" style="-fx-background-color: #217479;" text="      ---">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font></TextField>
+      <TextField fx:id="username" editable="false" focusTraversable="false" layoutX="234.0" layoutY="324.0" prefHeight="57.0" prefWidth="608.0" style="-fx-background-color: #217479;" text="---">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font></TextField>
+      <TextField fx:id="grade" editable="false" focusTraversable="false" layoutX="234.0" layoutY="394.0" prefHeight="57.0" prefWidth="608.0" style="-fx-background-color: #217479;" text="---">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font></TextField>
+      <TextField fx:id="institute" editable="false" focusTraversable="false" layoutX="234.0" layoutY="466.0" prefHeight="57.0" prefWidth="608.0" style="-fx-background-color: #217479;" text="---">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font></TextField>
+      <TextField fx:id="skilllevel" editable="false" focusTraversable="false" layoutX="234.0" layoutY="535.0" prefHeight="57.0" prefWidth="608.0" style="-fx-background-color: #217479;" text="---">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font></TextField>
+      <Button fx:id="changepasswordButton" layoutX="262.0" layoutY="604.0" mnemonicParsing="false" onAction="#changepasswordButtonPressed" prefHeight="57.0" prefWidth="192.0" stylesheets="@Red%20Button%20Highlight.css" text="Change password" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="fullnameButton" layoutX="878.0" layoutY="256.0" mnemonicParsing="false" onAction="#fullnameButtonPressed" prefHeight="57.0" prefWidth="114.0" stylesheets="@Red%20Button%20Highlight.css" text="Change" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="gradeButton" layoutX="878.0" layoutY="394.0" mnemonicParsing="false" onAction="#gradeButtonPressed" prefHeight="57.0" prefWidth="114.0" stylesheets="@Red%20Button%20Highlight.css" text="Change" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="instituteButton" layoutX="878.0" layoutY="466.0" mnemonicParsing="false" onAction="#instituteButtonPressed" prefHeight="57.0" prefWidth="114.0" stylesheets="@Red%20Button%20Highlight.css" text="Change" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <Label layoutX="88.0" layoutY="256.0" prefHeight="57.0" prefWidth="114.0" text="Fullname:">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="88.0" layoutY="324.0" prefHeight="57.0" prefWidth="114.0" text="Username:">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="88.0" layoutY="394.0" prefHeight="57.0" prefWidth="114.0" text="Grade:">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="88.0" layoutY="466.0" prefHeight="57.0" prefWidth="114.0" text="Institute:">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="88.0" layoutY="535.0" prefHeight="57.0" prefWidth="114.0" text="Skill Level:">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Label>
+      <Button fx:id="gobackButton" layoutY="142.0" mnemonicParsing="false" onAction="#gobackButtonPressed" prefHeight="57.0" prefWidth="192.0" stylesheets="@Red%20Button%20Highlight.css" text="Go back" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="nextButton" layoutX="887.0" layoutY="142.0" mnemonicParsing="false" onAction="#nextButtonPressed" prefHeight="57.0" prefWidth="192.0" stylesheets="@Red%20Button%20Highlight.css" text="Grade -&gt;" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="198.0" layoutY="253.0">
+         <image>
+            <Image url="@Assets/name-card-icon.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="198.0" layoutY="321.0">
+         <image>
+            <Image url="@Assets/20161014_58006bfb44c8d-210x210.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="198.0" layoutY="391.0">
+         <image>
+            <Image url="@Assets/5th-grade-icon.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="76.0" fitWidth="76.0" layoutX="197.0" layoutY="462.0">
+         <image>
+            <Image url="@Assets/institute.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="198.0" layoutY="532.0">
+         <image>
+            <Image url="@Assets/306437.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="changeSuccessful" layoutX="228.0" layoutY="676.0" prefHeight="36.0" prefWidth="621.0" text="Any change you make will be visible the next time you log in." textFill="#3700ff" visible="false">
+         <font>
+            <Font name="Comic Sans MS" size="22.0" />
+         </font>
+      </Label>
+      <Button fx:id="quizButton" layoutX="603.0" layoutY="604.0" mnemonicParsing="false" onAction="#quizButtonPressed" prefHeight="57.0" prefWidth="192.0" stylesheets="@Red%20Button%20Highlight.css" text="Take a quiz" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="19.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="440.0">
+         <image>
+            <Image url="@Assets/flat-face-icon-23.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="29.0" layoutX="841.0" layoutY="252.0">
+         <image>
+            <Image url="@Assets/horizontal_line1600.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="29.0" layoutX="841.0" layoutY="391.0">
+         <image>
+            <Image url="@Assets/horizontal_line1600.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="29.0" layoutX="841.0" layoutY="463.0">
+         <image>
+            <Image url="@Assets/horizontal_line1600.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

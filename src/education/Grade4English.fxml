@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="720.0" prefWidth="1080.0" style="-fx-background-color: #317A79;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.Grade4EnglishController">
+    <children>
+        <TextArea fx:id="textArea" editable="false" layoutX="207.0" layoutY="155.0" prefHeight="566.0" prefWidth="873.0" promptText="Select an option from the left column" stylesheets="@test.css" wrapText="true">
+            <font>
+                <Font name="Constantia" size="25.0" />
+            </font>
+        </TextArea>
+        <VBox layoutY="155.0" prefHeight="566.0" prefWidth="205.0" style="-fx-background-color: #255D5C;">
+            <children>
+                <ComboBox fx:id="comboBox" prefHeight="45.0" prefWidth="205.0" promptText="Chapters" styleClass="combo-box-subject" stylesheets="@SubjectScreenStyle.css" />
+            </children>
+        </VBox>
+        <Button fx:id="backButton" layoutY="45.0" mnemonicParsing="false" onAction="#backButtonPressed" prefHeight="85.0" prefWidth="87.0" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+            <graphic>
+                <ImageView fitHeight="100.0" fitWidth="100.0">
+                    <image>
+                        <Image url="@Assets/back1600.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+        </Button>
+        <Button fx:id="homeButton" layoutX="964.0" layoutY="45.0" mnemonicParsing="false" onAction="#homeButtonPressed" styleClass="button-backandhome" stylesheets="@SubjectScreenStyle.css">
+            <graphic>
+                <ImageView fitHeight="100.0" fitWidth="100.0">
+                    <image>
+                        <Image url="@Assets/home.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+        </Button>
+      <ImageView fitHeight="154.0" fitWidth="154.0" layoutX="463.0">
+         <image>
+            <Image url="@Assets/61-512.png" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>

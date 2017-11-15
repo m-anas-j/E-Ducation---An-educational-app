@@ -1,0 +1,796 @@
+Evaluation methods Chapter 2 
+Almost a decade ago Barton (1998) remarked, in relation to Britain, that “despite the massive 
+investment of time and money in information technology it is difficult to get clear evidence of 
+‘value-added’ in relation to IT use in our schools.” More recently, despite continued high levels of 
+investment, Tearle (2004) noted that, “even today, the regular use of ICT by the majority of staff 
+[members] and students within any one school is not commonplace”. In Britain the Office for 
+Standards in Education, while noting that the importance of ICT as a tool for learning is now widely 
+recognised, pointed out that “the government’s aim for ICT to become embedded in the work of 
+schools is a reality in only a small minority of schools” (Ofsted, 2004). 
+
+One type of ICT evaluation that is widely undertaken is the evaluation of the infrastructural 
+development in schools. The NCTE censuses (which are referred to in chapters 1 and 3) are an 
+example of this type of evaluation. This is an essential type of evaluation, and such statistics as the 
+student-computer ratio are a useful indicator of the permeation of ICT in schools. However, it is a 
+mistake to equate the availability of hardware with its productive use. To do so is an example of 
+what Papert (1990) refers to as “technocentric” thinking and raises the question, “What 
+contribution do these computers make to achieving the stated goals of education?” 
+
+A different approach was that adopted by the authors of the Impact2 report, who investigated the 
+correlation between the use of computers and attainment in National Tests and General Certificate 
+of Secondary Education (GCSE) results in Britain (Harrison et al., 2003). That research set out to 
+determine whether or not those students who used and were familiar with computers attained 
+better results in national tests than their counterparts who did not. 
+
+The most common qualitative approach to assessing the impact of ICT is by observation of teaching 
+and learning in classrooms. This is the approach normally adopted by school inspectorates. The 
+report by the Office for Standards in Education referred to earlier was based mainly on visits to 
+schools by inspectors between April 2002 and December 2003. A similar approach was adopted in 
+the development of school portraits as part of the European Research Network for ICT in Schools of 
+Tomorrow (ERNIST) project, the purpose of which was to identify and disseminate examples of 
+innovative uses of ICT in the classroom. Van Oel (2004) reported that, in addition to observing 
+classroom practice, inspectors examined school planning documents and discussed the issues and 
+their findings with the wider school community. 
+
+Haydn (2001) has pointed out that the types of ICT that may add value to a lesson vary from subject 
+to subject. Similarly, some evaluation techniques may have specific applicability. For example, Barton 
+(1997) carried out a study in which he compared the time students spent drawing graphs manually 
+with the time taken using data-logging equipment. This type of comparative study seems attractive, 
+as it appears to have the potential to demonstrate “added value” through the use of ICT. 
+
+The present evaluation may be described as a combination of the quantitative and the qualitative. 
+
+19 
+
+
+
+ICT in Schools • Part 1 Introduction 
+The combination of the two approaches was designed to provide a more comprehensive overview 
+of the impact of ICT in schools. 
+
+2.3 Overview and aims of the evaluation 
+There has been little published research evidence on the efficacy of ICT initiatives in schools in 
+Ireland, particularly with regard to teaching and its impact on students’ learning. This report aims to 
+bridge that gap. The aim of this evaluation was to assess the impact that ICT is having on education 
+in primary and post-primary schools. The evaluation also sought to assess the knowledge, skills, 
+attitudes and beliefs of teachers and students in relation to the use of ICT in the teaching and 
+learning process and in schools in general. The objectives of the evaluation may be summarised as 
+follows: 
+• to assess the extent of the use of ICT in primary and post-primary schools 
+• to evaluate the impact of ICT on teaching and learning 
+• to assess the ICT skills of students at selected points in the education system 
+• to obtain the views of principals and teachers about their ICT skills and their opinions about the 
+
+impact and future role of ICT in education 
+• to assess the extent to which ICT is used to support students with special educational needs 
+• to make recommendations that will inform the development of Department of Education and 
+
+Science policy. 
+
+The evaluation examined the availability of ICT in schools, the extent to which ICT was being used 
+by teachers to enhance and expand their teaching methods, and the extent to which students used 
+ICT to help them to learn, to obtain access to information, or for communication purposes. Evidence 
+was collected from a number of sources: 
+• a national survey of primary (234) and post-primary (110) principals that elicited their views on 
+
+the level and use of ICT in schools 
+
+• a national survey of primary (1,162) and post-primary (800) teachers designed to examine their 
+beliefs about the effectiveness of computers and other forms of ICT in contributing to education. 
+The teachers were also asked about their own skill levels in using computers and the degree to 
+which computers were used to support implementation of the curriculum 
+
+• visits by inspectors to a sample of case-study primary and post-primary schools to evaluate ICT 
+provision (32 primary schools and 20 post-primary schools) 
+
+• a questionnaire for students, administered by the inspectors during their evaluation visits to the 
+case-study schools. The questionnaires asked students about the frequency with which they used 
+computers at home and at school, the extent to which they believed they could perform basic 
+operations with computers, and their expectations about whether their future studies or career 
+would involve significant use of ICT 
+
+• the use by inspectors of ICT review schedules during classroom inspections as part of whole
+
+
+20 
+
+
+
+Evaluation methods Chapter 2 
+school evaluation (WSE) at primary level (77 schools) and during subject inspections at post-
+
+primary level (111 schools).15 
+
+This report presents analyses of quantitative and qualitative data collected from principals, teachers, 
+students and inspectors at primary and post-primary level. Taken together, this wide range of data 
+sources provided a much richer data set than would have been possible from any one source alone. 
+It also allowed for cross-referencing and the triangulation of evidence. 
+
+2.4 National survey of primary and post-primary 
+principals and teachers 
+During the period October–December 2005 a national postal survey of school principals and 
+teachers was conducted. 
+
+2.4.1 Survey sampling methods 
+A total eligible population of 3,024 primary schools16 and 711 post-primary schools17 were identified 
+for participation in the surveys of principals and teachers. On the assumption of a minimum 
+response rate of 40% from each sector a systematic sample of 260 schools was taken from the 
+primary school population with a view to obtaining a statistically valid sample of at least 100 
+schools, while a sample of 155 schools was taken from the post-primary school population with a 
+view to obtaining a statistically valid sample of at least 50 schools. Both school samples were 
+selected using the following stratifying variables: 
+
+(1) region (North and Dublin North, South-East and Dublin South, West and Mid-West, South, 
+Midlands, and Dublin West)18 
+(2) school size (small, medium, large) 
+(3) school type (mixed, all boys, all girls) 
+(4) student-computer ratio (low, medium, high, not known)19 
+(5) disadvantaged status. 
+15 See www.education.ie for information and related publications on whole-school evaluations in primary and post-primary schools and 
+on subject inspections in post-primary schools. 
+
+16 There were 3,284 recognised primary schools in Ireland in the 2005/06 school year, but special schools and those schools participating 
+in whole-school evaluations at the time of the postal survey were excluded. 
+
+17 There were 735 recognised post-primary schools in Ireland in the 2005/06 school year, but those participating in whole-school 
+evaluations at the time of the postal survey were excluded. 
+
+18 North and Dublin North Region (Cos. Cavan, Donegal, Dublin (Fingal), Dublin (North), Leitrim, Louth, Meath, Monaghan, Sligo); 
+South-East and Dublin South Region (Cos. Carlow, Dublin South, Dún Laoghaire and Rathdown, Kildare (North), Kilkenny, Wexford, 
+Wicklow); West and Mid-West Region (Cos. Clare, Galway, Limerick, Mayo, Roscommon, Tipperary (North); South Region (Cos. Cork, 
+Kerry, Tipperary (South), Waterford); Midlands and Dublin West Region (Cos. Dublin (West and South-West), Kildare (South), Laois, 
+Longford, Offaly, Westmeath). 
+
+19 The student-computer ratio (SCR) for a school is the total number of students enrolled divided by the number of computers in the 
+school. The median SCR for all primary schools sampled was approximately 9.7 students per computer. Accordingly, a school with 
+fewer than 9.7 students per computer was classified as having a low SCR (more favourable), while a school with more than 9.7 
+students per computer was classified as having a high SCR. The SCR was obtained from the NCTE census (2005), and a SCR was 
+available for 92 % of all schools sampled. In the case of post-primary schools the median SCR for those sampled was approximately 
+
+7.4. Accordingly, a school with fewer than 7.4 students per computer was classified as having a low SCR (more favourable), while a 
+school with more than 7.4 students per computer was classified as having a high SCR. Again, the SCR was obtained from the NCTE 
+census (2005), and a SCR was available for 80 % of all schools sampled. 
+21 
+
+
+
+ICT in Schools • Part 1 Introduction 
+The populations of primary and post-primary schools were sorted by these variables. For primary 
+schools a systematic random sample of 260 schools was selected by starting at a random point and 
+selecting every nth school. The starting point was selected by choosing a number at random from 1 
+to 3,024. The n was determined by dividing the total number of schools by the total sample size, i.e. 
+3,024 divided by 260. (To increase the likelihood of obtaining a minimum response rate of 40%, an 
+oversample was taken to account for the fact that some schools may not have been able to 
+participate.) The list was subsequently treated as circular, i.e. school 1 followed school 3,024. This 
+was approximately equivalent to selecting a proportionate stratified sample in accordance with the 
+variables described above. The same selection principle was applied to the population of post-
+primary schools. 
+
+2.4.2 Survey research methods 
+In each of the 260 primary and 155 post-primary schools surveyed the principal received a letter of 
+notification from the Inspectorate stating that their school had been chosen for participation in the 
+postal survey. This letter provided schools with the background to the survey and also stated that 
+survey questionnaires would follow. 
+
+Subsequently, each school received one questionnaire for the principal and a number of 
+questionnaires for the teachers. All teachers in primary schools that had eight or fewer teachers 
+were asked to complete a questionnaire; primary schools with more than eight teachers were asked 
+to ensure that one teacher per class group completed a questionnaire.20 For post-primary schools, all 
+teachers in schools with nine or fewer teachers were asked to complete a questionnaire; those 
+schools with more than nine teachers were asked to ensure that one teacher from each subject 
+group completed a questionnaire.21 
+
+These questionnaires for principals and teachers were developed by a team of inspectors, in 
+collaboration with the NCTE, following a review of relevant literature and an analysis of the content 
+of previous questionnaires. With the assistance of a small number of practising principals and 
+teachers, all questionnaires were piloted before being tested among a larger sample of principals 
+and teachers. This piloting helped to refine the questionnaires and ensured that all questions asked 
+were specific and accurate. 
+
+Two weeks after the questionnaires were sent to schools a second mailing was issued to those 
+schools that, at that point, had not returned their questionnaires. This was followed by a series of 
+telephone calls to schools where the response rate among the chosen variables was lower than 
+average. 
+
+20 Class groups: junior infants, senior infants, first class, second class, third class, fourth class, fifth class, and sixth class. 
+
+21 Nine subject groups: (1) English; (2) Mathematics; (3) Irish; (4) Foreign Languages; (5) Science (Physics, Chemistry, Physics and 
+
+Chemistry, Biology, Applied Mathematics, Science); (6) Business Studies (Accountancy, Business, Business Studies, Economics); (7) 
+
+Applied Science (Engineering and Metalwork, Technical Drawing and Graphics, Construction Studies and Materials Technology 
+
+(Wood), Agricultural Science, Agricultural Economics, Home Economics); (8) Social Studies I (History, Geography, Art, Craft and 
+
+Design, Music); (9) Social Studies II (Religious Education, Physical Education, Civic, Social and Political Education (CSPE), Social, 
+
+Personal and Health Education (SPHE)). 
+
+22 
+
+
+
+Evaluation methods Chapter 2 Evaluation methods Chapter 2 
+2.4.3 Response rate 
+Responses were received from 240 (92%) of the 260 primary schools surveyed. Completed 
+questionnaires were received from 234 principals and 1,162 class teachers (an average of almost 
+five teachers per school). At post-primary level, responses were received from 114 (74%) of the 155 
+schools surveyed. Completed questionnaires were received from a total of 110 principals and 800 
+teachers (an average of 7 teachers per school). Based on previous experience of similar surveys, the 
+actual response rate in all schools was more than double what was projected. This high response 
+rate reflected the degree of interest in the survey, the perceived importance of the topic, and the 
+follow-up procedure adopted to ensure that replies were received. 
+
+Fig. 2.1: Survey response rates 
+
+Impact of ICT on teaching and learning – response rates 
+
+
+100% 
+
+80% 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+92% 
+74% 
+Primary (n=260) Post-primary (n=155) 
+
+
+23 
+
+
+
+ICT in Schools • Part 1 Introduction 
+2.4.4 Comparison of respondents and population 
+The profile of the final sample of primary and post-primary schools was compared with that of the 
+population. This comparison is described in tables 2.1 and 2.2. 
+
+Table 2.1: Comparison of survey sample and population, primary schools 
+
+Primary Schools 
+Size (students) Respondents22 Population 
+(n = 240) (n = 3,024) 
+Small (<100) 
+
+52% 
+
+53% 
+
+Medium (100–199) 
+
+24% 
+
+23% 
+
+Large (200+) 
+
+24% 
+
+24% 
+
+Total 
+
+100% 
+
+100% 
+
+Type 
+
+Respondents 
+
+Population 
+
+Single-sex 
+
+17% 
+
+17% 
+
+Mixed 
+
+83% 
+
+83% 
+
+Total 
+
+100% 
+
+100% 
+
+Status 
+
+Respondents 
+
+Population 
+
+Schools in the School Support Programme (under DEIS)23 
+
+22% 
+
+20% 
+
+Schools not in the School Support Programme 
+
+78% 
+
+80% 
+
+Total 
+
+100% 
+
+100% 
+
+Region 
+
+Respondents 
+
+Population 
+
+North and Dublin North 
+
+23% 
+
+24% 
+
+South-East and Dublin South 
+
+15% 
+
+16% 
+
+West and Mid-West 
+
+27% 
+
+26% 
+
+South 
+
+19% 
+
+19% 
+
+Midlands and Dublin West 
+
+15% 
+
+15% 
+
+Total 
+
+100% 
+
+100% 
+
+22 A respondent is defined as a school in respect of which a response was received either from the principal or from at least one teacher. 
+
+23 DEIS (Delivering Equality of Opportunity in Schools), the action plan for educational disadvantage, was launched in 2005 and is being 
+introduced in a phased manner over the period 2005–2010. It addresses the educational needs of children and young people from 
+disadvantaged communities, from pre-school to second-level education (age 3–18). The plan provides for a standardised system for 
+identifying levels of disadvantage and a new integrated School Support Programme (SSP). The SSP will bring together, and build 
+upon, a number of existing interventions in schools with a concentrated level of disadvantage. More information on DEIS can be 
+found at www.education.ie. 
+
+24 
+
+
+
+Evaluation methods Chapter 2 
+Table 2.2: Comparison of survey sample and population, post-primary schools 
+
+Post-primary schools 
+Size (students) Respondents Population 
+(n = 114) (n = 711) 
+Small (<400) 
+
+42% 
+
+45% 
+
+Medium (400–599) 
+
+31% 
+
+28% 
+
+Large (>600) 
+
+28% 
+
+27% 
+
+Total 
+
+100% 
+
+100% 
+
+Type 
+
+Respondents 
+
+Population 
+
+Single-sex 
+
+36% 
+
+35% 
+
+Mixed 
+
+64% 
+
+65% 
+
+Total 
+
+100% 
+
+100% 
+
+Status 
+
+Respondents 
+
+Population 
+
+Schools in the School Support Programme (under DEIS) 
+
+26% 
+
+28% 
+
+Schools not in the School Support Programme 
+
+74% 
+
+72% 
+
+Total 
+
+100% 
+
+100% 
+
+Region 
+
+Respondents 
+
+Population 
+
+North and Dublin North 
+
+19% 
+
+19% 
+
+South-East and Dublin South 
+
+20% 
+
+21% 
+
+West and Mid-West 
+
+21% 
+
+20% 
+
+South 
+
+20% 
+
+20% 
+
+Midlands and Dublin West 
+
+20% 
+
+20% 
+
+Total 
+
+100% 
+
+100% 
+
+The profile of respondents closely matched that of the population for both primary and post-primary 
+schools according to the key variables of school size, type, status, and region. 
+
+2.5 Case-study school evaluations 
+A case study comprising an evaluation by inspectors of ICT provision in a sample of 32 primary 
+schools and 20 post-primary schools formed part of the evaluation methods employed. These 52 
+schools were selected as a subset of the main sample chosen for participation in the survey of 
+primary and post-primary principals and teachers. (See section 2.4.) Because the case-study schools 
+were a subset of the main survey sample and were selected randomly (as was the main sample), the 
+case-study schools also reflected the known population profile according to the main stratifying 
+variables. However, it should be borne in mind that the sample size was too small to be considered 
+representative. 
+
+25 
+
+
+
+ICT in Schools • Part 1 Introduction 
+Each of the fifty-two case-study schools was visited by an inspector between October 2005 and 
+February 2006. The schools were notified by telephone and letter of their participation in the 
+evaluation two to three weeks before the inspector’s visit. The inspectors usually spent one day in 
+each school and undertook the following activities: 
+• a tour of the school’s ICT facilities in the company of either the principal or the ICT co-ordinator 
+• separate interviews with the principal, the ICT co-ordinator and a small group of teachers, 
+
+normally four (the principal in each school was asked to select the group to be representative of 
+the range of ICT use in the classroom and to include a teacher involved with special educational 
+needs) 
+
+• interviews with a small group of students, usually four (in primary schools the students were from 
+fifth class, while in post-primary schools they were Leaving Certificate year 1 students) 
+• examination of samples of students’ work in, or using, ICT; the students usually took such work 
+with them to their interview with the inspector 
+• a review of relevant school documents; specifically, schools were asked to supply the inspectors 
+with 
+
+— a copy of the school’s ICT plan and acceptable-use policy 
+— an inventory of all ICT equipment, including ICT peripherals, in the school, indicating its 
+location in the different classrooms or areas in the school 
+— a copy of the duties of the ICT co-ordinator 
+— a copy of the timetable for any computer room (or rooms) in the school 
+• feedback to the principal. 
+The inspectors used a number of instruments as part of the case-study school evaluations to gather 
+evidence and data on a school’s provision of ICT. These included a “quick tour” review schedule that 
+helped to gather certain factual information on the school’s ICT infrastructure. Other instruments 
+used included schedules for the interviews held with the principal, the ICT co-ordinator, and the 
+small groups of teachers and students. 
+
+The inspectors also reviewed relevant background documents as part of the case-study school visits. 
+Questionnaires for the principal and teachers were received from all fifty-two case-study schools, 
+and these were reviewed as part of the study. Information held by the Department of Education and 
+Science was also consulted (for example information on ICT grants awarded in recent years), as was 
+ICT infrastructure census information (2005) held by the NCTE. 
+
+On completion of the school visits a brief report was prepared and issued to each school. These 
+reports addressed the ICT facilities that were found in the schools, as well as ICT planning and ICT in 
+the classroom. As well as emphasising the strengths evident from the evaluation, each report 
+included recommendations for schools to address as part of their development plans for ICT in the 
+school. 
+
+26 
+
+
+
+Evaluation methods Chapter 2 
+During the visits to schools the inspectors also administered a questionnaire to students. The 
+purpose of this questionnaire was to determine the views of students on ICT, not only with regard 
+to their interaction with ICT in school but also with regard to their use of ICT outside school time. 
+For primary schools an entire fifth class was selected for participation, while for post-primary schools 
+an entire Leaving Certificate year 1 class was selected. It was decided to select fifth-class students in 
+primary schools because it was thought that this group would have enough experience of ICT in the 
+school to be able to give informative feedback; this age group was also considered to be mature 
+enough to respond to such formal approaches as interviews and questionnaires. At the post-primary 
+level, Leaving Certificate year 1 students were selected because at that point in their schooling they 
+would have had three or four years’ experience of ICT in their school and so were considered to be 
+in a position to give informed responses to questions. A total of 437 primary students and 450 post-
+primary students completed questionnaires. Reference is made to the findings of this survey of 
+students throughout this report. 
+
+2.6 Observations during classroom inspections 
+(primary) and subject inspections (post-
+primary) 
+During the period in which case-study schools were being visited by inspectors (October 2005 to 
+February 2006), the majority of the inspectors who were engaged in evaluative work in mainstream 
+primary and post-primary schools completed an “ICT review schedule” for each school they 
+visited.24 These schools were not a subset of the schools that participated in the survey of primary 
+and post-primary principals and teachers but were simply those selected for evaluation as part of the 
+continuing work of the Inspectorate in the period in question. The ICT review schedules used by the 
+inspectors were a means of gathering first-hand information on the use of ICT in those schools, 
+particularly with regard to teaching and learning in the classroom. 
+
+2.6.1 Primary schools 
+The ICT review schedule used by inspectors at primary level contained three sections. The first two 
+sections were identical and were to be completed in respect of two individual mainstream class 
+teachers. The third section was to be completed in relation to the work of a member of the special-
+education team in a school (for example the resource teacher, the learning-support teacher or the 
+resource teacher for Travellers). The first part of each of the three sections in the schedule required 
+inspectors to ask questions of the individual teacher relating to their ICT planning and their use of 
+ICT. The second part of each section asked inspectors to observe and evaluate the level of 
+integration of ICT in teaching and learning during the inspection period with that teacher. 
+
+24 In the course of their work, inspectors undertake WSEs in both primary and post-primary schools. These evaluations are usually 
+conducted by inspectors working in teams. In addition—and although subject inspections form part of the WSE process in a post-
+primary school—inspectors also undertake separate subject inspections in post-primary schools. 
+
+27 
+
+
+
+ICT in Schools • Part 1 Introduction 
+In all, inspectors visited 77 primary schools during the period in question and completed ICT review 
+schedules in respect of 127 mainstream class teachers. As each schedule was completed during a 
+specific lesson, the inspectors observed 127 lessons. Most of these lessons took place in classrooms 
+with more than one class group (for example, one lesson in a small rural school might have had first, 
+second and third-class students in the same classroom). The classes involved, however, ranged from 
+infants to sixth class. Fig. 2.2 provides details of the lessons observed. 
+
+Fig. 2.2: Mainstream lesson observations in primary schools 
+
+Class level(s) being taught 
+
+(Multiple response) 
+
+40% 
+30% 
+20% 
+10% 
+0% 
+20% 19% 
+23% 
+17% 
+26% 
+23% 
+30% 31% 
+Infants Senior First Second Third Fourth Fifth Sixth 
+Infants Class Class Class Class Class Class 
+
+Base: All mainstream class observations (n=127) 
+
+Inspectors completed ICT review schedules in respect of 71 special-education team members 
+(resource teacher, learning-support teacher or resource teacher for Travellers), and therefore 71 
+lessons conducted by a member of a special-education team were observed. 
+
+2.6.2 Post-primary schools 
+The ICT review schedule used by inspectors at post-primary level was subject-focused and contained 
+two sections. The first section comprised a short subject questionnaire that required the inspector to 
+ask questions of the principal and the teacher (or teachers) of the particular subject (or subjects) 
+being evaluated. These questions related to the use of ICT in the subject (or subjects), ICT in subject 
+planning, and the preparation and implementation of ICT in the assessment of students’ 
+achievement. The second section of the review schedule comprised two lesson observation forms 
+and asked inspectors to record the level of integration of ICT in teaching and learning in the subject 
+area being evaluated. Inspectors generally completed one of these forms for a junior-cycle lesson 
+and one for a senior-cycle lesson. 
+
+28 
+
+
+
+Evaluation methods Chapter 2 
+In total, 111 post-primary schools were visited by inspectors during the period in question. This 
+comprised both those schools that participated in WSE and those that participated in a separate 
+subject inspection. This process yielded a total of 168 completed ICT review schedules. In essence, 
+this meant that 168 subject questionnaires were completed jointly by teachers and principals. The 
+subjects reviewed are illustrated in fig. 2.3.25 
+
+Fig. 2.3: Subjects reviewed at post-primary level 
+
+20% 
+15% 
+10% 
+5% 
+0% 
+17% 17% 
+16% 
+13% 
+11% 
+7% 
+5% 
+4% 
+2% 
+8% 
+Science Social Applied Foreign English Maths Business Irish Social Other 
+Studies I Science Languages Studies Studies II 
+
+Base: All post-primary subject questionnaires (n=168) 
+
+Arising from the 111 post-primary school visits inspectors completed ICT review schedules in respect 
+of a total of 311 lessons. Table 2.3 gives details of the level of those lessons observed. 
+
+Table 2.3: Number and level of lessons observed, post-primary schools 
+
+Level Number of lessons observed Percentage 
+Junior Certificate 
+
+154 
+
+49.5% 
+Transition Year 
+
+38 
+
+12.2% 
+Leaving Certificate 
+
+119 
+
+38.3% 
+
+Total 
+
+311 
+
+100% 
+
+25 In this regard only subjects in which inspections took place are included in the relevant subject groups, as follows: Science (29 subject 
+questionnaires completed for Science, Physics, Chemistry, and Biology); Social Studies I (28 subject questionnaires completed for 
+History, Geography, and Music); Applied Science (27 subject questionnaires completed for Engineering and Metalwork, Technical 
+Drawing and Graphics, Construction Studies and Materials Technology (Wood), and Home Economics); Foreign Languages (22 
+subject questionnaires completed for French, German, and Classical Studies); English (18 subject questionnaires completed for 
+English); Mathematics (11 subject questionnaires completed for Mathematics); Business Studies (9 subject questionnaires completed 
+for Accountancy, Business, and Business Studies); Irish (7 subject questionnaires completed for Irish); Social Studies II (4 subject 
+questionnaires completed for Physical Education); other (13 subject questionnaires completed for Guidance (8), Transition Year 
+modules (3), and computers (2)). 
+
+29 
+
+
+
+ICT in Schools • Part 1 Introduction 
+2.7 On-line evaluation 
+Twenty post-primary schools, as described in section 2.5, participated in the case studies. In these 
+schools inspectors interviewed a total of 79 teachers. Each of these teachers was subsequently 
+invited to take part in a follow-up on-line survey, which was designed to build a profile of the 
+teachers involved and to obtain further insights into their views on a number of specific issues raised 
+in the interviews. The teachers were asked to complete an on-line questionnaire based primarily on 
+responses obtained in the interviews. A total of 37 teachers completed the questionnaire—a 
+response rate of 47%. The profile of these teachers was compared with that of the random sample 
+of 800 teachers who completed the postal questionnaire. The profiles of the two groups were 
+found to match quite closely on a number of significant variables, namely gender, age, and 
+computer ownership. 
+
+2.8 Evaluation outputs and terms 
+2.8.1 Outputs 
+All data gathered as a result of the evaluation was analysed using relevant statistical analysis 
+software. Each table and chart in this report presents results using percentages and counts. All 
+percentages are based on valid counts (that is, where questions were answered by respondents, 
+unless otherwise stated). Some rounding of percentages has occurred. The order of outputs in each 
+section generally follows the order of questions in the relevant questionnaires. 
+
+2.8.2 Junior and senior classes 
+At primary level the use of the term “junior class” refers collectively to junior infants, senior infants, 
+first class, and second class; “senior class” refers collectively to third class, fourth class, fifth class, 
+and sixth class. At post-primary level the term “junior cycle” refers collectively to first year, second 
+year, and third year; “senior cycle” refers to Transition Year, fifth year, and sixth year. 
+
+2.8.3 Quantitative terms used in this report 
+A number of quantitative terms are used throughout the report. Table 2.4 provides a guide to the 
+most frequently used terms. 
+
+Table 2.4: Quantitative terms used in the report 
+
+Quantitative term Approximate percentage of occurrence 
+Almost all 
+
+More than 90% 
+
+Most 
+
+75–90% 
+
+Majority 
+
+50–74% 
+
+Less than half 
+
+25–49% 
+
+A small number 
+
+16–24% 
+
+A few 
+
+Up to 15% 
+
+30 
+
+
+

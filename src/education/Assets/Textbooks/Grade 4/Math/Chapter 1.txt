@@ -1,0 +1,536 @@
+Chapter 1 
+
+WHAT IS MATHEMATICS? 
+
+General Remarks 
+This chapter is intended to give the pupil an appreciation for 
+the Importance of rnathematlcs. Its objectives are: 
+
+I. To develop an understanding of what mathematics is as 
+opposed to simple computation. 
+11. To develop an appreciation of the role of mathematics 
+in our culture. 
+111. To motivate pupils by pointing out the need for mathe 
+maticlans and for mathematically trained people. 
+Since this chapter is much different from ordinary textbook 
+material it will need a different treatment. The purpose of the 
+chapter is -not to teach many facts or skills, but rather to build 
+an enthusiasm for the study of mathematics. Good attctudes will 
+be built if you use imagination and enthusiasm in getting these 
+objectives across to the puplls. Since the material Is not to be
+
+-
+
+taught for mastery, we strongly recommend that no test be given
+
+-
+
+covering the contents of this chapter, 
+
+Experience shows that this chapter can be covered within six 
+to eight lessons. Certaknly no more than eight days should be 
+devoted to it. 
+
+Were seventh graders are in a new school situation and have 
+so many interruptions during the first few days, some teachers may 
+wfsh to precede this chapter with review exercises which are more 
+familiar to the pupils. 
+
+Note that Exercises 1-6, (Page 13) and Exercises 1-7, fa age 14) 
+are suggestions for background study to be carried on throughout 
+the year. These should be begun during the first week, with 
+periodic reports on progress by pupils. Where guldance personnel 
+are available, their services should be solicited to help the 
+class outline a plan of action for the year. 
+
+
+It might be worthwhile to have the pupils read this chapter 
+again at the end of the year. The problems might also be solved 
+again. They should be much eaaier to aolve after the courae has 
+been completed. 
+
+Encourage the more able student8 to solve the brainbuaters 
+but be ready to help them if they have difficulties. Most pupils 
+will want to puzzle over the brainbusters for a few days. For 
+thie reason, only Individual help Is suggested until the time 
+seems appropriate for general class diacusslon. 
+
+1-1. Mathematics ---
+
+as a Method of Reasoning, 
+Page &. It might provide additional challenge to emphasize to the 
+pupila that Exercises 1-1 and Exercises 1-2 are not easy. More-
+over, no slmple formula for solution can be given. Some of the 
+pupils (and many parental) will certainly find the problems diffi-
+cult and time-consuming at this stage. You may not wish to 
+assign all the problems in these two sectlone. 
+
+Answers to Exe~cises1-1--Page 2: 
+
+1. THOsons cross; one returns. Father crosses; other son 
+returns. Two sons cross. 
+2, No. They need a boat carrying 225 pounds. Solution as 
+in 1 above, 
+
+3. Man takea goose and returns alone. He takes fox and 
+returns with goose. He takea corn across river and 
+returns alone to pick up goose. 
+4, Yes, Thfs depends on the fact that 8x + 5y = 2 has 
+solutions in integers, such as x = -1, y = 2 and x = 4, 
+y = -6. The first means that if you fill the 5-gallon 
+jug twice and empty it once Into the 8-gallon jug, you 
+will have 2 gallons left. The second solution means 
+that if you fill the 8-gallon jug four times and use it 
+to fill the 5-gallon jug 6 times, you will have 2 gallons 
+left, Point out that the first solution is best. 
+
+[pages 1-21 
+
+
+I 3 
+
+-5. Most pupils will need paper and pencil for this one, As 
+they attempt the solution in front of the class it is a 
+good idea to minimize the help from others in the class. 
+If an error 18 made, another student should be selected to 
+
+1 present hia solution. It should be pointed out that a 
+i croaafng neceasltatss a landing. 
+
+I Ml M2 M3.C1C2 C3 
+
+t 
+
+t 
+
+5 CI cross river; returns. 
+C C croaa river; C1 returns. 
+
+2 3 
+M1 Me cross river; M1 C2 return. 
+M1 M3 cross river; C3 returns. 
+C1 C2 cross river; C1 returns. 
+C1 C3 cross river. 
+
+Balance the two groups of 3 marbles each. If they balance 
+then it is only necessary to balance the remaining two 
+marbles to find the heavy one. If the two groups of 3 
+marbles do not balance, take the heavier group. Of the 3 
+marbles in the heavier group balance any 2 marbles. If 
+they balance, the remaining marble is the heaviest one. 
+If the 2 marbles do not balance, the heaviest will be 1 
+of the 2 on the balmce. 
+
+7, In aolving the problem is it practical to try out all the 
+possible waye the dominoes may be placed on the board? 
+This would be difficult because there are more than 
+65,536 ways to cover the whole board, The solution may 
+be found in another way: 
+How many squares are there altogether on the board? 
+
+(64) 
+
+How many squares muet be covered? (62) 
+
+What is special about the two square8 next to each 
+
+other? (They sre of different colors. ) 
+
+What Is speclal about the two opposite corners? 
+
+co hey are the same color. ) 
+
+
+If you place any number of domlnoes on the board can you 
+say anythlng about the kinds of squares which will be 
+covered? How doea this compare with the kinds of squares 
+which you are supposed to cover? Do you have to make 
+even one experiment in order to get the answer to the 
+origlnal problem? Can two squares of the same color be 
+covered with one domino? The answer to thla question 
+ahould help some of the students reason why the solution 
+Is impoaalble. 
+
+1-2. Deductive Reasonlnq. 
+Pam 3. After the concept of deductive reasoning has been Intro-
+duced, it ia still necessary to give the students an understanding 
+of Its importance. Examplea of scientific advances in which de-
+ductive reaaoning was used might be Elnstelnts discovery of the 
+atomic energg formula E = MC2 , apace travel, satellites, digital 
+computer development, nuclear energg, etc. 
+
+Anawers to Exercises 1-2 -Page 4: 
+
+I. After each person receivea one pencll, the 5th pencil 
+must go to one of the 4 people. 
+2. (a) Yes. 
+(b) Someone gets at least 3 pencils. 
+3. 367. h he answer mat take leap year into account.) 
+4. 1. Tell the class that the first two to enroll might be 
+twins. 
+7. Only 1. 
+8. 6 committees, 
+9. 12 committees. 
+
+[pages 3-45 
+
+
+1-From Arithmetic -to Mathematlcs. 
+
+Page 5. Before considering Gauss's discovery of summing an arith-
+metlc series, you may wish to offer the following as an example of 
+a scientific experiment in which mathematics is used. 
+
+Make a pendulum by fastening a 
+weight to a string 40 inches long. psiling 
+Attach the string to an object that eye hook 
+will not move, The pendulum ehould 
+swing freely. Set the pendulum 
+into motion. Count the number of 
+times it swings back and forth in 
+30 seconds. Shorten the string by 
+5 inches and repeat this experiment. f 
+Shorten again by 5 inches and do it 
+again. Make a table of your ob-
+0 
+i,--
+
+Length of string No. of gwings 
+In knchee in 30 seconds 
+
+Does there aeem to be a relationshfp between the length of 
+the pendulum and the time? Can you predict the number of swings 
+in 30 seconds If the string is 20 inches long? How does the 
+number of swings depend upon the length of the atring? 
+
+You have actually repeated an experiment done by Galileo 
+about 400 years ago. Galileo was a famous Italian scientist who 
+lived in the years 1564-1642. He got the idea for the experiment 
+by watching a hanging light fixture swing back and forth, He 
+timed the swing by means of his pulse beat. He was one of the 
+first aclentists to show how important it was to Investigate 
+problems by the experimental method. 
+
+
+In mathematics we often use the inductive method to discover 
+something. Then we use deductive reasoning to prove that it is 
+true. 
+
+John Freedrich Karl Gauss was born in Brunawick, Germany, in 
+1777. He died in 1855 at the age of 78. The pupils may be inter-
+ested in noting that his lifetime almost spanned the years from the 
+American Revolution to the Civil War. 
+
+Many mathematicians consider Gauss as one of the three great-
+eat mathematicians of all times, the other two being Newton and 
+Archimedes. 
+
+In this age of space exploration'lt is interesting to note 
+that Gauss developed powerful methods of calculating orbits of 
+comets and planets. His interests extended also to such fields 
+as magnetism, gravitation, and mapping. In 1833 Gauss invented 
+the electric telegraph, which he and his fellow worker, Wilhelm 
+Weber, used as a matter of course in sending messages. 
+
+In 1807 Gauss was appointed Director of the Gdttingen 
+Observatory and Lecturer of Mathematics at G8ttingen University. 
+In later years the greatest honor that a German mathematician 
+could have was to be appointed to the professorahip which Gauss 
+had once held. 
+
+Thla sectlon deals with Gauss's discovery of the known method 
+of sming an arithmetic series. It dramatizes how some pupils 
+(and mathematicians) apply insight to finding a aolution to a 
+problem. Your better students should be told that there are 
+methods other than Gauaals for finding the sum of a seriee of 
+numbers. Some students might be encouraged to discover methods 
+of their om for addfng number series quickly. 
+
+The "middle number" method is one that may be used. This 
+scheme can be used for an even or an odd number of integers. The 
+following examples may be used to explain this method athe 
+students who have tried to discover other methods. 
+
+
+In this series the middle number (4) is the average of t.he 
+individual numbers of the series. The sum is the product of the 
+middle umber (4)and the nu~nberof integers in the series or 
+4 x 7 = 25. 
+
+Some pupils may prefer to think of the series as 
+(1 + 7)+ (2 + 6)+ (3 + 5) + 4 = (4 + 4) c (k + 4) + (4 + 4) 
++4=7~4=28. 
+
+ExampleE. 1 +> =?
+
+t 3 + 4 + 5+ 6+7 -1-8 
+
+In this case the "middle number" is halfway between h and 5, 
+1 1 
+
+or . Then the product (%) x 8 = 36 is seen to give the correct 
+
+L 
+
+Sum. 
+It may seem more plausible here to write the sum as 
+(1+ 8)+ (2 + 7) + (3 + 6) + (4+ 5) = 
+
+Clearly, Gauss's method is to be preferred in this case. 
+
+Answers to Exercises 1-3--page 6: 
+
+1. Another method is this: 2 + 4 = 2 + 3, 1+ 5 = 3 + 3. 
+That is, the sum is the same as: 
+3+3+3+3+3=5~3=15. 
+This can be callcd the "averaging method." 
+2. Either method works. Gauss method: 8x5. 
+I?--
+
+' 
+Averaging method: 5 x 4 = 20. 
+
+16 x 8
+
+3. = 6k. Here there is an even number of quantities 
+so that the "averaging method" must be 
+modified to give 8 ei&tfs or 8x 8 = 64. 
+11. (a) 1!. 
+
+(b) 9-
+
+() 16. 
+
+(d) The sum of the first 'In"consecutive odd numbers 
+~qualsthe square of "nu. 
+(e) 64. 
+
+
+8. Yes, provided that the numbefs are In arithmetic progrea-
+aion; that is, there 18 the same difference between each 
+pair of adjacent numbers, 
+9, Yes. If we start with 1 there are 200 Integers in the 
+
+series giving us v.If we start with 0 there 
+
+are 201 integers in the series giving us w. 
+
+The products of like factors are equal. The method also 
+may be used in a aerlee if we select a number other than 
+1 or 0 as a starting point. Some of the better atudenta 
+may investigate whether the method works in other number 
+series, 
+
+10. (a) If you add 1 to the quantity, the sum up to any 
+number is equal to the next number. Hence, the 
+sum plus 1 is equal to 2 
+256 s 512. Therefore, 
+the sum is 511. 
+(b) This is more In the spirit of Gauss: 
+Sum = I + 2 + 4 + ... + 256 
+-
+
+2 x sum = 2 + 4 + ...+ 256 + 512 
+Subtracting: Sum = 511. 
+
+11. Sum = 2 + (6+ 18 + .., + 486) 
+3 x sum = 6 + 18 + ... + 486 + 1458 
+Subtracting: 2 x (the sum) = 1458 -2 = 1456 
+Sum, 728. 
+1-4. Kind8 of Mathematics. 
+
+Page 7. DiBcussion of this section should emphasize the dynamic 
+
+character of mathematics. It is not a "dead" subject as many 
+
+parents believe, 
+
+
+It is important also to point out here (and throughout the 
+course) that certain important ingredients are commoli to all the 
+many varieties of mathematics. The method of logical reasoning, 
+the use and manipulation of abstract symbols, the insistence on 
+precision of thought and clarity of expression, the emphasls on 
+genera: results--these are some characteristics which need to be 
+stressed whenever possible. 
+
+Probability--page 9: 
+
+This section gives only a very brief introduction to proba-
+bility. Although students may become interested at this point and 
+attempt more complex problems, it would bo bctter if they waited. 
+A chapter on probability is included in Vol~un~ Some supple-
+
+11. 
+mentary units also are available. 
+
+Answers to Exercises 1-&--page 9: 
+
+-r--
+
+2. One out of four or 
+1
+
+3. One out of two or 7. 
+I
+
+'I. One out of 52 or q. 
+-4 1
+
+5. Four out of 52 or 52 -3. 
+The probability may be thought of as a ratio of 
+
+the number of possible tions
+
+favorable sel~c
+
+-
+
+5e total number of all pwectlons. 
+
+The pupils should be reminded that to say his chances are 
+1 out of 13 does not mean that he will necessarily draw 
+an ace in the first 13 draws. 
+
+6. One out of six. A die has 6 sides and only one side has 
+two dots. 
+7. There are four possibilities In all, only one of whlch 
+1
+is favorable. Hence the probability is T. 
+
+8. One out of ?,6. The more advanced students should reason 
+that there are 36 possible combinations. A table may be 
+constructed to show the possibilities. A possible diagram 
+is the following. 
+[pages 8-9 1 
+
+
+Number of 
+Possibilities 1 2 3 4 5 6 7 8 9 ... 34 36
+
+35 
+
+1st die 111111222...6 6 6 
+
+2nd die 123456123....4 5 6 
+Since there i6 only one possible way of making two ones 
+1
+
+the probability is 56. 
+
+9. The possibilities are easily enumerated. 
+Number of 
+Possibilities 1 2 3 4 5 6 7 8 
+1st coln HHHHTTTT 
+2nd coin HHTTHHTT 
+3rd coin HTHTHTHT 
+1
+
+For 3 heads to come up, the probability la 8. For 
+3
+
+exactly 2 heads the probability is 3 out of 8 org. For 
+at least two heads the chance is 4 out of 8 or -.1 Note 
+
+C 
+
+that thla equals the probability of exactly two heads 6)
+1
+
+plus the probability of 3 heads (B). 
+
+Class Activities 1-6 and 1-?--paps 13-14: 
+
+The exercises suggested in Section 1-6 and Section 1-7 should 
+be undertaken as year-long projects to be reported on periodically. 
+Much of this information would be good bulletin-board materisl. 
+A general aim is to make the pupils alert to the current news 
+relating to mathematics and mathematicians. As the year progresses 
+they should gain an increasing appreciation of the important role 
+mathematical thought is playing in our present civilization. 
+
+The National Science ~oundation,Washington 25, D.C., pub-
+lishes pamphlets which contain fnformatlon on the number of 
+mathematicians and where they are employed, 
+
+[pages 13-14I 
+
+
+! 
+
+11 
+
+A survey of college requirements in the vocations students 
+may choose should be especially valuable at this stage. We hope 
+it may eaee the difficult task of effective guidance in choosing 
+their high school courses. 
+
+One word of caution is perhaps warranted here. The purpose 
+of these sections on mathematics today 1s to call attention to its 
+central role in the pupil's daily life. The necessity for a mini-
+mum howledge of mathematics is to be stressed. ---A 
+
+It is not the 
+intention -to recruit people -for careers -as rnathernatlcians.-
+
+1-8. Mathematics -for Recreation. 
+Page 15, Brlng out the fascination of mathematics as a leisure 
+actlvity or hobby. ncourage students in finding recreational 
+mathematics from the booka available at school md from current 
+magazines or rotogravure aection~of newspapers. 
+
+I 
+I 
+Choose auch problems now and then, throughout the year, at a 
+time when the class needs a change of pace. These kinds of 
+problems can be used profitably with the class period before aI lengthy vacation. 
+
+Dlseuasion of Kijnigsberg Bridges Problem.
+
+j -
+
+By experimenting you can show that it is impossible to pass 
+i just once over every bridge if there are more than two points 
+
+i 
+
+I where an odd number of routes come together. Since there are 
+
+t 
+
+I 
+
+., -this
+
+, Pour points where an odd number of route8 come together, 
+
+I make8 it impoesible to walk over each bridge once and only once. 
+You may wish to consult the supplementary unit on the KGnigsberg 
+Bridges for further ideas. 
+
+Answer -to Exercise -1-8--page--16: 
+
+1 The first figure can be drawn if you start at either of 
+the vertices where an odd number of segments come to-
+gether. The second figure has no such vertices so it 
+can be drawn by starting at any vertex. The third figure 
+has four vertices where an odd number of segments come 
+together ao it cannot be drawn without lifting your 
+
+pencil or retracing a line. 
+[pages 15-16] 
+
+
+1-9, Highlights of First-Year Junior High School Mathematics. 
+Page 16, This section is intended to give the student a general 
+overview of the scope of the first-year course in junior high 
+school mathematics. It is intended to broaden his ideas of mathe-
+matics by discussing very briefly the topics that will be studied. 
+This, together with the introduction of logical reasoning and 
+probability earlier in this chapter, will help dispel the general 
+idea that mathematics is computation only. 
+
+Reading this chapter again later in the year may strengthen 
+the student's understanding of what mathematics is, 
+
+

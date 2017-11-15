@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.Grade4ScreenController">
+    <children>
+        <ImageView fitHeight="727.0" fitWidth="1080.0" layoutY="-7.0">
+            <image>
+                <Image url="@Assets/signup.png" />
+            </image>
+        </ImageView>
+        <Region layoutX="391.0" layoutY="25.0" prefHeight="200.0" prefWidth="200.0" />
+        <Button fx:id="english" layoutX="246.0" layoutY="279.0" mnemonicParsing="false" onAction="#englishClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-english4" stylesheets="@GradeStyle.css" text="English">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="science" layoutX="246.0" layoutY="353.0" mnemonicParsing="false" onAction="#scienceClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-science" stylesheets="@GradeStyle.css" text="Science" textFill="WHITE">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="math" layoutX="246.0" layoutY="427.0" mnemonicParsing="false" onAction="#mathClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-math4" stylesheets="@GradeStyle.css" text="Math">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="religion" layoutX="246.0" layoutY="501.0" mnemonicParsing="false" onAction="#religionclicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-religion" stylesheets="@GradeStyle.css" text="Religion" textFill="WHITE">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="ict" layoutX="246.0" layoutY="575.0" mnemonicParsing="false" onAction="#ictClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-ict" stylesheets="@GradeStyle.css" text="ICT">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="back" layoutY="93.0" mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-back" stylesheets="@GradeStyle.css">
+            <graphic>
+                <ImageView fitHeight="100.0" fitWidth="100.0">
+                    <image>
+                        <Image url="@Assets/back1600.png" />
+                    </image>
+                </ImageView>
+            </graphic></Button>
+        <Button fx:id="home" layoutX="963.0" layoutY="93.0" mnemonicParsing="false" onAction="#homeButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-back" stylesheets="@GradeStyle.css">
+            <graphic>
+                <ImageView fitHeight="100.0" fitWidth="100.0">
+                    <image>
+                        <Image url="@Assets/home.png" />
+                    </image>
+                </ImageView>
+            </graphic></Button>
+        <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="284.0">
+            <image>
+                <Image url="@Assets/131-512.png" />
+            </image>
+        </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="440.0">
+         <image>
+            <Image url="@Assets/4th-grade-icon.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="506.0">
+         <image>
+            <Image url="@Assets/religion.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="432.0">
+         <image>
+            <Image url="@Assets/20170311_58c36c30dc4c3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="580.0">
+         <image>
+            <Image url="@Assets/Computers-Communication-Devices.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="358.0">
+         <image>
+            <Image url="@Assets/idea-immagination-bulb-biology-physics-science-energy-power-3426071067072de7-512x512.png" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>

@@ -1,0 +1,1508 @@
+
+Chapter 2 
+
+Introduction 
+
+For this unit little background is needed except familiarity 
+with the nunher symbols and the basic operations with numbers. 
+The purpose of the unit is to deepen the pupilis understmding of 
+the decimal notation for whole numbers, especially with regard to 
+plzce value, and thus to help him delve a little deeper into the 
+reasons for the procedures, which he already knows, for carrying 
+out the addition and multiplication operations. One of the best 
+ways to accomplish this is to consider systems of nmber notations 
+using bases cther than ten. Since, in using a new base, the 
+pupil must necessarily look at the reasons for "carrying" and the 
+other mechanical procedures in a new light, he should gain deeper 
+insight into the decimal system. A certain amount of computation 
+in other systems is necessary to "fix1'these ideas, but such 
+computation should not be regarded as an end in itself. Some of 
+the pupils, however, may enjoy developing a certain proficiency 
+in using new bases In computing. 
+
+Perheps the most important reason for introducing ancient 
+spbolisms for numbers is to contrast them with our decimal system, 
+in which not only the symbol, but its position, has significance. 
+It should be shown, as cther systems are presented, that positlon 
+has some significance in them also, The Roman System has a start 
+in this directior: in that XL represents a different r?wriber from 
+LX, but the start was s very primitive one. The Babylonians also 
+made use of position, but lacked a symbol for zero until about 
+200 B.C. The Babylonian symbol '$2 denoted the absence of a
+
+If 
+
+flgure but apparently was not used in computation. The numeral 
+zero is necessary in a positional system. In order for the pupils 
+to appreciate the important characteristics of our system or 
+writing numbers, the following table may be discussed. 
+
+
+Base Place Value Zero 
+Egyptian Ten No No 
+hbylonian Sixty Yes Llrnited 
+meaning 
+Roman Varied No, but it has No 
+positional value 
+Decimal Ten Yes Yes 
+
+Pupils should not be expected to memorize ancient symbolism. It 
+is recommended that little time be spent on the use of the symbols 
+themselves. 
+
+It is especially important to distinguish between a number 
+and the symbols by which it is represented. Some of the proper-
+ties usually connected with a number are really properties of Its 
+notatlon. The facts that, in decimal notatlon, the numeral for 
+a number divisible by 5 ends in 5 or 0, and that has an unending
+
+7 
+
+decimal equivalent (0.333.. . ) ,are il1ust:rations. Most of the 
+properties with which we deal are properties of the numbers 
+themselves, and are entirely independent of the notation in which 
+they are represented. Examples of such properties or numbers are: 
+2 + 3 = 3 + 2; the number eleven is a prime number; and six is 
+greater than five. The distinction between a nunber and the 
+notation In which it is expressed should be emphasized whenever 
+there Is opportunity. 
+
+An attempt has been made to use "number" and "numeral"wlth 
+precise meaning in the text. For example, "numerals" are wrftten, 
+but "numbers1' are added. A numeral is a written symbol. A number 
+is a concept. Later In the text it may be cumbersome to the 
+point of annoyance to speak of "adding the numbers represented 
+by the numerals written below." In such case the expression may 
+be elided to "adding the numbers below." 
+
+At several points, numbers are represented by collections of 
+xis. Exercises of this kind are important, because they show the 
+role of the base in grouping the x's, as well aa the significance 
+of the digits in the numeral for the number. 
+
+
+Suggested Time Schedule 
+
+It is important that only enough time be spent on the various 
+sections to secure the understandings desired. The historical 
+symbols themselves are not Important. Neither are the numerals in 
+other bases valuable in themselves, but the Ideas that they help 
+to clarify are important. 
+
+Familiarity with the subject matter is an important factor In 
+a smooth presentation, Teachers report that a second experience 
+with this material is much easier than the first. The lesson 
+moves more rapidly, apparently, as the teacher gains confidence 
+in the subject matter presented. 
+
+Homogeneously grouped classes undoubtedly will alter the 
+suggested schedule since the more able students can complete the 
+chapter in less time while less able students may require a consid-
+erably longer period of time on various sections. The following 
+schedule may then be adapted to local needs, taking into consi-
+deration the length of class periods and other factors. It 
+should be remembered that extra time spent on this chapter will 
+
+necessarily reduce the number of days available for later important 
+chapters. 
+Sections Days 
+1 1 
+2 1 
+3 1-2 
+4 2 
+5 
+6 
+7 
+8 
+9 
+Test 
+Total 15-16 
+
+Fifteen to sixteen days should be sufficient for the chapter and 
+a test on the chapter. 
+
+
+2-1. History of Numerals. 
+Pa~e21. The purpose of the historical material is to trace the 
+continuing need for convenient symbols and for a useful way of 
+writlng expressions for numbers. The idea of "one-to-one" corre-
+sporrdence is introduced. It Is developed later and should not be 
+defined here where the emphasis is upon numerals rather than upon 
+number. Egyptian symbolism is Introduced to familiarize the 
+pupils with one of the first Important systems of notation. Do 
+not consume an excessive amount of time in discussing the Egyptian 
+or Babylonian systems. 
+Page -22, The Babylonians were among the first to use place value. 
+The base sixty system is mentioned because of later reference to 
+ft, particularly In measurement. There is evidence that the 
+Babylonians also used symbols like 03 but there is no need to 
+introduce these to the pupils. No pupil should be required to 
+memorize ancient symbolism except in the case of Roman numerals. 
+Paue 3.The Roman system may be stressed because of its conth-
+
+ued use. Note that the subtracting prfnciple was a late develop-
+ment. It may be pointed out that computation in ancient symbolism 
+was complex and somet?mos very difficult. Because of this, 
+various devices were used, such as the sand reckoner, counting 
+table, and abacus. After decimal numerals became known, algo-
+rithms were devised and people were able to calculate with symbols 
+alone. There was much oppoaltlon In Europe to the introduction 
+and use of Hindu-Arabic numerals, especially on the part of the 
+abaclsta. As the new system became accepted, the abacus and 
+other computing devices slowly disappeared in Europe. 
+
+Answers to Exercises 2-1--Page -24: 
+
+999 nnn 
+
+$99~nnn 
+
+389 
+
+[pages 21-24] 
+
+
+3. (a) 200,105 (4 1029 
+(b) 2052 (d) 1,100,200 
+
+(e) 666 
+
+(f) 500,000 
+
+(g) 1492 
+
+7. (a) XIX (d) MDCXC 
+(b) Lm.1 (4 fl 
+(c ) DCCCLXXXVIII (f) rv 
+9. (a) No. Since X represents a smaller number than C, 
+XC means 100 -10 or 90 while CX means 100 + 10 or 
+110. 
+(b) Yes, since the position indicated whether the 
+numbers are to be added or subtracted. 
+10. (a) Three. 
+(b) One hundred eleven. 
+(c) In the Roman system, the symbol shows the number 
+of units to be added while our system shows the 
+number of Froups and each group has a different 
+number of units. The decimal system involves place 
+value while the Roman system does not. 
+11. (a) 1709 
+
+65'r 
+
+- 
+-
+(b) 2640 
+1408 
+
+4048 or MMMMXLVIII 
+
+
+2-2. The Decimal System. 
+Pa~e26, The Illustration of grouplng in tens suggests a method 
+useful in mental calculation as 37 + 62 is 3 tens + 6 tens + 7 + 2 
+which Is 99. Note that parenthesea are used to ahow that certain 
+combinations are to be considered as representing a single numeral 
+In a later chapter a different uae of parentheses will be dls-
+cussed in greater detail. lkphasize the value represented by a 
+digit and the value of position in decimal notation. 
+
+Rnphasize the importance of the Invention of a useful system 
+which lends itself easily to calculation. The efficiency of the 
+decimal system lies in a combination of factors. 
+
+1. Only a few symbols are needed, no matter how large or 
+small the number expressed. Some students may observe 
+that we use ten symbols while the Babylonians used just 
+two and the Egyptians and the Romans each used 7. How-
+ever, in the decimal system no additional symbols are 
+ever needed as larger numbers are Introduced; this Is 
+not true of the other systems. 
+2. Place value in which each position corresponds to a 
+power of the base is of importance In a aystem used for 
+calculation. 
+3. The concept of zero as a place holder Is essential in the 
+development of a place value system. 
+Page 28. The reading and writing of numerals may be treated a8 a 
+review, or if needed, as a thorough study, depending on the needs 
+of pupils. Some pupils may know and understand this material 
+completely. Others may have a very limited proficiency in this 
+area. 
+
+A class discussion might deal with the Following: 
+
+Suppose we used systematic names for numerals such as "two 
+tenst1for twenty, "two tens, one" for twenty-one, "ten, one1'for 
+eleven, and ''ten, two1'for twelve. How many different, basic 
+words would be needed to name all counting numbers up to a 
+trillion? eme ember that a numeral like "one hundred, three tens, 
+sixN is made up of basic words used many times in other numerals.) 
+There are fifteen essential words: "one, two, three,... ..., ten, 
+
+[pages 26-28 I 
+
+
+, thousand, trillion." 
+
+to memisea 2-2. Page 2%
+
+-
+
+Ten; 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. 
+
+(1)units, (2) tens, (3) hundreds, (4) thousands, 
+(5) ten thousands, (6)hundred thousands, (7)mllll 
+(8)ten millions, (9)hundred milllom . 
+(a) three hundred. 
+(b) three thousand five. 
+seven thouaand one hundred nhe.
+(c) 
+
+(d) fifteen thowand fifteen. 
+(e) two hundred thirty-four thousand. 
+(f) slx hundred elght thowand fourteen. 
+(g) one hundred thousand nine. 
+(h) four hundred thlrty thouaand one. 
+(I)nFne hundred nlnety-nine thousand nine hundred 
+ninety-nine. 
+(~ote: Only the tens numbers are hyphenated, a8 
+'twenty-three" ,etc.) 
+4. (a) seven million thirty-slx thousand two hundred 
+ninety-eight. 
+(b) nFne trillion three hundred billion seven hundred 
+eight million ffve hundred thousand. 
+(c) twenty billlon three hundred million four hundred 
+thowand five hundred. 
+(d) nine hundred billion. 
+5. (a) 159 
+(b) 503 
+(4 6857 
+
+(d) 3,070,013 
+(e) 4,376,007,000 
+(f) 20,010 
+
+(8) 9,015,200 
+
+99,999 means (9 x 10,000) + (9 x 1000) + (9 x 100)+ 
+(9x 10) + (9x 1) 
+nlnety-nine thousand nine hundred nlnatv-nhe 
+
+
+7. 100,000 means (1 x 100,000) + (0x10,000) + (0x1000) + 
+(0x 100) + (0x 10) + (0x 1). One hundred thousand. 
+2-3. Expanded Numerals Exponential Notation. 
+Pa~e30. Exponents are introduced here in a situation which 
+
+shows clearly their usefulness for concise notation. Purfher-
+more, their use serves to emphasize the role of the base and of 
+position. This role will be more fully utilized in the sections 
+to follow. 
+
+The Celts and Mayans usedtwenty as abase probably because 
+they used their toes as well as their fingers in counting. The 
+special name sometimes used For twenty is "score.It Sane Eskimo 
+tribes count by five using the fingers of one hand, 
+
+Answers to Exercises 233. Page 21. 
+
+1. Ten to the first power, ten to the second power (or ten 
+square), ten to the third power (or ten cube), ten to 
+the fourth power, ten to the fifth power. 
+2. (a) 35 (4 56 
+
+(dl 2d (h) 16l 
+
+3. (a) three (d) ten 
+(b) seven (e) An exponent of one indicates 
+the value of the base. In
+(c) two 
+a strict sense this 5 is not 
+a factor. 
+
+(s) five 
+4. (a) 4 x 4 x4 
+(bl 3x3x3x3 
+(c) 2X2X2X2X2X2X2X2 
+
+(d) 10 x10 x10 x10 x 10 x10 x 10 
+(e) 33 x 33 x33 x33 x33 
+(f) 175 X175X175X175 X175X175 
+
+5. The exponent tells how many times the base is taken as 
+a factor. 
+
+2' (b) 
+
+(a) 3x3~3=27 
+
+(b) 5x 5 =25 
+(c) 4x4~4~4-256 
+
+(d) 2~2XZX2X2=32 
+(e) 6 x6 =36 
+
+(f) 7x7x 7=343 
+(g) 8 x8 =64 
+(h) 9 x 9 =81 
+
+(I) 10 x 10 x10 =1000 
+(J) 3X3X3X3=81 
+(k) 2x2x2x2x2x2=64 
+(1) 4~4x4~4~4=1024 
+
+4
+
+(a) 4) means 64. 3 means 81.. 
+2
+
+means 512. 9 means 81. 
+
+(a) (4 xlo2) +(6 xlo1) +(8x 1) 
+(b) (5 xid)+(3 xlo2) +(2 xlo1) +(4x 1) 
+(a) (5 xlo4) +(gxid)+(1 x lo2) +(2 xlo1) +(6 x 1) 
+(e) (1 x 105) +(O xlo4) +(g xid)+(1 xlo2) + 
+ten billion 
+
+one billion 
+one hundred million 
+ten million 
+one million 
+one hundred thousand 
+ten thousand 
+one thousand 
+one hundred 
+
+ten 
+The exponent of the base 1110" tells how many zeros are 
+written to the right of the "1" when the numeral is 
+written in the usual way. 
+
+
+11. (a) ld (b) 105 (c) lo6 (d) lo8 
+12. (1t may be pointed out to the pupils that 1100 
+is 1.) 
+13. 100, 10, 1. Some discussion might be devoted to the 
+meaning given to 100. This point need not be stressed 
+at this the, but It will be used in later chapters. 
+- 
+-
+2-4. Numerals in Base Seven. 
+Page z,The purpose of teaching systems of numeration In bases 
+other than ten is not to produce facility in calculating with 
+such systems. A study of an unfamiliar system aids in under-
+standing a familiar one, just as the study of a foreign language 
+aids us in understanding our own. The decimal system is so 
+familiar that its structure and the ideas involved In its algo-
+rithms are easily overlooked. In this section attentfon is 
+focused on numerals, rather than on numbers. 
+Page 2. Questions may arise about the notation for a numeral 
+to base seven. We do not wrlte ''157" because the symbol "7" does 
+not occur in a system of numeration to this base. Replacing the 
+numeral by the written word emphasizes this fact. 
+Iater in the chapter and in succeeding chapters, some classes 
+may agree to indicate the base, as dlfferent systems of nwneratlon 
+are introduced, by a numeral In decimal notation. They may agree 
+that they will regard the subscript in this case as alyays based 
+on ten. Thus they may write for 25seventhe expression 25?; for 
+
+latwelve the expression g12; and for llOtwo, 1102 
+After the pupils have had practice in grouping by sevens, 
+introduce counting. Fuplls enjoy counting in turn, and helping 
+each other as 30seven, 4oseven9 and llke numerals arise. Have 
+them fill in missing parts of the list on page 35 orally with 
+perhaps a recorder at the board. 
+
+[pages 31-34] 
+
+
+I
+
+1
+
+I
+
+1
+
+I 
+
+I
+
+; 
+
+Numerals (in base seven) from 21seven 
+
+202seven 
+
+30 40 50 60 loo 110 120 130 140 150 160 200 
+21 31 41 51 61 101 111 121 131 141 151 161 201 
+22 32 42 52 62 102 112 122 132 142 152 162 202 
+23 33 43 53 63 103 113 123 133 143 153 163 
+24 34 44 54 64 104 114 124 134 144 154 164 
+25 
+26 
+35 
+36 
+45 
+46 
+55 
+56 
+65 
+66 
+105 
+106 
+115 
+116 
+125 
+126 
+135 
+136 
+145 
+146 
+155 
+156 
+165 
+166 
+
+to say: "This is the number of
+
+At 66seven you may wlsh 
+states we had in the United States before Alaska became a state. 
+How many states did we have after Alaska and before Hawaii? How 
+shall we write this number in base seven numerals? We have gone 
+as high as we can in the lonet place and in the 'seven1 place, 
+What is one more than 66s,ven What do you do when you reach 99 
+in the declmal system?" When the pupils understand that after 
+comes li3sE,,,, ask them, ftHow many states are there when
+
+66seven 
+we Include Hawaii7 Pupils may read 101,,,,, as "one, zero, one, 
+base seven. " 
+Have the pupils contfnue to count orally until they reach 
+
+*O2seven. 
+It is usually helpful to keep the chart on page 35 on the 
+board during the time this section is studied. Some teachers 
+emphasize the meaning of exponents by writing the chart in two 
+ways: 
+4 
+
+seven3
+
+seven 
+(seven x seven x seven x seven) (seven x seven x seven) 
+
+2 1 
+
+seven seven one 
+( seven x -seven) ( seven) (one) 
+
+It 1s suggested that alternate exercises in this list be 
+discussed and answered in class as a group undertaking. The 
+pupils should then be ready to attempt the remaining exerclsea 
+without further help. 
+
+
+Answers -to Exercises G. Page z. 
+1. (a) 13seven 
+
+NxxJ XXX 
+
+XXXXXXX 
+
+XXXXXXX 
+
+XXXXXXX 
+
+XXXXXXX 
+XXXXXXX 
+
+X X X X XX X 
+
+XXXXXX
+
+4 
+
+3. (a) (3x seven) + (3 x one) = 24 
+
+(b) (4 x seven) + (5 x one) = 33 
+
+(c) (1 xseven x seven) = 49 
+
+(d) (5 x seven x seven)+ (2 xseven) + (4 x one) = 263 
+
+5. (a)560seven The 6 means 6 sevens 
+
+The 6 means 6 ones
+
+(b) 56,even 
+The 6 means GIseven x seven)'s or
+
+('1 605seven 
+
+6(forty-nlne)fs 
+
+(d) 6O5oseven The 6 means 6(seven x seven xsevenj's 
+
+or 6(three hundredforty-three ) 
+
+6. seven4 or seven to the fourth power 
+
+7. The product of 9 sevens or (~~1, 
+
+8m 132seven 
+
+
+Neither. They are equal . 
+
+(a) Yes. joten = (J x ~~~
+ten) + (0x 1) 
+
+(b) No. When 241ten is divided by lot,, there is a 
+non-zero ~emainder. 
+If the units digit ia zero the number is divisible
+(c) 
+
+by ten; otherwise it is not divisible by ten. 
+= 21ten is not divisible by ten.
+
+3Oseven 
+
+divlalble by ten.
+
+6Oseven = 42ten is not 
+
+(a) It has a remainder of zero when divided by seven. 
+(b) Yes. (3 x seven) + (0x 1) is divisible by seven; 
+Remainder is 0. 
+No. (3 x 7) + (1 x 1) = 22 Is not divisible by seven. 
+A number written in base seven is divfaible by seven 
+when the units diglt is zero. 
+2hten and 6aten are divisible by two. A number not 
+dlvlsible by two is called an -odd number. A number 
+divisible by two is called an even number. 
+
+is even.
+
+''seven 
+
+No; you cannot tell merely by glanclng at the numerals. 
+You could tell by converting each number to base ten. 
+There Is another method which Is aharter and has much 
+value in teaching dfvisibility ideas; It may be a bit 
+advanced for grade seven. For example, 
+
+= 1x (6 i-1)i-(2 ~1)
+
+12seven 5 (1x7) + (2 xl) 
+= (1 x 6) + (1 x 1) + (2 x 1) 
+= (1 x 6) + ((1 + 2) x 1) 
+The first; term is divisible by two but the second term 
+is not divisible by two; hence the sum is not divisible 
+by two. Note that the digit in the units place of the 
+last expression in the display L + 2, is the sum of 
+the digits of 12seven and this sum is not dfvisible by 
+two. This Is a general rule for base seven numerals. 
+
+
+19. They use seven symbols and seem to have a place value 
+system with base seven. They appear to use I, L , A,
+
+-
+
+0,19, m, for 1, 2, 3, 4, 5, 6and forzero. 
+
+LL follows L( . 
+
+20. See discussion problem 18. 
+2-5. Computatfon ---
+
+in Base Seven. 
+Page a.Be sure that pupils understand the construction of the 
+addition table fop base ten. 
+
+Addition, Base Ten 
+
+Pupils should be helped to observe the symmetry of the table 
+with respect to the diagonal. They all notice that 8 + 6 = 
+6 + 8, for example,and that this is true for any pair of numbers. 
+Uter they will learn that this la the comutative property of 
+addition. It is suggested that the word commutative not be used 
+at this time. 
+
+If puplls how the facts, no time should be wasted on the 
+table after its characterlstlcs have been discussed. 
+
+
+There is no value in memorlzfng this table. The process is 
+more important than the facts. The point to be emphasized is that 
+numbers and number properties are independent of the numerals or 
+symbols used to represent the numbers. Commutativfty holds in 
+base seven as well as base ten because it is a property of numbers, 
+not numerals. 
+Answers Exercises 2-5a. 
+
+1. (a) 11 (b) 17 
+
+3. (a) yes 
+(b) By reading each result from the table and noting 
+results. 
+(c) Chart is symmetric with respect to the diagonal. 
+(d) 55 different combinations; just a bit over half 
+the total number of combinations. 
+5. (a) 28 different comblnatlons. Fewer than 49 because 
+of the commutative law of addition. 
+(b) In base seven because there are fewer. 
+(c) They are equal since 9 = 12,,,,,. 
+Addition in base seven is undertaken to clarffy addition in 
+decimal notation. Some of the newer elementary school textbooks 
+prefer to use the word "change1'OP "regroupttrather than llborrow" 
+since the first two words seem to describe the actual process 
+
+
+better than the last. 
+
+Point out to the pupils that in adding in base ten It is 
+often necessary to regroup ten ones as one ten, whereas in base 
+seven we regroup seven ones as one seven. 
+Page 42. As pupils use the table in subtraction, they may observe 
+that subtraction is the inverse of addition. 
+
+Some of the exercises in addition and subtraction are written 
+in horizontal fashion in preparation for future work in algebra. 
+
+Answers -to Exercises 2-5b--Page 43. 
+1. (4 56seven ( P) 
+(19 + 22 = 41) (327 + 299 = 626) 
+
+1553,,,,, 
+
+[pages 40-431 
+
+
+(319 -37 -282) (136 -97 = 39) 
+(4 @ (4
+
+X X 
+
+XXX 
+
+Multiplication, Base Ten 
+
+Answers -to Exercises 2-5c, Page h5. 
+
+1. Study of thla table should emphasize the following: 
+(a) The product of 0 and any number Is zero. 
+(b) The product of 1 and any number la the number 
+Itself. 
+
+[pages 43-45] 
+
+
+2. The order in rnultlplication does not affect the product. 
+This Is indicated by the fact that the parts of the 
+table on opposite sides of the diagonal line are alike. 
+Multiplication, Base Seven 
+
+Study of thla table is valuable for the additional ineight It 
+affords into the understanding of multiplication. There is 
+no value in memorizing it. The table may be used to emphmize 
+that division is the fnverae of multiplication. 
+. Since multiplication combinations are needed only up to 
+
+6 x 6 instead of up to 9 x 9, multiplication is easier 
+to learn in base seven than in baa@ ten. 
+
+5. (a) Both parts are alike. 
+this is an lllus-
+(b) >seven 'seven 
+= !$ seven 3seven' 
+tration of the fact that multipllca~ionlscommutattve. 
+Page 9.Since division is the most demanding operation, it Is 
+suggested that teachers regard the topic as optional and do only 
+as much as they judge appropriate, in class dlscuasion. Pupils 
+may need help in learning how to use the multlplfcatlon table to 
+find divlsion facts. EScerclses are included for those pupils who 
+
+[pages 44-47] 
+
+
+wish to attempt them. 
+
+Working with base ten and base seven numerals, using the 
+tables, and changing from base seven to base ten, provide many 
+opportunities for needed drill in the four operations. Teachers 
+may wish to observe the kinds of drill needed and to dev5;e 
+additfonal exercises of the appropriate type. 
+
+Answers to mercises 2-5d. 
+1. (4 45,,,,, (f) 443?115,,,,, 
+(b) ***seven (g) 106,533seven 
+( c) 1116seven (h) 5,511,4269even 
+( d1 3325,,,,, (i1 125 15Oseven 
+(e) 3464 seven (J) 1,660,101seven 
+
+2. (a) 5seven 
+(b) 62seven 
+a remainder of 2seven.
+
+('1 421seven with 
+with a remainder of 12seven.
+
+123,,,,, 
+
+3. (a) (4 x 7 x 7) + (0x 7) + (3 x 1) = 19gten 
+(b) (1 x 10 x 10) + (8 x 10) + (9 x 1) = 18gt,, 
+7. Room 123; book 7; 15 chapters; 394 pages; 32 pupils; 
+5 days; 55 minutes; 13 girls; 19 boys; 11 years old; 
+66 inches or 5 feet 6 inches tall. 
+
+Chan~inqfrom Base Ten to 383e Seven. 
+
+Page 48. Pupils in general find it easier to change from base 
+
+seven to base ten numerals than the reverse, This section gives 
+much detail in order to provide help to pupils who may have 
+
+trouble. 
+
+Ask for the highest power of seven which is contained in 
+the number given in base ten numeration. For example, consider 
+
+4 3
+
+63Sl0. Is 7 contained in 63410? or (34310)?
+
+or (2401~~) Is 7 
+After we have taken as many 343101s as possible from 63410, how 
+much remains? The next power of 7 is 72. How many 491015 are 
+contained in 29lI0? Finally, how many 7's, and how many 1's are 
+left? 
+
+Page 2.A aecond method of changing from base ten to base seven 
+
+numerals is developed In Exercises 3, 4, 5 on Page 51. 
+10 p958 
+10 remainder 8 
+10 remainder 5 
+10 remainder 9 The r~umber1s 1958 
+0 remainder 1 
+
+7 
+7 remainder 6 
+7 PO remainder 4 The number is 1346 base seven 
+7 1~emainder3 
+0 remainder 1 
+Some pupils will see that the 6 ones are found ffrst when 
+74 groups of 7 are taken away. These groups of 7 are then put 
+together in groups of 7 sevens with 4 groups left for the numeral 
+in the 7 place. The process is repeated to find the digits for 
+successive places in the numeral. 
+
+Answers -to Exercises -2-6. -??.
+
+1. (a) 50ten= (1x seven ) + (0x seven) + (1 x one) 
+2 
+
+(b) 145t,, = (2 x seven ) + (6 x seven) + (5 x one) 
+(c) 1024t,, = (2 x seven3) + (6 x seven2) + (6 x seven) i-
+(2 x one) = 2662,,,,, 
+[pages 48-513 
+
+
+Q = 74 ~=6 52hten = 134'8even~ the 
+Q = 10 R=4 digits of the base seven 
+Q= 1 R=3 numeral are the remainders ' 
+Q = 0 R=l which have just been obtained. 
+
+Divide by seven and continue to divide each quotlent by 
+seven. The digits in the numeral sought will be the 
+remainders in order with the first remainder in the 
+
+"one" place. 
+
+
+2-7. Numerals in Other Bases. 
+
+Pa~e52. Bring out the idea that the base of the system that we 
+use Is IIten" for historical rather than mathematical reasons. 
+Some mathematicians have suggested that a prime number such as 
+7 has certain advantages. The Duodecimal Soclety of America, 
+20 Carlton Place, Staten Island 4, New York aupports the adoption 
+of twelve as the best number base. Information about the duo-
+decimal system Is furnished by this society on request. Exercises 
+in othep number bases help establish an understanding of what a 
+positional, power system of numeration is. 
+
+Answers 5 Exercises 2-7_. Page &. 
+
+/----------
+
+(a) 2 groups of three and 1left over. 
+(b) No. Only the digits "On, "l", and "2" are used 
+in the base three system. "5" la not one of these. 
+2 
+
+(c) (& group of three ) + (2groups of three) + 
+(1-left over). 
+16ten = l2lthree' 
+
+'8ase Ten 
+Base Five 
+11 
+21 
+12 
+22 
+13 
+23 
+14 
+24 
+15 
+30 
+16 
+31 
+17 
+32 
+18 
+33 
+19 
+34 
+20 
+40 
+Base Ten 
+Base Five 
+21 
+41 
+22 
+42 
+23 
+43 
+24 25 26 27 28 
+44 100 101 102 103 
+29 
+104 
+30 
+110 
+4. (a) two (b) two (c) two (d) two 
+
+
+5. (a) (2 x 36) + (4 x 6) + (5 x 1) = 101 
+(b) (4 X 25) + (1 X 5) + (2 X 1) = 107 
+(c) (1 x 27) + (0x 9) + (0x 3) + (2 x 1) = 29 
+(d) (1 x 64) + (0 x 16) + (2 x 4) + (1 x 1) = 73 
+Other answers are acceptable, I.e., (2 x 62) + (4 x 6l) + 
+(5 x 1). 
+6. Base Ten Base Sfx Base Five Base Four Base Three 
+(a) 11 15 21 23 lo2 
+(b1 15 23 30 33 120 
+(C) 28 44 103 130 1001 
+(a 36 100 121 210 1100 
+
+7. Two. The binary base. With only one aymbol it would 
+be impossible to express both zero and one. 
+9. The new system is in base four. 
+
+2-8. The-Blnaq -and Duodecimal Systems. 
+Page 56. Junior high school pupfls are often intrigued by a more 
+extended discussion of computers than is found in the text. This 
+is something you might brlng out in classroom discussion. For 
+example, you might say, "NOW that we have seen how a row of 
+lights may be used to represent a number using the binary system 
+of nwneratfon, how might we design a simple adding machine?" 
+It is unimportant and quite beside the point, at thls stage, 
+for the pupil to be concerned with the electrlcal problems of 
+design. He can, however, dlscover what such a machine might look 
+like and what it must do, In the process he may galn some under-
+standing of the fact that the binary system of numeration enables 
+one to reduce computational problems to purely mechanical and 
+electrlcal ones in a rather slmple way. 
+
+Suppose we wish to design a machine to add any two numbers 
+whlch can be written In the binary scale with no more than 5 
+digits. We will need three rows of lights. 
+
+c O00G00 
+
+[pages 54-561 
+
+
+L 
+
+The numbers to be added will be entered into the machine by 
+turning on approppiate lights in rows A and B. The sum is to 
+be shown in Row C. The switches which operate the lights in 
+Row C are to be wired In such a way that they are activated 
+by the lights In rows A and 3. Our task is to deacrlbe just 
+when a light in Row C is to be on and when it Is to be off. 
+
+Consider a few simple addition problems, and observe how 
+they appear both in binary numerals and in llghts. Suppose we 
+wiah to add 10IOt, and lootwo 
+
+.LUAU n VwWw
+
+two 
+
+lootwo 
+
+AAlVtwo 
+
+From this problem we can recognize two requirements for the 
+' wlring of our machlne. 
+
+I. In a given column, if the lights in both Rows A and 
+3 are off then the light in that column In Row C 
+should also be off. 
+I 
+I 
+2. In a given column, if one of the two lights in Rows A 
+and 3 is on then the llght in that column in Row C 
+should turn on. 
+Now consider what happens when we add 10lltwoand 10ltwo. 
+Here we need to "carry,fl and our machine is not equipped to do 
+
+this. It doesn't mow what to do if two lights In a given 
+column are on. We need one more row of lights; a !1 carrying row." 
+The machine must look like this: 
+
+with Row X used only for carrying. The second addition looks 
+like this: 
+
+
+When -we turn on lights in Rows A and 3 as shown, the 
+indicated lights in Rows C and X must turn on automatlcally. 
+'Il~uswe see a third requlrement for our wlring. 
+
+3 If, in a given column, any -two lights In Rows A, B, 
+or X are on then the light in Row C will remain off 
+and the light in Row X in the column mediately to 
+the left will turn on. 
+
+Requirement 3 says that if we have 
+
+then we must have 
+
+Finally, we have 
+
+4. If, in a given colm, all the lights in Row8 A, B, 
+and X are on, then the light in Row C must go on 
+and also the light in Elow X of the column immediately 
+to the left is to go 'on. 
+The addition 
+
+loltwo 
+
+would appear on the machine aa 
+
+
+x 0.e.. 
+
+A
+
+o.... 
+
+B 00.0. 
+c 0.0.00 
+
+and the sum 101OOtw, would appear in Row C of lights almost as 
+soon as we had entered the numbers llllt, and 10ltwo in Rows A 
+and B. We have designed an adding machine In the sense that 
+requirements 1, 2, 3 and 4 -can be built into a box with the re-
+quired rows of lfghts by means of switches and relays. The 
+Fmportant thing for the pupil at this stage is not the electrical 
+problem, itself, but the knowledge that the binary system of 
+notation makes it possible to reduce computational problems to 
+purely mechanical and electrical construction in thls rather 
+simple way. 
+
+As an extensfon of the discussfon, you might ask how we 
+
+might use -two of these addlng machines to build a new machine 
+for adding three numbers together. If we use the notation 
+
+to Indicate two lights wired so that they are always 
+lfghted or unlighted together, then such a machine could be 
+diagrammed as follows 
+
+If each of the smaller boxes within the larger box is an 
+adding machine of the type described above then the large box 
+is a computer which will add trlples of numbers. If the binary 
+numerals of the numbers are entered in Rows I, I1 and 111, the 
+sum appears in the bottom Row C. 
+
+[page 561 
+
+
+The use of binary notation in high speed computers is, of 
+course, well known. The binary system is used for computers aince 
+there are only two digits, and an electric mechanism Is either 
+IIon" or "off." Such an arrangement is called a flip-flop 
+mechanism. A number of pamphlets dfstributed by IBM, bmington 
+Rand, and similar sources may be obtained by request and used 
+for supplementary reading and study. "yes No -One zero" pub-
+lished by Esso Standard Oil Co., 15 West Slst,, New York 19, 
+Mew York is available for the asking only in states served by 
+Esso. 
+
+It ahould be of interest that the sm 11001 + 110 looks the 
+same in the binary system, decimal system, and, In fact, all 
+positional number systems. The meanlng, however, Is quite dif-
+ferent . 
+
+The base two has the disadvantage that, while only two 
+different digfts are used, many more places are needed to express 
+numbers in binary notation than in decimal, e.g., 
+
+2000t,n = ll,lll,O1o,OOO~wo 
+Pupils may be interested in the reminder method for changing 
+a number from one base to another. This method of changing 25ten 
+to binary notation rests on repeated diviaion by 2, to Identify 
+the powera of 2 whose sum is 25. To change 25ten to base three, 
+repeat divlsion by 3; to base four, divide by 4; am? ao on. 
+The division is shown below for changing 25te,to binary 
+notation, followed by an interpretation of the results of the 
+diviaion at each stage. It will be noted that the remainder8 
+in reverse order lndfcate the digits in binary numePsls. 
+Recall that 2' = 1. 
+
+
+Here is a set of cards which can be used in a number trick. 
+
+Uslng the first four cards, tell a person to choose a number 
+between 1 and 15, to pick out the cards containing that number and 
+to give them to you. By adding the numbers at the top of the 
+cards he gives you, you can tell him the number he chose. Note 
+that the numerals at the top of the cards represent the powers 
+
+By using all flve cards, you can pick out ra~neralsfrom 1 to 
+
+31. The trick is based on the application of the binary numerals. 
+Xf you have a peg board and some match sticks, you can 
+represent base two nunerals on the board. Leave a hole blank for 
+0 and put in a match stick for one. Represent two numbers on the 
+board, one below the other, and try adding on the board. 
+
+The twelve system uses two dlgfts more than the decimal 
+aystem. From some points of view twelve is a better choice for 
+a base than ten. Many products are packaged and sold by the 
+dozen and by the gross. Twelve is divisible by 2, 3, 4, and 6 
+as well as by 12 and 1. Ten is divisible only by 1, 2, 5, and 
+
+10. Because it employs a larger base, large numbers may be 
+i 
+
+I represented in base twelve with fewer digits than smaller bases 
+
+; require. For example: 
+ToEtwelve = 1451ten 
+
+
+Answers -to Ekepcises 9.Page 58. 
+1. 
+
+;Baseten 0 12 3 4 5 6 7 8 9 10 
+Base two 0 1 10 11 100 101 110 111 1000 1001 1010 
+
+There are only four 
+addition Pacts!' 
+
+3. Multiplication, Base Two There are only four multi-
+plication'kacts!' The two 
+tables are not alike, ex-
+cept that 0 + O and 0 x 0 
+both equal 0. 
+The binary system Is very slmple because there are 
+only four addition and row multiplfcation "facts" to 
+remember. Computation is simple. Writing large 
+numbers, however, is tedious. 
+
+4. (a) Illt, = (1 x two2) + (1 x two) + (1 x one) = 7 
+(b) ~ooo~~~(1 x two3) + (O
+= x two2)+ (O x two)+ 
+(0 x one) = (1x d) = 8 
+(4 10IOltwo = (1 x tro4 + (O x td) + (1 x two2)+ 
+(O x two) + (I xone) =(l x 24) + (I x $1 
+
+
+(d) llOOQt, = (1x two4) + (1 x two3) + (0X two2) + 
+(0x two) + (0x one) = (1 x 24) + 
+: (1 x 2)) = 24 
+; 4 2
+
+(4 loloot, = (1 x two + (O two3) + (1 x two + 
+(0 x two) + (0x one) = (1 x 24) + 
+
+(1 x 22) = 20. 
+
+6. 408 
+2
+
+7. (4 llltwelve = (1 x twelve ) + (1 x twelve) + (t x one) 
+= (1 X 144) + (1 X 12) + (Ix 1) = 157 
+= (3 x twelve2) + (T x twelve) + (2 x one)
+3T2twelve 
+
+= (3 x 144) + (10 x 12) + (2 x 1) = 554 
+(4 x twelve2) + (7 x twelve) + (E x one)
+
+'TEtwe lve = 
+= (4 X 144) + ( 7 X 12) + (11 x 1) = 671 
+
+-(Tx twelve2) + (0x twelve) + (Ex one)
+twelve 
+= (10 x 144) + (11X 1) = 1451 
+
+(c) 11000OtWO
+
+llltwo 
+
+1011tm (d) 11011Ot, 
+
+9. (a) l0two (4 llltwo 
+(b1 lltwo lltwo 
+10. (a) 10001lt, (4 llQOtllo 
+(b1 1000OOOOtwo (d) llOOIOOtwo 
+
+11. (a) Addition 323tw1ve (c) Subtraction 14gtwelve 
+(b1 
+"O5twelve 85Etwelve 
+
+
+12. The binary system 9s extremely simple in computation. 
+Large numbers are tedious to write. 
+The duodecimal system may be used conveniently 
+to represent large numbers. Twelve is divisib~eby 
+1, 2, 3, 4, 6 and 12 while ten is dfvisible only by 
+1, 2, 5 and 10. The twelve system requires more 
+computational "facts" which will Increase difficulties 
+in mernorlzing tables of addition and multiplication. 
+We do use twelve In counting dozens, gross, etc., and 
+in some of the common measures of length. 
+
+14. Five welghts; 1 oz., 2 oz., 4 oz., 8 oz., may be used 
+to check any weight up to 15 ounces. By adding a 16 oz. 
+weight, any weight up to 31 ounces may be checked. 
+15. People who work with computers often use the base eight. 
+To change from binary to octal and back Is simple with 
+the help of the table: 
+Binary Octal 
+
+For example, we have 
+
+Note the grouping of numerals by threes In the binary 
+numeral. The sum of the place values of digits in each 
+group results in the octal numeral. Hence 
+
+111 = (1 x 4) + (1 x 2) + (1 x 1) = 7, etc. 
+
+
+I 45 
+
+-2-9. Summary. 
+: Page 61. The discussion is self-explanatory. Expansfon on any 
+' of the topics is left to the discretion of the teacher. 
+
+Answers -to Exercises 2-9_. Pam 62. 
+1. 
+
+2. (a) twelve (c) five 
+(b) seven (a) two 
+3 (a) lilt,= (1 x two2) + (1 x two) + (1 x one) 
+
+= (1 x 4) 1-(1 x 2) + (1 x 1) = 7 
+
+(b) 321po,, = (3 x four2) + (2 x four) + (1 x one) 
+(4 263lSeven= (2 x seven3) + (6 x seven2 + (3 x seven) 
+
++ (1 x one) = (2 x 343) + (6x 49) + 
+
+2 
+37Ttwelve = (3 x twelve ) + (7 x twelve) + (T x one) 
+
+= (3 x 144) + (7x 12) + (10x 1) = 526 
+
+4. 1000t,, = 175Qeirnt= 1,111~1,QO~,, 
+
+5-looni,, ''Line ''*nine * "3nine. lo4nine 
+
+6 (a) 2; 61; 3600; 216,001; etc. 
+
+(b) No. It cannot because the decimal system has a 
+symbol for zero. If this symbol doesn't appear 
+between the two lts then no zero can be Intended. 
+(4 I( (I! <I = (I1 X sixty2) + (<!I X sixty) + 
+
+c<r x one) 
+
+= (2 x 3600) + (12 x 60) + (11 x 1) 
+= 7931 
+
+[pages 61-62] 
+
+
+*7. The base is twenty. 
+= 8Tten 
+Four score and seven = 47tw,,ty 
+*8. Since there are only five skbols the base is five. 
+DCBAO = 43 ,210five 
+4 2 = (4 x five } + (3 x five3) + (2 x five } + (IX~IR) 
++ (0 x one) 
+= (4 x 625) + (3 x 125) + (2 x 25) + (1 X 5) + (0x1) 
+= 293Oten. 
+9. 4 
+10. The base is twenty-six. 
+(2 x twenty-six) + (5 x one)BE = '%wenty -six = 
+= (2X 26) + (5 x 1) = 5Tten 
+2TWO = (T x twenty-six ) + (W x twenty-six) + (0x one) 
+2 = (19 x twenty-six ) + 122 x twenty-six) t (0x one) 
+= 13,416 
+2FOUR = (F x twenty-six3) + (0x twenty-six ) + 
+(U x twenty-six) + (R x one) 
+(20 x twenty-six) 4 (17 x one) 
+
+[pages 63-64I 
+
+
+1 The method works for base twelve and base seven. It 
+
+will also work for other bases. For bases larger than 
+
+ten, add. For bases less than ten, subtract. 
+
+Example in Base Six: 
+
+multiplying: (4 x 4) = 16
+
+44six 
+
+44 -16 = 2Bt,, 
+
+Example in Base Fifteen: 
+multiplying: (4 x 5) = 20
+
+46fifteen 
+46 + 20 = 66te, 
+
+Students may suggest other methods which should be 
+
+checked carefully for validity. 
+
+Sample Questions for Chapter ;? 
+
+The sets of questions presented at the end of each chapter 
+In the Teachersg Commentary are not intended as a chapter test. 
+Teachers should construct chapter tests carefully by combining 
+selected items from the set of questions included in this book 
+and questions of their own writing. Great care should be used 
+to avoid making the test too long. 
+
+Part I. True -False 
+
+1. The 3 in 356seven stands for three hundred. 
+4
+
+2. 10 means 10 x 10 x 10 x 10. 
+3. The numeral 8 means the same number in the ten system 
+as in the twelve system. 
+4. The smaller the base, the more basic combinations there 
+are in the multiplication table. 
+5. The fourth place from the right in the declmal system 
+has the place value lo5. 
+6. fn base two numerals the number after 100 is 1000. 
+7. We can make a symbol to mean what we wish. 
+8. When we "carry" or "regroup" in addition the value of 
+what is carried depends upon the base. 
+[pages 64-65] 
+
+
+9. A number may be written in numerals with any whole 
+number greater than one as a base. 
+lo. In the symbol d, the exponent is 3. 
+
+11. 513,1, means (5 x six x six x six) + (1 x six x SIX) + 
+(3 x SIX). 
+
+4
+
+12. The 1 In 10,000 (base two) means 1 x 2 or sixteen. 
+1. The following numerals represent the same number: 
+363e1phti1O3Jslx
+183twe lve' 
+
+14. In base eight numerals, the number before 70 is 66. 
+POUP symbols are sufficient for a numeration system 
+with baae five. 
+16. In the base -four system 3 + 3 = llfou, 
+17. When we "borrowt' in the twelve aystern as in 157 -6E, 
+we actually "borrowtt twelve unita. 
+18. In the Egyptian system a single symbol could be used 
+to represent a collection of several things. 
+19. The Babylonians made use of place value In their numere-
+tion system. 
+20, The Roman numeral system had a symbol for zero. 
+
+Papt 11. Completion 
+
+1. In decimal numerals lrrtwelve
+is 
+
+2. MCXXIV In decimal numerals ia 
+3. The dechal system uses different symbols. 
+4. In my numeratfon system, the smallest place value for 
+whole numbers 1s 
+5. 629,468,000,000written in words is 
+6. The number represented by 212seven is (even 
+7. 
+
+8* 
+9. 
+
+10. 
+11. 
+
+12. 
+
+or odd). 
+In expanded notation 5,678t,n is 
+
+- 
+--
+
+625s,ven 344seven seven' 
+
++ 
+
+Multiply 312four by 32four. 
+llOOlltwo --
+
+ten' 
+The numeral 44hpiye represents an (even, odd 
+
+number). 
+
+Add: 4Zfive -
+
++ 
+
+14five -
+
+
+13. uteri - 
+--
+two ' 
+
+4. The numeral after 37elght IS, -ight. 
+15. Using all of the digits 5, 6, 7, and 0, wrlte the 
+largest possible 4-place base ten numeral 
+16. Using all of the digits, 5, 6, 7, and 0, write the 
+smallest possible 4-place base ten numeral 
+17. What is the largest number you can write, using two 
+4's and no other symbols? 
+18. Write this numeral without exponents: 53 
+19. The numeral immedfately before 1000two is 
+20. Subtract: 42five 
+-I4five = 
+
+Part 111. Multiple-Choice 
+
+1. In which of the numerals below does 1 stand for four? 
+(a) 21four 
+
+(b) eleight 
+(4 loot, 
+
+lMthree 
+
+(e) None of the above is correct. 
+2. In what base are the numerals written if 2 x 2 = lo? 
+(a) Base two 
+(b) Base three 
+(c) Base four 
+(d) Base five 
+(e) All of the above are correct. 
+3. A decimal numeral which represents an odd number is: 
+(a) 461,000 
+
+Ib) 7629 
+
+(4 5634 
+
+(d) 9,000,000 
+
+(e) None of the above is correct. 
+4. If N represents an even number, the next consecutive 
+even number can be represented by: 
+(a) 
+
+
+(b) N t 1 
+(c) N +2 
+(dl 2N 
+(e) All of the above are correct. 
+5. Which numeral represents the largest number? 
+(a) '(3five 
+(b) 212three 
+(4 10llOtwo 
+
+*'nine 
+
+lotwenty-five 
+
+6. Which is correct? 
+(a) 54=5+5+5+5 
+
+(b) 43=4x4x4 
+
+(c) 54=4x4x4x4x4 
+
+(e) None of the above la correct. 
+7. 61241ne is how many tlmes as large as 612,ine? 
+(a) twelve 
+(b) ten 
+(c) nine 
+(d) five 
+(e) None of the above is correct. 
+8. In which base does the numeral 53 represent an even 
+number? 
+(a) twelve 
+(b) ten 
+(4 eight 
+(d) seven 
+(e) six 
+
+Answers to Sample Questlone for Chapter 2 
+
+Part 1. True -False 
+
+False 11. False 
+True 12. True 
+True 13. Balse 
+False 14. Balse 
+False 15. False 
+False 1 False 
+True 17. True 
+True 18. True 
+me 19. True 
+True 20. False 
+
+Part 11. Completion 
+
+11. even 
+12. lllfive 
+Ten 
+
+One 
+
+Six hundred twenty-nine 14* 40eipht 
+billlon, four hudred 
+sixty-eight mlllion. 
+
+Odd 
+
+15 x $1 + 16 x lo2) + 
+
+7x10 + 8x1) 
+
+Part IfI. Multlple Choice 
+
+

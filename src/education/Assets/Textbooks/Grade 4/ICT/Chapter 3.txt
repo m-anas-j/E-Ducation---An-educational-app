@@ -1,0 +1,1810 @@
+
+
+Chapter 3 
+31Part 2 
+ICT infrastructure and planning in schools 
+ICT infrastructure in primary and post-primary schools 
+Chapter 3 
+31Part 2 
+ICT infrastructure 
+and planning in 
+schools 
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+3.1 Introduction 
+The effectiveness of ICT in any school is very much dependent on the quality of the infrastructure 
+present. This chapter examines some ICT infrastructural issues in schools. It begins by taking a step 
+back from the school itself to look at the ICT advisory service and in particular the degree to which 
+schools engage with the service. ICT funding issues are also considered, as schools frequently raised 
+the issue of funding during the course of the evaluation. Issues of ICT maintenance, technical 
+support and obsolescence are also examined, as well as the levels of access by teachers and 
+students to computer and e-mail facilities in schools. 
+
+The number and location of computers in schools is also examined, and the issues that can arise as 
+a result are addressed. In this regard reference is made to ICT facilities in areas for use by teachers 
+and students as well as ICT in special-education and school administration settings. With regard to 
+the post-primary level, specific reference is made to the dedicated computer room and to ICT in 
+specialist and general classrooms. Finally, the chapter looks at the availability of ICT peripherals in 
+schools, and it concludes by offering some comments on school web sites. 
+
+32 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+3.2 The ICT advisory service 
+The ICT advisory service is funded by the NCTE but is managed and implemented by the twenty-one 
+full-time education centres around the country. Its objective is to support the implementation of the 
+ICT in Schools Initiative (see chapter 1) at the local level and to help build a knowledge base on 
+good practice in relation to ICT in schools. 
+
+One element of the advisory service is the provision of one full-time ICT advisor, as well as one ICT 
+administrative assistant, in each education centre. The ICT advisors’ role is primarily concerned with 
+providing pedagogical advice and support to schools and also (though to a lesser extent) technical 
+advice and support. The activities of ICT advisors are monitored by the NCTE. In the national survey 
+of teachers a number of questions were asked to elicit views on the level and quality of interaction 
+between schools and the advisory service. In addition, the inspectors asked principals, ICT coordinators 
+and teachers during all fifty-two case-study school evaluations about the nature of their 
+school’s interaction with the advisory service. 
+
+In their questionnaire, teachers were asked if they were aware of the ICT advisory service in their 
+local education centre and whether they had availed of it. Fewer than half (48%) of the 1,162 
+primary teachers reported that they were aware of the service. Awareness among post-primary 
+teachers was even lower, with only 37% of the 800 respondents reporting that they were aware of 
+the service. 
+
+The survey found considerable disparity in the awareness levels of teachers (both primary and post-
+primary) in different parts of the country. Furthermore, at post-primary level it was found that 
+awareness of the service also varied considerably between teachers of different subject areas, with 
+the lowest level of awareness recorded among teachers of applied science subjects. 
+
+The survey revealed that 63% of respondent primary teachers were aware that the advisory service 
+offered fully funded ICT courses through local education centres. This figure fell to slightly more 
+than half (52%) of all respondents at post-primary level. At this level teachers of social studies I 
+subjects (History, Geography, Art, Craft and Design and Music) were most aware that such courses 
+were offered, with 57% of these teachers reporting this awareness. This group was followed by 
+teachers of Mathematics (56%), English (55%), and languages (54%). Teachers of Irish (42%) and 
+the applied science subjects (37%) were least aware that the service offered these courses. 
+
+In general, these figures show a substantial variation in levels of awareness among teachers and 
+suggest that there is considerable scope for the service to promote itself more vigorously among 
+schools. In looking at ways to promote an increased level of awareness of the support it offers, the 
+service should consider strategies that are applicable equally to primary and post-primary schools 
+and in all regions. At post-primary level, strategies should be inclusive of all teachers, that is, 
+irrespective of subject expertise. 
+
+33 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Of the 48% of primary teachers who reported awareness of the ICT advisory service, some 46% 
+(22% of all primary respondents) reported having ever used it. At post-primary level, of the 37% of 
+teachers who reported awareness of the service only 41% (15% of all respondents at this level) had 
+ever used it. This relatively low level of use among those teachers who were aware of the service 
+may be ascribed to a number of factors: 
+• insufficient knowledge on the part of teachers of the exact nature of the services offered 
+• the relatively small number of ICT advisors, making it difficult for teachers to obtain access to the 
+
+service 
+• the distance of some teachers or schools from their nearest education centre 
+• lack of time on the part of teachers to engage with the service. 
+
+The survey also asked those teachers who had engaged with the advisory service to rate the service 
+they received. It was found, as shown in fig. 3.1, that “information on, and availability of, ICT 
+courses” achieved high satisfaction ratings, with 92% of primary and 84% of post-primary teachers 
+stating that the quality of the service received was either “good” or “very good.” The quality of the 
+“technical advice provided by the ICT advisor” also achieved relatively high satisfaction ratings, with 
+76% and 75% of primary and post-primary teachers, respectively, reporting this aspect of the 
+service to be “good” or “very good.” The “advice offered by the ICT advisor on classroom use of 
+ICT” also achieved respectable ratings, with 68% and 69% of primary and post-primary teachers, 
+respectively, rating this aspect as either “good” or “very good.” 
+
+Fig. 3.1: Teachers’ ratings of NCTE and ICT advisory services 
+
+How do you rate the NCTE service which you have availed of? 
+[% Good 
+or Very Good] 
+
+100% 
+80% 
+60% 
+40% 
+20% 
+0% 
+Information on, and 
+92% 
+84% 
+Technical advice 
+76% 75% 
+Advice on classroom 
+68% 69% 
+School visit by ICT 
+58% 58% 
+availability of, ICT courses provided by ICT Advisor use of ICT provided by ICT Advisor 
+Advisor
+
+
+Primary 
+Post-Primary 
+
+Base: All primary teachers who availed of NCTE/local advisory service (n=239) 
+All post-primary teachers who availed of NCTE/local advisory service (n=114) 
+
+34 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+“School visits by the ICT advisor” received lower satisfaction ratings. Some 58% of both the 239 
+primary and 114 post-primary teachers who reported having availed of this service provided a 
+“good” or “very good” rating. The corollary is that 42% of both primary and post-primary teachers 
+who had received a school visit felt that the service received was either “fair” or “poor.” This finding 
+suggests that the nature of the work undertaken by ICT advisors during school visits should be 
+reviewed, perhaps in collaboration with schools themselves, to ensure that the maximum benefit to 
+the school and teachers results from each visit undertaken. 
+
+At post-primary level, teachers of the applied science subjects and the social studies II group of 
+subjects (Religious Education, Physical Education, CSPE, and SPHE) tended to provide more positive 
+ratings for services availed of than teachers of other subjects. Teachers of Business Studies provided 
+the lowest ratings, in particular for technical advice, advice on classroom use of ICT, and the school 
+visit by the ICT advisor. Given this finding, it would be important for the NCTE and the ICT advisory 
+service to ensure that its services at post-primary level take account of the needs of different subject 
+teachers. 
+
+The generally low level of awareness of the work of the advisory service was confirmed by the 
+findings from the case-study school evaluations. It was common for inspectors to recommend in 
+reports that the advisory service be made use of as fully as possible. The majority of the nineteen 
+case-study primary school evaluation reports that made reference to the ICT advisory service, for 
+example, encouraged schools to liaise more with the service, and other relevant services, particularly 
+with regard to advice on ICT planning and staff training issues. One of these reports recommended 
+that 
+
+support should be sought from relevant bodies—the local education centre, NCTE and the cuiditheoirí 
+attached to the primary curriculum support service (PCSP) and school development planning (SDP) to 
+assist the school (i) to provide staff up-skilling in ICT, (ii) to develop a policy on ICT and (iii) to explore ways 
+in which ICT may be integrated in teaching and learning in the school. 
+
+Almost half the twenty evaluations conducted at post-primary level made reference to the advisory 
+service, and of those that did, approximately half again commented on the relatively low level of 
+interaction that existed between the school and the service. One inspector commented: 
+
+There is a relatively low level of interaction with the ICT advisory service available in the local education 
+centre. This is surprising given the proximity of the school to the education centre. It is recommended that 
+this service be used more extensively. 
+
+In one primary-school report it was also mentioned that the “absence of an ICT advisor in the local 
+education centre to support the school and promote ICT projects” was seen as a factor that 
+constrained the development of ICT in the school. This also affected local post-primary schools in a 
+similar fashion. 
+
+35 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Notwithstanding the generally low level of engagement by teachers with the advisory service, there 
+were examples of satisfaction with the service in some case-study schools. One primary school 
+report mentioned that the school had 
+
+engaged the ICT advisor to assist in the use of the data projector in the school. The school has also 
+engaged in a project through [the local institute of technology] with the assistance of the ICT advisor. 
+
+One post-primary school was reported as having a “high level of support from the local ICT advisor 
+in terms of advice and information, particularly in relation to training courses for teachers.” In 
+another post-primary school the reason given for the low level of interaction with the advisory 
+service was that ICT provision in the school had progressed to the point where it was felt that the 
+support of the service was no longer required. 
+
+An analysis of the surveys of teachers showed that awareness of the advisory service was 
+considerably higher among ICT co-ordinators than other teachers, and that ICT co-ordinators also 
+tended to avail more often of the service. Table 3.1 shows the differences in the level of use of the 
+NCTE and ICT advisory service services between ICT co-ordinating teachers and other teachers in 
+both primary and post-primary schools. 
+
+Table 3.1: Awareness and use of NCTE and ICT advisory services among teachers 
+
+Primary schools Post-primary schools 
+Teachers who 
+
+Teachers who 
+
+All 
+
+Teachers who 
+
+Teachers who 
+
+All 
+were ICT 
+
+were not ICT 
+
+respondent 
+
+were ICT 
+
+were not ICT 
+
+respondent 
+co-ordinators 
+
+co-ordinators 
+
+teachers 
+
+co-ordinators 
+
+co-ordinators 
+
+teachers 
+Aware of ICT 
+advisory service 
+
+81% 
+
+45% 
+
+48% 
+
+84% 
+
+31% 
+
+37% 
+Availed of ICT 
+advisory service 
+
+63% 
+
+18% 
+
+22% 
+
+61% 
+
+11% 
+
+15% 
+Accessed NCTE 
+web site in previous 
+three years 
+
+69% 
+
+29% 
+
+33% 
+
+82% 
+
+19% 
+
+24% 
+Number of teachers26 
+
+115 
+
+938 
+
+1,162 
+
+46 
+
+524 
+
+800 
+
+The high levels of awareness and strong pattern of liaison with the NCTE and the ICT advisory 
+service among ICT co-ordinators reflects the nature of the work of co-ordinators in schools. This 
+level of communication could be considered an indicator of good practice, and co-ordinators 
+should, where relevant, encourage classroom and subject teachers in their schools to engage with 
+the NCTE and other relevant services. 
+
+26 A number of teachers did not state whether or not they were ICT co-ordinators in their school. 
+
+36 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+3.3 ICT and funding 
+National investment issues pertaining to ICT in education over recent years are described in chapter 1. 
+An examination of ICT funding issues in individual schools was not a priority of this evaluation: the 
+priorities were more concerned with pedagogical issues. However, schools repeatedly raised the 
+issue of funding during the evaluation, particularly in the case-study school evaluations. 
+
+It was clear from the case-study school evaluations that ICT grants received by schools through 
+relevant DES schemes had encouraged schools to install or upgrade their ICT systems.27 In particular, 
+grants had led to improvements in the quality of facilities available in computer rooms, to an 
+expansion in the range of ICT peripherals available, and to the further integration of ICT in teaching 
+and learning. School principals repeatedly acknowledged that these grants had facilitated the 
+development of their ICT systems, and in a small number of evaluation reports specific mention was 
+made of how the grants had been used in developing the school’s ICT infrastructure. Where such 
+reference was made inspectors generally noted that effective use had been made of the funds 
+received. One evaluation report commented that “it was clear that these grants have been used 
+effectively to develop the ICT system in the school.” It was also obvious from evaluation reports, 
+however, that not all schools had reached the same level of development. 
+
+A significant number of primary school evaluation reports mentioned that progress had not been 
+made towards using the grant made available for networking. In a few reports reasons for such 
+delays were cited, such as the school having been approved for a significant building project, while 
+in the remainder no reasons for lack of progress were offered. 
+
+While acknowledging the benefits of the grants received, schools generally reported spending more 
+on ICT than they received in grants. Evaluation reports regularly referred to how schools had 
+augmented the financial support received through the NCTE with private funds; a little less than half 
+of the thirty-two primary school evaluation reports, for example, stated that financial assistance for 
+the development of their ICT systems was also received from other sources. This issue (referred to 
+also in chapter 1) was particularly emphasised in case-study schools during interviews with principals 
+and ICT co-ordinators. One post-primary school report commented: 
+
+The school is at an advanced stage in the development of ICT for teaching and learning. The facilities are 
+of a high standard and improving. The school’s access to private funds plays a large role in the 
+achievements to date, and into the future. 
+
+The most frequently reported source of private funds in both primary and post-primary schools was 
+fund-raising by parents’ councils or parents’ groups. Additionally, at primary level it was also 
+common for students to become involved in fund-raising activities. Primary schools also reported 
+receiving contributions of second-hand ICT equipment from businesses and third-level institutions 
+and of equipment received as prizes in competitions. This additional expenditure on ICT displays a 
+
+27 See chapter 1 for details of ICT grant schemes for schools to date, for example, Schools IT 2000 (1998), Blueprint for the Future of ICT 
+in Irish Schools (2001), and Networking Schools (2004). These grants were primarily for the purchase of computers and software for the 
+development of networking, together with the installation of broadband connectivity. 
+
+37 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+particular commitment by schools to providing students with access to ICT. There is the danger that 
+in relying on private funding sources certain schools may be at a disadvantage. Some students, for 
+example, are likely to be placed at a disadvantage relative to others if their school community does 
+not provide additional funding for its school to purchase computers. The spending of private funds 
+by schools on computers could actually be contributing to an exacerbation of the digital divide in 
+society. Clearly, the widespread use of private funding suggests that the demand for ICT equipment 
+exceeds what can be met from the public grants provided to date. 
+
+3.4 ICT maintenance, technical support, and 
+obsolescence 
+The problems associated with the lack of technical support and maintenance were commented 
+upon strongly in the national survey responses from principals and teachers. These respondents’ 
+comments provided an insight into the complexities faced by some schools regarding this issue. One 
+principal of a small primary school stated that “the biggest problem encountered is lack of technical 
+support. We have to take equipment to the nearest IT company for repair.” Another primary school 
+principal mentioned that it was “difficult to access maintenance in an isolated rural area, and it’s 
+hugely expensive. The DES should provide back-up in each county that we can use.” One primary 
+teacher wrote that, while “all multimedia equipment, laptops and the interactive whiteboard have 
+been supplied by the Digital Hub, there should be financial support for its maintenance.”28 This 
+comment neatly summarises the fact that for this school the issue was not one of a lack of resources 
+but the lack of an efficient way of maintaining them. At post-primary level, one principal of a small 
+co-educational vocational school (0–399 students) wrote: 
+
+All of the IT equipment in the school is old (pre-1999) and is constantly giving trouble. We have no 
+technical expertise amongst the staff so maintenance is a problem. Teachers are discouraged and 
+frustrated and the use of ICT becomes a negative experience for both student and teacher. 
+
+All case-study schools consistently reported that the maintenance, upgrading and technical support 
+of their ICT equipment was a cause of great strain, and that these were areas that consumed 
+significant amounts of their budget. A little less than half of the thirty-two primary schools 
+evaluated had made provision for technical support and maintenance of their hardware, while 
+slightly less than half of the twenty post-primary schools visited had a maintenance contract with an 
+external contractor. Arrangements at primary level included responsibility for maintaining the ICT 
+system resting with the principal, with another member of the staff, or with a member of the board 
+of management, or subcontracting maintenance support. Reasons offered by those primary schools 
+that had no ICT maintenance scheme included: the cost; the fact that the ICT infrastructure was so 
+small that its size did not warrant a formal maintenance scheme; and the fact that no member of 
+the staff had the relevant skills or expertise. 
+
+28 The Digital Hub is a Government initiative to create an international centre of excellence for knowledge, innovation and creativity 
+concentrated on digital content and technology enterprises. The core development of nine acres is in the Liberties area of Dublin. 
+Over the next decade this initiative hopes to create a mixed-use development consisting of enterprise, residential, retail, learning and 
+civic space. The project is managed by a Government agency, the Digital Hub Development Agency, established in July 2003. 
+
+38 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 ICT Infrastructure in primary and post-primary schools Chapter 3 
+The maintenance contract at post-primary level generally entailed an IT consultant or technician 
+devoting one or two days per month to maintaining the school’s ICT system. It was usually the ICT 
+co-ordinator in these schools who was responsible for liaising with the contractor. While not ideal, 
+primarily because of the lack of a same-day call-out service, such contracts did seem to assist these 
+schools in keeping their ICT system intact. In schools that had no contract it was usually the ICT coordinator 
+who had responsibility for some, if not all, of the maintenance of the ICT infrastructure. 
+
+Schools with no hardware maintenance system stated that this acted as a significant impediment to 
+the development of ICT in their school. Inspectors recommended in these schools that, wherever 
+feasible, an ICT maintenance policy be adopted. 
+
+The issue of obsolescence was also found to be a significant problem that schools were required to 
+deal with regularly. One post-primary evaluation report stated: 
+
+There is a lot of obsolete or near-obsolete equipment in the school. The laptops seem to be problematic. 
+ICT equipment in the year head and deputy principal’s offices are old and largely unused. 
+
+Obsolescence appeared to be a bigger problem at primary than at post-primary level. Inspectors 
+made reference to the age of computers in slightly less than half of the thirty-two primary case-
+study school reports, compared with only a few post-primary reports. In some primary schools it was 
+reported that “most of the desktop computers were dated” or that “some hardware was no longer 
+working.” One report mentioned that the “computers in the senior classroom did not appear to be 
+
+39 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+functioning at the time of evaluation,” while in another it was stated that, despite “the considerable 
+investment to date, most of the hardware in the school is quite old.” A few reports drew attention 
+to the fact that “some software was incompatible with certain computers” because the hardware 
+was so old. 
+
+Taken together, these reports paint a picture of schools having computers that, for all practical 
+purposes, are obsolete and should be disposed of. These findings are supported by the results of the 
+NCTE census (2005), which found that “29% of computers in primary schools, 19% in post-primary 
+and 21% in special schools are over 6 years old.” In reports that referred to obsolescence it was 
+sometimes stated that this problem could be reduced if computers were used for tasks compatible 
+with their specification. In cases, however, where the technical specification of computers rendered 
+them unusable, their disposal (in line with proper practice) was usually recommended. The ageing 
+profile of hardware, the lack of compatibility between hardware and software and the development 
+of network systems bring the issue of technical support and maintenance even more to the fore. 
+
+In general, schools do not have the expertise within their own staffing to maintain their ICT systems. 
+Where schools have established maintenance contracts with IT companies, on the other hand, this is 
+having a negative impact on their budget and in particular on the level of spending they can afford 
+to devote to computer equipment. One principal of a medium-sized (400–599 students) voluntary 
+secondary single-sex school responded in the questionnaire: 
+
+The major problem that occurs in the IT area is the need for ongoing technical assistance. One teacher 
+(part-time staff member) has an allocation of two hours/week but this is only able to service the basic 
+needs of the staff using the rooms and facilities. The school has an IT service provider but this is costly and 
+while good service is given it would be so much more efficient to have a technician on site or at least 
+shared between two schools. The area of technical support must be assessed and supported if we are to 
+progress with increasing use of ICT across the curriculum. 
+
+An appropriate increase in the DES student capitation grant paid to schools or direct grants could be 
+used as a means of furnishing schools with an annual ICT upgrading fund. It would be important to 
+make sure that such a budget was reserved for this specific use. The purpose of this budget should 
+be to deal with ICT obsolescence so as to ensure that the ICT infrastructure is not allowed to 
+become outdated. Advice regarding the spending of this annual budget could be sought from the 
+NCTE or other relevant agencies. 
+
+It is clear also that the issue of maintenance in schools needs to be addressed in a co-ordinated 
+fashion at system level so that all schools can benefit from having a secure and reliable infrastructure 
+that will support the integration of ICT throughout the school. A strategy is required to ensure that 
+a comprehensive ICT maintenance and support service is available to schools. A range of models 
+whereby this service could be delivered needs to be explored. These models could include clustering 
+schools for the purpose of taking out maintenance contracts with commercial IT companies, 
+national or regional contracts for technical support for schools, or other options. The effectiveness 
+
+40 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+of these models could be explored on a pilot basis initially, so as to identify the most cost-effective 
+and efficient way in which the necessary support could be provided to schools. These solutions 
+would also require a review of the role and purpose of the local ICT advisory service. 
+
+3.5 Access to computers 
+In general, the surveys of teachers found that schools provided both teachers and students with 
+high levels of access to computer facilities. 
+
+3.5.1 Access by teachers 
+Access by teachers at the primary level, as depicted in fig. 3.2, was primarily provided in the 
+teachers’ own classrooms, with 86% of teachers surveyed reporting this to be the case. A similar 
+level reported having access to their own computer at home. A little less than a third (29%) of 
+teachers, however, reported that access was provided in the staff room. This low figure in respect of 
+staff rooms is undoubtedly influenced by the fact that many small primary schools do not have such 
+a room. 
+
+Fig. 3.2: Access to computers by primary teachers 
+
+100% 
+
+80% 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+Staff room 
+29% 
+Classroom Home 
+86% 86% 
+Base: All primary teachers (n=1162) 
+
+A little less than a quarter of primary schools (24%) were found to provide their teachers with 
+computer facilities for use at home (for example a laptop computer). Support of this type was found 
+to be slightly higher for teachers of senior classes (29% of senior class teachers) compared with 
+teachers of junior classes (21%). Primary teachers also reported that only 10% of classes had access 
+to their school’s computers outside class contact hours. 
+
+41 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Access to computer facilities for teachers at post-primary level, as shown in fig. 3.3, was primarily 
+through the staff room (85% of teachers), but a significant proportion (34%) stated that they had 
+access in their classroom. When the findings were analysed by subject it was found that access in 
+classrooms was highest for teachers of the science subjects (66%), the applied science subjects 
+(43%), and Mathematics (41%). Teachers of English (21%), of foreign languages (17%) and of Irish 
+(14%) were least likely to have access in their classroom. It would appear that many schools have 
+opted to give priority to supplying their specialist classrooms with computer equipment, in 
+preference to general classrooms, though the nature of the subjects and the expertise of the 
+teachers may also be explanatory factors. 
+
+Fig. 3.3: Access to computers by post-primary teachers 
+
+100% 
+
+80% 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+Base: All post-primary teachers (n=800) 
+
+The survey also found that schools with a low SCR were more likely to provide their teachers with 
+access to a computer in their classroom (41%) than schools with a high SCR (30%). It is likely that 
+schools with a high SCR concentrate their ICT equipment in one or more areas in the school (for 
+example the computer room), as opposed to spreading it thinly throughout the school (for example 
+one or two computers in general classrooms). It is also worth noting that 90% of post-primary 
+teachers reported using their own home computer for school activities. Support from their schools, 
+however, was low, with only 18% of teachers provided with computer facilities by their school (for 
+example a laptop for use at home). 
+
+3.5.2 Access by students 
+Fifth-year and fifth-class students in all fifty-two case-study schools that participated in the 
+evaluation (32 primary, 20 post-primary) were also asked about where they had access to a 
+computer. All 437 respondents at primary level, as shown in fig. 3.4, reported having access to 
+
+85% 
+Classroom 
+34% 
+90% 
+Home
+Staff room 
+
+42 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+computers at school, but access at home was less, at 86%. Access was also reported from other 
+places, such as a library or a friend’s or relative’s house. 
+
+Fig. 3.4: Access to computers by fifth-class students 
+
+100% 
+
+80% 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+At home 
+86% 
+At school At other place(s) 
+100% 
+78% 
+Base: All primary students (n=437) 
+
+More than three-quarters (79%) of the students surveyed at primary level reported that they had 
+been using computers for three or more years. Their present usage was reported as being frequent: 
+79% reported using a computer at least two or three times a week at home, while 88% reported 
+using a computer at least two or three times a week at school. Students reported that computers 
+were usually in their classrooms, and that they generally used them individually or in pairs. 
+
+More than four out of five primary students (82%) stated that using a computer helped them with 
+their school work. This was mainly through use of the internet for projects. Only 39% reported 
+using their home computer to help them with their homework. 
+
+A very high proportion (97%) of the 450 respondent fifth-year students, as shown in fig. 3.5, stated 
+that they had access to a computer at school. A high proportion (89%) also stated that they had 
+access to a computer at home. Outside of school and home there was also access in other places, 
+such as a local library, an internet café, or a friend’s house. 
+
+43 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 3.5: Access to computers by fifth-year students 
+
+100% 
+
+80% 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+At school At other place(s)
+
+At home 
+89% 
+97% 
+78% 
+Base: All post-primary students (n=450) 
+
+While it can be said that fifth-year students generally have high levels of access to computers in 
+school, the survey also found that approximately 50% used a computer in school at least once a 
+week. This was slightly lower than computer use at home, where 62% of students reported using a 
+computer at least once a week. Interestingly, the survey also found that students in schools with a 
+high SCR reported using a computer just as often as students in those schools with a low SCR. 
+While this may reflect the fact that computers in post-primary schools are concentrated in computer 
+rooms, it would also suggest that although one school may have more computers than another it 
+does not directly follow that the former put its extra computers to more productive use. Computers 
+in post-primary schools, especially those for the use of students, tend to be located mainly in 
+computer rooms. Students’ use of computers, therefore, is more a function of access to a computer 
+room than of access to computers per se. In planning the development of their ICT infrastructure, 
+post-primary schools need to give due consideration to maximising students’ access to, and use of, 
+the facilities. 
+
+44 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+3.6 The use of computers in schools 
+The survey of principals revealed that 38% of primary schools had at least one computer room and 
+that 62% of schools provided ICT facilities in classrooms only. It also revealed that 10% provided 
+such facilities in computer rooms only, while 28% provided these facilities in both classrooms and 
+computer rooms. At post-primary level, practically all schools have at least one computer room, and 
+traditionally computers in these schools are confined primarily to those rooms. The evaluation 
+found, however, that post-primary schools are increasingly moving towards providing other areas 
+with computer facilities. 
+
+Inspectors noted the number of usable computers in each of the case-study schools visited. At 
+primary level this ranged from four computers in one two-teacher school to forty-eight in a 23teacher 
+school. The SCR for the thirty-two schools visited varied significantly, from an optimum of 
+
+2:1 in a small two-teacher school to 16:1 in a five-teacher school. The majority of reports recorded a 
+SCR of between 8:1 and 12:1, with the national average for primary schools in 2005 standing at 
+9.1:1.29 
+The number of usable computers in the twenty post-primary schools visited ranged from 124 in one 
+school with an enrolment of 699 students to twenty in a school with an enrolment of 289. The SCR 
+varied significantly among these twenty schools, from an optimum of 3.7:1 in a small community 
+school (fewer than 399 students) to 14.4:1 in a small secondary school. The majority of reports 
+recorded a SCR of between 5.2:1 and 8.4:1, with the national average for post-primary schools in 
+2005 standing at 7:1. 
+
+In planning for the use of ICT in schools, the location of computers is important.30 Sections 3.6.1 
+and 3.6.2 of this report provide an overview of the organisation of ICT facilities in the case-study 
+schools visited, as well as an overview of the issues that arise as a result. They draw predominantly 
+on information obtained from the case-study schools evaluated but also on the responses to the 
+national surveys of principals. 
+
+3.6.1 Organisation of ICT facilities in case-study primary schools 
+ICT facilities were found in computer rooms, classrooms, staff rooms, administrative areas, school 
+libraries and general-purpose rooms in the case-study primary schools evaluated. The level of 
+permeation of ICT in classrooms was described by inspectors as being “in all classrooms” in twenty-
+two of the thirty-two schools visited, in the “majority of classrooms” in five schools, in “some 
+classrooms” in one school, and “non-existent” in the classrooms of four schools. 
+
+29 See NCTE 2005 Census on ICT Infrastructure in Schools: Statistical Report (July 2006), page 3, table 4. The SCR in primary schools for 
+
+2000 was 16.3:1, while in 2002 it stood at 11.2:1. As can be seen, there has been an improvement on the SCR in schools between 2000 
+
+and 2005. 
+
+30 The installation of computers in new schools is governed by the department’s technical guidance documents. These are Information 
+
+and Communications Technology (ICT) Infrastructure Guidelines for Primary Schools (TGD 004), February 2004, and Information and 
+
+Communications Technology (ICT) Infrastructure Guidelines for Post-primary Schools (TGD 005), February 2004. Both documents can 
+
+be found at www.education.ie. 
+
+45 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+ICT facilities in areas for students’ use 
+
+Eleven of the thirty-two case-study primary schools had one dedicated computer room each. 
+Enrolment in these schools varied between 121 and 624 students. Of the twenty-one schools that 
+did not have a computer room, enrolment varied from 14 to 209 students. Computer rooms, 
+therefore, tended to be found in the larger of the primary schools visited. 
+
+The number of computers found in computer rooms varied from a minimum of ten to a maximum 
+of twenty-one networked computers. A few small schools had placed all their computers in a 
+dedicated area, which they referred to as the “computer room.” In these cases the number of 
+computers was generally six or less, and usually they were not networked. The reasons for such 
+consolidation of facilities usually concerned lack of space, with one report stating that the “school 
+originally located the computers in the two classrooms, but because of limited space it was decided 
+to relocate them to the staff room.” Because of the lack of a suitable area for use as a computer 
+room, one school placed eight networked computers in a mainstream classroom; an ICT specialist 
+teacher directed lessons on these computers while the class teacher taught as normal in the room. 
+In another situation the computer room was used for a range of purposes: 
+
+While the timetable facilitates use of the computer room by teachers, there are a number of constraints 
+that adversely affect its use. Among these is the multi-purpose use of the room to accommodate the 
+school secretary, learning-support teaching, resource teaching and the principal’s administration duties. 
+
+A few schools with a computer room had timetables that generally governed when class groups got 
+to use the room. However, this also governed when other groups did not get to use the room. One 
+report, for example, stated that “a timetable is provided which allows all mainstream classes, apart 
+from infants, at least weekly access to the computer room.” In another school it was reported that 
+
+students in middle and senior classes leave their classroom in groups to use the computers from time to 
+time. Students in first and second class occasionally use the computers in the afternoon, when the infant 
+students have gone home. 
+
+In another report there was clear evidence of restricted use of the computer room: 
+
+The computers in the computer room are used by the senior classes only and appear to be in regular use. 
+The other mainstream teachers or students do not generally use the computer room. As there are no 
+computers in either the junior or middle classroom, this means that students do not begin consistent 
+computer use until third class. 
+
+With regard to three schools inspectors recommended that the timetable for the computer room be 
+reviewed with a view to providing more students with access. Schools were encouraged to develop 
+a booking system (for example a notice or rota on the notice-board in the staff room) for the use of 
+the computer room whereby teachers could book the room to take class groups at particular times. 
+In their national survey, 51% of principals felt that the main advantage of having a computer room 
+
+46 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+was that it allowed concurrent access to the computers for whole classes. Interestingly, 32% of 
+principals also felt that it was a more conducive environment for learning ICT than the classroom. 
+
+Most case-study primary schools had some level of ICT facilities in each of their classrooms. One 
+report pertaining to a five-teacher school, for example, stated that “there are seven computers 
+shared between mainstream classrooms,” while the report on a thirteen-teacher school noted that 
+there were “over twenty computers in good repair, but of varying age, located in mainstream 
+classrooms.” 
+
+In general, the distribution of computers in classrooms varied significantly from school to school. 
+There was no clear pattern as to how schools decided to distribute their computers, as some 
+classrooms had generous levels while others had limited supplies. In schools where computers were 
+located in classrooms only, however, reports did reveal that access to, and use of, the technology 
+was more relaxed and more frequent. One report stated: 
+
+Teachers reported that all students had access to, and made use of, computers. This was assisted by the 
+fact that computers are located in each of the classrooms in the school. All students have access to the 
+computer on a weekly basis . . . a computer rota system is used in classrooms to ensure that all students 
+access the computer. Files of individual students’ work are maintained on the hard disk of the classroom 
+computers. 
+
+In their survey, principals reported that, from a teaching and learning viewpoint, the advantages of 
+having computers in classrooms were threefold: 
+• there is convenient and flexible access 
+• it is easier to supervise, control and assist students 
+• individual attention can be managed more easily, especially for special-needs students. 
+
+Computers in classrooms, however, were not always organised optimally. One case-study school 
+report commented: 
+
+The organisation of the school’s ICT infrastructure, particularly within individual classrooms, should be 
+reviewed to accommodate further development of students’ writing skills through the writing process, 
+the development of collaborative skills through project work and the development of research skills 
+through the use of the internet. 
+
+The issue of infrastructural layout in primary school classrooms and how it impacts on teaching and 
+learning is explored in greater detail in chapter 5. 
+
+From the case-study schools evaluated it seems that while the computer room might be a more 
+efficient way of managing the computers in a school it does not always guarantee regular access to 
+the technology by students. It is also clear that the computer room can sometimes be used for 
+different purposes. It would appear that locating computers in classrooms provides greater access 
+opportunities for students. 
+
+47 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Most case-study school reports recorded information about the internet connection that schools 
+were using. Only one report made explicit reference to a working broadband connection. Most of 
+the remainder were connecting with a dial-up system, while in a few instances it was reported that 
+there was no access to the internet at all. In these reports it was stated that the relevant schools 
+were awaiting broadband connection before re-establishing an internet connection. 
+
+Internet connection in schools, where it did exist, appeared to be limited to one computer. This 
+restricted students’ access, with one report stating that “internet access is strictly reserved for staff 
+[members] or for supervised groups of students.” The lack of access to the internet in the classroom 
+was regarded by many teachers as a barrier to the successful integration of ICT in their teaching. As 
+one inspection report stated, “there is currently no internet access in any of the five classrooms 
+which [the] staff identifies as a barrier to the development of the students’ ICT skills.” 
+
+Case-study schools were generally found to have restricted access to the internet. It was regularly 
+recommended in reports that schools upgrade their level of internet access for both students and 
+teachers. It is expected, however, that this situation will improve with the provision of broadband 
+and the networking of computers that was taking place at the time of school visits. 
+
+ICT facilities in special-education settings 
+
+ICT facilities comprising at least one computer were located in special-education settings in the 
+majority of case-study primary schools. In one school the allocation was particularly good, with two 
+special-education teachers having 
+
+the use of three computers together with two printers and two scanners. Two students with specific 
+learning needs have access to individual laptop computers. 
+
+Case-study schools regularly acknowledged the benefits that DES grants had in providing dedicated 
+technology for special education needs. A few reports, for example, noted that special-education 
+teachers had access to laptop computers for their work. One report referred to “the learning-
+support and resource teachers who provide support to the school on a shared teaching basis” 
+having laptops for use in various schools within their cluster. In another report it was noted that 
+“there are also two laptops available which are mainly used by teachers who support students with 
+additional learning needs.” 
+
+Commercially produced educational software was always used to facilitate teaching and learning in 
+special-education settings. Some schools had “a commendable range of software packages that 
+[were] used regularly to support students,” while others had to make do with less. In the latter case 
+the schools were usually advised to expand their level of software resources. (Software issues are 
+discussed further in section 3.8.) 
+
+48 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+ICT in areas for teachers’ use 
+
+Fifteen of the thirty-two case-study primary schools had computers available in their staff room that 
+were primarily for use by teachers. The number of such computers ranged from one to five. 
+
+While more than half the case-study schools did not provide computers in areas specifically for 
+teachers’ use, it is recognised that many of these were small schools that did not have a staff room 
+in the first place. In those schools it was usually reported that the teachers had the use of those 
+computers that were also used by the students (i.e. those in a computer room or in classrooms). 
+
+The majority of computers in schools that were specifically designated for teachers’ use only were 
+laptops. The learning-support/resource teacher featured prominently in this regard. As will be seen 
+in chapter 4, school management personnel and teachers regularly spoke of how access to such 
+facilities contributed to improvements in the quality of lesson planning, preparation, and content. 
+
+ICT in school administration 
+
+The NCTE infrastructure census (2005) found that 95% of primary schools used computers for 
+general office use, 60% used the technology for maintaining students’ records, and 48% used 
+computers for accounts work. In this evaluation it was found that only fifteen of the thirty-two case-
+study schools visited reported making use of computers in school administration work. The number 
+of computers devoted to this work was usually one or two. Of the twelve schools that reported 
+devoting two computers to this work, one was usually earmarked for the school secretary, while the 
+other was for the principal. Schools should fully exploit the benefits presented by ICT in school 
+administration. 
+
+3.6.2 Organisation of ICT facilities in case-study post-primary 
+schools 
+A general pattern emerged from the visits made to post-primary case-study schools regarding how 
+they organised their ICT facilities. Each of the twenty schools visited, for example, had at least one 
+computer room.31 As already noted (section 3.5), outside of computer rooms schools tended to give 
+priority to supplying computers to specialist classrooms and workshops over general classrooms. The 
+level of permeation of ICT in learning spaces in the case-study post-primary schools was described 
+by inspectors as being “in all classrooms” (both specialist and general) in two schools visited. ICT 
+was found to have permeated the “majority of classrooms” in one school, while it was reported to 
+have permeated “some classrooms” in fifteen schools. ICT was reported to be “non-existent” in the 
+classrooms of two of the twenty schools visited. Computers featured prominently in areas that were 
+dedicated to working with students with special education needs. Facilities were also provided in 
+some schools for the exclusive use of teachers, in staff rooms or other such areas where teachers 
+could undertake planning and preparation work. ICT facilities were also used in school 
+administration areas. 
+
+31 Eleven schools had one computer room, one school had two computer rooms, five schools had three computer rooms, and three 
+schools had four computer rooms. 
+
+49 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+The dedicated computer room 
+
+The provision in post-primary schools’ schedules of accommodation of a dedicated computer room, 
+now often referred to as the multimedia learning laboratory, is a relatively new initiative. Up to 1999 
+most schools were provided with a room for “commerce or business machines” in their schedules of 
+accommodation. These rooms were generally equipped with typewriters. From 1999 onwards, 
+however, computer rooms were formally provided, though before that many schools had converted 
+existing classrooms to serve as computer rooms. 
+
+The computer room is generally used for teaching computer skills to full class groups. The computer 
+room in a new school is generally equipped with seating for up to thirty computer users, with 
+computer hardware being allocated per capita.32 While the total number of computers in the 
+computer rooms of the case-study schools visited varied significantly, the number found was not 
+always in proportion to the school’s enrolment. One school with an enrolment of 289 students, for 
+example, was found to have only fifteen computers in its computer room; another, with an 
+enrolment of 397 students, had eighty-eight computers in its computer rooms; a third, with an 
+enrolment of 628, had seventy-six computers; while a fourth, with an enrolment of 699, had ninety 
+computers between its four computer rooms. The average number of computers in the computer 
+rooms of case-study schools was twenty-four. With regard to rooms with an above-average number 
+of computers inspectors usually commented that such schools had a “generously equipped” or 
+“well-equipped” computer room. The proviso was usually added, however, that the equipment was 
+not always up to date. 
+
+Inspectors found that most of the case-study schools had availed of DES funding to either create or 
+develop the computer network in their school.33 It was found, for example, that almost all the 
+schools visited had a network system in their computer room (or rooms), but a few computer rooms 
+also included a number of stand-alone computers. Almost all the network systems installed were 
+wired, though one report referred to a school having a wireless network. While no network was 
+installed in a small number of schools visited, it was reported that those schools had plans to have 
+one installed. Approximately a quarter of the schools visited had two or more networking domains, 
+one usually administrative, the other devoted to use by the students. One school had four 
+networking domains, but the report on this school recommended the consolidation of these 
+networks so that “all computers, with the exception of those used in administration, are on the 
+same network and have access to the internet.” 
+
+The introduction of the broadband initiative was still in progress at the time of the case-study school 
+visits. In some schools it was reported that broadband access was already available, while others 
+were in the process of acquiring such access. Nevertheless, all the schools visited had some form of 
+internet access. In one school only one computer had internet access, but in all other schools 
+students had access to the internet via the school’s computer network. Teachers interviewed 
+reported the internet as being a very valuable teaching resource. In particular, they felt that the 
+
+32 See www.education.ie for layouts and specifications for new computer rooms. 
+33 See chapter 1 for details of DES grants to schools. 
+
+50 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+internet allowed for a wide range of digital resources to be brought into the classroom for activities 
+in which the students did their own research or engaged in interactive activities on-line. (This issue is 
+explored in greater detail in chapter 6.) 
+
+Almost all the case-study school reports referred to the timetabling arrangements for the computer 
+room (or rooms). Approximately half the reports quantified the time for which computer rooms 
+were timetabled; occupancy ranged from 30% to almost 90%, with the average being slightly more 
+than 60%. In schools where the timetabled occupancy was low it was generally reported that this 
+was to allow teachers to use the room and its facilities as the need arose. However, there was 
+regular mention during interviews with teachers that the practicalities involved in taking a group of 
+students to a computer room tended to discourage them from doing so. Furthermore, a few ICT coordinators 
+spoke of problems that tended to arise when there was unplanned use by teachers of the 
+school’s computer room (for example technical problems, breakage, and tampering with systems). 
+For subject teachers to make greater use of computer rooms, school managements would need to 
+ensure that a simple and accessible system exists for booking the room. Such a booking system did 
+not exist in many of the case-study schools visited; approximately a quarter of all evaluation reports 
+referred to the need for some form of booking system to be implemented. It is also important that 
+rules for the computer room are established and that these are regularly brought to the attention of 
+all teachers and students who use the room. 
+
+ICT facilities in specialist and general classrooms 
+
+While a computer room is normally used for teaching computer skills to an entire class group, 
+computers in specialist or general classrooms are generally intended to support the use of ICT as a 
+teaching aid for subjects. ICT was found in one or more of the specialist rooms in the case-study 
+schools visited. Specialist rooms in which such facilities were commonly found included science 
+laboratories and technology workshops, along with those rooms dedicated to Art, Craft and Design, 
+Music, Geography, Career Guidance and Home Economics. In most reports in which the number of 
+computers in specialist rooms was given it was noted that they contained only one or two 
+computers. In one report, however, it was noted that a science laboratory contained six computers. 
+This level of provision allowed for the potential use of the computers by small groups of students. 
+The more common situation of having a single computer in a room generally meant that it was used 
+either solely by the teacher or in rotation by students, either in pairs or individually. Most school 
+libraries were also equipped with some ICT equipment. 
+
+In contrast with specialist rooms, the permeation of computers in general classrooms was found to 
+be more limited. Only two of the twenty case-study schools were found to have computers in all 
+their general classrooms. Of the remaining eighteen schools, each principal generally expressed the 
+view that they would like to see this level of permeation of ICT throughout their school in the years 
+to come. The majority of principals who responded to the questionnaire also expressed this view in 
+the context of their vision for the development of ICT in their school. One principal, for example, 
+identified the following priorities: to increase the incidence of ICT usage by the teaching staff; to 
+
+51 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+support and up-skill teachers in ICT usage; and to put ICT hardware and software in place in 
+classrooms. 
+
+Of these eighteen schools, one was described as having computer facilities in the “majority” of 
+general classrooms, while fifteen had computers in “some” general classrooms. In only two of the 
+schools visited was it reported that there were no computers in any general classrooms. In their 
+evaluation reports it was common for inspectors to recommend an expansion, as resources 
+permitted, of the number of computers made available to general classrooms. A few reports advised 
+schools to consider, as an interim measure, setting up a mobile ICT facility that could be shared 
+between classrooms. 
+
+ICT facilities and special needs 
+
+The level of provision of ICT equipment in the area of special educational needs varied considerably 
+from school to school at post-primary level. A few reports commented on the high level of provision 
+of ICT for use in this area. One report, for example, commented that “the learning support and 
+resource areas are particularly well catered for,” while another noted that “the learning-support 
+room has twelve laptop computers.” Conversely, one report spoke of the special-education teachers 
+having only “a desktop computer and a printer.” In addition to the availability of computers and 
+peripherals, a few reports also referred to the provision of software in this area. One report referred 
+to the availability of “an extensive library of educational software for use with special needs 
+students,” while another noted that “educational software is confined predominantly to the area of 
+special needs education.” (Further reference is made to the issue of computer software in special 
+education in section 3.8.) 
+
+ICT facilities in staff rooms 
+
+Schools that made dedicated computer facilities available for teachers’ use reported that it 
+encouraged the teachers to engage with the technology and that it also led to improvements in the 
+quality of the resources used in teaching. The survey of teachers (as mentioned in section 3.5) found 
+that 85% used computers in the staff room for school-related activities. Of the case-study schools 
+visited, approximately a quarter provided one or two computers in the staff room, a quarter 
+provided between three and five computers, while approximately another quarter provided more 
+than ten computers for the use of the staff. In a few schools some or all of the teachers were 
+provided with their own laptops; one school reported that they intended to extend this facility to 
+students. In a few schools it was reported that teachers used computers in the computer room for 
+lesson planning and preparation purposes; and in schools that had computers in classrooms it was 
+reported also that the teachers based in such classrooms generally used these for planning and 
+preparation purposes. 
+
+ICT in school administration 
+
+Most evaluation reports on case-study schools made reference to the level of ICT equipment in 
+administrative areas. In this regard the inspectors noted the use of ICT equipment in the offices of 
+
+52 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 ICT Infrastructure in primary and post-primary schools Chapter 3 
+school secretaries, of senior and middle school management personnel, and of guidance counsellors 
+and chaplains. It was noted that computers used for administrative purposes were usually on a 
+separate network from those available for academic use. The NCTE infrastructure census (2005) 
+found that 59% of post-primary schools had a separate network for school administration. This is 
+considered good practice, as it affords a higher level of security for sensitive school data. 
+
+While not all post-primary schools use computer applications to construct their annual timetables,34 
+all the case-study schools visited were found to do so. Indeed the majority of case-study schools 
+were also found to use suitable applications to keep detailed information on students; the NCTE 
+infrastructure census (2005) found that 94% of post-primary schools used ICT for this purpose. 
+Schools found this computerisation of students’ records to be of particular benefit when liaising 
+with parents on such issues as behaviour, academic progress, and attendance and punctuality, as the 
+school was in a position to obtain accurate information quickly. With regard to attendance and 
+punctuality in particular, a few of the schools that were visited implemented a computerised student 
+attendance system, whereby students were required to check in each morning using their own 
+swipe card. While such a system has certain loopholes, these schools reported that the system had a 
+positive influence on attendance and punctuality patterns. 
+
+During interviews a few school principals spoke of the need for appropriate ICT training to be 
+provided for personnel in the efficient use of computers in school administration. The Education 
+Services Initiative (ESI) of the DES should extend schools’ use of ICT in its administrative work.35 
+
+3.7 ICT peripherals 
+Teachers were asked in their national surveys what peripherals they used in their teaching and how 
+often they used them. The range of peripherals used and the extent of their use are shown in fig. 
+
+3.6 and fig. 3.7 for primary and post-primary schools, respectively. 
+34 As evidenced by (a) the NCTE infrastructure census (2005), which found that 89 % of post-primary schools used computers to 
+
+construct their timetables, and (b) the fact that some schools continue to make their October returns to the DES with conventional 
+
+methods. October returns comprise details of enrolments that schools return to the Department of Education and Science at the 
+
+beginning of October each year. 
+35 The purpose of the ESI is to develop a web-based “one-stop shop” portal and specific applications for providing on-line services to 
+
+schools, replacing paper-based systems. The first application to be developed under this project is the On-Line Claims System. Other 
+
+services will be developed in a number of phases. 
+
+53 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 3.6: Frequency of use of ICT peripherals by primary teachers 
+
+How frequently do you use the following peripherals/equipment in 
+your teaching? 
+
+Printers 
+Digital still cameras 
+Scanners 
+Digital video cameras 
+Data projectors - mobile 
+MP3 players 
+Data projectors - fixed 
+Interactive whiteboards 
+
+80%60% 100%40%20%0% 
+22%43% 16% 
+14% 33% 
+12% 23% 
+12% 
+10% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All primary teachers (n = 1162) 
+
+Fig. 3.7: Frequency of use of ICT peripherals by post-primary teachers 
+
+Printers 
+Scanners 
+Data projectors - mobile 
+Digital still cameras 
+Data projectors - fixed 
+Digital video cameras 
+Datalogging sensors 
+Dataloggers 
+Interactive whiteboards 
+
+How frequently do you use the following peripherals/equipment in 
+your teaching? 
+
+40%30% 50% 60%20%10%0% 
+12%33% 13% 
+11% 10% 17% 
+9% 6% 12% 
+3% 6% 17% 
+13% 4% 
+2% 9% 
+2% 8% 
+2% 8% 
+3% 
+6% 
+At least once a week 
+About 2/3 times a month 
+Less than twice a month 
+
+Base: All post-primary teachers (800) 
+
+54 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+Printers were found to be the most commonly used ICT peripherals in both primary and post-
+primary schools: 65% of primary and 45% of post-primary teachers reported making use of a 
+printer at least two or three times per month. The use of the printer at primary level was higher 
+among teachers of senior classes (72%). 
+
+The next most frequently used peripherals at primary level were digital cameras and scanners, both 
+being used at least two or three times a month by 19% of teachers. Again, the use of these 
+peripherals was found to be higher among teachers of senior classes (25%). 
+
+Data projectors (fixed or mobile), scanners and digital (still) cameras were the next most commonly 
+used peripherals at post-primary level. When the data was analysed by subject area at post-primary 
+level it was found that a relatively low proportion of teachers of Irish used ICT peripherals in 
+comparison with teachers of Mathematics and the science and applied science subjects. Interactive 
+whiteboards were uncommon in both primary and post-primary schools. 
+
+While significant numbers of teachers at both primary and post-primary level use printers, the 
+general use of peripherals is quite low. For example, 19% of primary teachers and 42% of post-
+primary teachers reported never using a printer in their teaching, while approximately 50% of 
+primary teachers and more than 70% of post-primary teachers reported never using a digital still 
+camera in their teaching. 
+
+In the primary case-study schools, printers were also the predominant peripheral. In one five-teacher 
+school in particular there were sixteen printers, while its only other piece of peripheral equipment 
+was a digital camera. The prevalence of printers in primary schools, however, raises questions 
+relating to how schools make decisions concerning the purchase of peripherals, and how they meet 
+their needs while at the same time ensuring that good value is received. It would appear that 
+primary schools in particular need advice regarding the purchase of ICT peripherals. Indeed some 
+evaluation reports made recommendations concerning ICT peripherals. These usually encouraged 
+schools to consider expanding their level of ICT peripherals. Data projectors featured strongly in such 
+recommendations, as they were present in less than a third of the case-study schools visited, almost 
+exclusively the larger schools. Scanners and digital cameras closely followed data projectors. 
+
+Post-primary case-study schools reported making regular use of printers and data projectors and, to 
+a lesser extent, scanners, digital cameras, digital camcorders, data-logging equipment, and CD 
+writers. Reference was constantly made during evaluations to one of these peripherals in particular, 
+namely the data projector. Teachers viewed the data projector as a tool that could significantly 
+enhance the teaching and learning process. Many described how the projector could “bring the 
+subject matter to life” through, for example, multimedia presentations (i.e. presentations that 
+include a combination of effects, such as animation, music, and text). It was also regularly described 
+as being a “visually effective tool,” particularly from the students’ viewpoint, because of the larger 
+
+55 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+screen it facilitates. Finally, the majority of teachers interviewed mentioned that using the data 
+projector also allowed them more time to engage with students, as opposed to having to spend 
+time writing or drawing on the blackboard. In a few schools it was reported that one or more data 
+projectors were mobile, thus facilitating their use by greater numbers of teachers in their own 
+classroom environments. 
+
+In more than a quarter of the evaluation reports for post-primary case-study schools the inspectors 
+recommended the purchase, as funds became available, of additional data projectors. In some cases 
+it was recommended that the projectors be mobile, so that they could be moved from classroom to 
+classroom as required, or that a specific room be equipped with a data projector so that teachers 
+could bring their students to that room as required. Such alternative arrangements would be made 
+in accordance with a school’s particular circumstances. Given the undoubted benefits of using a 
+data projector to facilitate teaching and learning, it is clear that every classroom should ideally have 
+access to this equipment. 
+
+3.8 Software 
+Teachers in all the case-study schools visited reported making use of software as a teaching aid. The 
+most popular type of software used at primary level was content-rich.36 Exploratory37 and reference 
+software (for example encyclopaedias) were also available, but to a more limited extent. The most 
+popular type at post-primary level was subject-specific software; this was particularly so in the case 
+of special-education teachers (see section 3.6.2). The availability of these types of software, 
+however, varied considerably from school to school. 
+
+In general, it was found that only limited areas of the primary school curriculum were supported by 
+software. A few reports from the case-study schools mentioned software being available for 
+particular curricular areas only. The more popular areas supported by software were the Visual Arts, 
+Music, and Social, Environmental and Scientific Education (SESE). In the area of SESE, History and 
+Geography were the more popular areas supported by software. Irish was the least-supported area. 
+Only one school report mentioned that Irish was supported through the use of software, while 
+another mentioned that “a satisfactory range of content-rich software is provided for most areas of 
+the curriculum with the exception of Irish.” All reports, however, mentioned that software was 
+regularly used to help develop students’ literacy and numeracy skills. It is of interest also that a small 
+number of reports made mention of the lack of software available in schools, despite grants being 
+provided for the purchase of equipment, peripherals, and software. 
+
+It was clear that many teachers in both primary and post-primary schools were unaware of the 
+range of software already available to them in their school. Many inspectors recommended, 
+therefore, that schools develop an inventory of the software, and in some cases hardware also, 
+
+36 Content-rich software can also be described as tutorial-based software, usually subject-specific and with little or no interactivity. 
+37 Simulation-type software, usually subject-specific but with a high level of interactivity. 
+
+56 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+already available in the school. It was further recommended that these inventories be circulated to 
+teachers so as to create a greater awareness of the ICT facilities readily available to them. It was also 
+seen as important that such inventories be regularly updated. 
+
+A few reports, particularly for post-primary schools, suggested that a tracking system be developed 
+for the movement of ICT facilities within schools. It is also worth noting that, of the teachers who 
+reported having limited software resources, many admitted to not having submitted a request for 
+such software to their school management. In light of this fact it is recommended that teachers or 
+their subject departments (post-primary) draw up a list of software resources, perhaps annually and 
+in collaboration with their school’s ICT co-ordinator, that would be suited to the teaching and 
+learning in their classroom or subject (or subjects). The list should then be submitted to the 
+management of the school for consideration. 
+
+During interviews with teachers in case-study schools many of those who were members of their 
+school’s special-education team raised the issue of the appropriateness of the match between the 
+equipment and software they used and the needs of their students. Many reported that they lacked 
+an awareness of what support was available and how they could acquire it. This is an area in which 
+the NCTE, in collaboration with the Special Education Support Service (SESS), could assist schools 
+even further, particularly with regard to advising them on the range and type of devices and 
+software available for use with students with special educational needs. There is an opportunity 
+here, perhaps, to disseminate the outcome of such projects as Solas38 and the Laptop Initiative.39 
+
+3.9 Use of e-mail 
+The first NCTE census of ICT infrastructure in schools (2002) found that 16% of teachers in primary 
+schools and 23% in post-primary schools were provided with a personalised e-mail account by their 
+school. By 2005 these figures had risen to 35% and 30%, respectively.40 In the national surveys 
+used as part of this evaluation it was found that a little more than a third of teachers in both primary 
+(35%) and post-primary (34%) schools were provided with an e-mail address by their school. At 
+primary level in particular the proportion was higher for male teachers (45%), teachers over thirty-
+five (45%), teachers in schools with a low SCR (40%), and teachers of senior classes (43%). 
+
+38 SOLAS was an education research project, launched in 1997 and funded by the NCTE, aimed at meeting the special educational 
+needs of pupils with physical and sensory impairments, especially in mainstream education. The project involved the publication of a 
+document entitled Enabling Technologies: Guidelines for the Use of Assistive Technology in Education. More information on this 
+project can be found at www.enabletech.ie. 
+
+39 This initiative was launched in 2000 and was aimed at identifying how laptop computers could best be used to support second-level 
+pupils with dyslexia or other reading difficulties in inclusive environments. The initiative provided grants for the purchase of laptops 
+for individual pupils and for the purchase of back-up equipment in each of the thirty-one schools involved. Specialist training for 
+teachers involved in the project in these schools was also provided. The initiative was completed in 2005, and a book and CD entitled 
+Engaging Learners: Mobile Technology, Literacy and Inclusion were published the following year. Further details on the initiative are 
+available on a special web site, www.laptopsinitiative.ie. 
+
+40 See NCTE (2006), NCTE 2005 Census on ICT Infrastructure in Schools: Statistical Report. 
+
+57 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Despite the level of provision of e-mail for teachers, it was found that considerably fewer reported 
+using e-mail for class-related activities. Only 7% of all teachers at primary level and 8% at post-
+primary level reported using e-mail with students as part of class-related activities. At primary level, 
+use in class was found to be higher for senior classes (14%) and for male teachers (13%). At post-
+primary level, when the findings are examined by subject area, as shown in fig. 3.8, some 
+differences become apparent. 
+
+Fig. 3.8: Provision and use of e-mail address by subject taught, post-primary schools 
+
+E-mail address provision and usage by subject taught 
+
+60% 
+40% 
+20% 
+0% 
+39% 
+2% 
+37% 
+11% 
+35% 
+10% 
+33% 
+6% 
+32% 32% 32% 
+9% 8% 8% 
+27% 
+5% 
+26% 
+4% 
+Irish Business Foreign Mathematics Social Social Applied English Science 
+Studies Languages Studies I Studies II Science 
+
+
+Has your school provided you with an e-mail address? 
+Do you use e-mail with your students for class related activities? 
+
+Base: All post-primary students (n=800) 
+
+The provision of e-mail addresses to post-primary teachers was highest for teachers of Irish (39%), 
+Business Studies (37%) and foreign languages (35%). One reason for this could be that teachers of 
+these subjects, particularly the language and business studies subjects, are likely to be engaged in 
+projects that involve communication with businesses, with other schools, or with teachers in 
+different countries. Interestingly, these categories of teachers did not feature highly among those 
+teachers who had access to computers in their classrooms. A slightly lower proportion of English 
+teachers (27%) and teachers of science subjects (26%) received an e-mail address from their school. 
+
+Teachers of Business Studies, foreign languages and subjects in the social studies I group of subjects 
+(History, Geography, Music and Art, Craft and Design) were found to be the best users of e-mail for 
+class-related activities. Teachers of Mathematics, English and Science had a relatively low proportion 
+of e-mail use, while use among teachers of Irish was lowest. In general, it can be said that the 
+provision of e-mail is not always synonymous with its use. 
+
+58 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+Not surprisingly, the survey found a correlation between use in class and the provision of an e-mail 
+address by a school. At primary level, 11% of teachers in schools that provided their teachers with 
+an e-mail address used e-mail with their students, compared with 7% nationally; at post-primary 
+level the corresponding figures were 13% and 8%. Given the fact (as noted earlier) that slightly 
+more than a third of teachers at both levels are provided with e-mail addresses by their schools, it is 
+clear that many teachers are using their own e-mail address with their students. However, when 
+schools provide this facility for their teachers its use is greatly increased. 
+
+Teachers who used e-mail reported that it presented opportunities to communicate with other 
+teachers and schools, with parents, with industry, and with the local community. It provided 
+opportunities to enhance teaching and learning. Popular examples of the use of e-mail at both 
+primary and post-primary level included e-mailing other students as part of school twinning projects 
+and requesting information from companies or agencies for research purposes. Communication 
+with companies regarding work experience was also popular at post-primary level. 
+
+The provision of a dedicated e-mail service to schools and their teaching staff should be given 
+priority within the introduction of the NCTE-managed Schools Broadband Access Programme. With 
+regard to those schools and teachers who are already provided with such a facility, efforts could 
+perhaps be directed towards encouraging its use as part of classroom practice. 
+
+3.10 The on-line environment 
+3.10.1 The learning platform 
+While it is known that some schools make use of their own on-line learning platform, the evaluation 
+found no evidence of such platforms being used in any of the case-study schools visited. Learning 
+platform is an umbrella term that describes a broad range of ICT systems used to provide and 
+support learning and teaching. It usually combines several functions, such as organising, mapping 
+and implementing curriculum activities, as well as providing a facility for teachers and students to 
+have a dialogue about these activities, all by means of ICT. The term is sometimes applied to a virtual 
+learning environment (VLE)41 or to the components of a managed learning environment (MLE).42 
+
+Learning platforms give every student access to personal on-line web space, where they can do such 
+things as store work and record their achievements. They also give every teacher access to teaching 
+resources and tools to support lesson planning and teaching and learning. They also facilitate 
+“personalised learning” by enabling teachers to tailor the curriculum to the needs of individual 
+students. The experience of a learning platform can vary from school to school. However, where 
+
+41 A VLE is a software tool that brings together resources for curriculum mapping, implementation, assessment, tutor support, 
+communication, and tracking. 
+
+42 A managed learning environment (MLE) comprises the whole range of information systems and processes that facilitate learning and 
+the management of learning within an institution. It includes VLEs or other learning platforms and administrative and other support 
+systems. 
+
+59 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+there is a strong determination to embed the platform in the working practices of a school, the 
+benefits for teachers, students and parents can be impressive. An effective learning platform can 
+also support school management and administration. 
+
+Benefits of learning platforms for teachers 
+An effective learning platform can enable teachers to 
+• create and share teaching materials that can be accessed on line, printed out, or used with an 
+interactive whiteboard or data projector 
+• put their resources on line page by page, lesson plan by lesson plan, so that colleagues can 
+access them both in school and from home, thus facilitating collaboration within their subject 
+area 
+• obtain access to a wide variety of learning materials that they can customise for the exact needs 
+of their students 
+• obtain access to lesson plans from colleagues to facilitate cover for teacher substitution 
+• assess, monitor and track individual and group progress 
+• receive submissions of work from students in one area that is easy to manage 
+• manage, within personal desktop space, their timetables, diary, e-mail, and discussions 
+• increase their ICT competence and confidence. 
+Benefits of learning platforms for students 
+An effective learning platform can enable students to 
+• obtain access to learning materials created by their teachers and others, outside lesson time and 
+from locations such as their local library or home 
+• store their work and notes on line for use in assignments, homework and revision, outside 
+normal school hours 
+• work at their own pace and with a wider choice of learning styles, through a more personalised 
+curriculum 
+• create an on-line portfolio, including digital photographs and videos of performance, as well as 
+text 
+• improve their ICT skills and on-line management of materials 
+• submit homework and assignments for marking and assessment 
+• communicate by e-mail and participate in live discussions and forums with other students and 
+with teachers. 
+Benefits of learning platforms for parents 
+An effective learning platform can enable parents to 
+• play a greater part in their child’s learning, where they have access to the learning platform from 
+home 
+• support children in learning that takes place outside school 
+• obtain access to their child’s personal home page to keep track of their work and the curriculum 
+60 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+• view reports, attendance data, and scores in assessment activities 
+• communicate effectively with teachers, school administrators and others supporting their child’s 
+learning 
+• engage with wider school issues through on-line communication tools 
+• become active partners with the school. 
+Benefits of learning platforms for administration and management 
+An effective learning platform can 
+• provide up-to-date management information on attendance and attainment 
+• track the progress of individuals and groups of students 
+• collate summative and formative assessments 
+• reduce the administrative burden on teachers by using transferable data 
+• enable communication within school and beyond, one to one, one to many, or many to many 
+• increase communication with parents. 
+When they are implemented effectively it is clear that learning platforms can have many benefits for 
+schools, including “any time, anywhere” learning, greater parental involvement, the development 
+of personalised learning, better use of teachers’ time, enhanced effectiveness of substitution 
+teachers, collaboration, cross-institutional working, and increased inclusion of students in both their 
+school and personal work. The school of the future will in all likelihood be operating its own 
+learning platform; indeed some schools are already operating such systems, while others are 
+experimenting with the technology. It is recommended that schools that have effectively 
+implemented their own learning platforms be identified as models of good practice for other 
+schools. The NCTE could play a role in identifying such schools and in disseminating their practices 
+and experiences among other schools. 
+
+3.10.2 The school web site 
+Schools with their own web site regard it as a means of informing the public about their school and 
+as a way of promoting the work done in their school. Some websites contain information on 
+initiatives and projects that the school is involved in, as well as examples of students’ work. 
+
+The national surveys of teachers asked respondents to state whether their school had a web site 
+and, if so, whether there were examples of students’ work displayed on it. Fig. 3.9 and fig. 3.10 
+give details of the responses received from primary and post-primary teachers, respectively. 
+
+61 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 3.9: The primary school web site: teachers’ responses 
+
+If yes, is there pupil project work on
+
+Does your school have a school website? 
+
+the website? 
+
+No 61% Yes 39% 
+Base: All primary teachers (n = 1162) 
+
+
+No 68% Yes 32% 
+Base: All primary teachers from schools 
+with a website (n = 425) 
+
+
+Approximately 39% of primary teachers stated that their school had a web site, and of these 
+approximately a third (32%) stated that their site contained reference to, or details of, work done by 
+students. A higher proportion of teachers of senior classes stated that their web site contained 
+reference to work done by their students (41% of teachers of senior classes, compared with 29% of 
+teachers of junior classes). 
+
+The survey of fifth-class students found that 41% did not know whether their school had a web site 
+(even though approximately a quarter of these students were in schools that did have one). Of those 
+who were aware (37%), only 20% said that their work had appeared on the site. A much higher 
+proportion of girls (32%) stated that their work had appeared on their school web site than boys 
+(11%). 
+
+Fig. 3.10: The post-primary school web site: teachers’ responses 
+
+Does your school have a school website? If yes, is there student project work on the website? 
+
+No 18% 
+Don’t 
+know 
+9% 
+Yes 73% 
+Base: All post-primary teachers (n = 800) 
+
+
+No 52% 
+Yes 20% Don’t 
+know 28% 
+Base: All post-primary teachers from schools 
+with a website (n = 567) 
+
+
+62 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 ICT Infrastructure in primary and post-primary schools Chapter 3 
+Nearly three-quarters (73%) of all post-primary teachers stated that their school had a web site. Of 
+those who did, however, only 20% reported that their site contained a reference to, or details of, 
+project work or other work done by students. A similar pattern of findings emerged from the survey 
+of fifth-year students. Approximately 30% of students did not know whether their school had a 
+web site (approximately half of these students were in schools that did have a web site). Of those 
+who were aware that their school had a web site, only 36% had had the opportunity to contribute 
+to it. 
+
+While an awareness of security issues associated with the internet must be borne in mind, these 
+findings are disappointing. Firstly, a considerable proportion of schools do not have their own web 
+site. Secondly, a sizable portion of those schools that do have a web site do not seem to actively 
+promote it. Finally, some schools are opting, either consciously or unconsciously, not to present 
+students’ work or other work done in their school. This is surprising in an age when many people 
+automatically resort to the internet when looking for information on schools. 
+
+While numerous evaluation reports on case-study schools referred to the desirability of a school 
+either establishing its own web site or developing the use of its existing site, it was also clear that, of 
+those schools that already had one, many experienced difficulties in both developing and 
+maintaining the site. Difficulties encountered at both primary and post-primary level included a lack 
+of technical expertise among staff members. At post-primary level it was usually the ICT co
+
+
+63 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+ordinator who was responsible for maintaining the site, and for those co-ordinators who were not 
+ICT experts this task proved difficult and sometimes even frustrating. Even those co-ordinators who 
+were comfortable with web site development reported difficulties in finding the time to devote to 
+such work. In a few schools it was found that some senior students were responsible for setting up 
+and maintaining the site. In those schools it was reported that this encouraged students in general 
+to contribute to the site. Security issues with the internet also proved a problem, particularly at 
+primary level. 
+
+Despite the provision by the NCTE of dedicated support for schools for web site development, it 
+would appear that most schools remain in need of advice, guidance or assistance regarding the 
+setting up and maintenance of a web site. The NCTE should explore options for providing additional 
+support to schools in relation to web site development. 
+
+3.11Summary of findings and recommendations 
+
+3.11.1 Main findings 
+Funding issues 
+
+• The student-computer ratio (SCR) for the majority of the thirty-two case study primary schools 
+visited ranged from between 8:1 and 12:1. At post primary level, the SCR for the majority of the 
+twenty schools visited ranged from between 5.2:1 and 8.4:1. These ratios were broadly in line 
+with the findings of the NCTE census (2005) of ICT in schools which found a SCR in primary 
+schools of 9.1:1 and 7:1 in post-primary schools. 
+
+• DES grants make possible a significant improvement in schools’ ICT facilities, but they are 
+frequently augmented by funding from other sources. Parents’ councils and other parents’ 
+groups usually play a significant role here. The spending of private funds on computers, however, 
+may contribute to an exacerbation of the digital divide, as some schools may be able to raise 
+more private funds than others. 
+
+• The lack of technical support and maintenance was found to be a major impediment to the 
+development of ICT by schools. Furthermore, a number of schools have equipment that is 
+obsolete and should be disposed of. 
+
+ICT advisory service 
+
+• The impact of the present ICT advisory service is limited. While it is acknowledged that levels of 
+awareness of the service among teachers varied, awareness is generally low among both primary 
+(48%) and post-primary (37%) teachers. Awareness was much higher, however, among ICT coordinators. 
+
+
+64 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+• The use of the ICT advisory service was also found to be low. Of the 48% of teachers who 
+reported awareness of the service at primary level only 46% (or 22% of all respondents) reported 
+availing of it. At post-primary level this figure fell to 15% of all respondents. 
+
+• There was high satisfaction with the information on, and availability of, ICT courses among those 
+teachers who availed of the ICT advisory service. There were also high levels of satisfaction with 
+the quality of the technical advice and the advice provided on classroom use of ICT. 
+
+• A somewhat lower satisfaction rating, however, was associated with the quality of the school 
+visits by the ICT advisor. At both primary and post-primary level, 42% of teachers who had 
+received a school visit felt that the service received was either “fair” or “poor.” 
+
+ICT access 
+
+• All schools were found to provide both teachers and students with relatively high levels of access 
+to computer facilities. 
+• At primary level, the teachers of senior classes were more likely than teachers of junior 
+classes to be provided with computer facilities for use at home. Furthermore, the location of 
+computers in classrooms, as distinct from computer rooms, provided greater ICT access 
+opportunities for students. 
+• At post-primary level a little over a third of the teachers surveyed reported having access to 
+computers in their own classroom. Teachers of subjects that require specialist rooms were 
+more likely to have ICT facilities in their classroom. There is a greater permeation of 
+computers in specialist rooms than in general classrooms at post-primary level. 
+
+• Case-study primary schools were generally found to have restricted internet access. Most schools 
+had access by means of a dial-up connection only; in some schools access was limited to one 
+computer, while others had no access at all. Networking is developing in primary schools, 
+although at a relatively slow pace. 
+
+• Special-education teachers, particularly at primary level, were found to have good access to ICT 
+facilities in their support settings. 
+
+Computer rooms 
+
+• Computer rooms are generally a feature of larger primary schools but are liable be used for a 
+range of purposes. Most schools do not have space for such rooms. Both the national survey of 
+principals and case-study evaluations found, however, that access to computers was more 
+frequent and more relaxed in situations where computers were located in classrooms. 
+
+• The average number of computers found in the computer rooms of case-study post-primary 
+schools was twenty-four. Most computer rooms were networked and had broadband access or 
+
+65 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+were working on acquiring such access. The timetabled occupancy of these rooms per week 
+
+ranged from 30% to 90%, with the average being a little over 60%. 
+
+Software and web sites 
+
+• While computer applications are used often as a teaching aid, particularly in the area of special 
+educational needs, not all staff members in schools are clear about the nature and range of 
+software that is already available to them in their school. Most of the software in primary schools 
+is content-rich and is predominantly used to promote literacy and numeracy. 
+
+• A sizable proportion of schools do not have their own web site. Of those that do, many do not 
+actively promote it or use it to maximum effect. Schools do, however, experience difficulties in 
+developing and maintaining a web site. 
+
+3.11.2 Recommendations 
+Recommendations for policy-makers and policy advisors 
+
+• Consideration needs to be given to improving the level of ICT resources available to schools. 
+Ireland should be working towards enabling schools to equip all classrooms with an appropriate 
+level of ICT infrastructure. Consideration should be given to equipping all classrooms with a 
+computer for use by the teacher, broadband internet access with adequate bandwidth, and a 
+fixed data projector and screen for use by the teacher in presentations. Furthermore, to ensure 
+appropriate access to ICT by students, Ireland should strive to reduce its student-computer ratio 
+(SCR) from the present 9.1:1 in primary schools and 7:1 in post-primary schools. International 
+evidence suggests that countries that have taken a lead in this area are aiming for or achieving a 
+ratio of 5:1 or less in all schools. Funding for ICT in schools should seek to provide schools with 
+the capacity not only to acquire ICT facilities but also to upgrade their ICT systems and to 
+manage obsolescence of computers and other equipment on a planned basis. 
+
+• ICT maintenance in schools needs to be addressed in a co-ordinated fashion at system level so 
+that all schools can benefit from having a secure and reliable infrastructure that will facilitate the 
+integration of ICT throughout the school. This could entail the introduction of a quality ICT 
+maintenance initiative for schools. (See section 7.3.1 for further comment on this 
+recommendation.) The role of the ICT advisory service should be reviewed within the context of 
+such an initiative. 
+
+• Schools that have effectively implemented their own learning platforms should be identified as 
+models of good practice for other schools. The NCTE could play a role in identifying such schools 
+and in disseminating information about their practices among other schools. 
+
+66 
+
+
+
+ICT Infrastructure in primary and post-primary schools Chapter 3 
+• The NCTE, in collaboration with the SESS, should develop existing guidelines (and create new 
+guidelines where appropriate) for schools regarding the range and type of assistive technology 
+devices and software available for use with students with special educational needs. 
+
+• Most schools require advice, guidance and assistance regarding the development and 
+maintenance of a school web site. The NCTE should explore how schools might be further 
+supported in this regard. 
+
+• There is a lack of appropriate software in schools to promote Irish, as well as software using Irish 
+instructions. Software companies should be encouraged to fill this void. 
+
+• Primary schools require guidance regarding the purchase of computer hardware and software, 
+particularly in relation to the purchase of ICT peripherals. The NCTE is well placed to provide this 
+advice. 
+
+Recommendations for schools 
+
+Support services 
+
+• Schools should make use of relevant specialist support services as fully as possible. School 
+principals and ICT co-ordinators should encourage classroom and subject teachers to liaise with 
+such services where applicable. 
+
+Funding 
+
+• Schools should endeavour to allocate a separate annual budget for the maintenance and 
+development of their ICT systems. Furthermore, schools should use ICT grants promptly when 
+they are received. 
+
+• The usefulness of older computers and equipment should be reviewed regularly. If it is decided 
+that computers are obsolete they should be disposed of properly. 
+
+ICT equipment and resources 
+
+• As resources permit, schools should work towards providing all teaching and learning spaces with 
+ICT facilities. At primary level the emphasis should be on locating computers in classrooms, as this 
+seems to provide greater access opportunities for students. At post-primary level, schools should 
+ensure, as far as possible, an equitable distribution of facilities between specialist and general 
+classrooms. As an interim arrangement schools could give consideration to setting up a mobile 
+ICT facility that could be shared between classrooms. 
+
+• As appropriate opportunities arise, schools should develop the range of ICT peripherals and 
+software available to facilitate teaching and learning. Consideration should be given to acquiring 
+data projectors, digital cameras and interactive whiteboards. 
+
+67 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+• Schools should develop inventories of the ICT hardware and software facilities available to their 
+staff. These inventories should be updated and circulated to staff members regularly so as that 
+teachers are fully informed at all times of the range of ICT facilities available to them. 
+
+• Schools should carry out a regular ICT needs analysis in the area of special educational needs. 
+This would help ensure the best match possible between specialised technology and applications 
+and the needs of students with special educational needs. 
+
+ICT access 
+
+• Schools should ensure that staff members and students have adequate access to the internet. 
+
+• Schools with a computer room (or rooms) should ensure maximum access to the room for their 
+students. To facilitate this, in addition to appropriate timetabling, a simple and accessible system 
+for booking the room should be adopted for teachers. It is also important that rules for the 
+computer room are established and that these are regularly brought to the attention of all users 
+of the room. 
+
+• The provision of a dedicated e-mail service to schools and their teaching staff should be given 
+priority within the introduction of the schools broadband network. Efforts should also be directed 
+at encouraging teachers to use e-mail as part of their classroom practice. 
+
+The on-line environment 
+
+• Schools should strive to develop their own on-line learning platform. In addition, schools should 
+develop their own web sites so as to facilitate better awareness of school activities, 
+developments, and policies in the school and the wider community. 
+
+Administration 
+
+• Schools should fully exploit the benefits offered by ICT in school administration, especially in the 
+areas of students’ records and timetabling. 
+
+68 
+
+
+

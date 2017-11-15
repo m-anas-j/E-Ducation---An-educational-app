@@ -1,0 +1,506 @@
+Chapter Two 
+Latitude and Longitude 
+Some imazinary lines extending from east to west and from north to south are drawn 
+on a map of the world to determine the location of any place. These lines are known 
+as the parallels of latitude and the meridians of longitude respectively. In geography, 
+latitude and longitude are two important topics. One can determine the location of a 
+place with the help of latitude and longitude. With the location of the longitude, one 
+can determine the time of that place. Moreover, the northern and the southern position 
+of any place can be determined through latitudes. Similarly, the western and the 
+eastern position of any location from the Prime Meridian can be ascertained by 
+longitude. Degree of latitude or a part of it is known as the latitude, while the degree 
+of longitude of a part of it is termed as longtitude. 
+Latitude : Before we learn what is actually meant by the degree of latitude, we will 
+have to have an idea about the axis, the equator and parallels of latitudes. The 
+imazinary line which runs north to south through the centre of the earth is known as 
+axis. The northernmost point of this axis is known as the north pole and the 
+southernmost point is the south pole. Keeping both the poles in equal distance, an 
+imazinary line has been drawn which encircles the globe from west to east is known 
+as the equator or the terrestrial equator. Due to the spherical shape of the earth, this 
+line is also circular. So, this line is also known as the equatorial circle. 
+The equator has divided the earth into two equal halves. The part lying north to the 
+equator is known as the Northern Hemisphere and that to the south as the Southern 
+Hemisphere. With the help of the 
+equator, one can determine the angular 
+distance of a place situated either in the 
+northern or in the southern hemisphere. 
+So, to find out the angular distance of a 
+place upon the surface, the only thing 
+is to be done is to connect with an 
+imazinary line, any point of that place 
+with the centre of the earth. Again, the 
+meridian which passes over that point 
+ultimately meets the equator on a 
+certain point, and that the meeting 
+point is connected by an imazinary line 
+with the centre of the earth (Fig. 3). 	 
+Fig. 3 : Angular distance from equator
+10	 Secondary Geography 
+Fig. 4 : Equatorial plane, north pole and south pole 
+The imazinary line is actually the radius of the earth sphere. The value of the angle 
+thus formed through those two lines is equivalent to the latitude of that particular place. 
+Therefore, the latitude is the angular 
+distance of a place north or south of 
+the equator. If a line is drawn from 
+any place on the earth to its centre 
+then that line will create an angle with 
+the equatorial plane. The value of that 
+angle is the latitude of that place (Fig. 
+4). The latitude of a place situated to 
+the north of the equator is desigrated 
+as the north latitude and that of the 
+south as the south latitude. The total 
+value of the angle created by the 
+circle at the centre of the earth is 
+360°. These angles are being 
+divided into degrees (°), minutes (' ) and seconds ('' ). Thus the value of the equator is 
+0°. The latitude of the north pole is 90° North and that of the south pole is 90° South. 
+This is because that the angular distance of each of the poles is 90° from the equator. 
+These angles are being divided into degrees and minutes and on the basis of these 
+angles, the imazinary lines are drawn 
+parallel to the equator. These are 
+known as the parallels of latitudes. 
+The latitudes are parallel to one 
+another and every one of them is a 
+full circle. The circumference of the 
+latitudes decrease with the increase of 
+their values. Some of the parallels arc 
+quite important. The 23.5° latitude in 
+the northern and southern hemispheres 
+are known as theTropic of Cancer 
+and the Tropic of Capricorn respectively. Besides, the 66.5° north and south latitudes 
+are known as the Arctic and Antarctic circles respectively (Fig. 5). The equator is 
+known as the great circle. The degree of latitude of all the places located in the same 
+parallel is the same. 
+Fig. 5 : Latitude and longitude 
+A 
+B 
+PRIME MERIDIAN 
+0° 
+15° 
+15° 30° 
+NORTH POLE 
+90° N 
+ARCTIC CIRCLE 
+TROPIC OF 
+CANCER 
+EQUATOR 
+0° 
+E 
+W 
+TROPIC OF 
+CAPRICORN 
+ANTARCTIC CIRCLE 
+30° S 
+30° N 
+30° 
+45° 
+60° 
+75° 
+66 1° 
+2 S 
+66 1° 
+2 N 
+23 1° 
+2 N 
+23 1° 
+2 S 
+90° NORTH POLE 
+EQUATORIAL 
+PLANE 
+0° EQUATOR 
+SOUTH POLE 
+30°
+Latitude and Longitude	 11 
+The latitude of the region near the equator, in other words, the latitudes having the 
+value of 0° to 30° are called the low latitudes. Similarly, latitudes having the value of 
+30° to 60° are known as the mid latitude and those of 60° to 90° are the high latitudes. 
+There are different methods of determining the latitude of a place. Out of them we are 
+discussing about two methods. 
+(a) With the help of a pole star, and 
+(b) With the help of a sextant and the position of the sun in the horizon. 
+(a) Determining latitude with the help of a pole star : We know that the earth is 
+divided into two hemispheres, the northern hemisphere and the southern hemisphere. 
+Every night from any place of the northern hemisphere one can see the pole star in a fixed 
+position in the northern sky. But the altitude of the pole star from the horizon does not 
+remain the same. It differs with the difference of the place, that means, the altitude of the 
+pole star in the horizon is different for different places. In the equator, the location of the 
+pole star is in the horizon and its altitude is 0°. From the equator towards north pole for 
+every 1° of approach the altitude also increases by 1°. Ultimately in the pole, the altitude 
+of the pole star rises to 90°. So, the degree of latitude for the equator is 0° and that of the 
+north pole is 90°. In other words, the degree of latitude increases with any approach 
+towards the north pole. Thus the latitude of any place in the northern hemisphere is 
+equivalent to the degree of altitude of pole star. So, the latitude of any place can be 
+derived from the altitude of the pole star. But it is not possible to determine the latitude of 
+any place in the southern hemisphere by the pole star, nor possible to determine the 
+latitude through this method in day time. 
+(b) Determination of latitude by sextant : Sextant is an instrument by which the 
+altitude of the sun can be measured. The latitude of any place can be determined after 
+finding out the altitude of the noon sun with the help of a sextant. The following formula 
+can be applied to find out the latitude of a place. 
+The formula is : 90° minus the altitude of the sun at noon ± the sun’s declination. 
+So, the latitude = 90°- altitude of the sun - declination 
+	= 90 °- 50°-15° = 90°- 65° = 25° south. 
+If the place under consideration is in the northern hemisphere then it will require to 
+add the declination value of north and to subtract the declination value of south. 
+Similarly, if the place is in the southern hemisphere then the declination value of south 
+is to added and that of the north to be subtracted.
+12	 Secondary Geography 
+Meridians of Longitude 
+The terrestrial equator can be graduated to degrees, minutes and seconds and through 
+these points imazinary lines can be drawn from north to south pole which are known 
+as the meridians of longitude. The 
+longitudes are also known as 
+meridians. The meridian which passes 
+through the Greenwich can be taken 
+as the Prime Meridian and the angular 
+distance of the meridians can be 
+measured from the prime meridian 
+(Fig. 6). 
+Prime Meridian 
+The meridian which passes from north to 
+south pole through Greenwich in the 
+neighbourhood of London is termed as the 
+Prime Meridian. The value of this line has been determined as 0°. 
+Other meridians of longitudes can be drawn through the angular distance from the 
+Prime Meridian. For example, the meridians that lie 45° East of the prime meridian is 
+known as 45° East Longitude or east meridian and all the places lying on this 
+longitude has the same longitudinal value of 45° East Longitude. So, we can say that 
+the longitude of any given point on the globe is measured as an angular distance 
+eastward or westward from the prime meridian. We further know that the longitude of 
+the prime meridian is 0°. The value of the angles created by the circumference at 
+centre of the earth is 360°. So, if 360° meridians are drawn from pole to pole at equal 
+interval of 1°, then they will lie at 1° of longitude apart. Hence, the total number of 
+360° meridians are equally divided into two parts of 180° each in the western and the 
+eastern side of the prime meridian. As the earth is a sphere, so the 180° east and west 
+longitude is virtually the same line. Like that of the latitudes, the longitudes can also 
+be divided into minutes and seconds. One minute of longitude is 1/60th part of a 
+degree of longitude. The value of both the latitude and longitude will be 0° when the 
+prime meridian crosses the equator vertically. And this point has been recognised as a 
+place located somewhere in the Gulf of Guinea. 
+Determination of longitude : The longitude of a place can be determined by two 
+methods. These are : (I) by the difference of local time, (2) by Greenwich mean time. 
+(1) By the difference of local time : We know that the earth is a sphere. It has been 
+moving continuously around its own axis from west to east. Consequently different 
+places of the earth have been facing the sun at different times. Whenever, the meridian of 
+Fig. 6 : Longitude and angular distance 
+NORTH 
+SOUTH 
+WEST LONGITUDE 
+PRIME 
+MERIDIAN 
+EAST LONGITUDE 
+W 90° 90° E 
+100° 100° 
+120° 120° 
+140° 160° 160° 140° 180° 
+80° 60° 40° 40° 60° 80° 20° 20° 0°
+Latitude and Longitude	 13 
+any place comes in front of the sun i.e. when the sun appears just overhead, then it is 
+considered as noon and the local time is taken as 12 noon. Ultimately other times of 
+the place are determined on the basis of local time. We know that there is a difference 
+of 4 minutes of time for 1° of difference of longitude. In other way, we can say that 
+for every 4 minutes, the longitude differs by 1°. For example, if in any place, the local 
+time is 12 noon, then the local time for any place located 5° east of the previous place 
+will be 12.00 noon + (5° × 4 minutes) = 12 hours 20 minutes. For the place lying 5° 
+west of the former place, the local time would be 12.00 noon - (5° × 4 minutes) = 
+12.00 - 20.00 minutes = 11 hours 40 minutes. 
+(2) By Greenwich mean time : We all know that the longitude of Greenwich is 0°. 
+The actual time of Greenwich can be read from the Chronometer. To determine the 
+longitude of a place by sextant, one will have to record the highest altitude that the 
+sun attains there at noon and that position will have to be treated as 12.00 noon. The 
+longitude of the place mentioned above can now be determined from the difference of 
+time that occurs between the indicated place and Greenwich. If the place is located 
+east of Greenwich then the local time would be more than that of Greenwich and if it 
+is located west of the Greenwich, its local time would be less than that of Greenwich. 
+Differences between parallels and meridians : 
+1. All the parallels of latitude are parallel to each other but the meridians are not; 
+2. All the parallels are full circles and the meridians are half circles; 
+3. The lengths of each of the meridians are equal but that of parallels are not equal; 
+4. Parallels always run in a east-west direction, whereas the meridians in a north-	 	 
+south direction; 
+5. The highest value of parallel is 90°, whereas that of meridian is 180°. 
+Local and Standard Time 
+Local Time : Everyday the earth moves round her axis from west to east. As a result, 
+the sun appears earlier in the places located in the east. Due to rotation of the earth, 
+the sun reaches the zenith of the sky, or in other words, the sun reaches its highest 
+altitude on a certain place and that hour is treated as 12.00 noon. On the basis of this 
+noon time, the other time for the day is determined. The time thus determined is the 
+local time for that place. So, the local time of a place is determined on the basis of the 
+highest altitude of the sun which can be observed with the help of a sextant. 
+The earth at the centre creates 360°. The earth requires 1,440 minutes (24 hours × 60 
+minutes) to cover this distance of 360° for one time. So, the earth needs 4 minutes 
+(1,440 ÷ 360) to rotate 1° of longitude. Therefore, for 1° difference of longitude, the 
+difference of time will be 4 minutes. 
+Standard Time : If the sun’s noon position on the meridian is taken as 12 O’ clock 
+and if that is accepeted as the basis of determining the local time then this would 
+create confusion in maintaining, time among the different parts of the same country. 
+14	 Secondary Geography 
+To avoid this confusion each country of the world has introduced a new concept of 
+maintaining time known as standard time. The standard time of the country is that 
+time which passes through the central part of the country. 
+There may be several standard times for a large country like the United States of 
+America and Canada. The United States of America has four different standard times, 
+whereas Canada has five. In those countries, more than one standard time has been 
+introduced to run administration and other works more efficiently relating to postal, 
+railway, wireless, telephone etc. The local time of Greenwich (0° meridian) has been 
+accepted as the standard time for the world. Accordingly, the standard time in 
+Bangladesh is six hours ahead of Greenwich time. 90° East meridian has passed 
+through the middle part of the country and the standard time of Bangladesh is 
+calculated from the local time of that meridian. 
+Antipodes : Antipode means the relative position of two places which are situated on the 
+earth’s surface just opposite to each other. To locate the antipode of a place an imazinary 
+straight line is drawn through the earth from that place to the opposite position 
+which passes through the centre. The 
+point where this line touches the 
+opposite side of the globe is the 
+antipodal position to the former point 
+(Fig. 7). That means the later point is 
+the antipodal to the former point. 
+If the latitude of a place is known then 
+the latitude of its antipode can be 
+ascertained. The latitude of a place 
+will be the same as that of its 
+antipode. The two places must be 
+situated on the different sides of the 
+equator, that means one is in the 
+northern hemisphere and the other 
+one in the southern hemisphere. So, if 
+the latitude of a place is 70° North, then the latitude of its antipode will be 70° South. 
+The total value of the meridian of a place and that of its antipode will always be 180°. 
+The meridian of a place if be east, the meridian of the antipode would be west. For 
+example, the antipode of 40° East longitude will be 180°-- 40° = 140° West longitude. 
+The difference of time for these two places will be 12 hours. In fig. 7, the point B is 
+the antipode of A. The antipode of Dhaka is situated in the Pacific near Chile of South 
+America. 
+Fig. 7 : The antipodes
+Latitude and Longitude	 15 
+International Date Line 
+Travelling towards east or west from any place will require adjustment of local time 
+which ultimately creates problems even for adjustment of days of the week. This 
+problems stands acute if anybody crosses 180° longitude towards east or west from a 
+particular place. To avoid this problem or an imazinary line has been drawn absolutely 
+over the waterbodies from north to south. This imazinary line is known as 
+International Date Line. 
+Necessity of the International Date Line : 
+We know that for the difference of 1° of 
+longitude, there is a difference of time of 4 
+minutes. So, for every 15° of longitude, 
+there will be a difference of an hour. Thus 
+travelling eastward from prime meridian 
+(Greenwich) up to 180°, one would be 12 
+hours ahead of the schedule and travelling 
+westward 12 hours behind the schedule. If it 
+is 10 A.M. on Monday in Greenwich, then 
+the corresponding time would be 10 P.M. on 
+the same day at 180° East longitude, 
+whereas, the time at 180° West longitude 
+would be 10 P.M. on the previous day i.e. 
+Sunday. But 180° East or 180° West 
+longitude is virtually the same longitude. 
+So, it is observed that the local time differs 
+by 24 hours or one day in the same 
+longitude. There is a change of day and date 
+if one crosses this line which is known as 
+the International Date Line (Fig. 8). 
+Any ship or aeroplane sailing towards 
+east from Greenwich will have to 
+subtract one day and sailing towards 
+west will have to add one day to adjust with the local time. 	 
+The International Date Line is virtually 180° east and west longitude. It crosses 
+through the Aleutian on the north-eastern part of Siberia, Fiji and Chatham islands. To 
+avoid the problems of adjusting local time, the International Date Line has been so set 
+that it passes only over the waterbodies turning 12° towards east just near the Bering 
+Strait, 7° towards west near the Aleutian islands and 11° towards east near Fiji and 
+Chatham islands. Had it not been drawn this way, the people would have to count two 
+different local times in two different parts of the same island.	 
+Fig. 8 : International Date Line
+16	 Secondary Geography 
+Determination of Longitude and Time 
+Question 1. Two places, one located at 40°30¢ east and the other 50°30¢ west of 
+Dhaka. What will be the local time of these two places when it is 8 A.M. at Dhaka? 
+Solution 
+The longitudinal difference of the first place from Dhaka is 40°30¢. 
+For the difference of longitude, difference of time would be 
+	= 	(40 ° × 4) minutes + (30¢ × 4) seconds 
+	= 	160 minutes + 120 seconds 
+	= 	160 minutes + 2 minutes =162 minutes 
+	= 	2 hours 42 minutes. 
+First place is located towards east of Dhaka, so the local time will be more than that of 
+Dhaka. Now to determine the local time of the first place it requires to add 2 hours 42 
+minutes with the local time of Dhaka. Therefore, the time will be 
+	= 	(8 hours 0 minute 0 second) + (2 hours 42 minutes 0 second) 
+	= 	10 hours 42 minutes A.M. 
+Again, the difference of longitude between Dhaka and the second place is 50°30¢. 
+So, the difference of time, 
+	= 	(50 ° × 4) minutes + (30¢ × 4) seconds 
+	= 	200 minutes + 120 seconds = 202 minutes 
+	= 	3 hours 22 minutes. 
+The second place is located towards west from Dhaka. Therefore, the local time of 
+that place will be less, that means 3 hours 22 minutes will have to be deducted from the 
+time of Dhaka. 
+So, the local time of the place, 
+	= 	(8 hours 0 minute 0 second) - (3 hours 22 minutes) 
+	= 	4.38 A.M. = 4 hours 38 minutes A.M. 
+Answer : 10 hours 42 minutes A.M. and 4 hours 38 minutes A.M. 
+Question 2. The difference of time between Dhaka and Seoul is 2 hours 32 minutes. The 
+longitude of Dhaka is 90° East and the local time is 6 hours 32 minutes in the morning. 
+What will be local time and longitude of Seoul? 
+Solution 
+Seoul is the capital of South Korea, and is situated towards east from Dhaka. So, the local 
+time of Seoul will be more than Dhaka. 
+The local time of Dhaka is 6.32 A.M.
+Latitude and Longitude	 17 
+The local time of Seoul 	=	(6 hours 32 minutes) + (2 hours 32 minutes) 
+	 	= 	8 hours 64 minutes 
+	 	= 	9 hours 4 minutes 
+	 	= 	9.04 A.M. 
+	 	= 	9 hours 4 minutes A.M. 
+Again the time difference between Dhaka and Seoul is 2 hours 32 minutes or 152 minutes. 
+Difference of 4 minutes will make a longitudinal difference of 1° 
+Difference of 1 minute will make a longitudinal difference = 
+So, difference of 152 minutes will make a longitudinal difference =														 = 38° 
+The longitude of Dhaka is 90° East. The longitude of Seoul will be more than Dhaka 
+as it is situated towards east of Dhaka. 
+So, the longitude of Seoul will be = 90° + 38° = 128° East. 
+Answer : The local time of Seoul is 9 hours 4 minutes A.M. and the longitude of 
+Seoul is 128°. 
+Question 3. The Greenwich time is 20 minutes passed 7 A.M. If the time is the noon 
+for any place, then determine the longitude of that place. 
+Solution 
+When the Greenwich time is 20 minutes passed 7 A.M. the local time of the particular 
+place is 12 noon. The local time of the place is more than that of Greenwich. So, the 
+place is located towards east of Greenwich, in effect it is located in the east longitude. 
+The difference of time between these two places is 
+	= 	(12 hours - 7 hours 20 minutes) 
+	= 	4 hours 40 minutes = 280 minutes 
+For every 4 minutes difference of time, the difference of longitude stands at 1°. 
+Therefore, for every 1 minute difference of time, the difference of longitude will be 
+So, for the difference of 280 minutes the longitudinal difference will be 													= 70° 
+Therefore, the difference of longitude between Greenwich and that particular place 
+will be 70° East. 
+So, that result will be 70° East. 
+Question 4. Dhaka is located at 90°26¢ East longitude and Karachi is situated at 67° 
+East longitude. If the local time of Karachi is 10 A.M. what will be the local time of 
+Dhaka. 
+Solution 
+The difference of longitude between Dhaka and Karachi is (90°26¢ East - 67° East) 
+= 23°26¢ 
+14
+( (° 
+° 
+14
+( ( 
+1´ 152 ( ( 4 
+° 
+° 
+1´ 280 ( ( 4
+18	 Secondary Geography 
+For one degree difference of longitude, the difference of time will be 4 minutes. And 
+for 1 minute difference of longitude the difference of time will be 4 seconds. 
+Therefore, the difference of time between Dhaka and Karachi is : 
+	= 	(23 ° × 4) minutes + (26¢ × 4) seconds 
+	= 	92 minutes + 104 seconds 
+	= 	93 minutes + (1 minute + 44 seconds) = 93 minutes 44 seconds 
+	= 	1 hour , 33 minutes and 44 seconds. 
+Dhaka is situated towards east from Karachi. So, the local time of Dhaka will be more 
+than that of Karachi. 
+Local time of Karachi is 10 A.M. So, to determine the local time of Dhaka it requires 
+to add 1 hour 33 minutes and 44 seconds with the local time of Karachi, that means, 
+with 10 A.M. 
+Therefore, local time of Dhaka will be : 
+	= 	10 hours + 1 hour 33 minutes and 44 seconds 
+	= 	11 hours 33 minutes and 44 seconds in the morning. 
+Answer : The local time of Dhaka will be 11 hours 33 minutes and 44 seconds A.M. 
+Question 5. The latitude and longitude of a place is 40° North and 55° East 
+respectively. Ascertain the latitude and longitude of its antipode. 
+Solution 
+The latitude of a place and its antipode are the same but each of them is located in the 
+opposite hemisphere. The latitude of the place in question is 40° North. So, the 
+latitude of its antipode will be 40° South. The longitude of the antipode will be 
+(180°- the longitude of the place). 
+The longitude of the place in question is 55° East. 
+Therefore, the longitude of the antipode will be (180°--55°) - 125°. So, the longitude 
+of the antipode is 125° West. 
+Answer : The latitude and the longitude of the antipode is 40° South and 120° West 
+respectively. 
+Latitude and Longitude 
+What we learnt from this chapter : 
+Equator : The imaginary line lying midway between the poles, which encircles the 
+earth from west to east. 
+The latitude : The angular distance of a point on the earthÕs surface north or south of 
+the equator, as measured from the centre of the earth, is the latitude, of that place. 
+The lines of longitude : The imaginary lines which are drawn from north pole to 
+south pole through equator connecting each of the different points created by 
+graduating the equator into degrees, minutes and seconds.
+Latitude and Longitude	 19 
+66 
+1° 
+23 
+1
+2 
+0 
+Declination : The day when the sun gives its rays vertically over a latitude is the 
+declination of the sun for that day. 
+The Prime Meridian : The Prime Meridian is the line that passes from north to south 
+over Greenwich near London. 
+The Local Time : Due to rotation of the earth on its axis when the sun reaches its 
+highest position in the sky in some particular place, it is taken as noon-day and the 
+time records as 12 O’ clock. This is accepted as the Local Time of the place and other 
+time of the day is calculated from this local time. 
+Standard Time : The time which is referred to the mean time of a certain meridian. 
+Every country determines its time from the meantime of the meridian which passes 
+through the middle of that country and this is known as Standard Time of that country. 
+Antipode : A point on the earth surface is known as antipode of another point when it 
+is situated just on the opposite side of the globe corresponding to that point. 
+International Date Line : From any fixed place if any body crosses the 180° 
+longitude he will observe that it creates problems to determine the day of the week 
+along with the differences of local time. To avoid this anomaly depending on 180° 
+longitude, an imaginary line is drawn from north to south exclusively over the waters. 
+The imaginary line is known as the International Date Line. 
+Exercise 
+Multiple Choice Questions 
+1. 	Dhaka is located at 90° east longitude and Bangalore is situated at 80° East 	 
+longitude. If the local time of Dhaka is 12 noon what is the local time in 
+Bangalore then? 
+	a. 11:20 am 	b . 11:50 am 
+	c. 12:00 noon 	d. 12:40 pm 
+Use the figure below and answer question number 2 and 3. 
+° 
+° 
+2 
+23 
+1
+2
+° 
+66 
+1
+2
+°
+20	 Secondary Geography 
+2. 	The line stands on 0° is called - 
+	 a. Tropic of Cancer 	b . Tropic of Capricorn 
+	c. Equator 	d. Axis 
+3. 	By observing the figure we can get -- 
+	 i.	 The axis encircles the north and south pole 
+	ii. 	 The axis passes through the equator 
+	iii. 	 The axis and the equator are parallel to each other 
+	 Which one is correct below? 
+	 a. i and ii 	b . ii and iii 
+	c. i and iii 	d. i, ii and iii 
+4. 	What is the correct place among the following over which the international 
+imaginary date line has been drawn? 
+	 a.	Through the landmass 	b . Over the water bodies 
+	c. 	Belo w the earth’s surface 	d. Through the space 
+Creative Questions 
+1.	 Sadid reached in Dhaka Airport on 14th March Friday for flying to London. Their 
+plane flew for London at 11 pm. When the plane landed in Heathrow Airport, 
+Sadid found it was 1 am Saturday at the airport clock. But the watch he wore in 
+his wrist showed him 7 am Saturday. 
+a. 		What is the cause of the difference of time? 
+b. 		Expla in what is the importance of Prime Meridian? 
+c. 	What is the time in Greenwich when it is 11 hours 1 minute 44 seconds at night 
+in Dhaka? If the longitude of London is 0° what is the longitude of Dhaka 
+then? 
+d. 	ÔThe longitude of a place can be determined by the method of Greenwich mean 
+time’- give your opinion.

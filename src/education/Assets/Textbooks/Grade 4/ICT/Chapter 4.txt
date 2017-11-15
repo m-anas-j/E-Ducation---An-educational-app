@@ -1,0 +1,1862 @@
+
+ICT planning in primary and post-primary schools 
+Chapter 4 
+69ICT planning in primary and post-primary schools 
+Chapter 4 
+69
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+4.1 Introduction 
+This chapter is concerned with ICT planning in schools. It begins by reviewing the planning process 
+in schools and then takes a close look at the management and co-ordination arrangements that 
+prevail in schools with regard to ICT provision. In this context, reference is made to the work of ICT 
+steering committees and ICT co-ordinators. The chapter then looks at the ICT plan or, more 
+specifically, how such plans are developed and what they contain. The acceptable-use policy (AUP) is 
+another important aspect of ICT planning, and this is also examined. The chapter also considers the 
+implementation of ICT planning in schools, particularly with regard to teachers’ access to, and take-
+up of, ICT professional development training, the extent of usage by individual teachers of ICT for 
+lesson-planning purposes, and the level of planning conducted for the actual use of ICT in teaching. 
+The chapter concludes by looking at schools’ strategic planning for the development of ICT from the 
+viewpoint of principals and teachers. 
+
+4.2 The planning process 
+The Schools IT 2000 initiative (referred to in chapter 1) was in many ways the catalyst for the 
+development of ICT planning by schools. Through a variety of methods, the initiative sought to 
+provide schools with support that would assist them in their ICT planning and in other areas of 
+technology integration and skills development. The model of school planning encouraged under this 
+initiative was one that integrated regular monitoring and periodic and systematic review. The 
+initiative also required schools to adopt an ICT plan in order to attract funding. 
+
+70 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+In 2002 the NCTE issued an ICT planning and advice pack to all schools. The pack provided 
+information and advice to help schools in preparing and implementing their ICT plan. The pack also 
+offered schools a mechanism for the self-review of their ICT status. It also helped them to target their 
+ICT funding more strategically. 
+
+The pack advised schools to follow six steps in developing their ICT plan: 
+
+(a) Consider what the educational objectives and priorities of the school ICT plan should be. In 
+particular, the plan should emphasise the effective use of ICT in teaching and learning situations, 
+rather than concentrating exclusively on the acquisition of equipment or ICT skills. 
+(b) Convene an ICT steering committee to manage the development and implementation of the 
+plan and to make the planning process fully inclusive. 
+(c) Conduct an audit of the school’s resources to determine the level of ICT provision and identify 
+the extent to which the provision is meeting the needs of teachers and students. 
+(d) Consider the following five areas as a framework for the plan: ICT management and planning, 
+ICT and the curriculum, staff members’ professional development, school’s ICT culture, and ICT 
+resources and infrastructure. 
+(e) Consider budgetary matters associated with the implementation of the plan. When preparing 
+the budget, ensure that provision is made for purchasing, developing and maintaining hardware, 
+peripherals, networks, and software. 
+(f) Ensure that the school has an ICT co-ordinator whose role is clearly defined, particularly with 
+regard to the continuing implementation of the plan. 
+In general, it would appear from this evaluation that the support documents made available by 
+agencies and services such as the NCTE, the School Development Planning Support (SDPS) service at 
+primary level and the School Development Planning Initiative (SDPI) at post-primary level, coupled 
+most likely with a combination of other influencing factors,43 have had a positive impact on the level 
+of ICT planning in schools. An analysis of the national survey of principals, for example, found that 
+more than three-quarters of primary schools (78%), and nearly nine out of ten post-primary schools 
+(88%), made use of the NCTE’s ICT Planning and Advice for Schools (2002). Furthermore, 65% of 
+primary schools were also found to have made use of other ICT planning documents made available 
+by the SDPS. The survey also revealed that 71% of primary schools had a written ICT plan. The 
+corresponding figure for post-primary schools was considerably lower, at 46%. It was also found, 
+however, that whole-school ICT planning was much more prevalent than ICT planning at the level of 
+the individual teacher. 
+
+In the primary case-study schools responsibility for managing and co-ordinating ICT normally lay with 
+the principal. However, in a number of these schools the duties were undertaken by an ICT steering 
+committee, or the deputy principal, or an ICT co-ordinator, or a combination of personnel. At post-
+primary level the role was more usually undertaken by a nominated ICT co-ordinating teacher. Few 
+schools were found to have convened ICT steering committees to assist with planning for the 
+development of ICT in their school. 
+
+43 Factors such as the ICT planning days that were organised throughout the country for school principals by the NCTE, the advice 
+provided by the NCCA on ICT planning for primary schools in its Information and Communications Technology (ICT) in the Primary 
+School Curriculum: Guidelines for Teachers (2004), and the introduction of whole-school evaluation (WSE) and other inspection 
+activities by the DES. 
+
+71 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+4.2.1 The ICT steering committee 
+The evaluation found that ICT steering committees were not prevalent in schools. Only four of the 
+thirty-two primary and twenty post-primary case-study schools visited had established a permanent 
+ICT steering committee. A small number of schools, however, were found to have established a 
+temporary committee. 
+
+One of the two primary schools that had an ICT steering committee had an enrolment of a little less 
+than two hundred students. In this case the permanent committee of teachers acted as a support to 
+the principal, who had the main responsibility in the school for the co-ordination of ICT. In the 
+second primary school, with an enrolment of fifty students, a temporary committee of three people 
+had been established to assist only in the review of the school’s ICT policy. 
+
+A number of factors contributed to the lack of steering committees in primary schools. Firstly, the 
+size of the school tended to affect whether such a committee was established or not: small schools 
+tended not to have access to sufficient personnel to convene a committee. Secondly, the size of a 
+school’s ICT infrastructure was an influencing factor: small-scale infrastructures tended not to 
+warrant the convening of a committee. Thirdly, some schools were reticent about setting up a 
+committee because of people’s normal work load. 
+
+The ICT steering committee in one of the two post-primary schools that had such a committee 
+comprised four people, while the second school had six on its committee. Each of these committees 
+included a member of the school’s senior management, the school’s ICT co-ordinator, and 
+representatives of the teaching staff. One school visited committed itself in its ICT plan to setting up 
+an ICT planning team whose membership would comprise “representatives from teaching and 
+administrative staff, students and parents.” 
+
+In three case-study post-primary schools it was found that an ICT steering committee, or planning 
+group, had been convened for the sole purpose of managing the development of an ICT plan for 
+their school, and once this task had been completed the meetings of the committee ceased. One of 
+these schools described itself as having an “informal ICT steering group.” In the evaluation report 
+the inspector commented: 
+
+Currently, there is an informal ICT steering group. However, the school intends to set up a formal ICT 
+steering committee with representatives of all subject departments. This group will have the objectives of 
+ensuring that all subject departments’ ICT needs are met, that there is effective integration of ICT in the 
+classroom, that monitoring and consideration of technological developments take place and that 
+monitoring and review of the ICT plan and development of the school’s ICT plan in the areas of hardware 
+and software renewal are implemented. The formation of an ICT steering committee is encouraged. The 
+school has developed a system of rotating the position of committee chairpersons as part of its school 
+development planning process and implementation of this system with the ICT steering committee is 
+acknowledged as beneficial. 
+
+72 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Notwithstanding the small number of schools with ICT committees, it is considered good practice to 
+have such a committee. An ICT steering committee in a school can contribute to the general 
+development of ICT. Furthermore, the development of an effective ICT plan becomes a shared 
+process, and the remit of such a committee can go beyond the development of the plan: it can also 
+include a monitoring role with regard to progress in implementing the plan. 
+
+To maximise participation by the school and the community in ICT planning, schools—particularly 
+post-primary schools and larger primary schools—should convene an ICT steering committee to 
+manage the development of an ICT plan and monitor its continuous implementation. Consideration 
+should be given to involving members of the board of management, parents, and the local 
+community. 
+
+4.2.2 The ICT co-ordinator 
+The job of managing and co-ordinating ICT in a school was found to be the responsibility of a 
+nominated co-ordinating teacher in all twenty post-primary case-study schools that were evaluated. 
+Such a role for a teacher was found to be much less common in primary schools, where the task fell 
+predominantly to the principal. 
+
+The vision and enthusiasm of the primary-school principal and teachers (or, in some instances, the 
+school management, comprising both the board of management and the principal) in engaging with 
+ICT and developing it in their school was commended in 26 of the 32 case-study schools visited. In 
+most of these schools the principal had assumed responsibility for ICT and was generally described as 
+having introduced it into the school. The principals promoted its use throughout their schools and 
+were described by inspectors as “keen,” “committed,” “interested,” and “enthusiastic.” It was clear 
+from the reports that the success of the integration and development of ICT in schools was 
+dependent very much on the vision and commitment of the principal. One report stated that 
+
+the principal’s commitment in terms of time and effort, and his vision for infrastructural development, staff 
+development and management of routine ICT issues are most commendable particularly in view of the 
+many constraints identified by school personnel during the visit. 
+
+The principals in these twenty-six schools were usually aware of the benefits to be had from using ICT 
+and were generally found to be actively considering how challenges could be met. They were 
+described as being open to new ideas and committed to embedding ICT in teaching and learning. 
+
+Schools varied in the way they integrated the role of a nominated ICT co-ordinating teacher in their 
+school management structure. While there was a nominated co-ordinating teacher in only a few of 
+the primary case-study schools evaluated, the work carried out by such a person was usually either 
+part of the duties attached to the post of responsibility of a special-duties teacher (SDT) or the sole 
+duty of such a post. 
+
+73 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+In the majority of the twenty post-primary schools visited, the role of ICT co-ordinator was attached 
+to a post of responsibility, and while most of those took the form of an SDT post, a few were 
+attached to an assistant principal post. In a few post-primary schools it was found that either the 
+principal or the deputy principal undertook the role of ICT co-ordinator, while in a smaller number of 
+schools it was found that the role of ICT co-ordinator was not part of the post of responsibility 
+structure at all. Finally, in one post-primary school visited the person acting as ICT co-ordinator did 
+so in a voluntary capacity. It was clear from all the evaluations, however, that there was little 
+consistency among the different schools in the work load attached to posts. 
+
+While it was found that teachers who acted as ICT co-ordinators were key players in schools’ ICT 
+planning, planning duties were not the only ones attached to their role; indeed in some schools ICT 
+planning constituted only a minor part of the role. In general it was found that, while the duties of 
+the ICT co-ordinator were clearly defined in only a small number of schools, there was considerable 
+variety in the tasks undertaken. Examples of duties attached to the role at both primary and post-
+primary level included: 
+• managing the development of the ICT plan and co-ordinating its implementation 
+• involvement in curriculum development 
+• ICT resources management, to include the auditing and purchasing of resources 
+• installing software 
+• system administration, maintenance, and technical support 
+• liaison with subcontracted technical support 
+• liaison with the NCTE and other relevant support services 
+• networking issues 
+• identifying training needs and facilitating staff training 
+• developing relevant links with outside agencies. 
+
+At first glance this list might suggest that ICT co-ordinators had a relatively high level of technical 
+expertise. While some had, others did not have the capacity to manage and maintain modern ICT 
+equipment and resources. A number of schools (as referred to in chapter 3) had external 
+maintenance contractors, and frequently in those schools the ICT co-ordinator was solely 
+responsible for collaborating with such contractors. 
+
+Most of the interviews with ICT co-ordinating teachers revealed that they would like to see their role 
+having a greater emphasis on pedagogy than on the area of systems administration and 
+maintenance. In the main it was found that opportunities did not present themselves regularly for 
+ICT co-ordinators to work with colleagues on relevant pedagogical ICT issues. Instead co-ordinators 
+found a lot of their time was taken up with technical or troubleshooting issues. One co-ordinator 
+spoke of the role in the following terms: 
+
+I don’t consider myself as a formal ICT co-ordinator, but more as an IT technician and advisor. I maintain 
+the IT system and network in the school; I service, repair and build computers. I install software, set up 
+equipment for presentations, source quotations for new equipment and submit projects to management. 
+
+74 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Co-ordinators complained that this advisory or “troubleshooting” role sometimes distracted them 
+from their teaching duties, especially where colleagues called on them to solve technical issues 
+during teaching time. Another issue regularly reported by co-ordinators was the lack of time 
+available to them for performing their duties effectively. This was noted particularly where a 
+significant element of technical support was required of the co-ordinator. 
+
+It was clear from the case-study school evaluations that the use of ICT was more efficient if 
+someone in the school had direct responsibility for its management and co-ordination. Furthermore, 
+efficiency was found to be optimal in those schools where the role of the co-ordinator was clearly 
+defined and the relevant tasks were discharged accordingly. In this regard schools should consider 
+the following duties: 
+• co-ordinating the development and production of the ICT plan 
+• identifying training needs and facilitating staff training 
+• developing strategies for the integration of ICT throughout the curriculum 
+• liaison with senior management and advising on ICT strategies 
+• evaluating the use of ICT and encouraging greater use by teachers and students 
+• developing a means by which the ICT infrastructure can be maintained and upgraded. 
+
+School management personnel should ensure that their ICT co-ordinating teacher has adequate 
+time to perform their duties in an effective manner. The ICT co-ordinator has a significant role to 
+play in the successful integration of ICT throughout the curriculum in any school, and to achieve this 
+they need to devote time to assisting their colleagues in using ICT to aid teaching and learning. They 
+also need to liase with the NCTE and other relevant support services. 
+
+ICT co-ordinators in schools would benefit from engaging with one another on a professional level, 
+sharing information and learning from one another, as well as organising such activities as training 
+and exhibitions. ICT co-ordinators should therefore be facilitated in setting up an association or 
+network of schools’ ICT co-ordinators. 
+
+4.2.3 The ICT plan 
+An analysis of the national survey of principals found that 157 (71%) of the 220 primary principals 
+who responded to the question reported that their school had a written ICT plan. At post-primary 
+level 50 (46%) of the 108 principals who responded had such a plan. Furthermore, the survey 
+revealed that slightly less than half (48%) of primary schools and slightly more than half (55%) of 
+post-primary schools with such plans updated them at least annually. Larger schools were more 
+likely to have an ICT plan and to update it regularly than smaller schools. 
+
+Drawing up the ICT plan 
+
+The survey of principals found that a variety of practices exist in schools with regard to the 
+development of ICT plans. The survey revealed, for example, that 96% of both the primary and 
+
+75 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+post-primary schools that had an ICT plan provided opportunities for teachers’ involvement in the 
+formulation of their plans. At primary level the majority of schools (54%) reported also involving 
+their board of management in the process, while fewer than half (42%) reported involving in-school 
+management personnel. Some 58% of post-primary schools reported involving their board of 
+management in the process, while 78% involved senior in-school management personnel. 
+
+Parents and local businesses or community representatives were the two groups least likely to be 
+involved in the development of a school’s ICT plan. Only 24% of primary and 38% of post-primary 
+schools reported involving parents in the development of their plan, while 4½% of primary and 
+20% of post-primary schools reported involving local businesses or their local community, or both. 
+
+Similar personnel were found to be involved in any review of the ICT plan that took place. The 
+survey found that practically all principals in the primary and post-primary schools that had an ICT 
+plan reported involving teachers in any review of the plan. Some 79% of post-primary schools 
+reported that senior in-school management personnel were involved in the review process, while 
+48% of primary schools reported that their board of management was involved. 
+
+The case-study school evaluations provided a greater insight into how schools develop their ICT 
+plans and highlighted a number of significant issues: 
+• In a small number of case-study schools the ICT planning process involved only school 
+
+management personnel, usually a member of the school’s senior management (for example 
+principal or deputy principal) and the ICT co-ordinator. It was noted in the evaluation reports for 
+schools where this occurred that some teachers were unaware of the existence of an ICT plan for 
+their school. 
+
+• Teachers regularly reported during interviews that their school did provide them with 
+opportunities to get involved in the development of their school’s ICT plan. This usually took the 
+form of management inviting staff members to contribute their views on the plan as it went 
+through its various stages of development. Many teachers, however, spoke of not availing of this 
+opportunity. This was generally attributed to their lack of time or lack of knowledge of ICT plans. 
+
+• Few schools were found to have either sought or received support from their local ICT advisor 
+when developing their plan. Furthermore, while the NCTE provided seminars around the country 
+for school principals on school planning for ICT, few made reference to any benefits that they 
+gained from attending. 
+
+It is clear that schools should seek the services of relevant support services to support their work in 
+ICT planning. Schools also need to become more active in engaging teachers and relevant sections 
+of their community in the development of their ICT plan. 
+
+Contents of the ICT plan 
+
+Principals of schools that had an ICT plan were asked in their national survey to state the areas that 
+were addressed in their plan. Fig. 4.1 and fig. 4.2 provide details of the common areas addressed in 
+the ICT plans of primary and post-primary schools, respectively. 
+
+76 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Fig. 4.1: Contents of ICT plans, primary schools 
+
+What is addressed in the ICT plan? 
+
+School vision with regard to use/importance of ICT 
+Internet usage 
+Access to, and use of, computers and equipment 
+Resources 
+Roles and responsibilities 
+Support for pupils with special needs 
+Hardware maintenance 
+Hardware replacement 
+How ICT is used to support teaching and learning 
+Budget and purchasing 
+Teacher training and development in ICT 
+Programmes of work for individual class levels 
+Assessment of pupil progress in ICT 
+School website 
+
+95% 
+82% 
+81% 
+68% 
+66% 
+59% 
+58% 
+51% 
+49% 
+42% 
+38% 
+37% 
+24% 
+23% 
+Base: All primary principals with an ICT plan (n=157) 
+20% 40% 60% 80% 100%0% 
+Fig. 4.2: Contents of ICT plans, post-primary schools 
+
+What is addressed in the ICT plan? 
+
+Internet usage 
+School vision with regard to use and importance of ICT 
+Access to, and use of, computers and equipment 
+Hardware maintenance 
+Hardware replacement 
+Teacher training and development in ICT 
+Roles and responsibilities 
+Resources 
+Support for students with special needs 
+School website 
+Budget and purchasing 
+How ICT is used to support teaching and learning 
+Assessment of student progress in ICT 
+Programmes of work for individual class levels 
+
+Base: All post-primary principals with an ICT plan (n=50 ) 
+20% 40% 60% 80% 100%0% 
+98% 
+94% 
+86% 
+72% 
+70% 
+68% 
+60% 
+60% 
+56% 
+52% 
+48% 
+30% 
+30% 
+18% 
+77 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+The main topics addressed in primary and post-primary ICT plans were “school vision with regard to 
+the use and importance of ICT,” “internet usage,” and “access to, and use of, computers and 
+equipment.” Such issues as “hardware maintenance,” “hardware replacement,” “resources” and 
+“roles and responsibilities” were also common. References to “how ICT is used to support teaching 
+and learning,” “programmes of work for individual class levels” and “assessment of student 
+progress in ICT” did not feature prominently in plans. 
+
+As would be expected, the contents of the ICT plans reported by principals in their survey and those 
+reviewed by inspectors in case-study schools were broadly similar. Some of the plans reviewed 
+included hardware and software inventories, and where these were not included inspectors 
+generally recommended that they be compiled. Some schools were also advised to consider the 
+possibility of using ICT to engage in collaborative projects with schools from other countries. Also, in 
+contrast to the findings of the survey of principals, details of how ICT was used to facilitate teaching 
+and learning featured highly in the ICT plans of the post-primary case-study schools visited. This may 
+have been influenced, however, by the fact that case-study schools were notified in advance of their 
+participation in the evaluation; there was evidence that certain review or upgrading work was 
+undertaken in respect of some ICT plans before the visit of the inspector. 
+
+On the whole, schools’ ICT plans concentrate more on infrastructural issues than on how ICT can be 
+used to enhance teaching and learning. This is evidenced by the fact that more plans referred to 
+hardware maintenance and replacement issues, to roles and responsibility issues and to access issues 
+than to issues concerned with the actual use of ICT in the classroom. Only 37% of the primary 
+schools surveyed and 9 of the 32 case-study primary schools evaluated, for example, included 
+programmes of work for individual class levels in their ICT plans. Furthermore, less than a quarter of 
+those surveyed and only four case-study schools included details of how they assessed students’ 
+progress in the development of ICT skills. At post-primary level few schools included details of how 
+they would assess, if at all, students’ progress in the area of ICT skills development as they moved 
+from junior cycle to senior cycle. 
+
+Furthermore, few school plans included details of the work their students were exposed to as part 
+of their dedicated computer studies lessons. In effect, this meant that little or no programme 
+planning existed with regard to students’ dedicated ICT lessons. In planning for dedicated ICT 
+lessons, best practice was observed when ICT plans outlined the relevant aims, objectives, time 
+allocations, grouping of students, course materials used, planning for students with special needs, 
+teaching methods, health and safety considerations, and assessment strategies. It was also 
+considered best practice when continuity and progression in work were clear from the programmes 
+of work in the ICT plans. Post-primary schools should plan an appropriate curriculum for all class 
+groups that are provided with dedicated ICT lessons. 
+
+78 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+The inspectors regularly recommended to case-study schools that they review their ICT plan and in 
+so doing that they recast the balance between the infrastructural and the educational focus. One 
+primary school evaluation report, for example, commented: 
+
+The school has an ICT plan which takes into account areas such as: development of the ICT facilities, 
+timetabling, network, usage, assessment, teacher usage of equipment, staff development, educational 
+objectives, ICT and special needs, and an ICT roadmap which outlines some of the skills which students 
+are expected to acquire during their time in school. Although this list of skills is very suitable it could be 
+further expanded and developed and consideration should be given to delineating at what class level 
+these skills are achieved by students. 
+
+One post-primary school report commented: 
+
+Though the plan describes in detail the hardware and software provision that is envisaged the document 
+does not deal with how ICT is to be integrated into teaching and learning. It is recommended that the 
+plan be reviewed to include a strategic vision for the development of ICT and its integration in teaching 
+and learning in the school. 
+
+A school’s ICT plan should emphasise the use of ICT in teaching and learning situations. The NCTE’s 
+document ICT Planning and Advice for Schools (2002) provides advice to schools on what should be 
+included in an ICT plan. The planning matrix (see appendix) provides a suggested framework for the 
+contents of a plan, including: ICT management and planning; ICT and the curriculum; staff 
+members’ professional development; schools’ ICT culture; and ICT resources and infrastructure. 
+
+It is recommended that schools develop their own ICT plan. The process of developing the plan 
+should be a consultative one, with opportunities at post-primary level for appropriate consideration 
+to be given to subject-specific needs by relevant subject departments. Relevant support documents 
+should be fully used. Plans should emphasise the use of ICT in teaching and learning. To this end, 
+for example, plans should include information on how ICT is used to facilitate teaching and 
+learning, details of programmes of work for individual class levels, and particulars of how students’ 
+progress in ICT is to be assessed. Once agreed, the plan should be brought to the attention of all 
+members of the staff, and its regular monitoring and review should be implemented. This is an area 
+where more extensive use could be made of the the significant expertise of ICT co-ordinators. 
+
+4.2.4 The acceptable-use policy 
+With the introduction of broadband access to schools44 and the heightened awareness of the risks 
+of students having access to undesirable material on the web, the evaluation showed that there was 
+a strong emphasis in schools on developing an appropriate internet AUP. 
+
+The survey of principals revealed that more than 80% of both primary and post-primary schools had 
+an AUP. While practically all AUPs in schools applied to students, the survey also showed that 80% 
+
+44 Schools are required to certify that they have an AUP before they are connected to the schools network under the Schools Broadband 
+Access Programme managed by the NCTE. 
+
+79 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+of them at primary level and 75% at post-primary level applied also to teachers. At primary level 
+57% applied to ancillary staff members, while at post-primary level the corresponding figure was 
+55%. From the survey of teachers it was found that approximately 70% of primary and 63% of 
+post-primary teachers were familiar with their school’s AUP. This proportion tended to increase at 
+primary level with regard to those teachers with more teaching experience, while at post-primary 
+level it was unexpectedly lower for schools with a low SCR. 
+
+AUPs were prevalent in case-study schools, with almost all the schools evaluated having one. 
+Inspectors’ reviews of these policies found that practically all of them covered the use of the 
+internet. Few, however, referred to the health and safety risks, predominantly ergonomic in nature, 
+associated with the use of computer hardware.45 It is recommended that schools have guidelines to 
+cover such areas. 
+
+Devising a policy on acceptable use of the internet is an important step in addressing the issue of 
+internet safety in the school. All schools should have their own acceptable-use policy for computer 
+hardware, software, and the internet. As was the case in some case-study schools, this should be 
+developed in partnership with parents and should address, among other things, all the rights, 
+privileges and responsibilities associated with use of the internet and on-line services. It should 
+incorporate a code of conduct that should be agreed by all participants and be incorporated in the 
+school’s ICT plan. The NCTE’s Internet Safety Pack (2007) and the template for developing an AUP 
+on the Department’s website can act as a resource for all schools in this regard.46 The template is the 
+latest version of one originally developed by the NCTE for inclusion in its publication Be Wise on the 
+Net: Information and Advice for Schools (2002). 
+
+4.3 Implementation of ICT planning 
+It is important that schools do not view the development of an ICT plan as an end in itself. However, 
+some schools clearly do so when they convene a team to develop a plan and then disband the team 
+once the task is complete. An effective ICT plan, if implemented daily and in accordance with its 
+underlying principles, will have an impact on the use and development of ICT in a school. Schools 
+should ensure, however, that they have procedures for the regular monitoring and review of their 
+ICT plan. There are a number of ways in which a school can do this, including (as alluded to in 
+section 4.2.1) the role that an ICT steering committee can play in monitoring its progress. 
+
+Two areas were examined to provide an accurate indication of the extent of the implementation of 
+ICT planning. The first is concerned with the professional development of teachers. For example, to 
+what extent were schools actively facilitating teachers in attending appropriate training that would 
+allow them to integrate ICT in their classroom practice? The second area explored was the extent of 
+
+45 There may be risks of eye strain associated with the prolonged use of monitors, as well as risks to a user’s posture from the prolonged 
+
+use of computers. 
+46 See www.education.ie for the ICT policy template, along with templates for common school policies. 
+
+80 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+use of ICT by teachers in their lesson planning and preparation work, as well as the extent of their 
+planning for the use of ICT in the teaching and learning process. Was the school’s ICT planning 
+having an impact at the level of the individual teacher and classroom? 
+
+4.3.1 Teachers’ professional development 
+An analysis of the national survey of principals found that approximately 30% of primary schools 
+and 57% of post-primary schools had provided at least one in-school or external ICT training course 
+for their staff within the previous three years. 
+
+Schools’ provision of ICT professional development for staff 
+
+Fig. 4.3 shows that 17% of the 234 primary-school principals who responded to this survey 
+question stated that in-school training was provided, while 16% reported that external training was 
+provided within this time frame. Primary schools were found to rarely offer both in-school and 
+external staff training. 
+
+Fig. 4.3: Staff ICT training in primary schools within the previous three years 
+
+30% 
+
+20% 
+
+10% 
+
+0% 
+
+Base: All primary principals (n=234) 
+
+Fig. 4.4 shows that slightly more than half (51%) of the 110 post-primary principals who responded 
+stated that in-school training was provided, while about a quarter (26%) stated that external 
+training was provided within this time frame. 
+
+17% 16% 
+In-school External 
+
+
+81 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 4.4: Staff ICT training in post-primary schools within the previous three years 
+
+60% 
+
+40% 
+
+20% 
+
+0% 
+
+Base: All post-primary principals (n=110) 
+
+Schools’ ICT co-ordinators (as well as the principal in the case of primary schools) were generally 
+found to facilitate any in-school training provided, and sometimes presented the training also. At 
+post-primary level it was common for a member of the teaching staff to present such training. The 
+NCTE and the ICT advisory service were generally found to facilitate external training in local 
+education centres. Subject associations also played an important role in facilitating teachers with 
+external training, especially in subject-specific software training. 
+
+82 
+
+
+51% 
+26% 
+In-school External 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+The survey found that a higher rate of in-school training was organised by larger schools (36% of 
+primary schools with more than 200 students, compared with only 5% with fewer than 100 
+students; 59% of post-primary schools with more than 400 students, compared with 41% with 
+fewer than 400 students). It is likely that this is because of the higher concentration of staff 
+members, and therefore possible participants, in the larger schools. However, it is possible for small 
+schools to work together in groups to organise specific training for their staff members. In the case 
+of external training the survey showed no notable difference in the rate of provision between school 
+type, sector or size at either the primary or the post-primary level. 
+
+The type of ICT professional development courses attended by teachers 
+
+The extent of teachers’ attendance at ICT professional development courses was garnered from the 
+national survey of teachers. They were asked to state, from a list provided, what courses organised 
+by the NCTE or ICT advisory service they had attended. Table 4.1 reveals some patterns in relation to 
+attendance at these courses. 
+
+Table 4.1: Teachers’ attendance at NCTE and ICT advisory service training courses 
+
+Course Primary teachers Post-primary teachers 
+Primary phase 1 34.2% 65% 
+Primary phase 2 27% 50.3% 
+Basic troubleshooting 13.7% 8.8% 
+Computer networking 4.4% 7.5% 
+Introduction to digital media 22.6% 7.8% 
+Digital video for learning 6.5% 2.1% 
+Empowering minds: using control technologies 2.3% 1.1% 
+Internet and e-mail for learning 24.5% 13.1% 
+Web site design and development for learning 14.8% 8.8% 
+Intel “Teach to the Future” 20.3% 20.6% 
+Support groups 5.7% 3.2% 
+ICT and special needs: the basics 12% 4% 
+ICT and special needs: learning support 5.7% 2.9% 
+ICT and special needs: mild GLD 1.1% 0.5% 
+ICT and special needs: moderate, severe or profound GLD 0.4% 0.3% 
+ICT and special needs: deaf or hard of hearing 0 0 
+ICT and special needs:visual impairment 0.2% 0 
+ICT and special needs: autistic-spectrum disorders 0.4% 0.3% 
+ICT and Geography 5.1% 
+ICT and Mathematics 7.2% 
+ICT and Science 5.9% 
+ICT and Guidance 1.9% 
+Other (e.g. ECDL) 21.1% 5.1% 
+
+83 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+It is clear from the responses and from discussions with teachers in case-study schools that many 
+felt they had benefited from phase I and II training associated with IT 2000. Table 4.1 also shows 
+that generic programmes of professional development (for example IT 2000 phase I and II, Intel 
+“Teach to the Future”) tend to attract a greater take-up among teachers than those dealing with 
+particular topics or specific subjects. This is presumably due in large part to the fact that generic 
+courses have an appeal throughout the teaching profession, while topic or subject-specific courses 
+are relevant to defined groups within the profession. 
+
+While teachers in case-study schools reported during interviews that they had attended professional 
+development courses provided by relevant support services, a substantial proportion stated that they 
+had received limited training during these courses in how to actually integrate ICT in their teaching. 
+While it is understood that such training is an integral part of current professional development 
+programmes, it is recommended that greater attention be paid to this area in the future. 
+
+Training methods associated with ICT professional development courses 
+
+Primary teachers reported that their preferred training method was a school-based course. Almost 
+four out of five teachers (79%) of the 1,162 respondents rated this method in their top three 
+choices. This method was popular primarily because the training in these settings generally makes 
+use only of equipment and resources that are readily available to the teachers. 
+
+84 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Post-primary teachers reported that their preferred training method was a tutor-led course (or face-
+to-face training) in their local education centre. Nearly three out of four post-primary teachers (73%) 
+of the 800 respondents rated this method in their top three choices. The second choice for primary 
+teachers was tutor-led courses in an education centre (74%), whereas at post-primary level it was 
+the school-based course (69%). The third most popular method for all teachers was a tutor-
+facilitated ICT support group in the education centre. This finding is particularly important from the 
+viewpoint of the school management: when organising ICT training for staff members, the 
+management should be aware of teachers’ preferred training methods. 
+
+Some issues arose, particularly during interviews with teachers at post-primary level, regarding the 
+courses provided in education centres. Many teachers expressed dissatisfaction with the fact that 
+the majority of these courses took place outside normal school hours, and many spoke of having to 
+travel long distances to attend them. Others also mentioned that there was a distinct lack of 
+“joined-up-thinking” or progression regarding the courses they attended or were offered. A further 
+issue concerned the wide range of abilities and experiences commonly found in groups of teachers 
+attending training courses. Given the varied levels of proficiency of teachers in ICT, however, it is 
+accepted that this is an issue that will inevitably arise. Nevertheless it is recommended that course 
+organisers and presenters take appropriate steps to minimise its impact on the learning experience 
+of the teachers attending a course. 
+
+Teachers’ further ICT professional development needs 
+
+In their survey, principals were asked to specify the areas in which they considered teacher training 
+to be necessary to further facilitate effective teaching and learning in the classroom. In their 
+questionnaire teachers were asked separately to state what they felt were their personal 
+requirements for further professional development. Fig. 4.5 and fig. 4.6 show the responses 
+received from primary and post-primary principals and teachers in relation to teacher education 
+needs regarding effective classroom practice.47 In general, the findings suggest that greater 
+communication between principals and teachers regarding the content, and indeed the mode, of 
+ICT professional development would benefit teachers. The evaluation found considerable divergence 
+between the views of principals and teachers regarding the extent and nature of the professional 
+development needs of teachers. Furthermore, it would appear from the findings that principals 
+perceive teachers to have somewhat greater training needs than do the teachers themselves. This is 
+not to suggest, however, that teachers do not have a strong awareness of their training needs. 
+
+47 Although the wording of the priorities in the questionnaire for principals was not exactly the same as that in the questionnaire for 
+teachers, similar items were matched (where possible) between the questionnaires. 
+
+85 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 4.5: Principals’ and teachers’ views on ICT training requirements, primary schools 
+
+Priorities for further professional development 
+[Principals and teachers] 
+
+Digital imaging/peripherals 
+Computer troubleshooting 
+Subject-specific use of ICT/software 
+Developing a school website 
+ICT and special educational needs 
+Computer networking 
+Use of Internet / email in teaching and learning 
+Software specific (in classroom) 
+Project-based learning 
+Internet safety 
+
+20% 40% 60% 80%0% 
+77% 
+58% 
+66% 
+41% 
+60% 
+37% 
+59% 
+41% 
+53% 
+44% 
+53% 
+40% 
+50% 
+59% 
+40% 
+71% 
+43% 
+n/a 
+n/a 
+38% 
+Principal 
+
+Teacher 
+
+Base: All primary principals (n=234) and teachers (n=1162) 
+
+Primary-school principals identified further professional development needs for their teaching staff 
+in most items (especially the use of digital imaging and peripherals), while teachers were more 
+interested in the software-specific use of ICT in the classroom. Recent changes to the primary 
+curriculum, coupled with the work of the PCSP, could be contributing to this perceived further 
+training need of teachers. 
+
+86 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Fig. 4.6: Principals’ and teachers’ views on ICT training requirements, post-primary schools 
+
+Priorities for further professional development 
+[Principals and teachers] 
+
+Subject-specific use of ICT 
+
+ICT and special educational needs 
+
+Peripherals, e.g. digital camera 
+
+Computer troubleshooting 
+
+Internet/email 
+
+Software specific (in classroom) 
+
+Computer networking 
+
+School website 
+
+Project-based learning 
+
+Internet safety 
+
+25% 50% 75% 100%0% 
+94% 
+62% 
+81% 
+25% 
+77% 
+48% 
+68% 
+34% 
+52% 
+64% 
+45% 
+78% 
+44% 
+31% 
+44% 
+22% 
+37% 
+35% 
+n/a 
+n/a 
+Principal 
+
+Teacher 
+
+Base: All post-primary principals (n=110) and teachers (n=800) 
+
+Almost all post-primary principals (94%) reported that teachers required training in the subject-
+specific use of ICT, while this area of training was given priority by fewer than two-thirds of teachers 
+(62%). Conversely, more than three-quarters of teachers (78%) reported a need for training in the 
+use of specific software in the classroom, while fewer than half the principals (45%) chose this area. 
+
+Table 4.2 shows the further ICT professional development preferences of post-primary teachers by 
+subject. It can be seen that teachers of Irish, foreign languages and the social studies I and II groups 
+of subjects were most likely to select further professional development in the classroom use of 
+educational software. These teachers, along with teachers of English, were also slightly more likely 
+to select professional development in using the internet in teaching and learning, in using standard 
+applications, and in project-based learning. This finding could be influenced by the fact that a 
+number of these subjects (for example, History and Geography) require access to sources of 
+information that are most readily available electronically, and that teachers of these subjects would 
+like to be in a position to obtain this kind of information more easily. Recent changes to syllabuses, 
+along with the work of relevant subject support services in schools, could be contributing to this 
+perceived need for further training. The findings also show that there is scope for subject 
+associations to organise or provide subject-specific professional development courses for teachers. 
+
+87 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Table 4.2: Professional development preferences of post-primary teachers, by subject 
+
+% of subject teachers who opted for further professional development in the particular area 
+
+EnglishMathematicsIrishForeign LanguagesScienceBusiness StudiesApplied ScienceSocial Studies ISocial Studies IITotal 
+
+Classroom use of 
+educational software 74 72 85 83 65 73 74 79 82 75 
+Classroom use of 
+standard applications 
+(e.g. desktop 
+publishing, 
+spreadsheets) 49 37 55 49 41 51 39 48 52 44 
+Computer networking 28 34 28 31 38 27 31 28 28 30 
+Computer 
+troubleshooting 37 33 29 24 42 27 41 35 32 33 
+Developing a school 
+web site 19 27 19 21 26 29 22 19 25 22 
+Digital imaging (e.g. 
+digital cameras, 
+digital video) 41 45 49 40 50 52 55 50 51 48 
+ICT and special 
+educational needs 27 27 27 27 21 22 21 28 26 25 
+Internet safety 29 32 38 37 30 38 29 34 40 34 
+Project-based learning 44 30 46 37 37 30 42 42 42 37 
+Subject-specific use 
+of ICT 64 64 67 74 65 64 54 63 62 63 
+Using the internet in 
+teaching and learning 74 56 70 75 65 60 54 67 69 64 
+
+Good practice regarding teachers’ ICT professional development 
+
+The quality of a school’s efforts to cater for the ICT training needs of its teaching staff was singled 
+out by inspectors as being effective in less than half the primary case-study schools visited and in 
+only a quarter of those post-primary schools evaluated. The use of the word “effective” in reports 
+usually meant that a school had plans to provide its teaching staff with appropriate training and that 
+those plans were being realised, or that it was actively developing training plans for staff members. 
+The identification of the training needs of teachers in the use of ICT also featured strongly in whole-
+school planning in these schools, as is appropriate. It was also usually noted in reports from these 
+schools that teachers had engaged at some level with various professional development courses in 
+ICT. One primary inspection report stated: 
+
+88 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+All staff members have had a reasonable level of basic skills training, with some staff [members] currently 
+participating in ICT courses emphasising the integration of ICT in the curriculum. Four teachers have 
+undertaken on-line in-service courses on issues regarding special educational needs in the last term. 
+
+One post-primary school inspection report commented: 
+
+This training included NCTE Phase 1 and Phase 2 education courses, VEC night classes, European 
+Computer Driving Licence (ECDL) courses, Joint Examining Board certification and Intel Teach to the 
+Future courses. 
+
+It was common in these reports to read phrases such as “There was a good level of expertise among 
+staff” or “Teachers were eager to engage in further training.” It was frequently reported that 
+teachers in these schools regularly shared their ICT skills, expertise and experience with each other. 
+Some schools even provided ICT training for parents. Mention was also usually made of the 
+commitment displayed by teachers in attending professional development courses, which usually 
+took place after school hours. 
+
+In the remaining case-study schools visited inspectors generally recommended that efforts be 
+directed towards catering for the training needs of the teaching staff, particularly training that 
+would allow them to better integrate ICT in their classroom practice. In particular, schools were 
+advised: 
+• to implement training plans that existed, or consider short on-site training courses 
+• to review the ICT training needs of their staff members and develop appropriate training plans 
+
+for them 
+• to monitor the training needs of staff members 
+• to concentrate on the integration of ICT in teaching and learning in any training provided 
+• to use the expertise already available among staff members, and even among students 
+• to liaise with the ICT advisor in their local education centre with a view to seeking assistance in 
+
+developing and running ICT training courses for staff members; schools were also asked to 
+
+consider liaison with other support personnel 
+• to include references to professional development plans in the ICT plan for their school 
+• to develop a mentor system, whereby experienced teachers could assist teachers who were 
+
+unfamiliar with the technology. 
+
+Teachers in case-study schools generally reported that the ICT professional development courses 
+they attended had an effect on the extent of their use of ICT during teaching. While it is difficult to 
+pinpoint the level of this influence, it was interesting to note that when asked to state what factors 
+facilitated the development of ICT in their classrooms, teachers nearly always mentioned their 
+attendance at relevant professional development courses. 
+
+89 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+4.3.2 Using ICT in classroom and lesson planning and preparation 
+From interviews with individual mainstream teachers and special-education teachers in primary 
+schools, the inspectors found that more than two-thirds (69%) of mainstream teachers and 61% of 
+special-education teachers reported using ICT to plan and prepare for their teaching. Interestingly, 
+teachers in primary schools with a higher SCR were slightly more likely to use ICT to plan (78%) 
+than teachers in schools with a low SCR (65%).48 In post-primary schools, inspectors found that 
+nearly four out of five subject teachers (79%) reported that they used ICT when preparing their 
+lessons. 
+
+The way in which teachers used ICT in their lesson planning and preparation was explored in some 
+detail through the survey of teachers and the case-study school evaluation reports. One area of 
+interest was the extent of teachers’ use of computers and applications as part of their planning and 
+preparation work. An emphasis was also placed on examining whether teachers used internet 
+resources when preparing lessons. Particular attention was given to teachers’ use of the Scoilnet 
+web site, the education portal developed and maintained by the NCTE.49 
+
+Use of computers in lesson planning and preparation 
+
+Teachers were asked in their national survey how frequently they used computers for lesson 
+preparation. This could be for creating templates or producing students’ worksheets, hand-outs, 
+revision notes, or similar resources. As illustrated in fig. 4.7, 82% of primary and 78% of post-
+primary respondents reported using computers for this purpose, though at different frequencies. 
+
+Fig. 4.7: Use of computers for lesson preparation 
+
+
+a month a month 
+
+Primary teachers 
+
+Post-primary teachers 
+
+Base: 1,162 primary and 800 post-primary teachers 
+
+48 See note 19 (chapter 2) for a definition of SCR. 
+
+49 Scoilnet, according to the NCTE web site (September 2006), is one of the most popular sites devoted to facilitating the work of 
+education professionals. The site was launched in 1998 and is managed by the NCTE. It actively promotes the integration of ICT in 
+teaching and learning by making resources available for downloading, such as lesson plans, interactive and printable worksheets, 
+notes, and multimedia resources. The learning materials for pupils available from the site are curriculum-focused and are selected and 
+reviewed by curriculum specialists and teachers. 
+
+90 
+
+
+50% 
+40% 
+30% 
+20% 
+10% 
+0% 
+At least once a week About 2/3 times Less than twice Never 
+40% 40% 
+20% 20% 21% 21%
+18% 19% 
+
+ICT planning in primary and post-primary schools Chapter 4 
+The use of the computer for lesson preparation was realated the teacher’s age. Of those under 
+thirty-five, 90% of primary teachers and 92% of post-primary teachers reported using computers 
+for preparation purposes, compared with 71% (primary) and 68% (post-primary) of teachers over 
+forty-five. 
+
+The post-primary survey showed that teachers in schools with a low SCR were more likely to use 
+computers for lesson preparation (84%). It would be reasonable to assume that this was because of 
+the higher number of computers available for use. While there was little variation in the level of 
+computer use in preparation for teaching and learning in different subject areas, it was found that a 
+lower than average proportion of teachers of Irish reported using computers for this purpose. 
+
+Fig. 4.8 gives an indication of the type of resources that primary teachers generate as a result of 
+their use of computers for lesson planning and preparation. It provides details of the responses 
+received from the 104 mainstream primary teachers who reported during interviews with inspectors 
+that they used ICT to provide resources for teaching. Interestingly, those interviews found that 
+teachers in schools with a higher SCR were slightly more likely to use ICT to provide resources or 
+aids for their teaching (89%) than teachers in schools with a low SCR (78%). 
+
+Fig. 4.8: Resources provided by mainstream primary teachers using ICT 
+
+Workcards Flashcards Charts Powerpoint Web/internet 
+presentation/graphics 
+
+Base: All mainstream class teachers using ICT to provide resources for teaching (n=104) 
+
+The reasons why teachers used these resources are varied and consistent with good practice: 
+• to reinforce existing teaching and learning methods (especially for teachers in schools with a high 
+SCR) 
+• to improve the teaching and learning of specific curriculum areas (especially for teachers of senior 
+classes) 
+
+91 
+
+
+80% 
+60% 
+40% 
+20% 
+0% 
+56% 
+47% 
+27% 
+16% 
+9% 
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+• to improve literacy, reading and writing skills (especially for teachers of junior classes) 
+
+• to introduce more visual and interactive aspects into lessons (especially for teachers in schools 
+with a low SCR). 
+
+Computers were found to be used by teachers in their classroom or lesson planning and preparation 
+work in most of the fifty-two case-study schools evaluated, even in those schools where the teacher 
+may not have been included in ICT planning at the school level (as discussed in section 4.2.3). The 
+use of computers for such work in these schools was generally found to be a matter for individual 
+teachers. One post-primary report stated: 
+
+At a classroom level it is a matter for individual teachers to plan for the use of ICT in lessons and from 
+discussions with a small group of teachers it was clear that planning for use of, as well as actual usage of, 
+ICT in teaching is uniformly strong. This is facilitated by the existence of ICT hardware and software in 
+certain classrooms. 
+
+The use of computers for lesson planning and preparation in the case-study schools, however, was 
+found to vary considerably. At post-primary level in particular their application varied according to 
+the subject being taught. In one primary school it was noted that while each teacher had a copy of 
+their school’s ICT plan, “there was little evidence to suggest that the ICT plan impacted on individual 
+teachers’ planning or that teachers plan formally for the use of ICT.” However, a more typical report 
+was as follows: 
+
+[Teachers] wished to further expand their skills in order to become more au fait with the hardware in 
+order to make active use of ICT during lessons. Teachers . . . noted [that] technical difficulties, while using 
+ICT equipment, were a major problem for them and resulted in a negative outlook towards the whole ICT 
+area and their willingness to use the technology. 
+
+Practically all twenty case-study post-primary school evaluation reports referred to the fact that 
+“teachers reported using ICT for class preparation, including use of the internet as a resource,” or at 
+worst that “teachers’ use of ICT in planning or preparation for their teaching was mixed,” or that 
+“planning for [the] use of, as well as actual usage of, ICT in teaching occurs at varying levels.” 
+
+The use of ICT in planning for teaching in special education or learning support was particularly 
+prevalent in case-study primary schools, and this was considered good practice. Inspectors 
+recommended in many instances that such good practice be replicated throughout mainstream 
+teaching settings. 
+
+Internet resources 
+
+In their survey, teachers were asked about the use they made of internet resources in their lesson 
+planning and preparation. Table 4.3 shows that 69% of both primary and post-primary teachers 
+reported making use of such resources. 
+
+92 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Table 4.3: Teachers’ use of internet resources in planning and preparation for teaching 
+
+Internet resources 
+Age Gender SCR Total 
+Under 35 35–45 Over 45 Male Female Low High 
+Proportion of primary teachers 
+answering yes to using internet 
+resources in planning and 
+preparing for teaching 
+
+82% 
+
+63% 
+
+47% 
+
+68% 
+
+69% 
+
+71% 
+
+67% 
+
+69% 
+n (primary) 
+
+569 
+
+270 
+
+281 
+
+155 
+
+893 
+
+533 
+
+534 
+
+1,162 
+Proportion of post-primary 
+teachers answering yes 
+to using internet resources 
+in planning and preparing 
+for teaching 
+
+83% 
+
+65% 
+
+59% 
+
+68% 
+
+70% 
+
+67% 
+
+73% 
+
+69% 
+n (post-primary) 
+
+272 
+
+210 
+
+290 
+
+260 
+
+468 
+
+323 
+
+321 
+
+800 
+
+The survey found that there was a strong correlation between internet use and age: younger 
+teachers were more likely to make use of internet resources than those over thirty-five. It can be 
+assumed that this was partly influenced by their exposure to the benefits of ICT during their teacher 
+training experience. A higher level of use was also associated with those teachers who had 
+computer facilities and internet access in their own classrooms. At primary level the survey also 
+showed that teachers of senior classes were slightly more likely to use internet resources in planning 
+for teaching (74%) than teachers of junior classes (69%). At post-primary level some differences 
+emerged in the use of the internet by teachers for planning and preparation purposes in different 
+subjects, as shown in fig. 4.9. 
+
+Fig. 4.9: Use of the internet in planning and preparation for teaching, by subject 
+
+Studies I Studies II Languages Science Studies 
+
+100% 
+80% 
+60% 
+40% 
+20% 
+0% 
+Social Social English Foreign Science Applied Maths Business Irish 
+78% 76% 74% 73% 73% 
+68% 
+63% 62% 
+54% 
+Base: All post-primary teachers (n=800) 
+
+93 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+A relatively low proportion (54%) of teachers of Irish reported using the internet in planning and 
+preparation for teaching, compared with teachers of social studies I and II subjects (78–76%) and 
+English (74%). 
+
+Case-study school evaluations found considerable use of the internet by teachers in their planning 
+work. They generally used it as a means of “accessing planning resources and ideas which served as 
+a stimulus for students.” For example, teachers used the internet to find planning and progress 
+record templates and suggestions for teaching activities. Teachers also mentioned, however, that 
+significant time and work was required to identify, find or generate appropriate materials. 
+
+Scoilnet 
+
+The survey found that relatively high proportions of teachers use Scoilnet, with some 77% and 67% 
+of primary and post-primary teachers, respectively, reporting that they had visited the site within the 
+previous two years. Use was found to be slightly higher for teachers under thirty-five. While the level 
+of use was similar for primary teachers of both junior and senior classes, the survey showed that 
+there were differences in use by post-primary teachers among the subjects taught. A higher 
+proportion of teachers of the social studies I and II (75–72%) and science subjects (74%), for 
+example, reported making use of the site than teachers of the applied science subjects (60%), Irish 
+(63%), and Business Studies (62%). 
+
+In general, however, teachers may be considered as infrequent users of the Scoilnet web site. As can 
+be seen from fig. 4.10, some 63% of primary teachers and 62% of post-primary teachers who used 
+the site stated that they had visited it less than twice a month in the previous two years. 
+
+Fig. 4.10: Scoilnet visits by teachers 
+
+How frequently do you access 
+Scoilnet? 
+
+At least once a week About 2/3 times a month Less than twice a month 
+
+
+Primary 
+
+Post-primary 
+
+Base: All primary (n=859) and post-primary (n=532) teachers who used Scoilnet during the last two years 
+
+7% 
+10% 
+30% 28% 
+63% 62% 
+0% 
+20% 
+40% 
+60% 
+80% 
+94 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+96% 94% 
+14% 
+56% 
+22% 
+9% 
+16% 
+10% 4% 4% 
+1% 1% 
+0% 
+20% 
+40% 
+60% 
+80% 
+100% 
+The teachers’ resources area of Scoilnet was very popular, with more than 90% of both primary and 
+post-primary respondents who stated that they had visited the site reporting that they had visited 
+this section. This would suggest not only that significant numbers of teachers are already using ICT 
+to help them with their lesson planning and preparation work but also that significant numbers are 
+keen to vary their teaching resources and to explore new ways of engaging students in lessons. All 
+other areas of Scoilnet (except perhaps the post-primary students’ section) proved to be much less 
+popular, as can be seen from fig. 4.11. 
+
+Fig. 4.11: The most popular sections of Scoilnet among teachers 
+
+What parts of Scoilnet do you visit? 
+
+Teachers’ Student areas Special needs Schools on-line Parents’ Other 
+resources (e.g., exam information 
+centre)
+
+
+Primary 
+
+Post-primary 
+
+Base: All primary (n=859) and post-primary (n=532) teachers who used Scoilnet during the last two years 
+
+In general, Scoilnet achieved high ratings from those who visited it. Fig. 4.12 shows that 82% of the 
+858 primary teachers and 67% of the 531 post-primary teachers who rated the site stated that the 
+quality of the site’s content was either “good” or “very good.” Furthermore, 78% and 61% of 
+primary and post-primary teachers, respectively, rated the relevance of materials to their work or 
+interests as “good” or “very good.” Teachers of Mathematics and English at post-primary level 
+rated Scoilnet more positively, while teachers of the applied science subjects rated it less positively. 
+These teachers expressed disappointment with the relevance to their subject areas of the materials 
+available on the site. 
+
+95 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Fig. 4.12: Teachers’ ratings of Scoilnet 
+
+How do you rate certain elements of Scoilnet? 
+
+[% Good or Very Good] 
+
+Ease of finding relevant Organisation of Quality of the Relevance of materials 
+information information content to your work/interests 
+
+
+Primary 
+
+Post-Primary 
+
+Base: All primary (n=858) and post-primary (n=531) teachers who used Scoilnet during the last two years 
+
+Teachers were of the view that teaching resources (for example lesson plans and class activities) and 
+learning resources and materials for use by students were important content items for Scoilnet. Fig. 
+
+4.13 provides details of the level of importance teachers attached to a range of content types. 
+81% 
+75% 
+85% 
+76% 
+82% 
+67% 
+78% 
+61% 
+0% 
+20% 
+40% 
+60% 
+80% 
+100% 
+96 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Fig. 4.13: Teachers’ views on what Scoilnet should contain 
+
+Top three most important content types 
+
+
+Teaching resources (e.g., lesson plans, class activities) 
+Learning resources/materials for students 
+Professional development information 
+Educational news and current events 
+Educational research 
+Academic exchange or discussion 
+Job vacancies 
+
+0% 20% 40% 60% 80% 100% 
+95% 
+88% 
+90% 
+92% 
+45% 
+38% 
+34% 
+33% 
+18% 
+27% 
+17% 
+26% 
+5% 
+4% 
+Primary 
+
+Post-primary 
+
+Base: All primary teachers (n=1162) and post-primary (n=800) 
+
+Teachers regarded class-planning materials (for example lesson plans and guidelines) as the most 
+important type of teaching resource that Scoilnet should provide. Other teaching resources 
+mentioned by primary teachers were assessment materials, classroom management information, 
+and project ideas. The majority of other teaching resources mentioned by post-primary teachers 
+were related to examinations (for example revision notes and activities, and marking schemes) and 
+reviews of educational web sites (by subject). A low level of interest was shown in teacher-only 
+forums as a teaching resource. 
+
+In general, the findings suggest that teachers are partial to using the internet to help them with 
+their lesson preparation work, and that Scoilnet, and other such web sites, can act as a very helpful 
+resource in this respect. It is equally clear, however, that a significant proportion of teachers do not 
+exploit the benefits of the internet in preparing for their lessons. These include teachers over thirty-
+five, teachers who do not have ready access to appropriate ICT facilities, and teachers (at post-
+primary level) of certain subjects. Furthermore, of those who make use of the internet, for example 
+for visiting such web sites as Scoilnet, their use is infrequent. It is clear that there is significant scope 
+for the further development of the use of ICT in the area of lesson preparation. The continued 
+efforts of schools at providing teachers with appropriate access to computers and the internet are 
+considered good practice. It is also clear that teachers would like to see more teaching and learning 
+resources being made available for downloading, and this is perhaps an area that could be reviewed 
+by the NCTE. 
+
+97 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+4.3.3 Planning for using ICT in teaching and learning 
+While the use of ICT in planning for teaching and learning was prevalent in most case-study schools, 
+planning for the actual use of ICT in the teaching and learning process was not universal, 
+particularly in primary schools.50 Where it did occur at post-primary level it was generally confined to 
+a small group of subjects. 
+
+Inspectors reported frequently in the inspection reports on case-study primary schools that 
+“individual teachers do not generally plan formally for the use of ICT in their classrooms,” or at best 
+that “planning for [the] use of ICT appears to be incidental rather than formal.” There were a 
+number of reasons for this particular lack of planning, not least being the lack of ICT facilities in 
+classrooms or the lack of the ICT skills needed by teachers to integrate the technology effectively in 
+their classroom practice. One report, for example, noted: 
+
+ICT is rarely mentioned in the lesson plans in terms of a discrete subject area or for skills development. ICT 
+is more likely to appear in teachers’ lesson plans by way of reference to various software packages 
+[applications] that support teaching and learning, including those that come with a textbook. It was 
+indicated by the teachers interviewed that teachers’ knowledge and confidence in using ICT greatly 
+influences the extent to which ICT features in their written preparation and the degree to which they use 
+ICT in the classroom. 
+
+At post-primary level, inspectors commented regularly in a positive way on the extent of planning 
+for the use of ICT in teaching and learning, but only in the case of certain subject areas. This was 
+particularly strong among teachers of the science and applied science subjects and guidance 
+counsellors. In one evaluation report it was mentioned that 
+
+in addition to having an input into the school’s ICT plan the teachers interviewed stated that they also 
+planned for the use of ICT in their own classes. In this context the use of the internet as a source of 
+animations, word processing to produce worksheets and CAD software were mentioned as resources, 
+while reference was also made to the use of [careers software] with students. 
+
+In another post-primary school report reference was made to the fact that “informal training and 
+collaboration is ongoing between teachers who plan for the use of ICT in their lessons,” and that 
+“some of these work across subject divisions.” 
+
+It was also noted in case-study post-primary school evaluation reports that Transition Year, the LCVP 
+and the LCA programme all encouraged increased planning for the use of ICT in teaching and 
+learning. 
+
+Where limited planning for the actual use of ICT in teaching and learning was observed in schools, 
+both primary and post-primary, it was common for inspectors to recommend that this area be 
+developed. One primary school evaluation report stated: 
+
+50 For example, only 43 % of the 127 mainstream teachers interviewed by inspectors during their visits to 77 schools reported that their 
+planning showed how they intended to use ICT in their teaching. This compares with 69 % who reported that they used ICT to plan 
+and prepare for teaching. In the case of the 71 members of special-education support teams interviewed, 57 % stated that their 
+planning showed how they intended to use ICT in their teaching. This compares with 61 % who reported that they used ICT to plan 
+and prepare for teaching. 
+
+98 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Teachers reported that personal long-term and short-term planning does not include references to how it 
+is intended using ICT to assist the teaching and learning process in the classes. This is an area that the 
+teachers should include in future planning. As the number of students is small and the ratio of students 
+to computers is generous (two students to one computer in the junior room and five students to one 
+computer in the senior room) there is scope for the teachers to promote the use of ICT across a wide 
+range of curricular areas using programmes tailored to meet the individual learning needs of the 
+students. 
+
+Evaluation reports suggest that where there was ease of access to ICT hardware and software in 
+classrooms more frequent use was made of these resources in teaching and learning. It was also 
+clear from post-primary evaluation reports that teachers were more likely to use ICT in the teaching 
+and learning of those subjects in which there was recent syllabus revision and consequent in-service 
+support training. The use of the internet, word-processing programs and CDs distributed during in-
+service courses was frequently described. Teachers in the different case-study schools also reported 
+that significant time and work were required to identify, find or generate appropriate subject-
+specific teaching and learning materials. 
+
+The fact that more teachers use ICT in their planning than plan for the actual use of ICT in their 
+teaching suggests that teachers would benefit from training in teaching methods that incorporate 
+ICT. This is an area where the NCTE and the relevant support services could assist schools, but it is 
+also an area in which the ICT co-ordinator (or teachers who use ICT competently) can play a role. 
+
+4.4 Forward planning 
+The national surveys of both principals and teachers asked respondents to state what priorities they 
+had identified with respect to the development of ICT in their school (in the case of principals) and 
+their classrooms or subjects (in the case of teachers). The responses give an insight into the thinking 
+and strategic planning in schools as they move into a future where students’ daily environment 
+outside school becomes increasingly dominated by computing technology. 
+
+4.4.1 Principals’ priorities for ICT development 
+Through their questionnaire (and the case-study school evaluations) principals identified the 
+following issues as important in relation to the development of ICT in their schools: 
+• the upgrade and maintenance of existing hardware (primary and post-primary) 
+• the integration of ICT in the curriculum (primary and post-primary) 
+• the provision of teacher training in ICT (primary and post-primary) 
+• the upgrade or provision of internet access and web site presence (primary). 
+
+Tables 4.4 and 4.5 provide samples of comments made by school principals in relation to their 
+priorities for ICT development. When these are examined they give a good insight into the range of 
+priorities that exist in schools, and into the commitment and far-sightedness of principals. 
+
+99 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Table 4.4: Primary principals’ views on the strategic development of ICT 
+
+School type and size Comment from principal regarding priorities for development 
+Co-educational, large (200+) Broadband; restoration of server after building work; refresher courses for teachers. 
+Co-educational, medium (100-199) Computer for each teacher; broadband; school web site. 
+Co-educational, large (200+) Encourage teachers to obtain and use material in a more structured way; encourage 
+use of internet as a classroom tool, teachers’ familiarity with IT. 
+Co-educational, large (200+) Evaluation of current practices and procedures; provision of second computer to 
+each classroom; further development of school web site. 
+Co-educational, medium (100-199) Expand current provision to upgrade or replace some existing equipment; 
+maintenance; networking and broadband completion; web site. 
+Co-educational, medium (100-199) In-school in-service day; review ICT plan; update computers; networking; mobile 
+projector. 
+Co-educational, large (200+) Integration of ICT in various aspects of curriculum; provision of computer in each 
+room. 
+Co-educational, large (200+) More computers in classrooms; further integration of peripherals; broadband; 
+networking; acquire digital projector; integrate ICT in curriculum. 
+Co-educational, large (200+) One teacher with responsibility for ICT room; ICT curriculum; web site; maintenance. 
+Single-sex, large (200+) Review general plan; acceptable-use policy; up-skilling; encourage greater use by 
+all. 
+Co-educational, small Staff training; broadband; networking; hardware replacement; support for special(
+fewer than 100) needs students. 
+Single-sex, large (200+) Teachers’ skills; purchase of suitable software; timetabling of use of computer room. 
+Single-sex, medium (100-199) Regular use of computer room; use of data projector as teaching tool; provision of 
+laptop for each teacher. 
+Co-educational, large (200+) Up-skilling of teachers; make more use of what’s available. 
+
+Table 4.5: Post-primary principals’ views on the strategic development of ICT 
+
+School type and size Comment from principal regarding priorities for development 
+Vocational co-educational, Greater use of ICT when teaching subjects not specifically related to ICT; increased 
+large (600+) use of ICT as a teaching aid for special-needs students; provision of ICT facilities in 
+every teaching area; expansion of ICT facilities in the school library. 
+Secondary co-educational, Development of acceptable-use policy; access to, and use of, computers and 
+medium (400–599) equipment; details of how ICT can be used to facilitate teaching and learning. 
+Secondary single-sex, Extend the network to all classrooms; provision of internet access in each classroom; 
+medium (400–599) further computers needed and another computer room. 
+Secondary single-sex, large (600+) Promote use of the school’s network (wired and wireless) by staff members; upgrade 
+ICT skill levels of staff members; improve access to ICT facilities for all students; 
+provide laptop computers to staff members and data projectors for each classroom. 
+Secondary single-sex, small ICT support for students with special educational needs; in-service training for 
+(fewer than 400) teachers using ICT in subject planning and classroom teaching; technical support 
+in-service training; time and resources a continuing requirement. 
+
+100 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+Secondary single-sex, small 
+
+Integration in teaching and learning; extension of community access to ICT 
+(fewer than 400) 
+
+facilities; hardware replacement and maintenance. 
+Secondary single-sex, medium 
+
+Increased access to ICT facilities for all students; increased use of ICT by all 
+(400-599) 
+
+teachers throughout the curriculum; provision of training on site and continuous for 
+staff members; making use of ICT the norm rather than for special events. 
+Secondary, co-educational, large 
+
+Greater use of ICT in the classroom as part of teaching and learning; provision of 
+(600+) 
+
+training and awareness for staff members; drafting of ICT policy; making larger 
+number of computers available in classrooms and other teaching areas. 
+Secondary co-educational, small 
+
+Structure ICT courses so that each year group receives certification from an 
+(fewer than 400) 
+
+appropriate certification body at progressive levels as students’ progress through 
+school; connection of broadband and networking of as many classrooms as possible; 
+professional development of teachers. 
+
+Community co-educational, large 
+
+Maintenance, access, software, administration; provision of hardware towards 
+(600+) 
+
+enhanced teaching and learning environment in classrooms. 
+Secondary co-educational, large 
+
+Upgrading hardware; teacher training; installing broadband; integrating computers 
+(600+) 
+
+in subject programme areas; finalising a written ICT plan. 
+
+4.4.2 Teachers’ priorities for ICT development 
+Through their survey (and through interviews in case-study schools) teachers identified the following 
+issues as important to them in relation to the development of ICT in their teaching: 
+
+• the provision of ICT in their classroom: hardware, software, broadband internet access (primary 
+
+and post-primary) 
+• teacher training in ICT (primary and post-primary) 
+• updating of specific software, particularly for recently qualified teachers (primary) 
+• timetabling of ICT lessons (primary). 
+
+Table 4.6 outlines the priority areas identified by the 844 primary and 571 post-primary teachers 
+who gave a response to this question. 
+
+101 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+Table 4.6: Teachers’ priority areas for the development of ICT 
+
+Priority Area Number of respondents reporting Proportion of respondents 
+this area to be a priority 
+Primary Post-primary Primary Post-primary 
+Teacher training in ICT 170 80 20.1% 14% 
+Improved use of resources in teaching 154 34 18.2% 6% 
+Update or obtain (appropriate) software 153 82 18.1% 14.4% 
+Hardware or equipment 150 110 17.8% 19.3% 
+Integration of ICT in curriculum 127 26 15% 4.5% 
+Personal skill development 119 21 14.1% 3.6% 
+Teach ICT to students 106 5 12.6% 0.8% 
+Improved planning or timetabling 91 14 10.8% 2.5% 
+Internet 72 56 8.5% 9.8% 
+Facilitate access to ICT, especially in classroom 47 50 5.6% 8.8% 
+Information on or reviews of ICT 44 14 5.2% 2.5% 
+IT support 43 2 5.1% 0.4% 
+Provide or update computer room (primary) 18 15 2.1% 2.5% 
+Give access to computer room (post-primary) 
+The main priorities of principals were infrastructural in nature, while teachers were more concerned 
+with being able to effectively integrate ICT in their teaching. It is also encouraging to see that 
+principals and teachers share some of the priorities identified regarding the development of ICT in 
+schools, that is, the upgrading of equipment and professional development training. 
+
+4.5 Findings and recommendations 
+4.5.1 Main findings 
+ICT co-ordination in schools 
+
+• The responsibility for ICT in primary schools can lie with an ICT steering committee, the principal, 
+the deputy principal, an ICT co-ordinator, or a combination of these personnel. At the post-
+primary level it usually lies with the ICT co-ordinator; all case-study schools had an ICT coordinator. 
+ICT steering committees are not prevalent in schools. 
+
+• The evaluation found that greater efficiency was achieved where a named person had the 
+responsibility for ICT within a school, and where their role was clearly defined. The duties of the 
+ICT co-ordinator were not always clearly defined. 
+
+• Few ICT co-ordinators had opportunities to work with colleagues regarding relevant ICT 
+pedagogical issues. 
+
+102 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+• The vision and commitment of the principal contributes significantly to the successful integration 
+and development of ICT throughout the curriculum. 
+
+The ICT plan and the AUP 
+
+• The majority of primary schools (71% of survey respondents) have a written ICT plan, while 
+fewer than half of post-primary schools (46%) reported having such a plan. 
+
+• The ICT plans tend to concentrate on hardware issues and their organisation rather than on how 
+ICT can be used in the teaching and learning context. 
+
+• In those schools that engage in ICT planning there is a greater emphasis on whole-school ICT 
+planning than planning for ICT by individual teachers. 
+
+• A variety of practices exists with regard to how schools develop and review their ICT plan. In 
+most instances, however, teachers have opportunities to participate in the process. Few schools 
+seek or receive support from their local ICT advisor. 
+
+• ICT plans in case-study post-primary schools revealed that limited planning existed with regard to 
+dedicated ICT lessons. Best practice was observed where there were comprehensive plans that 
+showed continuity and progression in students’ work. 
+
+• Most schools have an AUP (83% and 87% of primary and post-primary survey respondents, 
+respectively). This is a product perhaps of the requirements of the Schools Broadband Access 
+Programme and the safety awareness-raising initiatives of the NCTE. It can also be taken as an 
+indication of the seriousness that schools attach to the risks associated with use of the internet. 
+
+Continuing professional development 
+
+• Approximately 30% of primary schools and 57% of post-primary schools were found to have 
+provided their staff with an in-school or external ICT training course within the last three years. 
+Primary teachers prefer in-school training, while post-primary teachers expressed a preference for 
+tutor-led courses in education centres. 
+
+• Teachers and principals have different priorities regarding the ICT professional development needs 
+of staff members. Primary principals suggested courses in the use of digital imaging, in 
+peripherals, and also in computer troubleshooting, whereas primary teachers suggested training 
+in the use of software-specific applications in the classroom and the use of the internet and email 
+in teaching and learning. Post-primary principals, on the other hand, gave priority to training 
+for teachers in specific subject areas and in the area of special educational needs. Post-primary 
+teachers considered that training was required in the use of educational software, use of the 
+internet in teaching and learning, and subject-specific use of ICT. 
+
+103 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+• Teachers who had attended new or revised syllabus in-service courses regularly, particularly post-
+primary teachers, commented that they had received little or no training in how to integrate ICT 
+in their teaching in the subject concerned. 
+
+Scoilnet 
+
+• While relatively high proportions of teachers use Scoilnet, they do so infrequently. The majority of 
+those who do use it, however, rate it highly. The more popular sections of the site include the 
+teachers’ resources and students’ areas. 
+
+• Teachers would like to see more teaching and learning resources made available on the site for 
+downloading. 
+
+ICT and teacher planning and preparation 
+
+• The majority of teachers use ICT in their lesson planning and preparation work, for example they 
+use computers for preparing teaching materials and the internet for finding suitable teaching 
+materials. 
+
+• Younger teachers are more likely to use ICT for their lesson planning and preparation than their 
+more experienced colleagues. 
+
+• A higher level of use of ICT in lesson planning was found among teachers who had ready access 
+to computer facilities and the internet. 
+
+Planning for the use of ICT in teaching and learning 
+
+• Fewer teachers plan for the use of ICT in teaching and learning than use it in their planning and 
+preparation for teaching. Planning for its use in the classroom at the post-primary level varies 
+considerably, depending on the subject being taught. 
+
+• The Transition Year, LCVP and LCA encourage increased planning for the use of ICT in teaching 
+and learning. Teachers of these programmes regularly reported that their involvement also 
+encouraged them to use ICT in their teaching with other class groups. 
+
+Priorities for ICT development in schools 
+
+• Principals and teachers in both primary and post-primary schools identified the provision and 
+maintenance of hardware and the provision of teacher education in ICT as being strategically 
+important with regard to the development of ICT in their school. 
+
+• Principals also felt that the further integration of ICT in the curriculum was important, while 
+primary teachers felt that the updating of relevant educational software and the timetabling of 
+ICT lessons for students were crucial. 
+
+104 
+
+
+
+ICT planning in primary and post-primary schools Chapter 4 
+4.5.2 Recommendations 
+Recommendations for policy-makers and policy advisors 
+
+• The NCTE and relevant support and advisory services should work more closely with schools to 
+determine the training needs of staff members and to help them to organise appropriate training 
+programmes. Particular attention should be given to organising training courses in teaching 
+methods that incorporate ICT. 
+
+• School support services should include more examples of how ICT can be used to facilitate 
+teaching and learning in any training programmes they provide. Furthermore, course organisers 
+and presenters, when organising courses, should take account of the wide range of ICT abilities 
+and experience commonly found in groups of teachers, employing strategies for working with 
+mixed-ability groups. 
+
+• The contents of Scoilnet should continue to be developed with a view to making more teaching 
+and learning resources available for downloading and to encouraging greater use of this resource 
+by teachers. 
+
+• Consideration should be given to conducting a review of the LCVP, LCA and Transition Year with 
+a view to learning lessons from these programmes with regard to how they have encouraged 
+teachers to use ICT in their lesson planning and preparation and in their teaching. Consideration 
+needs to be given at second level to extending the use of ICT for such work in other programmes 
+and subjects. 
+
+• ICT co-ordinators in schools should be supported in setting up an association or network of ICT 
+co-ordinators. This would act as a forum whereby co-ordinators could share information with one 
+another, organise training, and engage with a community of practice and learn from others. 
+
+Recommendations for schools 
+
+ICT co-ordination in schools 
+
+• Schools should, wherever practicable, convene an ICT steering committee, which could assist in 
+managing the development of their ICT plan and monitor and review its continuous 
+implementation. 
+
+• One member of staff should take the lead in managing and co-ordinating ICT in a school. The 
+duties of the co-ordinator, where appropriate, should be clearly defined and regularly reviewed 
+and should include a significant emphasis on developing strategies for integrating ICT in the 
+curriculum. 
+
+105 
+
+
+
+ICT in Schools • Part 2 ICT infrastructure and planning in schools 
+The ICT plan and the AUP 
+
+• Schools should have an ICT plan. The plan should be formulated by means of a consultative 
+process involving teachers and relevant personnel (for example the ICT advisor) and should draw 
+from guidelines provided by the NCTE and other support services. 
+
+• A school’s ICT plan should emphasise the use of ICT in teaching and learning, rather than 
+concentrating exclusively on the acquisition of equipment or on teachers’ continuing professional 
+development in ICT. Ideally it should include guidelines for teachers on setting out appropriate 
+learning objectives for each class level in relation to the use of ICT in supporting the 
+implementation of the curriculum. 
+
+• Schools should have an acceptable-use policy for computer hardware, software, and the internet. 
+The AUP should be drawn up in consultation with all relevant stakeholders and should address all 
+users of the technology. 
+
+Continuing professional development 
+
+• Schools should regularly monitor the ICT training needs of their staff and develop and implement 
+training plans as appropriate. Training should concentrate on the integration of ICT in teaching 
+and learning. 
+
+• Schools should consider liasing with the local education centre and relevant support services for 
+the provision of specific courses on site, where possible. The clustering of small schools for the 
+purpose of such courses might be explored in certain circumstances. 
+
+ICT and teachers’ planning and preparation 
+
+• All teachers should exploit the benefits to be gained from ICT in their lesson planning and 
+preparation. They could endeavour, for example, to make greater use of Scoilnet as part of their 
+lesson preparation work. 
+
+• It is recommended that teachers plan systematically for the use of ICT in teaching and learning. 
+
+• Teachers (or subject departments in post-primary schools) should work in collaboration with their 
+ICT co-ordinator in identifying and acquiring suitable software resources. 
+
+106 
+
+
+

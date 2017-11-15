@@ -1,0 +1,7 @@
+.label{
+    -fx-background-color: #217479;
+}
+
+.label:hover{
+    -fx-border-color: #0F585A;
+}

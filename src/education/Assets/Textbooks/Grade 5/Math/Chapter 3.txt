@@ -1,0 +1,1173 @@
+3.1 Introduction 
+Chapter 3 
+Playing with Numbers 
+
+Ramesh has 6 marbles with him. He wants to arrange them in rows in such a way 
+that each row has the same number of marbles. He arranges them in the following 
+ways and matches the total number of marbles. 
+
+(i) 1 marble in each row 
+Number of rows = 6 
+Total number of marbles = 1 × 6 = 6 
+(ii) 2 marbles in each row 
+Number of rows = 3 
+Total number of marbles = 2 × 3 = 6 
+(iii) 3 marbles in each row 
+Number of rows = 2 
+Total number of marbles = 3 × 2 = 6 
+(iv) He could not think of any arrangement in which each row had 4 marbles or 
+5 marbles. So, the only possible arrangement left was with all the 6 marbles 
+in a row. 
+Number of rows = 1 
+Total number of marbles = 6 × 1 = 6 
+From these calculations Ramesh observes that 6 can be written as a product 
+of two numbers in different ways as 
+6 = 1 × 6; 6 = 2 × 3; 6 = 3 × 2; 6 = 6 × 1 
+
+
+PLAYING WITH NUMBERS 
+
+From 6 = 2 × 3 it can be said that 2 and 3 exactly divide 6. So, 2 and 3 are 
+exact divisors of 6. From the other product 6 = 1 × 6, the exact divisors of 6 are 
+found to be 1 and 6. 
+
+Thus, 1, 2, 3 and 6 are exact divisors of 6. They are called the factors of 6. 
+Try arranging 18 marbles in rows and find the factors of 18. 
+
+3.2 Factors and Multiples 
+Mary wants to find those numbers which exactly divide 4. She divides 4 by 
+numbers less than 4 this way. 
+
+1) 4 (4 2) 4 (2 3) 4 (1 4) 4 (1 
+– 4 – 4 – 3 – 4 
+0 0 1 0 
+Quotient is 4 Quotient is 2 Quotient is 1 Quotient is 1 
+Remainder is 0 Remainder is 0 Remainder is 1 Remainder is 0 
+4 = 1 × 4 4 = 2 × 2 4 = 4 × 1 
+
+She finds that the number 4 can be written as: 4 = 1 × 4; 4 = 2 × 2; 
+4 = 4 × 1 and knows that the numbers 1, 2 and 4 are exact divisors of 4. 
+These numbers are called factors of 4. 
+
+A factor of a number is an exact divisor of that number. 
+
+Observe each of the factors of 4 is less than or equal to 4. 
+
+2about spotting factors. 
+It requires 50 pieces of cards numbered 1 to 50. 
+Arrange the cards on the table like this. 
+1 2 3 4 5 
+8 9 10 11 12 
+15 16 17 18 19 
+22 23 24 25 26 
+29 30 31 32 33 
+36 37 38 39 40 
+Game-1 : This is a game to be played by two persons say A and B. It is 
+
+67 
+13 14 
+20 21 
+27 28 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+34 35 
+41 42 
+48 49 
+
+50 
+
+47 
+
+MATHEMATICS 
+
+
+Steps 
+
+(a) Decide who plays first, A or B. 
+(b) Let A play first. He picks up a card from the table, and keeps it with him. 
+Suppose the card has number 28 on it. 
+(c) Player B then picks up all those cards having numbers which are factors of 
+the number on A’s card (i.e. 28), and puts them in a pile near him. 
+(d) Player B then picks up a card from the table and keeps it with him. From the 
+cards that are left, A picks up all those cards whose numbers are factors of 
+the number on B’s card. A puts them on the previous card that he collected. 
+(e) The game continues like this until all the cards are used up. 
+(f) A will add up the numbers on the cards that he has collected. B too will do 
+the same with his cards. The player with greater sum will be the winner. 
+The game can be made more interesting by increasing the number of cards. 
+Play this game with your friend. Can you find some way to win the game? 
+When we write a number 20 as 20 = 4 × 5, we say 4 
+multiple
+
+and 5 are factors of 20. We also say that 20 is a multiple 
+of 4 and 5. 
+. 
+The representation 24 = 2 × 12 shows that 2 and 12 4 × 5 = 20 
+are factors of 24, whereas 24 is a multiple of 2 and 12. 
+.. 
+factor factor 
+
+We can say that a number is a multiple of each of its 
+factors 
+
+Let us now see some interesting facts about factors and 
+multiples. 
+
+(a) Collect a number of wooden/paper strips of length 3 
+units each. 
+(b) Join them end to end as shown in the following 
+figure. 
+6 
+The length of the strip at the top is 3 = 1 × 3 units. 
+
+9 
+The length of the strip below it is 3 + 3 = 6 units. 
+
+12 
+
+Also, 6 = 2 × 3. The length of the next strip is 3 + 3 + 
+
+33 
+33 
+33 3 
+33 3 3 
+33 3 3 3 
+15 
+
+3 = 9 units, and 9 = 3 × 3. Continuing this way we 
+can express the other lengths as, 
+
+12 = 4 × 3 ; 15 = 5 × 3 
+We say that the numbers 3, 6, 9, 12, 15 are multiples of 3. 
+The list of multiples of 3 can be continued as 18, 21, 24, ... 
+Each of these multiples is greater than or equal to 3. 
+The multiples of the number 4 are 4, 8, 12, 16, 20, 24, ...
+
+48 
+
+The list is endless. Each of these numbers is greater than or equal to 4.
+
+Find the possible 
+factors of 45, 30 
+and 36. 
+
+PLAYING WITH NUMBERS 
+
+Let us see what we conclude about factors and multiples: 
+
+1. Is there any number which occurs as a factor of every number ? Yes. It is 1. 
+For example 6 = 1 × 6, 18 = 1 × 18 and so on. Check it for a few more 
+numbers. 
+We say 1 is a factor of every number. 
+
+2. Can 7 be a factor of itself ? Yes. You can write 7 as 7 = 7 × 1. What about 10? 
+and 15?. 
+You will find that every number can be expressed in this way. 
+We say that every number is a factor of itself. 
+
+3. What are the factors of 16? They are 1, 2, 4, 8, 16. Out of these factors do 
+you find any factor which does not divide 16? Try it for 20; 36. 
+You will find that every factor of a number is an exact divisor of 
+that number. 
+
+4. What are the factors of 34? They are 1, 2, 17 and 34 itself. Out of these 
+which is the greatest factor? It is 34 itself. 
+The other factors 1, 2 and 17 are less than 34. Try to check this for 64, 
+81 and 56. 
+We say that every factor is less than or equal to the given number. 
+
+5. The number 76 has 5 factors. How many factors does 136 or 96 have? You 
+will find that you are able to count the number of factors of each of these. 
+Even if the numbers are as large as 10576, 25642 etc. or larger, you 
+can still count the number of factors of such numbers, (though you may 
+find it difficult to factorise such numbers). 
+
+We say that number of factors of a given number are finite. 
+
+6. What are the multiples of 7? Obviously, 7, 14, 21, 28,... You will find that 
+each of these multiples is greater than or equal to 7. Will it happen with 
+each number? Check this for the multiples of 6, 9 and 10. 
+We find that every multiple of a number is greater than or equal to 
+that number. 
+
+7. Write the multiples of 5. They are 5, 10, 15, 20, ... Do you think this 
+list will end anywhere? No! The list is endless. Try it with multiples of 
+6,7 etc. 
+We find that the number of multiples of a given number is infinite. 
+
+8. Can 7 be a multiple of itself ? Yes, because 7 = 7×1. Will it be true for other 
+numbers also? Try it with 3, 12 and 16. 
+You will find that every number is a multiple of itself. 
+
+49 
+
+MATHEMATICS 
+
+
+The factors of 6 are 1, 2, 3 and 6. Also, 1+2+3+6 = 12 = 2 × 6. We find that 
+the sum of the factors of 6 is twice the number 6. All the factors of 28 are 1, 2, 
+4, 7, 14 and 28. Adding these we have, 1 + 2 + 4 + 7 + 14 + 28 = 56 = 2 × 28. 
+
+The sum of the factors of 28 is equal to twice the number 28. 
+
+A number for which sum of all its factors is equal to twice the number is 
+called a perfect number. The numbers 6 and 28 are perfect numbers. 
+Is 10 a perfect number? 
+
+Example 1 : Write all the factors of 68. 
+
+Solution : We note that 
+
+68 = 1 × 68 68 = 2 × 34 
+
+68 = 4 × 17 68 = 17 × 4 
+
+Stop here, because 4 and 17 have occurred earlier. 
+
+Thus, all the factors of 68 are 1, 2, 4, 17, 34 and 68. 
+
+Example 2 : Find the factors of 36. 
+
+Solution : 36 = 1 × 36 36 = 2 × 18 36 = 3 × 12 
+36 = 4 × 9 36 = 6 × 6 
+Stop here, because both the factors (6) are same. Thus, the factors are 1, 2, 
+3, 4, 6, 9, 12, 18 and 36. 
+
+Example 3 : Write first five multiples of 6. 
+
+Solution : The required multiples are: 6×1= 6, 6×2 = 12, 6×3 = 18, 6×4 = 24, 
+6×5 = 30 i.e. 6, 12, 18, 24 and 30. 
+
+
+EXERCISE 3.1 
+
+1. Write all the factors of the following numbers : 
+(a) 24 (b) 15 (c) 21 
+(d) 27 (e) 12 (f) 20 
+(g) 18 (h) 23 (i) 36 
+2. Write first five multiples of : 
+(a)5 (b)8 (c)9 
+3. Match the items in column 1 with the items in column 2. 
+Column 1 Column 2 
+
+(i) 35 (a) Multiple of 8 
+(ii) 15 (b) Multiple of 7 
+(iii) 16 (c) Multiple of 70 
+(iv) 20 (d) Factor of 30
+50 
+
+
+PLAYING WITH NUMBERS 
+
+(v) 25 (e) Factor of 50 
+(f) Factor of 20 
+4. Find all the multiples of 9 upto 100. 
+3.3 Prime and Composite Numbers 
+We are now familiar with the factors of a number. Observe the number of factors 
+of a few numbers arranged in this table. 
+
+Numbers Factors Number of Factors 
+1 1 1 
+2 1, 2 2 
+3 1, 3 2 
+4 1, 2, 4 3 
+5 1, 5 2 
+6 1, 2, 3, 6 4 
+7 1, 7 2 
+8 1, 2, 4, 8 4 
+9 1, 3, 9 3 
+10 1, 2, 5, 10 4 
+11 1, 11 2 
+12 1, 2, 3, 4, 6, 12 6 
+
+We find that (a) The number 1 has only one factor (i.e. itself ). 
+
+(b) There are numbers, having exactly two factors 1 and the number itself. Such 
+number are 2, 3, 5, 7, 11 etc. These numbers are prime numbers. 
+The numbers other than 1 whose only factors are 1 and the number itself 
+are called Prime numbers. 
+
+Try to find some more prime numbers other than these. 
+
+(c) There are numbers having more than two factors like 4, 6, 8, 9, 10 and so on. 
+These numbers are composite numbers. 
+Numbers having more than two factors are 
+1 is neither a prime nor called Composite numbers. 
+a composite number. Is 15 a composite number? Why? What about 
+18? 25? 
+
+Without actually checking the factors of a number, we can find prime 
+numbers from 1 to 100 with an easier method. This method was given by a 
+
+51 
+
+MATHEMATICS 
+
+Greek Mathematician Eratosthenes, in the third century B.C. Let us see the 
+method. List all numbers from 1 to 100, as shown below. 
+
+
+1 2 3 4 5 6 7 8 9 10 
+11 12 13 14 15 16 17 18 19 20 
+21 22 23 24 25 26 27 28 29 30 
+31 32 33 34 35 36 37 38 39 40 
+41 42 43 44 45 46 47 48 49 50 
+51 52 53 54 55 56 57 58 59 60 
+61 62 63 64 65 66 67 68 69 70 
+71 72 73 74 75 76 77 78 79 80 
+81 82 83 84 85 86 87 88 89 90 
+91 92 93 94 95 96 97 98 99 100 
+Step 1 : Cross out 1 because it is not a prime number. 
+
+Step 2 : Encircle 2, cross out all the multiples of 2, other than 2 itself, i.e. 4, 6, 
+8 and so on. 
+Step 3 : You will find that the next uncrossed number is 3. Encircle 3 and cross 
+
+out all the multiples of 3, other than 3 itself. 
+
+Step 4 : The next uncrossed number is 5. Encircle 5 and cross out all the multiples 
+of 5 other than 5 itself. 
+Step 5 : Continue this process till all the 
+
+numbers in the list are either encircled or 
+crossed out. 
+All the encircled numbers are prime 
+numbers. All the crossed out numbers, 
+other than 1 are composite numbers. 
+This method is called the Sieve of 
+Eratosthenes. 
+
+Example 4 : Write all the prime numbers less than 15. 
+
+Solution : By observing the Sieve Method, we can easily write the required 
+prime numbers as 2, 3, 5, 7, 11 and 13. 
+
+even and odd numbers 
+
+Do you observe any pattern in the numbers 2, 4, 6, 8, 10, 12, 14, ...? You will 
+find that each of them is a multiple of 2. 
+
+These are called even numbers. The rest of the numbers 1, 3, 5, 7, 9, 11,... 
+are called odd numbers. 
+
+52 
+
+Observe that 2 × 3 + 1 = 7 is a 
+prime number. Here, 1 has been 
+added to a multiple of 2 to get a 
+prime number. Can you find 
+some more numbers of this type? 
+
+PLAYING WITH NUMBERS 
+
+You can verify that a two digit number or a three digit number is even or not. 
+How will you know whether a number like 756482 is even? By dividing it by 2. 
+Will it not be tedious? 
+
+We say that a number with 0, 2, 4, 6, 8 at the ones place is an even number. 
+So, 350, 4862, 59246 are even numbers. The numbers 457, 2359, 8231 are all 
+odd. Let us try to find some interesting facts: 
+
+(a) Which is the smallest even number? It is 2. Which is the smallest prime 
+number? It is again 2. 
+Thus, 2 is the smallest prime number which is even. 
+
+(b) The other prime numbers are 3, 5, 7, 11, 13, ... . Do you find any even number 
+in this list? Of course not, they are all odd. 
+Thus, we can say that every prime number except 2 is odd. 
+EXERCISE 3.2 
+
+1. What is the sum of any two (a) Odd numbers? (b) Even numbers? 
+2. State whether the following statements are True or False: 
+(a) The sum of three odd numbers is even. 
+(b) The sum of two odd numbers and one even number is even. 
+(c) The product of three odd numbers is odd. 
+(d) If an even number is divided by 2, the quotient is always odd. 
+(e) All prime numbers are odd. 
+(f) Prime numbers do not have any factors. 
+(g) Sum of two prime numbers is always even. 
+(h) 2 is the only even prime number. 
+(i) All even numbers are composite numbers. 
+(j) The product of two even numbers is always even. 
+3. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 
+and 3. Find such pairs of prime numbers upto 100. 
+4. Write down separately the prime and composite numbers less than 20. 
+5. What is the greatest prime number between 1 and 10? 
+6. Express the following as the sum of two odd primes. 
+(a) 44 (b) 36 (c) 24 (d) 18 
+7. Give three pairs of prime numbers whose difference is 2. 
+[Remark : Two prime numbers whose difference is 2 are called twin primes]. 
+8. Which of the following numbers are prime? 
+(a) 23 (b) 51 (c) 37 (d) 26 
+9. Write seven consecutive composite numbers less than 100 so that there is no prime 
+number between them. 
+53 
+
+MATHEMATICS 
+
+
+10. Express each of the following numbers as the sum of three odd primes: 
+(a) 21 (b) 31 (c) 53 (d) 61 
+11. Write five pairs of prime numbers less than 20 whose sum is divisible by 5. 
+(Hint : 3+7 = 10) 
+12. Fill in the blanks : 
+(a) A number which has only two factors is called a ______. 
+(b) A number which has more than two factors is called a ______. 
+(c) 1 is neither ______ nor ______. 
+(d) The smallest prime number is ______. 
+(e) The smallest composite number is _____. 
+(f) The smallest even number is ______. 
+3.4 Tests for Divisibility of Numbers 
+Is the number 38 divisible by 2? by 4? by 5? 
+By actually dividing 38 by these numbers we find that it is divisible by 2 but 
+not by 4 and by 5. 
+
+Let us see whether we can find a pattern that can tell us whether a number is 
+divisible by 2, 3, 4, 5, 6, 8, 9, 10 or 11. Do you think such patterns can be easily 
+seen? 
+
+Divisibility by 10 : Charu was looking at the multiples of 
+
+10. The multiples are 10, 20, 30, 40, 50, 60, ... . She found 
+something common in these numbers. Can you tell what? 
+Each of these numbers has 0 in the ones place. 
+She thought of some more numbers with 0 at ones place 
+like 100, 1000, 3200, 7010. She also found that all such numbers are divisible 
+by 10. 
+
+She finds that if a number has 0 in the ones place then it is divisible by 10. 
+
+Can you find out the divisibility rule for 100? 
+Divisibility by 5 : Mani found some interesting pattern in the numbers 5, 10, 
+15, 20, 25, 30, 35, ... Can you tell the pattern? Look at the units place. All these 
+numbers have either 0 or 5 in their ones place. We know that these numbers are 
+divisible by 5. 
+
+Mani took up some more numbers that are divisible by 5, like 105, 215, 
+6205, 3500. Again these numbers have either 0 or 5 in their ones places. 
+
+He tried to divide the numbers 23, 56, 97 by 5. Will he be able to do that? 
+Check it. He observes that a number which has either 0 or 5 in its ones 
+place is divisible by 5, other numbers leave a remainder. 
+
+Is 1750125 divisible 5? 
+Divisibility by 2 : Charu observes a few multiples of 2 to be 10, 12, 14, 16...
+
+54 
+
+and also numbers like 2410, 4356, 1358, 2972, 5974. She finds some pattern 
+
+
+
+PLAYING WITH NUMBERS 
+
+in the ones place of these numbers. Can you tell that? These numbers have only 
+
+the digits 0, 2, 4, 6, 8 in the ones place. 
+She divides these numbers by 2 and gets remainder 0. 
+She also finds that the numbers 2467, 4829 are not divisible by 2. These 
+
+numbers do not have 0, 2, 4, 6 or 8 in their ones place. 
+Looking at these observations she concludes that a number is divisible 
+
+by 2 if it has any of the digits 0, 2, 4, 6 or 8 in its ones place. 
+Divisibility by 3 : Are the numbers 21, 27, 36, 54, 219 divisible by 3? Yes, 
+they are. 
+
+Are the numbers 25, 37, 260 divisible by 3? No. 
+
+Can you see any pattern in the ones place? We cannot, because numbers 
+with the same digit in the ones places can be divisible by 3, like 27, or may 
+not be divisible by 3 like 17, 37. Let us now try to add the digits of 21, 36, 54 
+and 219. Do you observe anything special ? 2+1=3, 3+6=9, 5+4=9, 2+1+9=12. 
+All these additions are divisible by 3. 
+
+Add the digits in 25, 37, 260. We get 2+5=7, 3+7=10, 2+6+0 = 8. 
+These are not divisible by 3. 
+We say that if the sum of the digits is a multiple of 3, then the number 
+
+is divisible by 3. 
+
+Divisibility by 6 : Can you identify a number which is divisible 
+by both 2 and 3? One such number is 18. Will 18 be divisible by 
+2×3=6? Yes, it is. 
+Find some more numbers like 18 and check if they are divisible 
+by 6 also. 
+Can you quickly think of a number which is divisible by 2 but 
+not by 3? 
+Now for a number divisible by 3 but not by 2, one example is 
+
+27. Is 27 divisible by 6? No. Try to find numbers like 27. 
+From these observations we conclude that if a number is 
+divisible by 2 and 3 both then it is divisible by 6 also. 
+Divisibility by 4 : Can you quickly give five 3-digit numbers divisible by 
+4? One such number is 212. Think of such 4-digit numbers. One example is 
+1936. 
+
+Observe the number formed by the ones and tens places of 212. It is 12; 
+which is divisible by 4. For 1936 it is 36, again divisible by 4. 
+Try the exercise with other such numbers, for example with 4612; 
+
+3516; 9532. 
+Is the number 286 divisible by 4? No. Is 86 divisible by 4? No. 
+So, we see that a number with 3 or more digits is divisible by 4 if the 
+
+Is 7221 divisible by 3? 
+55 
+
+MATHEMATICS 
+
+number formed by its last two digits (i.e. ones and tens) is divisible by 4. 
+
+Check this rule by taking ten more examples. 
+Divisibility for 1 or 2 digit numbers by 4 has to be checked by actual division. 
+
+Divisibility by 8 : Are the numbers 1000, 2104, 1416 divisible by 8? 
+You can check that they are divisible by 8. Let us try to see the pattern. 
+Look at the digits at ones, tens and hundreds place of these numbers. These 
+
+are 000, 104 and 416 respectively. These too are divisible by 8. Find some more 
+numbers in which the number formed by the digits at units, tens and hundreds 
+place (i.e. last 3 digits) is divisible by 8. For example, 9216, 8216, 7216, 10216, 
+9995216 etc. You will find that the numbers themselves are divisible by 8. 
+
+We find that a number with 4 or more digits is divisible by 8, if the 
+number formed by the last three digits is divisible by 8. 
+
+Is 73512 divisible by 8? 
+The divisibility for numbers with 1, 2 or 3 digits by 8 has to be checked by 
+
+actual division. 
+Divisibility by 9 : The multiples of 9 are 9, 18, 27, 36, 45, 54,... There are 
+other numbers like 4608, 5283 that are also divisible by 9. 
+
+Do you find any pattern when the digits of these numbers are added? 
+1 + 8 = 9, 2 + 7 = 9, 3 + 6 = 9, 4 + 5 = 9 
+4 + 6 + 0 + 8 = 18, 5 + 2 + 8 + 3 = 18 
+All these sums are also divisible by 9. 
+Is the number 758 divisible by 9? 
+No. The sum of its digits 7 + 5 + 8 = 20 is also not divisible by 9. 
+These observations lead us to say that if the sum of the digits of a number 
+
+is divisible by 9, then the number itself is divisible by 9. 
+Divisibility by 11 : The numbers 308, 1331 and 61809 are all divisible by 11. 
+We form a table and see if the digits in these numbers lead us to some pattern. 
+
+Number Sum of the digits Sum of the digits Difference 
+(at odd places) (at even places) 
+from the right from the right 
+308 8 + 3 = 11 0 11 – 0 = 11 
+1331 1 + 3 = 4 3 + 1 = 4 4 – 4 = 0 
+61809 9 + 8 + 6 = 23 0 + 1 = 1 23 – 1 = 22 
+
+We observe that in each case the difference is either 0 or divisible by 11. All 
+these numbers are also divisible by 11. 
+
+For the number 5081, the difference of the digits is (5+8) – (1+0) = 12 
+which is not divisible by 11. The number 5081 is also not divisible by 11. 
+
+56 
+
+
+PLAYING WITH NUMBERS 
+
+Thus, to check the divisibility of a number by 11, the rule is, find the 
+difference between the sum of the digits at odd places (from the right) 
+and the sum of the digits at even places (from the right) of the number. 
+If the difference is either 0 or divisible by 11, then the number is 
+divisible by 11. 
+
+
+EXERCISE 3.3 
+
+1. Using divisibility tests, determine which of the following numbers are divisible by 2; 
+by 3; by 4; by 5; by 6; by 8; by 9; by 10 ; by 11 (say, yes or no): 
+Number Divisible by 
+2 3 4 5 6 8 9 10 11 
+128 Yes No Yes No No Yes No No No 
+990 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+1586 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+275 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+6686 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+639210 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+429714 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+2856 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+3060 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+406839 ..... ..... ..... ..... ..... ..... ..... ..... ..... 
+
+2. Using divisibility tests, determine which of the following numbers are divisible by 
+4; by 8: 
+(a) 572 (b) 726352 (c) 5500 (d) 6000 (e) 12159 
+(f) 14560 (g) 21084 (h) 31795072 (i) 1700 (j) 2150 
+3. Using divisibility tests, determine which of following numbers are divisible by 6: 
+(a) 297144 (b) 1258 (c) 4335 (d) 61233 (e) 901352 
+(f) 438750 (g) 1790184 (h) 12583 (i) 639210 (j) 17852 
+4. Using divisibility tests, determine which of the following numbers are divisible by 11: 
+(a) 5445 (b) 10824 (c) 7138965 (d) 70169308 (e) 10000001 
+(f) 901153 
+5. Write the smallest digit and the greatest digit in the blank space of each of the following 
+numbers so that the number formed is divisible by 3 : 
+(a) __ 6724 (b) 4765 __ 2 
+
+57 
+
+MATHEMATICS 
+
+
+6. Writea digitintheblankspaceofeachofthefollowingnumbers so that the number 
+formed is divisible by 11 : 
+(a) 92 __ 389 (b) 8 __ 9484 
+3.5 Common Factors and Common Multiples 
+Observe the factors of some numbers taken in pairs. 
+
+(a) What are the factors of 4 and 18? 
+The factors of 4 are 1, 2 and 4. 
+The factors of 18 are 1, 2, 3, 6, 9 and 18. 
+The numbers 1 and 2 are the factors of both 4 and 18. 
+They are the common factors of 4 and 18. 
+(b) What are the common factors of 4 and 15? 
+These two numbers have only 1 as the common factor. 
+What about 7 and 16? 
+Two numbers having only 1 as a common factor are called co-prime 
+numbers. Thus, 4 and 15 are co-prime numbers. 
+Are 7 and 15, 12 and 49, 18 and 23 co-prime numbers? 
+
+(c) Can we find the common factors of 4, 12 and 16? 
+Factors of 4 are 1, 2 and 4. 
+Factors of 12 are 1, 2, 3, 4, 6 and 12. 
+Factors of 16 are 1, 2, 4, 8 and 16. 
+Clearly, 1, 2 and 4 are the common factors of 4, 12, and 16. 
+Find the common factors of (a) 8, 12, 20 (b) 9, 15, 21. 
+Let us now look at the multiples of more than one number taken at a time. 
+
+(a) What are the multiples of 4 and 6? 
+The multiples of 4 are 4, 8, 12, 16, 20, 24, ... (write a few more) 
+The multiples of 6 are 6, 12, 18, 24, 30, 36, ... (write a few more) 
+Out of these, are there any numbers which occur in both the lists? 
+We observe that 12, 24, 36, ... are multiples of both 4 and 6. 
+Can you write a few more? 
+They are called the common multiples of 4 and 6. 
+
+(b) Find the common multiples of 3, 5 and 6. 
+Multiples of 3 are 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, ... 
+Multiples of 5 are 5, 10, 15, 20, 25, 30, 35, ... 
+Multiples of 6 are 6, 12, 18, 24, 30, ... 
+Common multiples of 3, 5 and 6 are 30, 60, ... 
+
+58 
+
+Find the common factors of 
+(a) 8, 20 (b) 9, 15 
+
+PLAYING WITH NUMBERS 
+
+Write a few more common multiples of 3, 5 and 6. 
+Example 5 : Find the common factors of 75, 60 and 210. 
+Solution : Factors of 75 are 1, 3, 5, 15, 25 and 75. 
+
+Factors of 60 are 1, 2, 3, 4, 5, 6, 10, 12, 15, 30 and 60. 
+
+Factors of 210 are 1, 2, 3, 5, 6, 7, 10, 14, 15, 21, 30, 35, 42, 70, 105 and 210. 
+
+Thus, common factors of 75, 60 and 210 are 1, 3, 5 and 15. 
+
+Example 6 : Find the common multiples of 3, 4 and 9. 
+Solution : Multiples of 3 are 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 
+45, 48, .... 
+
+Multiples of 4 are 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,... 
+
+Multiples of 9 are 9, 18, 27, 36, 45, 54, 63, 72, 81, ... 
+
+Clearly, common multiples of 3, 4 and 9 are 36, 72, 108,... 
+
+
+EXERCISE 3.4 
+
+1. Find the common factors of : 
+(a) 20 and 28 (b) 15 and 25 (c) 35 and 50 (d) 56 and 120 
+2. Find the common factors of : 
+(a) 4, 8 and 12 (b) 5, 15 and 25 
+3. Find first three common multiples of : 
+(a) 6 and 8 (b) 12 and 18 
+4. Write all the numbers less than 100 which are common multiples of 3 and 4. 
+5. Which of the following numbers are co-prime? 
+(a) 18 and 35 (b) 15 and 37 (c) 30 and 415 
+(d) 17 and 68 (e) 216 and 215 (f) 81 and 16 
+6. A number is divisible by both 5 and 12. By which other number will that number be 
+always divisible? 
+7. A number is divisible by 12. By what other numbers will that number be divisible? 
+3.6 Some More Divisibility Rules 
+Let us observe a few more rules about the divisibility of numbers. 
+
+(i) Can you give a factor of 18? It is 9. Name a factor of 9? It is 3. Is 3 a factor 
+of 18? Yes it is. Take any other factor of 18, say 6. Now, 2 is a factor of 6 
+and it also divides 18. Check this for the other factors of 18. Consider 24. 
+It is divisible by 8 and the factors of 8 i.e. 1, 2, 4 and 8 also divide 24. 
+So, we may say that if a number is divisible by another number then 
+it is divisible by each of the factors of that number. 
+
+59 
+
+MATHEMATICS 
+
+(ii) The number 80 is divisible by 4 and 5. It is also divisible by 
+4 × 5 = 20, and 4 and 5 are co-primes. 
+Similarly, 60 is divisible by 3 and 5 which are co-primes. 60 is also divisible 
+by 3 × 5 = 15. 
+If a number is divisible by two co-prime numbers then it is divisible 
+by their product also. 
+
+(iii) The numbers 16 and 20 are both divisible by 4. The number 16 + 20 = 36 is 
+also divisible by 4. Check this for other pairs of numbers. 
+Try this for other common divisors of 16 and 20. 
+If two given numbers are divisible by a number, then their sum is 
+also divisible by that number. 
+
+(iv) The numbers 35 and 20 are both divisible by 5. Is their difference 
+35 – 20 = 15 also divisible by 5 ? Try this for other pairs of numbers also. 
+If two given numbers are divisible by a number, then their difference 
+is also divisible by that number. 
+
+Take different pairs of numbers and check the four rules given above. 
+
+3.7 Prime Factorisation 
+When a number is expressed as a product of its factors we say that the number 
+has been factorised. Thus, when we write 24 = 3×8, we say that 24 has been 
+factorised. This is one of the factorisations of 24. The others are : 
+
+24 = 2 × 12 24 = 4 × 6 24 = 3 × 8 
+= 2 × 2 × 6 = 2 × 2 × 6 = 3 × 2 × 2 × 2 
+= 2 × 2 × 2 × 3 = 2 × 2 × 2 × 3 = 2 × 2 × 2 × 3 
+
+In all the above factorisations of 24, we ultimately arrive at only one 
+factorisation 2 × 2 × 2 × 3. In this factorisation the only factors 2 and 3 are 
+prime numbers. Such a factorisation of a number is called a prime factorisation. 
+
+Let us check this for the number 36. 
+
+36 
+2 × 18 3 × 12 4 × 9 6 × 6 
+2 × 2 × 9 3 × 3 × 4 2 × 2 × 9 2 × 3 × 6 
+2 × 2 × 3 × 3 3 × 3 × 2 × 2 2 × 2 × 3 × 3 2 × 3 × 2 × 3 
+2 × 2 × 3 × 3 2 × 2 × 3 × 3 
+The prime factorisation of 36 is 2 × 2 × 3 × 3. i.e. the only prime 
+factorisation of 36. 
+
+60 
+
+
+PLAYING WITH NUMBERS 
+
+DoThis
+Factor tree 
+
+Choose a Think of a factor Now think of a 
+number and write it pair say, 90=10×9 factor pair of 10 
+90 10 = 2×5 
+
+Write the prime 
+factorisations of 
+16, 28, 38. 
+Write factor pair of 9 
+9 = 3 × 3 
+
+Try this for the numbers 
+(a) 8 (b) 12 
+
+
+Example 7 : Find the prime factorisation of 980. 
+
+Solution : We proceed as follows: 
+
+We divide the number 980 by 2, 3, 5, 7 etc. in this order repeatedly so long 
+as the quotient is divisible by that number.Thus, the prime factorisation of 980 
+is 2 × 2 × 5 × 7 × 7. 
+
+2 980 
+2 490 
+5 245 
+7 49 
+7 7 
+
+1 
+
+1. Which of the following statements are true? 
+(a) If a number is divisible by 3, it must be divisible by 9. 
+(b) If a number is divisible by 9, it must be divisible by 3. 
+(c) A number is divisible by 18, if it is divisible by both 3 and 6. 
+(d) If a number is divisible by 9 and 10 both, then it must be divisible by 90. 
+(e) If two numbers are co-primes, at least one of them must be prime. 
+(f) All numbers which are divisible by 4 must also be divisible by 8. 
+EXERCISE 3.5 
+
+61 
+
+MATHEMATICS 
+
+
+(g) All numbers which are divisible by 8 must also be divisible by 4. 
+(h) If a number exactly divides two numbers separately, it must exactly divide their 
+sum. 
+(i) If a number exactly divides the sum of two numbers, it must exactly divide the two 
+numbers separately. 
+2. Here are two different factor trees for 60. Write the missing numbers. 
+(a) 
+6 
+2 ? 
+10 
+5 ? 
+60 
+(b) 
+
+30 
+10 ? 
+? 
+60 
+?? 
+3. Which factors are not included in the prime factorisation of a composite number? 
+4. Write the greatest 4-digit number and express it in terms of its prime factors. 
+5. Write the smallest 5-digit number and express it in the form of its prime factors. 
+6. Find all the prime factors of 1729 and arrange them in ascending order. Now state the 
+relation, if any; between two consecutive prime factors. 
+7. The product of three consecutive numbers is always divisible by 6. Verify this statement 
+with the help of some examples. 
+8. The sum of two consecutive odd numbers is divisible by 4. Verify this statement with 
+the help of some examples. 
+9. In which of the following expressions, prime factorisation has been done? 
+(a) 24 = 2 × 3 × 4 (b) 56 = 7 × 2 × 2 × 2 
+(c) 70 = 2 × 5 × 7 (d) 54 = 2 × 3 × 9 
+10. Determine if 25110 is divisible by 45. 
+[Hint : 5 and 9 are co-prime numbers. Test the divisibility of the number by 5 and 9]. 
+11. 18 is divisible by both 2 and 3. It is also divisible by 2 × 3 = 6. Similarly, a number 
+is divisible by both 4 and 6. Can we say that the number must also be divisible by 
+4 × 6 = 24? If not, give an example to justify your answer. 
+62 
+
+12. I am the smallest number, having four different prime factors. Can you find me? 
+
+PLAYING WITH NUMBERS 
+
+3.8 Highest Common Factor 
+We can find the common factors of any two numbers. We now try to find the 
+
+highest of these common factors. 
+What are the common factors of 12 and 16? They are 1, 2 and 4. 
+What is the highest of these common factors? It is 4. 
+What are the common factors of 20, 28 and 36? They are 1, 2 and 4 and 
+
+again 4 is highest of these common factors. 
+
+The Highest Common Factor 
+(HCF) of two or more given 
+numbers is the highest (or 
+greatest) of their common factors. 
+
+It is also known as Greatest Common 
+
+Divisor (GCD). 
+The HCF of 20, 28 and 36 can also be found by prime factorisation of these 
+numbers as follows: 
+
+Find the HCF of the following: 
+(i) 24 and 36 (ii) 15, 25 and 30 
+(iii) 8 and 12 (iv) 12, 16 and 28 
+220 
+210 
+55 
+1 
+228 
+214 
+77 
+1 
+236 
+218 
+39 
+33 
+1 
+
+Thus, 20 = 2 × 2 × 5 
+
+28 = 2 × 2 × 7 
+
+36 = 2 × 2 × 3 × 3 
+
+The common factor of 20, 28 and 36 is 2(occuring twice). Thus, HCF of 20, 
+28 and 36 is 2 × 2 = 4. 
+
+
+EXERCISE 3.6 
+
+1. Find the HCF of the following numbers : 
+(a) 18, 48 (b) 30, 42 (c) 18, 60 (d) 27, 63 
+(e) 36, 84 (f) 34, 102 (g) 70, 105, 175 
+(h) 91, 112, 49 (i) 18, 54, 81 (j) 12, 45, 75 
+2. What is the HCF of two consecutive 
+(a) numbers? (b) even numbers? (c) odd numbers? 
+63 
+
+MATHEMATICS 
+
+
+3. HCF of co-prime numbers 4 and 15 was found as follows by factorisation : 
+4 = 2 × 2 and 15 = 3 × 5 since there is no common prime factor, so HCF of 4 and 15 
+is 0. Is the answer correct? If not, what is the correct HCF? 
+
+3.9 Lowest Common Multiple 
+What are the common multiples of 4 and 6? They are 12, 24, 36, ... . Which is 
+the lowest of these? It is 12. We say that lowest common multiple of 4 and 6 is 
+
+12. It is the smallest number that both the numbers are factors of this number. 
+The Lowest Common Multiple (LCM) of two or more given numbers is 
+the lowest (or smallest or least) of their common multiples. 
+
+What will be the LCM of 8 and 12? 4 and 9? 6 and 9? 
+
+Example 8 : Find the LCM of 12 and 18. 
+
+Solution : We know that common multiples of 12 and 18 are 36, 72, 108 etc. 
+The lowest of these is 36. Let us see another method to find LCM of two 
+numbers. 
+
+The prime factorisations of 12 and 18 are : 
+12 = 2 × 2 × 3; 18 = 2 × 3 × 3 
+In these prime factorisations, the maximum number of times the prime 
+
+factor 2 occurs is two; this happens for 12. Similarly, the maximum number 
+of times the factor 3 occurs is two; this happens for 18. The LCM of the two 
+numbers is the product of the prime factors counted the maximum number 
+of times they occur in any of the numbers. Thus, in this case LCM = 2 × 2 
+× 3 × 3 = 36. 
+
+Example 9 : Find the LCM of 24 and 90. 
+
+Solution : The prime factorisations of 24 and 90 are: 
+24 = 2 × 2 × 2 × 3; 90 = 2 × 3 × 3 × 5 
+
+In these prime factorisations the maximum number of times the prime factor 
+2 occurs is three; this happens for 24. Similarly, the maximum number of times 
+the prime factor 3 occurs is two; this happens for 90. The prime factor 5 occurs 
+only once in 90. 
+
+Thus, LCM = (2 × 2 × 2) × (3 × 3) × 5 = 360 
+Example 10 : Find the LCM of 40, 48 and 45. 
+Solution : The prime factorisations of 40, 48 and 45 are; 
+
+40 = 2 × 2 × 2 × 5 
+48 = 2 × 2 × 2 × 2 × 3 
+45 = 3 × 3 × 5 
+The prime factor 2 appears maximum number of four times in the prime 
+
+64 
+
+factorisation of 48, the prime factor 3 occurs maximum number of two times 
+
+
+PLAYING WITH NUMBERS 
+
+in the prime factorisation of 45, The prime factor 5 appears one time in the 
+
+prime factorisations of 40 and 45, we take it only once. 
+Therefore, required LCM = (2 × 2 × 2 × 2)×(3 × 3) × 5 = 720 
+LCM can also be found in the following way : 
+
+Example 11 : Find the LCM of 20, 25 and 30. 
+
+Solution : We write the numbers as follows in a row : 
+
+2 20 25 30 
+2 10 25 15 
+3 5 25 15 
+5 5 25 5 
+5 1 5 1 
+1 1 1 
+
+(A) 
+(B) 
+(C) 
+(D) 
+(E) 
+
+So, LCM = 2 × 2 × 3 × 5 × 5. 
+
+(A) Divide by the least prime number which divides any one of the given 
+numbers. Here, it is 2. The numbers like 25 are not divisible by 2 so they 
+are written as such in the next row. 
+(B) Again divide by 2. Continue this till we have no multiples of 2. 
+(C) Divide by next prime number which is 3. 
+(D) Divide by next prime number which is 5. 
+(E) Again divide by 5. 
+3.10 Some Problems on HCF and LCM 
+We come across a number of situations in which we make use of the concepts 
+of HCF and LCM. We explain these situations through a few examples. 
+
+Example 12 : Two tankers contain 850 litres and 680 litres of kerosene oil 
+respectively. Find the maximum capacity of a container which can measure the 
+kerosene oil of both the tankers when used an exact number of times. 
+
+Solution : The required container has to measure 
+both the tankers in a way that the count is an exact 
+number of times. So its capacity must be an exact 
+divisor of the capacities of both the tankers. 
+Moreover, this capacity should be maximum. Thus, 
+the maximum capacity of such a container will be 
+
+65 
+the HCF of 850 and 680. 
+
+
+MATHEMATICS 
+
+It is found as follows : 
+
+
+2 850 
+5 425 
+5 85 
+17 17 
+1 
+
+2 680 
+2 340 
+2 170 
+5 85 
+17 17 
+1 
+
+Hence, 
+
+850 = 2 × 5 × 5 × 17 =2 × 5 × 17 × 5 and 
+
+680 = 2 × 2 × 2 × 5 × 17= 2 × 5 × 17 × 2 × 2 
+
+The common factors of 850 and 680 are 2, 5 and 17. 
+
+Thus, the HCF of 850 and 680 is 2 × 5 × 17 = 170. 
+
+Therefore, maximum capacity of the required container is 170 litres. 
+
+It will fill the first container in 5 and the second in 4 refills. 
+
+Example 13 : In a morning walk, three persons step off together. Their steps 
+measure 80 cm, 85 cm and 90 cm respectively. What is the minimum distance 
+each should walk so that all can cover the same distance in complete steps? 
+
+Solution : The distance covered by each one of them is required to be the 
+same as well as minimum. The required minimum distance each should walk 
+would be the lowest common multiple of the measures of their steps. Can you 
+describe why? Thus, we find the LCM of 80, 85 and 90. The LCM of 80, 85 
+and 90 is 12240. 
+
+The required minimum distance is 12240 cm. 
+
+Example 14 : Find the least number which when divided by 12, 16, 24 and 36 
+leaves a remainder 7 in each case. 
+
+Solution : We first find the LCM of 12, 16, 24 and 36 as follows : 
+
+
+2 12 16 24 36 
+2 6 8 12 18 
+2 3 4 6 9 
+2 3 2 3 9 
+3 3 1 3 9 
+3 1 1 1 3 
+1 1 1 1 
+
+Thus, LCM = 2 × 2 × 2 × 2 × 3 × 3 = 144
+
+66 
+
+
+PLAYING WITH NUMBERS 
+
+144 is the least number which when divided by the given numbers will leave 
+remainder 0 in each case. But we need the least number that leaves remainder 7 
+in each case. 
+
+Therefore, the required number is 7 more than 144. The required least 
+number = 144 + 7 = 151. 
+
+
+EXERCISE 3.7 
+
+1. Renu purchases two bags of fertiliser of weights 75 kg and 69 kg. Find the maximum 
+value of weight which can measure the weight of the fertiliser exact number of times. 
+2. Three boys step off together from the same spot. Their steps measure 63 cm, 70 cm 
+and 77 cm respectively. What is the minimum distance each should cover so that all 
+can cover the distance in complete steps? 
+3. The length, breadth and height of a room are 825 cm, 675 cm and 450 cm respectively. 
+Find the longest tape which can measure the three dimensions of the room exactly. 
+4. Determine the smallest 3-digit number which is exactly divisible by 6, 8 and 12. 
+5. Determine the greatest 3-digit number exactly divisible by 8, 10 and 12. 
+6. The traffic lights at three different road crossings change after every 48 seconds, 72 
+seconds and 108 seconds respectively. If they change simultaneously at 
+7 a.m., at what time will they change simultaneously again? 
+7. Three tankers contain 403 litres, 434 litres and 465 litres of diesel respectively. Find 
+the maximum capacity of a container that can measure the diesel of the three containers 
+exact number of times. 
+8. Find the least number which when divided by 6, 15 and 18 leave remainder 5 in each 
+case. 
+9. Find the smallest 4-digit number which is divisible by 18, 24 and 32. 
+10. Find the LCM of the following numbers : 
+(a) 9 and 4 (b) 12 and 5 (c) 6 and 5 (d) 15 and 4 
+Observe a common property in the obtained LCMs. Is LCM the product of two 
+numbers in each case? 
+
+11. Find the LCM of the following numbers in which one number is the factor of the 
+other. 
+(a) 5, 20 (b) 6, 18 (c) 12, 48 (d) 9, 45 
+What do you observe in the results obtained? 
+67 
+
+MATHEMATICS 
+
+
+What have we discussed? 
+
+1. We have discussed multiples, divisors, factors and have seen how to identify factors 
+and multiples. 
+2. We have discussed and discovered the following : 
+(a) A factor of a number is an exact divisor of that number. 
+(b) Every number is a factor of itself. 1 is a factor of every number. 
+(c) Every factor of a number is less than or equal to the given number. 
+(d) Every number is a multiple of each of its factors. 
+(e) Every multiple of a given number is greater than or equal to that number. 
+(f) Every number is a multiple of itself. 
+3. We have learnt that – 
+(a) The number other than 1, with only factors namely 1 and the number itself, is a 
+prime number. Numbers that have more than two factors are called composite 
+numbers. Number 1 is neither prime nor composite. 
+(b) The number 2 is the smallest prime number and is even. Every prime number other 
+than 2 is odd. 
+(c) Two numbers with only 1 as a common factor are called co-prime numbers. 
+(d) If a number is divisible by another number then it is divisible by each of the factors 
+of that number. 
+(e) A number divisible by two co-prime numbers is divisible by their product also. 
+4. We have discussed how we can find just by looking at a number, whether it is divisible 
+by small numbers 2,3,4,5,8,9 and 11. We have explored the relationship between 
+digits of the numbers and their divisibility by different numbers. 
+(a) Divisibility by 2,5 and 10 can be seen by just the last digit. 
+(b) Divisibility by 3 and 9 is checked by finding the sum of all digits. 
+(c) Divisibility by 4 and 8 is checked by the last 2 and 3 digits respectively. 
+(d) Divisibility of 11 is checked by comparing the sum of digits at odd and even 
+places. 
+5. We have discovered that if two numbers are divisible by a number then their 
+sum and difference are also divisible by that number. 
+6. We have learnt that – 
+(a) The Highest Common Factor (HCF) of two or more given numbers is the highest 
+of their common factors. 
+(b) The Lowest Common Multiple (LCM) of two or more given numbers is the lowest 
+of their common multiples. 
+68 
+
+

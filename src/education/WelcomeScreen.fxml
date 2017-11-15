@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.WelcomeScreenController">
+    <children>
+      <ImageView fitHeight="727.0" fitWidth="1080.0" layoutY="-7.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+        <Button id="appInfo" fx:id="appInfo" layoutX="351.0" mnemonicParsing="false" onAction="#appinfoClicked" prefHeight="200.0" prefWidth="379.0" stylesheets="@E-DucationButtonStyle.css" text="E-Ducation" textFill="WHITE">
+            <font>
+                <Font name="Century" size="57.0" />
+            </font>
+        </Button>
+        <TextField id="userTextField" fx:id="userTextField" layoutX="499.0" layoutY="329.0" onAction="#loginButtonClicked" prefHeight="48.0" prefWidth="242.0" promptText="Type username here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="20.0" />
+            </font></TextField>
+        <PasswordField id="passTextField" fx:id="passTextField" layoutX="497.0" layoutY="405.0" onAction="#loginButtonClicked" prefHeight="48.0" prefWidth="242.0" promptText="Type password here" styleClass="label" stylesheets="@LabelHighlight.css">
+            <font>
+                <Font size="20.0" />
+            </font></PasswordField>
+        <Label id="username" fx:id="user" layoutX="303.0" layoutY="329.0" prefHeight="48.0" prefWidth="186.0" text="Username:" textFill="#d0caca">
+            <font>
+                <Font name="Century" size="28.0" />
+            </font>
+        </Label>
+        <Label id="password" fx:id="pass" layoutX="303.0" layoutY="405.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="48.0" prefWidth="186.0" text="Password:" textFill="#d0caca">
+            <font>
+                <Font name="Century" size="28.0" />
+            </font>
+        </Label>
+        <Label id="wrongPassword" fx:id="wrongPassword" layoutX="760.0" layoutY="385.0" prefHeight="94.0" prefWidth="200.0" text="Wrong credentials!!" textFill="RED" visible="false">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Button id="login" fx:id="login" layoutX="541.0" layoutY="487.0" mnemonicParsing="false" onAction="#loginButtonClicked" prefHeight="56.0" prefWidth="126.0" stylesheets="@Red%20Button%20Highlight.css" text="Log In" textFill="WHITE">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Button>
+        <Button id="login" fx:id="signup" layoutX="541.0" layoutY="548.0" mnemonicParsing="false" onAction="#signupButtonClicked" prefHeight="56.0" prefWidth="126.0" stylesheets="@Red%20Button%20Highlight.css" text="Sign Up" textFill="WHITE">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Button>
+        <Button id="login" fx:id="exit" layoutX="541.0" layoutY="609.0" mnemonicParsing="false" onAction="#exitButtonClicked" prefHeight="56.0" prefWidth="126.0" stylesheets="@Red%20Button%20Highlight.css" text="Exit" textFill="WHITE">
+            <font>
+                <Font name="Comic Sans MS" size="23.0" />
+            </font>
+        </Button>
+        <Region fx:id="region" layoutX="-2.0" layoutY="299.0" prefHeight="200.0" prefWidth="200.0" />
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="78.0">
+         <image>
+            <Image url="@Assets/abacus-512.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="803.0">
+         <image>
+            <Image url="@Assets/history.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="396.0" layoutY="548.0" prefHeight="56.0" prefWidth="148.0" text="New User?" textFill="#2e575b">
+         <font>
+            <Font name="Comic Sans MS" size="27.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

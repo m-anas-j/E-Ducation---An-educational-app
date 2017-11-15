@@ -1,0 +1,874 @@
+2.1 Introduction 
+Chapter 2 
+Whole Numbers 
+As we know, we use 1, 2, 3, 4,... when we begin to count. They come naturally 
+when we start counting. Hence, mathematicians call the counting numbers as 
+Natural numbers. 
+
+Predecessor and successor 
+
+Given any natural number, you can add 1 to 
+that number and get the next number i.e. you 
+get its successor. 
+
+The successor of 16 is 16 + 1 = 17, 
+that of 19 is 19 +1 = 20 and so on. 
+
+The number 16 comes before 17, we 
+say that the predecessor of 17 is 17–1=16, 
+the predecessor of 20 is 20 – 1 = 19, and 
+so on. 
+
+The number 3 has a predecessor and a 
+successor. What about 2? The successor is 
+3 and the predecessor is 1. Does 1 have both 
+
+a successor and a predecessor? 
+
+We can count the number of children in our school; we 
+can also count the number of people in a city; we can count 
+the number of people in India. The number of people in the 
+whole world can also be counted. We may not be able to 
+count the number of stars in the sky or the number of hair 
+on our heads but if we are able, there would be a number for 
+them also. We can then add one more to such a number and 
+
+1. Write the predecessor 
+and successor of 
+19; 1997; 12000; 
+49; 100000. 
+2. Is there any natural 
+number that has no 
+predecessor? 
+3. Is there any natural 
+number which has no 
+successor? Is there a 
+last natural number? 
+
+WHOLE NUMBERS 
+
+get a larger number. In that case we can even write the number of hair on two 
+heads taken together. 
+
+It is now perhaps obvious that there is no largest number. Apart from these 
+questions shared above, there are many others that can come to our mind 
+when we work with natural numbers. You can think of a few such questions 
+and discuss them with your friends. You may not clearly know the answers to 
+many of them ! 
+
+2.2 Whole Numbers 
+We have seen that the number 1 has no predecessor in natural numbers. To the 
+collection of natural numbers we add zero as the predecessor for 1. 
+
+The natural numbers along with zero form the collection of whole 
+numbers. 
+In your previous classes you have learnt to 
+perform all the basic operations like addition, 
+subtraction, multiplication and division on 
+numbers. You also know how to apply them to 
+problems. Let us try them on a number line. 
+Before we proceed, let us find out what a 
+number line is! 
+1. Are all natural numbers 
+also whole numbers? 
+2. Are all whole numbers 
+also natural numbers? 
+3. Which is the greatest 
+whole number? 
+2.3 The Number Line 
+Draw a line. Mark a point on it. Label it 0. Mark a second point to the right of 
+
+0. Label it 1. 
+The distance between these points labelled as 0 and 1 is called unit distance. 
+On this line, mark a point to the right of 1 and at unit distance from 1 and 
+label it 2. In this way go on labelling points at unit distances as 3, 4, 5,... on 
+the line. You can go to any whole number on the right in this manner. 
+
+This is a number line for the whole numbers. 
+
+
+What is the distance between the points 2 and 4? Certainly, it is 2 units. 
+Can you tell the distance between the points 2 and 6, between 2 and 7? 
+
+On the number line you will see that the number 7 is on the right of 4. 
+This number 7 is greater than 4, i.e. 7 > 4. The number 8 lies on the right of 6 
+
+29 
+
+MATHEMATICS 
+
+and 8 > 6. These observations help us to say that, out of any two whole 
+numbers, the number on the right of the other number is the greater number. 
+We can also say that whole number on left is the smaller number. 
+
+For example, 4 < 9; 4 is on the left of 9. Similarly, 12 > 5; 12 is to the 
+right of 5. 
+
+What can you say about 10 and 20? 
+
+Mark 30, 12, 18 on the number line. Which number is at the farthest left? 
+Can you say from 1005 and 9756, which number would be on the right 
+relative to the other number.
+
+ Place the successor of 12 and the predecessor of 7 on the number line. 
+
+Addition on the number line 
+
+Addition of whole numbers can be shown on the number line. Let us see the 
+addition of 3 and 4. 
+
+
+Start from 3. Since we add 4 to this number so we 
+make 4 jumps to the right; from 3 to 4, 4 to 5, 5 to 6 and 6 
+to 7 as shown above. The tip of the last arrow in the fourth 
+jump is at 7. 
+
+The sum of 3 and 4 is 7, i.e. 3 + 4 = 7. 
+
+Subtraction on the number line 
+
+The subtraction of two whole numbers can also be shown on the number line. 
+Let us find 7 – 5. 
+
+Find 4 + 5; 
+2 + 6; 3 + 5 
+and 1+6 
+using the 
+number line. 
+Start from 7. Since 5 is being subtracted, so move 
+towards left with 1 jump of 1 unit. Make 5 such jumps. We 
+reach the point 2. We get 7 – 5 = 2. 
+
+Multiplication on the number line 
+
+We now see the multiplication of whole numbers on the 
+number line. 
+
+Let us find 3 × 4. 
+
+Find 8 – 3; 
+6 – 2; 9 – 6 
+using the 
+number line. 
+30 
+
+WHOLE NUMBERS 
+
+Find 2 × 6; 
+3 × 3; 4 × 2 
+using the 
+number line. 
+Start from 0, move 3 units at a time to the right, make 
+such 4 moves. Where do you reach? You will reach 12. 
+So, we say, 3 × 4 = 12. 
+
+
+EXERCISE 2.1 
+
+1. Write the next three natural numbers after 10999. 
+2. Write the three whole numbers occurring just before 10001. 
+3. Which is the smallest whole number? 
+4. How many whole numbers are there between 32 and 53? 
+5. Write the successor of : 
+(a) 2440701 (b) 100199 (c) 1099999 (d) 2345670 
+6. Write the predecessor of : 
+(a) 94 (b) 10000 (c) 208090 (d) 7654321 
+7. In each of the following pairs of numbers, state which whole number is on the left of 
+the other number on the number line. Also write them with the appropriate sign (>, <) 
+between them. 
+(a) 530, 503 (b) 370, 307 (c) 98765, 56789 (d) 9830415, 10023001 
+8. Which of the following statements are true (T) and which are false (F) ? 
+(a) Zero is the smallest natural number. (b) 400 is the predecessor of 399. 
+(c) Zero is the smallest whole number. (d) 600 is the successor of 599. 
+(e) All natural numbers are whole numbers. 
+(f ) All whole numbers are natural numbers. 
+(g) The predecessor of a two digit number is never a single digit number. 
+(h) 1 is the smallest whole number. 
+(i) The natural number 1 has no predecessor. 
+( j) The whole number 1 has no predecessor. 
+(k) The whole number 13 lies between 11 and 12. 
+(l) The whole number 0 has no predecessor. 
+(m) The successor of a two digit number is always a two digit number. 
+2.4 Properties of Whole Numbers 
+When we look into various operations on numbers closely, we notice several 
+properties of whole numbers. These properties help us to understand the 
+numbers better. Moreover, they make calculations under certain operations 
+very simple. 
+
+31 
+
+MATHEMATICS 
+
+DoThis
+Let each one of you in the class take any two whole numbers and add them. 
+Is the result always a whole number? 
+Your additions may be like this: 
+
+
+7 + 8 = 15, a whole number 
+5 + 5 = 10, a whole number 
+0 + 15 = 15, a whole number 
+. + . = … 
+. + . = … 
+
+Try with five other pairs of numbers. Is the sum always a whole number? 
+
+Did you find a pair of whole numbers whose sum is not a whole number? 
+Hence, we say that sum of any two whole numbers is a whole number i.e. the 
+collection of whole numbers is closed under addition. This property is known 
+as the closure property for addition of whole numbers. 
+
+Are the whole numbers closed under multiplication too? How will you 
+check it? 
+
+Your multiplications may be like this : 
+
+7 × 8 = 56, a whole number 
+5 × 5 = 25, a whole number 
+0 × 15 = 0, a whole number 
+. × . = … 
+. × . = … 
+
+The multiplication of two whole numbers is also found to be a whole 
+number again. We say that the system of whole numbers is closed under 
+multiplication. 
+
+Closure property : Whole numbers are closed under addition and also 
+under multiplication. 
+
+Think, discuss and write 
+
+1. The whole numbers 
+are not closed under 
+subtraction. Why? 
+Your subtractions may 
+be like this : 
+6 – 2 = 4, a whole number 
+7 – 8 = ?, not a whole number 
+5 – 4 = 1, a whole number 
+3 – 9 = ?, not a whole number 
+
+Take a few examples of your own and confirm. 
+
+32 
+
+
+WHOLE NUMBERS 
+
+2. Are the whole numbers closed under division? No. Observe this table : 
+8 ÷ 4 = 2, a whole number 
+5 ÷ 7 = 
+5 
+, not a whole number7 
+12 ÷ 3 = 4, a whole number 
+6 ÷ 5 = 
+6 
+, not a whole number5 
+
+Justify it by taking a few more examples of your own. 
+
+After how many moves did we 
+reach 0? In four moves. 
+So, we write 8 ÷ 2 = 4. 
+Using this, find 24 ÷ 8; 16 ÷ 4. 
+In every move we get 2 again ! 
+Will this ever stop? No. 
+We say 2 ÷ 0 is not defined. 
+Division by zero 
+Division by a number means subtracting that number repeatedly. 
+Let us find 8 ÷ 2. 
+8 
+– 2 ........ 1 
+6 
+– 2 ........ 2 
+4 
+– 2 ........ 3 
+2 
+– 2 ........ 4 
+0 
+Let us now try 2 ÷ 0. 
+2 
+– 0 ........ 1 
+2 
+– 0 ........ 2 
+2 
+– 0 ........ 3 
+2 
+– 0 ........ 4 
+2 
+Subtract 2 again and again from 8. 
+33 
+
+MATHEMATICS 
+
+Let us try 7 ÷ 0 
+7 
+– 0 ........ 1 
+7 
+– 0 ........ 2 
+7 
+– 0 ........ 3 
+7 
+Division of a whole number by 0 is not defined. 
+Again, we never get 0 at any 
+stage of subtraction. 
+We say 7 ÷ 0 is not defined. 
+Check it for 5 ÷ 0, 16 ÷ 0. 
+Commutativity of addition and multiplication 
+
+What do the following number line diagrams say? 
+
+
+In both the cases we reach 5. So, 3 + 2 is same as 2 + 3. 
+Similarly, 5 + 3 is same as 3 + 5. 
+
+
+Try it for 4 + 6 and 6 + 4. 
+
+Is this true when any two whole numbers are added? 
+Check it. You will not get any pair of whole numbers for 
+which the sum is different when the order of addition is 
+changed. 
+
+
+You can add two whole numbers in any order. 
+
+We say that addition is commutative for whole numbers. This property is 
+known as commutativity for addition. 
+
+34 
+
+
+WHOLE NUMBERS 
+
+Discuss with your friends 
+
+You have a small party at home. 
+You want to arrange 6 rows of 
+chairs with 8 chairs in each row 
+for the visitors. The number of 
+chairs you will need is 6 × 8. You 
+find that the room is not wide 
+enough to accommodate rows of 
+8 chairs. You decide to have 8 rows of chairs with 6 chairs in each row. How 
+many chairs do you require now? Will you require more number of chairs? 
+
+
+Is there a commutative property of multiplication? 
+
+Multiply numbers 4 and 5 in different orders. 
+
+You will observe that 4 × 5 = 5 × 4. 
+Is it true for the numbers 3 and 6; 5 and 7 also? 
+You can multiply two whole numbers in any order. 
+We say multiplication is commutative for whole numbers. 
+
+Thus, addition and multiplication are commutative for whole numbers. 
+
+Verify : 
+
+(i) Subtraction in not commutative for whole numbers. Use at least three 
+different pairs of numbers to verify it. 
+(ii) Is (6 ÷ 3)same as (3 ÷ 6)? 
+Justify it by taking few more combinations of whole numbers. 
+Associativity of addition and multiplication 
+
+Observe the following diagrams : 
+
+(a) (2 + 3) + 4 = 5 + 4 = 9 
+(b) 2 + (3 + 4) = 2 + 7 = 9 
+In (a) above, you can add 2 and 3 first and then add 4 to the sum and 
+in (b) you can add 3 and 4 first and then add 2 to the sum. 
+
+Are not the results same? 
+
+We also have, (5 + 7) + 3 = 12 + 3 = 15 and 5 + (7 + 3) = 5 + 10 = 15. 
+
+So, (5 + 7) + 3 = 5 + (7 + 3) 
+
+35 
+
+MATHEMATICS 
+
+This is associativity of addition for whole numbers. 
+Check it for the numbers 2, 8 and 6. 
+Example 1 : Add the numbers 234, 197 and 103. 
+
+Notice how we 
+grouped the numbers for 
+convenience of adding. 
+Solution : 234 + 197 + 103 = 234 + (197 + 103) 
+= 234 + 300 = 534 
+
+
+2 
+Play this game 
+
+You and your friend can play this. 
+
+You call a number from 1 to 10. Your friend now adds to this number any 
+number from 1 to 10. Then it is your turn. You both play alternately. The 
+winner is the one who reaches 100 first. If you always want to win the game, 
+what will be your strategy or plan? 
+
+
+Observe the multiplication fact illustrated by the following diagrams 
+
+(Fig 2.1). 
+
+Count the number 
+of dots in Fig 2.1 (a) 
+and Fig 2.1 (b). What 
+
+(a) (b)
+do you get? The 
+
+Fig 2.1
+
+number of dots is the 
+
+same. In Fig 2.1 (a), we have 2 × 3 dots in each box. So, the total number 
+of dots is (2 × 3) × 4 = 24. 
+
+In Fig 2.1 (b), each box has 3 × 4 dots, so in all there are 2 × (3 × 4) = 24 dots. 
+Thus, (2 × 3) × 4 = 2 × (3 × 4). Similarly, you can see that (3 × 5) × 4 = 3 × (5 × 4) 
+
+Try this for (5 × 6) × 2 and 5 × (6 × 2); (3 × 6) × 4 and 3 × (6 × 4). 
+
+This is associative property for multiplication of whole numbers. 
+
+36 
+
+
+WHOLE NUMBERS 
+
+Think on and find : 
+Which is easier and why? 
+
+(a)(6 × 5) × 3 or 6 × (5 × 3) 
+(b)(9 × 4) × 25 or 9 × (4 × 25) 
+Example 2 : Find 14 + 17 + 6 in two ways. 
+
+Solution : (14 + 17) + 6 = 31 + 6 = 37, 
+14 + 17 + 6 = 14 + 6 + 17 = (14 + 6) + 17 = 20 + 17 = 37 
+Here, you have used a combination of associative and commutative properties 
+for addition. 
+Do you think using the commutative and the associative property has made 
+the calculation easier? 
+
+The associative property of 
+multiplication is very useful in the 
+following types of sums. 
+
+Example 3 : Find 12 × 35. 
+Solution : 12 × 35 = (6 × 2) × 35 = 6 × (2 × 35) = 6 × 70 = 420. 
+In the above example, we have used associativity to get the advantage of 
+multiplying the smallest even number by a multiple of 5. 
+
+
+Find : 7 + 18 + 13; 16 + 12 + 4 
+Example 4 : Find 8 × 1769 × 125 
+Solution : 8 × 1769 × 125 = 8 × 125 × 1769 
+(What property do you use here?) 
+= (8 × 125) × 1769 
+= 1000 × 1769 = 17,69,000. 
+
+Find : 
+25 × 8358 × 4 ; 
+625 × 3759 × 8 
+Think, discuss and write 
+
+Is (16 ÷ 4) ÷ 2 = 16 ÷ (4 ÷ 2)? 
+Is there an associative property for division? No. 
+Discuss with your friends. Think of (28 ÷ 14) ÷ 2 and 28 ÷ (14 ÷ 2). 
+
+DoThis
+Distributivity of multiplication over addition 
+
+Take a graph paper of size 6 cm by 8 cm having squares of size 1 cm × 1 cm. 
+
+37 
+
+MATHEMATICS 
+
+How many squares do you have in all? 
+
+
+Is the number 6 × 8? 
+Now cut the sheet into two pieces of sizes 6 cm by 5 cm and 6 cm by 3 cm, as 
+shown in the figure. 
+
+
+Number of squares : Is it 6 × 5? Number of squares : Is it 6 × 3? 
+In all, how many squares are there in both the pieces? 
+Is it (6 × 5) + (6 × 3)? Does it mean that 6 × 8 = (6 × 5) + (6 × 3)? 
+But, 6 × 8 = 6 × (5 + 3) 
+Does this show that 6 × (5 + 3) = (6 × 5) + (6 × 3)? 
+Similarly, you will find that 2 × (3 + 5) = (2 × 3) + (2 × 5) 
+This is known as distributivity of multiplication over addition. 
+find using distributivity : 4 × (5 + 8) ; 6 × (7 + 9); 7 × (11 + 9). 
+
+Think, discuss and write 
+
+Observe the following multiplication and discuss whether we use here the 
+idea of distributivity of multiplication over addition. 
+
+425 
+136 
+
+2550 
+.
+425 6 (multiplication by 6 ones) 
+12750 
+.
+425 30 (mul
+lltiplication by 3 tens) 
+42500 
+.
+425 100 (multiplication by 1 h
+
+hundred) 
+38 57800 
+.
+425 (6 
+.
+30 
+.
+100) 
+
+
+WHOLE NUMBERS 
+
+Example 5 : The school canteen charges Rs 20 for lunch and Rs 4 for milk for 
+each day. How much money do you spend in 5 days on these things? 
+Solution : This can be found by two methods. 
+Method 1 : Find the amount for lunch for 5 days. 
+Find the amount for milk for 5 days. 
+Then add i.e. 
+Cost of lunch = 5 × 20 = Rs 100 
+Cost of milk = 5 × 4 = Rs 20 
+Total cost = Rs (100 + 20) = Rs 120 
+Method 2 : Find the total amount for one day. 
+Then multiply it by 5 i.e. 
+Cost of (lunch + milk) for one day = Rs (20 + 4) 
+Cost for 5 days = Rs 5 × (20 + 4) = Rs (5 × 24) 
+= Rs 120. 
+The example shows that 
+5 × (20 + 4) = (5 × 20) + (5 × 4) 
+This is the principle of distributivity of multiplication over addition. 
+
+
+Example 6 : Find 12 × 35 using distributivity. 
+
+Solution : 12 × 35 = 12 × (30 + 5) 
+
+= 12 × 30 +12 × 5 
+
+= 360 + 60 = 420 
+
+Example 7 : Simplify: 126 × 55 + 126 × 45 
+
+Find 15 × 68; 17 × 23; 
+69 × 78 + 22 × 69 using 
+distributive property. 
+Solution : 126 × 55 + 126 × 45 = 126 × (55 + 45)
+
+ = 126 × 100
+
+ = 12600. 
+
+Identity (for addition and multiplication) 
+
+How is the collection of whole numbers different 
+from the collection of natural numbers? It is just 
+the presence of 'zero' in the collection of whole 
+numbers. This number 'zero' has a special role in 
+addition. The following table will help you guess 
+the role. 
+
+When you add zero to any whole number what 
+is the result? 
+
+7 + 0 = 7 
+5 + 0 = 5 
+0 + 15 = 15 
+0 + 26 = 26 
+0 + ..... = ..... 
+
+39 
+
+MATHEMATICS 
+
+
+It is the same whole number again! Zero is called an identity for addition 
+
+of whole numbers or additive identity for whole numbers. 
+Zero has a special role in multiplication too. Any number when multiplied 
+
+by zero becomes zero! 
+
+For example, observe the pattern : 
+
+5 × 6 = 30 
+
+5 × 5 = 25 
+
+
+Observe how the products decrease. 
+5 × 4 = 20 
+
+Do you see a pattern? 
+5 × 3 = 15 
+
+Can you guess the last step? 
+5 × 2 = ... 
+
+Is this pattern true for other whole numbers also? 
+5 × 1 = ... 
+
+Try doing this with two different whole numbers. 
+5 × 0 = ? 
+
+You came across an additive identity for whole 
+numbers. A number remains unchanged when added 
+to zero. Similar is the case for a multiplicative 
+identity for whole numbers. Observe this table. 
+
+You are right. 1 is the identity for multiplication 
+of whole numbers or multiplicative identity for 
+
+7 × 1 = 7 
+5 × 1 = 5 
+1 × 12 = 12 
+1 × 100 = 100 
+1 × ...... = ...... 
+
+whole numbers. 
+
+
+EXERCISE 2.2 
+
+1. Find the sum by suitable rearrangement: 
+(a) 837 + 208 + 363 (b) 1962 + 453 + 1538 + 647 
+2. Find the product by suitable rearrangement: 
+(a) 2 × 1768 × 50 (b) 4 × 166 × 25 (c) 8 × 291 × 125 
+(d) 625 × 279 × 16 (e) 285 × 5 × 60 (f) 125 × 40 × 8 × 25 
+3. Find the value of the following: 
+(a) 297 × 17 + 297 × 3 (b) 54279 × 92 + 8 × 54279 
+(c) 81265 × 169 – 81265 × 69 (d) 3845 × 5 × 782 + 769 × 25 × 218 
+4. Find the product using suitable properties. 
+(a) 738 × 103 (b) 854 × 102 (c) 258 × 1008 (d) 1005 × 168 
+5. A taxidriver filled his car petrol tank with 40 litres of petrol on Monday. The next day, 
+he filled the tank with 50 litres of petrol. If the petrol costs Rs 44 per litre, how much 
+did he spend in all on petrol? 
+40 
+
+
+WHOLE NUMBERS 
+
+6. A vendor supplies 32 litres of milk to a hotel in the morning and 68 
+litres of milk in the evening. If the milk costs Rs 15 per litre, how 
+much money is due to the vendor per day? 
+7. Match the following: 
+(i) 425 × 136 = 425 × (6 + 30 +100) (a) Commutativity under 
+multiplication. 
+(ii) 2 × 49 × 50 = 2 × 50 × 49 (b) Commutativity under addition. 
+(iii) 80 + 2005 + 20 = 80 + 20 + 2005 (c) Distributivity of multiplication 
+over addition. 
+2.5 Patterns in Whole Numbers 
+We shall try to arrange numbers in elementary shapes made up of dots. The 
+shapes we take are (1) a line (2) a rectangle (3) a square and (4) a triangle. 
+Every number should be arranged in one of these shapes. No other shape is 
+allowed. 
+
+Every number can be arranged as a line; 
+The number 2 is shown as 
+... 
+The number 3 is shown as 
+..... 
+and so on. 
+
+..
+
+..
+
+Some numbers can be shown also as rectangles. 
+For example, 
+The number 6 can be shown as 
+..... 
+
+
+a rectangle. Note there are 2 
+
+..... 
+
+
+rows and 3 columns. 
+
+..
+
+Some numbers like 4 or 9 can also be arranged as squares; 
+
+
+Some numbers can also be arranged as triangles. 
+For example, 
+
+..
+
+
+Note that the triangle should have its two sides equal. The number of 
+dots in the rows starting from the bottom row should be like 4, 3, 2, 1. 
+The top row should always have 1 dot. 
+
+41 
+
+MATHEMATICS 
+
+Now, complete the table : 
+
+1. Which numbers can be shown only as a line? 
+2. Which can be shown as squares? 
+3. Which can be shown as rectangles? 
+4. Write down the first seven numbers that can be arranged as triangles, 
+e.g. 3, 6, ... 
+5. Some numbers can be shown by two rectangles, for example, 
+Give at least five other such examples. 
+Number Line Rectangle Square Triangle 
+2 Yes No No No 
+3 Yes No No Yes 
+4 Yes Yes Yes No 
+5 Yes No No No 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Patterns Observation 
+
+Observation of patterns can guide you in simplifying processes. Study the 
+following: 
+
+(a)117 + 9 = 117 + 10 – 1 = 127 – 1 = 126 
+(b)117 – 9 = 117 – 10 + 1 = 107 + 1 = 108 
+
+WHOLE NUMBERS 
+
+(c)117 + 99 = 117 + 100 – 1 = 217 – 1 = 216 
+(d)117 – 99 = 117 – 100 + 1 = 17 + 1 = 18 
+Does this pattern help you to add or subtract numbers of the form 
+9, 99, 999,…? 
+Here is one more pattern : 
+
+(a) 84 × 9 = 84 × (10 – 1) (b) 84 × 99 = 84 × (100 – 1) 
+(c) 84 × 999 = 84 × (1000 – 1) 
+Do you find a shortcut to multiply a number by numbers of the form 
+9, 99, 999,…? 
+
+Such shortcuts enable you to do sums verbally. 
+
+The following pattern suggests a way of multiplying a number by 5 or 25 
+
+or 125. (You can think of extending it further). 
+
+10 960 100 9600 
+
+(i) 96 × 5 = 96 × = =480 (ii) 96 × 25 = 96 × = = 2400 
+22 44
+
+1000 96000 
+
+(iii) 96 × 125 = 96 × = = 12000... 
+88
+
+What does the pattern that follows suggest? 
+
+10 
+
+(i) 64 × 5 = 64 × = 32 × 10 = 320 × 1 
+2
+
+30 
+
+(ii) 64 × 15 = 64 × = 32 × 30 = 320 × 3 
+2
+
+50 
+
+(iii)64× 25 = 64 × = 32 × 50 = 320 × 5 
+2
+
+70 
+
+(iv) 64 × 35 = 64 × = 32 × 70 = 320 × 7....... 
+2
+
+
+EXERCISE 2.3 
+
+1. Which of the following will not represent zero: 
+0 10 10 
+
+(a) 1 + 0 (b) 0 × 0 (c) (d)
+22 
+
+2. If the product of two whole numbers is zero, can we say that one or both of them will 
+be zero? Justify through examples. 
+43 
+
+MATHEMATICS 
+
+
+3. If the product of two whole numbers is 1, can we say that one or both of them will be 
+1? Justify through examples. 
+4. Find using distributive property : 
+(a) 728 × 101 (b) 5437 × 1001 (c) 824 × 25 (d) 4275 × 125 (e) 504 × 35 
+5. Study the pattern : 
+1 × 8 + 1 = 9 1234 × 8 + 4 = 9876 
+12 × 8 + 2= 98 12345 × 8 + 5= 98765 
+123 × 8 + 3 = 987 
+Write the next two steps. Can you say how the pattern works? 
+(Hint: 12345 = 11111 + 1111 + 111 + 11 + 1). 
+What have we discussed? 
+
+1. The numbers 1, 2, 3,... which we use for counting are known as natural numbers. 
+2. If you add 1 to a natural number, we get its successor. If you subtract 1 from a natural 
+number, you get its predecessor. 
+3. Every natural number has a successor. Every natural number except 1 has a predecessor. 
+4. If we add the number zero to the collection of natural numbers, we get the collection of 
+whole numbers. Thus, the numbers 0, 1, 2, 3,... form the collection of whole numbers. 
+5. Every whole number has a successor. Every whole number except zero has a 
+predecessor. 
+6. All natural numbers are whole numbers, but all whole numbers are not natural 
+numbers. 
+7. We take a line, mark a point on it and label it 0. We then mark out points to the right 
+of 0, at equal intervals. Label them as 1, 2, 3,.... Thus, we have a number line with the 
+whole numbers represented on it. We can easily perform the number operations of 
+addition, subtraction and multiplication on the number line. 
+8. Addition corresponds to moving to the right on the number line, whereas subtraction 
+corresponds to moving to the left. Multiplication corresponds to making jumps of 
+equal distance starting from zero. 
+9. Adding two whole numbers always gives a whole number. Similarly, multiplying two 
+whole numbers always gives a whole number. We say that whole numbers are closed 
+under addition and also under multiplication. However, whole numbers are not closed 
+under subtraction and under division. 
+10. Division by zero is not defined. 
+44 
+
+
+WHOLE NUMBERS 
+
+11. Zero is the identity for addition of whole numbers. The whole number 1 is the identity 
+for multiplication of whole numbers. 
+12. You can add two whole numbers in any order.You can multiply two whole numbers in 
+any order. We say that addition and multiplication are commutative for whole numbers. 
+13. Addition and multiplication, both, are associative for whole numbers. 
+14. Multiplication is distributive over addition for whole numbers. 
+15. Commutativity, associativity and distributivity properties of whole numbers are useful 
+in simplifying calculations and we use them without being aware of them. 
+16. Patterns with numbers are not only interesting, but are useful especially for verbal 
+calculations and help us to understand properties of numbers better. 
+45 
+

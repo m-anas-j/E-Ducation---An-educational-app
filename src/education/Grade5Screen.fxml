@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.Grade5ScreenController">
+    <children>
+      <ImageView fitHeight="727.0" fitWidth="1080.0" layoutY="-7.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+        <Region layoutX="391.0" layoutY="25.0" prefHeight="200.0" prefWidth="200.0" />
+        <Button fx:id="english" layoutX="246.0" layoutY="279.0" mnemonicParsing="false" onAction="#englishClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-english5" stylesheets="@GradeStyle.css" text="English">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="geography" layoutX="246.0" layoutY="353.0" mnemonicParsing="false" onAction="#geographyClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-geography" stylesheets="@GradeStyle.css" text="Geography" textFill="WHITE">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="math" layoutX="246.0" layoutY="427.0" mnemonicParsing="false" onAction="#mathClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-math5" stylesheets="@GradeStyle.css" text="Math">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="socialscience" layoutX="246.0" layoutY="501.0" mnemonicParsing="false" onAction="#socialscienceClicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-socialscience" stylesheets="@GradeStyle.css" text="Social Science" textFill="WHITE">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="history" layoutX="246.0" layoutY="575.0" mnemonicParsing="false" onAction="#historyclicked" prefHeight="74.0" prefWidth="588.0" styleClass="button-history" stylesheets="@GradeStyle.css" text="History">
+            <font>
+                <Font name="Agency FB" size="40.0" />
+            </font>
+        </Button>
+        <Button fx:id="back" layoutY="93.0" mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-back" stylesheets="@GradeStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/back1600.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="home" layoutX="963.0" layoutY="93.0" mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="100.0" prefWidth="100.0" styleClass="button-back" stylesheets="@GradeStyle.css">
+         <graphic>
+            <ImageView fitHeight="100.0" fitWidth="100.0">
+               <image>
+                  <Image url="@Assets/home.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="284.0">
+         <image>
+            <Image url="@Assets/131-512.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="358.0">
+         <image>
+            <Image url="@Assets/geography.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="432.0">
+         <image>
+            <Image url="@Assets/abacus-512.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="506.0">
+         <image>
+            <Image url="@Assets/social-sciences.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="67.0" fitWidth="67.0" layoutX="261.0" layoutY="580.0">
+         <image>
+            <Image url="@Assets/history.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="440.0" layoutY="1.0">
+         <image>
+            <Image url="@Assets/5th-grade-icon.png" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>

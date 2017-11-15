@@ -1,0 +1,1274 @@
+
+Chapter 4 
+
+NON-METRIC GEOMETRY 
+
+The principal objectives of this chapter are threefold: 
+
+(1) To introduce pupils to geometric ideas and ways of 
+thought, 
+
+(2) To give pupils some familiarity with the terminology 
+and notatlon of "sets" and geometry, and 
+(3) To encourage precision of language and thought. 
+There is an attempt to guide the student to the discovery of 
+unifying concepts as a basis for learning some of the more specif-
+ic details. This chapter forms a background for Chapters 7, 9, 
+and 10, which deal with metric or dfstance properties. It attempts 
+to focua attention on ideas whlch are fundamental but whlch (while 
+sometimes vaguely taken for granted) are often poorly understood 
+by students. 
+
+Traditionally, these ideas have been taught when they were 
+needed for a particular geometric discussion. But, all too often 
+the teacher has assumed that these properties are obvious or clear 
+without mentioning them. Also, there should be some advantage in 
+considering together this group of closely related analagous 
+properties and observing relations among them. The higher level 
+study of some aspects of non-metric geometry has become a separate 
+mathematical discipline mown as projective geometry. 
+
+Readinq the ~cxt. This chapter has been written with the 
+intent that it be carefully read by students. We suggest that not 
+only should students be aasigned to read the material, but that 
+they also be encouraged to study it. Reading mathematics is not 
+like reading a novel. Students may find it necessary to "get in 
+and digt'for ideas. Aft;er Section 4-2, students should be advised 
+to read with a paper and pencil at hand so that they may draw 
+diagrams to assist their understanding. 
+
+Precision -of Langua~e. Pupils should be encouraged to ex-
+press themselves accurately. Some pupils will be able to do much 
+better than others. 
+
+
+Spatial Perception. It has been our effort here to help 
+boys and girls develop spatial understanding, We do this In 
+part by representations -inspace. We hope that suggestions given 
+to the students and the notes here may be helpful in selecting 
+other representations appropriate for your class. Thls course is 
+
+-not a 12th grade course. It Is intended to provide background 
+which is sometimes assumed in later courses. 
+Testinq. In testing, try to test for grasp of ideas, not 
+for mere recall. Students should be encouraged to express Ideas 
+in thelr own words. Because abilities in geometric perception 
+and understanding differ from abilities in arithmetic, you may 
+observe some redistribution of high and low grades among your 
+
+Time Schedule. The following time schedule is suggested: 
+
+1st week Sections 1 through 4 
+
+2nd week Sections 5 through 7 or 8 
+
+3rd week Remainder of chapter including test 
+
+evaluation. 
+High ability classes may do the chapter in 11 days including 
+the test. 
+
+Each section was conceived as a one-day section. It seems 
+possible that Sections 3 and 5 may take 2 days each and that an 
+extra day or so might be spread over Sectlons 8, 9, 10. We 
+believe all sections are Important. We have tried to order the 
+sections so that the ideas do not become more difficult. In fact, 
+the second half of the chapter which deals less with spatial 
+perception may well be easier for some students. Some students 
+will particularly enjoy Sections 8 and 10. If a class is under 
+great time pressure, Section 9 might be omitted. If so, it 
+should be assigned to all the better students. 
+
+Materials, 
+
+Inslghts lnto Ideas developed in this chapter will be greatly 
+enhanced by use of instructional devices. Encourage students to 
+make simple models as a means of helping in basic understandings. 
+hphasize ideas, not evaluation of models. As in usfng any 
+
+
+instructional material of this kind, seek understanding of ideas 
+
+without over-dependence upon representations. 
+
+Sqxested Materials: 
+
+String--to represent lines in space. 
+Paper--to represent planes, and folded to represent 
+lines and intersections of planes. 
+Tape or tacks for attaching string to walls, floor, 
+other points in the room. 
+Model (as illustrated) 
+
+Suggest making the model as shown above by using a card-
+board carton (or, it can be-made with heavy paper, 
+oak tag, screen wire). Cut away two sides so that 
+only 2 adjacent sides and bottom of box remain. 
+String, WIT, may be used to extend through
+
+etc. 
+
+and beyond sides,I' "floor," etc. 
+Oak tag for making models to be used by both teacher 
+
+and students. 
+Coat-hanger wire, knitting needles, pickup sticks. 
+Sclsaors, colored chalk. 
+Light-weight paper (for tracing In exercises). 
+Yardstick or meter stick with several lengths of string
+
+tied to it at different intervals. fastenfng 
+stick to wall, lines may be represented by holding 
+the string taut. gatherfng together the free 
+end8 at one point the plane containing the point 
+and the yardstick may be shown. 
+
+Optional: 
+
+Long pointer for seeing lines. 
+Tinker-Toys for bullding models. 
+Toothpicks for student models. 
+Saran wrap, cellophane, and wire frame for representing 
+
+planes. 
+
+
+4-1. Points, Lines and Space.
+
+-J -
+
+Page 105. 
+
+I. Understandings; 
+(a) A point has no size. 
+(b) A line is a certain set of points. 
+(c) A line is unlimited in extent. 
+(d) Through two points there is one and only one llne. 
+(e) Space Is a set of points. 
+2. Teaching Suagestions: 
+Just as we use representations to develop the concept of the 
+I1 counting numberst1 (2 cars, 2 people, 2 hands, 2 balls, 2 chairs, 
+etc., to develop the concept of twoness) similarly we must select 
+representations for developing the concepts of point, line, plane, 
+and space. 
+
+Point. Identify things which suggest the idea of a point 
+keeping in mind that one suggestion by itself is not adequate for 
+developing the Idea of a point. One needs to use many IllustraUms 
+in different situations. Suggestions: tip or pencil, needle, 
+pointer; collection of boxes, putting one inside another and 
+always being able to place one more inside of the last and 
+the point indicated as being in all the boxes; pupil of the eye 
+in Intense brightness; progressive closure of shutter of camera; 
+dot or light on some TV screens; particle of' dust in the air. 
+
+Llne. Identify two points using some of the situations a8 
+above, such as tips of two pencils, etc. Bring out the idea that 
+given these two point8 there are many other points on the line 
+that contain them. Some of these are between the two points, some 
+are "beyond1'the one, and some are "beyond" the other. Also, 
+through two points there can be only one llne. The llne hae no 
+thickness and no width. It is considered to extend indefinitely. 
+Use string held taut between two points to show representations of 
+lines in positions that are horizontal, vertical, and slanting. 
+Each student may repre~entlines by using a pencil between Ns 
+fingertips. With each example talk about thinking of a line as 
+unlimited in extent. Rnphaslze frequently that we use the word, 
+IIllne, !I to mean atralght line. Identie other repreeentationa of 
+
+
+lines such as: edge of tablet (holding tablet in various posi-
+tions); edge of desk; vapor trails; edges of roof of building; 
+
+etc. It 5s important to select illustrations representing lines 
+
+In space as well as the usual representations made by drawing on 
+
+chalkboard and paper. 
+
+Space-. Models will be most helpful here. Using $8 string on 
+yardstick" and considering some point on a table, desk, or on 
+some object which all students can see, let all the representatims 
+of lines from the yardstick pass through the point. Also, use 
+string to show representations of other lines from other points 
+on different walls, the floor, etc., all passing through the 
+point. Use the model as described in drawing under "Suggested 
+
+ater rials .I' Pass lines (string, wire, thread) through "walls" 
+and "floor" to suggest infinite number of lines and that these 
+lines extend indefinitely. Bring out the idea that each line 
+is a set of points, and that space is made up of all the points 
+on all such lines. 
+
+STRINGS 
+
+Answers to Class Discussion Problems in !A-1. 
+
+1. Depends on what objects are in the room. 
+2. The body of the porcupine is like the point. The quills 
+are like llnes through this point. 
+Answers -to mercises 4-1. Page 108. 
+
+1. No, the pibbons are usually not straight. 
+2 There is exactly one line containing the two points on 
+the monuments. 
+
+3. The line of the new string passes through the same two 
+points as the line of the old. (~~operty
+1.) 
+
+[pages 106-1083 
+
+
+Planes. 
+
+Page 108. 
+
+1. Understandinqs. 
+(a) A plane is a set of points in space. 
+(b) If a line contains twa different points of a plane, it 
+lies in the plane. 
+(c) Many different planes contain a particular pair of 
+points. 
+
+(d) Three points not exactly in a straight llne determine 
+a unique plane, 
+2. teach in^ Suggestions. 
+Identim surfaces in the room rrhich suggest a plat&--walls, 
+tops of desks, windows, floor, sheet of paper, piece of cardboard, 
+chalkboard, shadow. Make use of Saran wrap, cellophane, and a 
+wire frame to show further a representation of a plane since this 
+more nearly approaches the rnathematicianrs idea of a plane. Wlth 
+each example bring out the idea that a plane has no boundaries, 
+that it is flat, and extends Indefinitely. It is an "fdeal" of 
+a situation Just as is a llne and a point. We try to give this 
+Idea by suggesting things that represent a plane. It is impor-
+tant to suggest repreaentations of planes in horizontal, vertical, 
+and slanting posltlons. Note that if a llne contains 2 points of 
+a plane, it lies in the plane and that many planes may be on a 
+particular pair of points as pages of a book, revolving door, etc. 
+
+Then using three fingers or sticks of different heights in 
+sets of 3 (not in a straight line) as 
+suggested by the sketch at the right, 
+see what happens when a piece of card-
+
+Mails or 
+board is placed on them. Add a fourth Darning needles 
+finger or a fourth stick and observe 
+what happens. 
+Each student may try this experi-
+ment by using three fingers of one hand 
+(and also three fingers using both 
+hands) Letting a plane be represented 
+
+
+by a book, piece of oak tag, card. Change position of fingers 
+and thumb by bending the wrlst (changing sticks in model). Ask 
+class to make a statement about three points not in a stralght 
+
+line (Property 3). 
+
+Demonstrate with wires or string the ideas in the last para-
+graph before asking students to read it or suggest that one or 
+two students be responsible for demonstrating the idea to other 
+members of the class. 
+
+The Class Discussion Problems may well be developed as a 
+
+
+class activity. 
+
+A note. What is a basic motivation for the study of geometrgr! 
+In our dally living we are forced to deal with many flat surfaces 
+and with things like flat surfaces. It would be foolish not to 
+note similarities of these objects. So, we try to note them. In 
+so doing we try to abstract the notion of flat surface. We try 
+to find properties that allflat surfaces have. Thus, we are led 
+to an abstraction of the flat surface--% geometric plane. We 
+study two aspects of this--(l) What a plane is like, considered 
+by itself (plane geometry), and (2) how various planes (flat 
+surfaces) can be related in space (one aspect of spatial geometry). 
+
+Just how do we study the geometric plane? We study it by 
+thinking of what the plane is supposed to represent, namely, a 
+flat surface, However, in trying to understand a plane (or 
+planes), we find it difficult to think just abstractly. Thus, 
+we think of representations of the plane--wall, chalkboard, paper, 
+etc., and we think of these as representations of the abstract 
+idea. The abstract idea enables us to identify characteristics 
+which all flat surfaces have in common. 
+
+Answers to Questions in Text, 4-2. Page 110. 
+Yes, this is what Property 1 says. Yes, the lines must be 
+on the plywood. Hold palm flat and move arm and hand in 
+plane desired. Yes, new position; and no, only one way. 
+Three points are in one plane; the fourth may not be in it. 
+Property 2. 
+
+
+Answers to Class Discussion Problems. Page 112. 
+
+1. Depends on the pa~tlcularclassroom. 
+2. There are many dafferent sloping positions, illustrating 
+Property 2. 
+Only 'one, illustrating Property 3. 
+Answers -to Exercises -4-2. 
+
+1. All in the same line. 
+2. Not all in the same line. 
+3. All legs must rest on the same plane or the devfce may 
+rock. Three points not all on the same line are in 
+exactly one plane. 
+4. (a) Many (unlimited quantity) (b) One 
+5. (a) Many (b) Many (c) Exactlyone,unlessthe 
+points are all on the same line. 
+6. Wing surface, flat surface used on water, Consult 
+dictionary. 
+*7. (a) Six, as long as no three are on the same line 
+
+(b) Six 
+8. mplanation in Section 4-5. 
+4-3. Names and Symbols. 
+
+Page z. 
+
+1. Understandin~s. 
+(a) Students learn to recognize how planes, lines on planes, 
+lines through planes, etc. are represented by drawings. 
+(b) Students learn to name particular points, lines, and 
+planes uslng letters, etc. 
+(c) Students learn how to interpret and understand perspec-
+tive drawings. 
+(d) Students learn to develop an awareness of planes and 
+lines suggested by familiar objects. 
+2. Teaching Su~p;estions, 
+Bring out the idea that we make agreements as to how to 
+11 11
+
+represent certain ideas, i.e., , for a point; 
+
+[pages 112-1131 
+
+
+or for a line; and the use of letters for naming 
+lines and points. Note that we usually name points by capital 
+letter, lines by lower case letters or pairs of capital letters 
+
+4+ 
+
+wlth bar and arrows above, as, AB ,and that a plane is named 
+by three capital letters or a single capital letter, Also, we 
+sometimes talk about two or more lines, planes;etc., by using 
+subscripts, such as, 1 y2, and Rj. 
+
+Students should be encouraged to make such drawings on the 
+chalkboard as well as on paper. 
+a guessing game about abstract flgures such 
+as these: man looking over fence" or _d,"boat 
+
+-==-
+
+enjoy a similar game with planar abstrac-
+tions such as: 
+
+"open door" or 
+
+Fr"butcher knife. " 
+
+Answers -to lkercises 4-3. Pa~e112. 
+
+1. A Is to the left; B to the right 
+C is nearest the top; D nearest the bottom 
+2, A table 
+
+3. It has turned upside down 
+4. (a) Cot (g) Line of laundry 
+(b) Ping pong table (h) Open door 
+(c) Football field (I) Chair 
+(d) Carpet (j) Shelf 
+(4 mgh jump (k) Ladder 
+(f) Coffee table 
+6. Yes (or nol, We assume point V ia on line ifand 
+"behind" PQ. 
+No 
+No 
+One, P. 
+7. 1, b 
+2, d 
+3, c 
+
+
+8. (a) Yes 
+(b) Yes 
+(c) Yes, 1 is the only llne through 
+(d) 1,is the intersection M1 and 
+P 
+M2 
+and Q 
+(4 No 
+(f) No 
+(g> No 
+
+4-4. Intersection of Sets. 
+Page 122. 
+
+1. Understandin~s. 
+(a) A set contains elements which are collected according 
+some common property or explicit enumeration. 
+(b) The common elements in two or more sets make up the 
+elements of the intersection of two or more sets. 
+2. Teaching Sumestions. 
+Review the idea of sets by asking students to descrlbe 
+certain sets, as set of names of members of the class, the set 
+of members of the class, set of a11 students in class whose last 
+name begins with "B", set of even numbers, set of counting numbers 
+between 12 and 70 having a factor 7 (i.e. 14,21, 28, .,.). 
+
+&plain that any 2 sets determine a set which Is called their 
+Intersection, that is, the set of elements (if any) which are in 
+both sets. Have students give the intersection for the set of 
+odd numbers between 1 and 30 and the set of counting numbers 
+having the factor 3 between 1 and 30. Note the three sets--the 
+two given sets and the intersection of the two sets. Use other 
+illustrations such as set of boys in the class and the set of 
+students with brown eyes. Also find intersection of three sets--
+students in class having blonde hair, students in class having 
+birthdays in November, and students In class riding the school 
+bus. In selecting sets, include some in geometry (i.e. the 
+intersection of two lines in the same plane, etc. ). 
+
+Note that the empty set is the iqtersection of two sets with 
+no elements in common, Call pupils' attention to the meaning of 
+
+[pages 119-1221 
+
+
+"common" as it is used here. 
+After developing the idea of Intersection go back to examples 
+and describe how the idea can be expressed in symbols. It is a 
+. coda we can use and like many codes it simplifies the expression. 
+
+For example, 
+Set A = (3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25 2% 291 
+Set B = {3, 6, 9, 12, 15, 18, 21, 24, 273 
+
+A~B= 13, 9, 15, 21, 273 
+
+You may wish to refer to the supplementary unit on "sets." 
+It will provide kulther symbolism for better students and/or 
+those who especially enjoy using symbols. 
+
+Answers Exercises E.Page 123. 
+1. (a) I18, 19, 20, 21, 223 
+
+(b) As in your state 
+(c) The empty set 
+2. (a) 1, 3, 5 (a possible anawer) 
+(b) 5, 10, 15 (a possible answer) 
+(c) P, R, T (a possible answer) 
+3. (a) 9, 10, 11, 12 
+(b) As in your class 
+(c) The point P 
+(d) The line 
+4, s~T= [lo, 15, 233 
+I 
+
+I 5 (a) An eQ@ 
+
+(b) The empty aet 
+6 (a) s = [Maine, N. R., ~t.,Conn., ~ss.,R. I.] 
+T = [New Hampshire, New York, New Jersey, N. M. 1 
+
+1 
+
+! V = [Texas, New Mexlco, Arizona, ~alifornia) 
+
+(b) New Hampshlre 
+(c) The empty set 
+(d) New Mexico 
+7. (a) Yes 
+(b) Yes. The addition of multiples of 5 gives multiples 
+of 5* I 
+8. Each part is almost obvious from the notions of set and 
+intersection, 
+[page 1231 
+
+
+(a) This is by definition since the empty set is a set. 
+(b) The set of those elements in X which are also in Y 
+is the set of those elements in Y which are also in 
+X. 
+(c) Each "side" of the equality means the same set: namely, 
+the set of all elements which are in each of the three 
+sets X, Y, and 2. 
+4-5. Intersections of Llnes and Planes. 
+Page 125. 
+
+1. Understandfnas. 
+(a) Two lines may: 
+(1) be in the same plane and intersect; 
+(2) be In the same plane and not intersect (intersect 
+in the empty set); 
+(3) not be in the same plane and not intersect (lnter-
+sect in the empty set), 
+(b) A llne and a plane may: 
+(1) not intersect (intersect in the empty set); 
+(2) intersect in one point; 
+(3) intersect in a line. 
+(c) Two different planes may 
+(1) intersect and their intersection will be a line; 
+(2) not intersect (have an empty intersection). 
+2. teach in^ Suggestions. 
+Use models in order to explore the possible situations for 
+two lines intersecting and not intersecting. (kt each student 
+have materials, too.) Also, use a pencil or some other object to 
+represent a lfne, and a card to represent a plane. Use two pieces 
+of cardboard each cut to center with the two fitted together to 
+represent the idea of two planes and their intersection, and, 
+from these, state some generalizations that may be made. 
+
+A 
+
+[pages 123-1251 
+
+
+Also, identify situations in the room which are representa-
+tions of different cases of intersections of lines and planes. 
+Some may wish to express the ideas In symbcls. For example, name 
+the line of one of the front vertical edges 1,and line along the 
+top front of desk, k. Then 1nk is a point. 
+
+Subscripts also may be used so that we talk about lines] 
+andl 2. The use of a few subscripts should be encouraged. 
+
+Anawers & Questions in Text s.Pa~e125. 
+
+Indefinite question -no specific answer needed. Yes it is 
+true of edges of classroom, Yes; yes; yes; no. Yes; figure 
+from Section 4-3 could be used. 
+Page 126. Case 1. If they did, I and k would be the same line. 
+
+x. 
+
+A Line and 2 Plane. Yes; Figure (b) line and plane with one 
+point intersection; 
+Ffgure (a) line lying In plane. 
+
+-Two Planes. No; no, cannot hold sheets to do either. 
+Page 128. No other case; either the planes intersect or they 
+do not. 
+
+Answers & lkercises 4-5. Page 129. 
+
+1. (a) Intersection of line and plane, empty set. Line 
+and plane are parallel. No point, 
+Intersection of line and plane, one point line 
+pierces plane. 
+
+(b) ---
+(c) Interaection of line and plane more than one point. 
+Line lies in plane. 
+2. Intersection of floor and front wall, Intersection of 
+ceiling and side wall, etc. 
+C* w 
+
+AB n AC = Point A 
+
+
+4. Yes; yes; no (no point in all planes); the empty set; no. 
+5 Yes; yes; one point 
+6. Yes; yea; a line (the fold) 
+7. (4) The empty set 
+5) One point 
+0 points 
+
+HGD 
+HGB 
+
+HGB, 
+HGD, 
+
+m, 
+
+FE, 
+ED, 
+ED, 
+
+FGB, 
+
+1 polnt 2 points 3 points 
+Using Only Lettered Points 
+
+and ABC (one other possi~t~) 
+and GBC (many other possibilities) 
+BOD, FGD (many other possibilities) 
+FGD, BGD (some other possibilities) 
+
+FE (many other possiblllties) 
+GD (many other posalbiiities) 
+AB (many othep poasibilities) 
+GD, CD (many othep poasibilities) 
+FGD, HGD, BClD 
+
+4-6. Sements. 
+Pa~e131. 
+
+1. Understandings. 
+(a) If A, B, and C are three points on a line, our 
+intuition tells us which point is between the other two. 
+(b) A line segnent is determined by any two points and Is 
+on the line containing those points. 
+(c) The two points which determine a segment are called 
+endpoints of the segment. 
+(d) A line sepent is a set of points which consists of 
+Its endpoints and all points between them. 
+(e) The union of two sets consists of all the elmenee of 
+the two sets. 
+
+2. teach in^ Suggestions. 
+Bring out the idea that when we draw a sketch or a picture 
+of a line, we draw a picture of one part of the llne, and that 
+this is, properly, a line segment. However, we often represent 
+a line by a part of a llne (since we cannot do anythlng else). 
+One should be careful to say that the sketch represents a line 
+or line see~nentas is appropriate. Draw a representation of a 
+llne on the chalkboard and name two points of the line, A and 
+
+B. Note that means points A and B and all points between 
+them. Name other points on the line and various line segments. 
+Review the idea of intersection of two sets. Then develop 
+the idea of union of two sets using line segments much as is 
+suggested by student text. mtend this idea by selecting other 
+illustrations, as, set of girls in class and set of boys in class 
+and that the union of the two sets is the set obtained by combfn-
+lng the two sets. Each member of the union is then either a boy 
+or a girl in the class. Have students suggest other sets, noting 
+what can be said about the elements of the union of the two or 
+more sets. Take illustrations from geometry too, such as, the 
+union of two lines, line and plane, etc. Again note that if an 
+element is a member of both sets, it appears only once In their 
+union. 
+
+Answers -to Exercises -4-6. Page 133. 
+In text E 
+1. 
+
+
+>
+
+P Q R S
+
+-
+
+(a) Pa, or PR, &R etc. 
+(b) PQ, &R etc. 
+(4 m? 
+(4 m, 
+
+2. 
+
+A B C 
+
+(a) The point B 
+(b) 
+
+-
+
+(4 AC 
+
+=
+
+(dl 
+
+[pages 131-1331 
+
+
+6. No. 
+P A B Q 
+
+7. 
+
+L. Yea; no. 
+C. 
+
+B. 
+
+8. We would have more than one "straight llne" through two 
+pointa. See question 6. 
+9, (a) Ws follows from the idea of set. 
+
+(b) The set of elements which are either in X or in 
+Y is the same a8 the set of elements which are 
+either In Y OP in X. " 
+(c) Each side of the equality means the same set; 
+namely, the eet of all elements which are in at 
+leaat one or the same three eets X, Y, or 2. 
+10. The set of elements which are either in set X or in 
+set X la naturally just the set X. 
+4-7. Separations. 
+Page 134. 
+
+1. Underatandin~s. 
+(a) A plane separates apace Into two half-sgacea. 
+(b) A llne separates a plane into two half-planes. 
+(c) A polnt sepa~atesa line into two half-lines. 
+(d) A ray is the union of a half-line and the point which 
+determines the half-llne. 
+Use cardboard models to develop underatanding of these Ideas. 
+[pages 133-1341 
+
+
+I 
+
+f 
+
+I 
+
+: 
+
+Note how one side of the model pictured in the materials section 
+of thls Commentary aeparatea space and that we call the two sides 
+half-spaces. Ask how we could separate a plane lnto two half-
+planes and a line lnto two half-lines before the students have 
+read these paragraphs. 
+
+This aection gives an unusually good opportunity to emphasize 
+relations among point, line, plane, and apace. You can expect 
+seventh grade students particularly to enjoy thls section. It 
+gives a certain structure to geometry. 
+
+Draw 8 number of lines on the chalkboard. Mark points on 
+them and talk about half-lines, rap, and endpoints. Talk about 
+the intersection of 2 rays, two half-lines, and ray and half-line. 
+If students are worried about whether a half-line has an endpoint, 
+see explanation in student text for saying "an angle of a tri-
+angle. ft 
+
+Alao, ldentlf'y representations of half-spaces, produced by 
+room dividere, walla In building; of half-planes, by lines on 
+paper, lines on wall, etc.; and of half-line by naming a partlc-
+ular point along the edge of a ruler. 
+
+Answers Queationa in Text 4-7. Pa~e132. 
+
+Beginning below the first figure of the section: 
+
+Yes; no; not the empty set. A half-line is one of the two 
+9et8 OP points into which a line is separated by a point. Yes, 
+a point; yes (a set consisting of one point). No; yes; yes for 
+figure. See statement (3) immediately below in text. 
+
+Answers Brerciaes 9.Pa~e131. 
+
+1. Yes; no; yea; no; yes. 
+2. AB (or a);a half llne to the left of A,* A 0 > 
+(8) +d?2 3 
+(b) BA,+ +CD 
+(4 W?+ +CD 
+(dl BA, BC 
+4 -+ 
+
+(e) BA, CD 
+4. No, no 
+5. Yea, yea 
+[pages 134-1371 
+
+
+6. yes 
+*7. Not if they are half-planes from the same line, but yes 
+if you use parallel lines and overlapping half-planes. 
+*8. No; yes 
+
+4-8. Angles and Triangles,
+
+-
+
+Page 138. 
+
+1. Understandinas. 
+(a) An angle is a set of points consisting of 2 rays not 
+both on the same straight line and having an endpoint 
+in common. 
+(b) An angle separates the plane containing It.
+-
+
+(c) A triangle is the union of three sets, AB, m, and 
+where A, B, and C are any points not on the same 
+,In,. 
+
+p, 
+
+A B 
+
+(d) A triangle determines its angles but does not contain 
+its angles. 
+2. Teaching Suffqestions. 
+Illustrate the idea of angle as two rays with the same end-
+point. Use colored chalk to show interior and exterior. Also 
+note how we name an angle. (This is not the only way to consider 
+an angle. This definit-ion, however, Is identical with that which 
+Is very likely to be used in the loth grade, Later, the measure 
+of an angle and angle as a rotatlon will be considered.) 
+
+In developing the idea of triangle, put three pofnts on 
+board and note them as endpoints of 3 line segments, m, E,m. 
+Note the set of' points in each segment and that a triangle is the 
+union of these three sets. Use colored chalk tb show interior 
+and exterior, lhphasize the set of points of the interior, the 
+exterior, and that of the triangle. 
+
+Again students may be interested in drawing angles, triangles, 
+shading, etc. h his is not perspective drawing.) This Is good 
+material to develop imagination and to encourage drawing,etc. 
+How many triangles can be drawn with just four lines? How many 
+
+[pages 137-138] 
+
+
+wlth four lines two of which are parallel? Etc. 
+In discussing the angles of the triangle bring out the idea 
+
+: that although people often talk about angles of a triangle, It Is 
+a short way of saying that they are the angles determined by the 
+triangle. Use such analogies as the school determines its gradu-
+ates but graduates are not In school; a city "hasttsuburbs, but 
+the suburbs are not part of the clty, etc. 
+
+Answers & Questions in Text 4-8. Page 139. 
+
+Yes, the sides of the triangle are in the triangle; that is 
+to say, every point of each side is in the set of points which 1s 
+the triangle, 
+
+No, the angles are not in the triangle. 
+
+Answers lkercises 4-8. Pa~e-140. 
+
+1. (a) The interior of L ABC 
+(b) The Interlo+ of A ABC 
+2. (a) Yes, they have different vertlces 
+(b) Yes 
+I 
+i I 3. 
+(c) 
+(a) 
+The lines containing the rays determine 
+The pofnt A 
+a plane. 
+i 
+1 
+(b) 
+(4 
+No 
+(dl la 
+4. (a) The two points X and W 
+(b) A AWX, A ABC, A BWY, A XCY 
+(c) None 
+(d) A, B, C, W, and Y 
+
+(4 B, A 
+
+Y 
+
+R can be on ~l~l' 
+
+
+(d) Not possible 
+8. (a) 
+Ib) 
+The points = A and C 
+(c) The points A and B 
+(d) The point B 
+(e) 
+(f) 
+L ACB = I 
+(g) 
+
+(h) The union of and 
++g. No; yes. 
++lo. (a) Yes 
+
+(b) It may or may not, depending on choice of P and Q. 
+(c) Yes 
+< 
+
+(dl No 0. 
+
+4-9, One-to -one Correspondence. 
+Page 142. 
+
+Understandings. 
+
+(a) The idea of one-to-one correspondence is fundamental in 
+counting. (chapter 3) 
+(b) One-to-one correspondences in geometry can be establi&ed: 
+(1) Between a certain set of lines and a certain set 
+of points 
+(2) Between the set of points of one sepent and the 
+set of points of another segment 
+(3) Between certain other geometric sets in pairs. 
+[pages 140-1421 
+
+95 
+
+2. Teaching Sw~estions, 
+Review the idea of one-to-one correspondence and the neces-
+sary condition that for each element In set A there corresponds 
+
+1 
+
+an element in set B. For example, if there are 5 chalrs and 
+5 people, for each chair there is a person and for each p=?son 
+there Is a chair. 
+
+I 
+I 
+This idea, while elementary, Is sometimes hard to grasp. 
+One-to-one correspondences between finite sets (sets having a 
+specific number of elements as in the illustration above) are 
+easy to observe If they exlst. If sets A and B are finite, 
+then if A and B have the same number of elements, there exlsts 
+a one-to-one correspondence between them. Such follows simply by 
+counting. But we are sometimes interested in a particular one 
+of the possible one-to-one correspondences. 'For the two congruent 
+triangles below we are interested In matching A with D, B 
+
+congruence. If we were to match A with F, B with D, and 
+C with E we would not be noting the congruence. 
+For infinite sets H and K we may be interested in two 
+aspects: 
+
+(1) Is there any one-to-one correspondence between H and K? 
+(2) Is there a "nice1'or llnatural"one-to-one correspondence? 
+In the examples In Section 4-9, we not only show that there 
+is some one-to-one correspondence but that there is a "natural" or 
+Hnice" one. There also would be a great many that are not "naturd" 
+or "nice." 
+
+To establish a one-to-one correspondence we need (1) a 
+complete matching scheme, and (2) in this particular device It 
+myst be true that for any element of either aet there corresponds 
+a unique element of the other set. It is implied by what we say 
+that if -a corresponds to 2, then -b corresponds to -a. 
+
+
+In effect, to establish a one-to-one correspondence we must 
+have a way of II tying" each element of either set to a particular 
+element of the other. And the "atring" we use for tying -a to 
+
+-b also ties 2 to -a. 
+In the text we describe a one-to-one correspondence between 
+a certain set of lines and a certain set of Points. 
+Problems 2 and 3 (Ikepclse 4-9-b) are developmental and 
+becauae of this are suggested for possible classwork. 
+
+Answers -to Questions in Text 4-9. Page 142. 
+Yes (1f all ticket-holders show up). Same number. 
+Yes. No. 
+One more person than chairs. Yes, at the end of the game, 
+No. a g
+
+rPSPi f 
+
+I I1 111 IV v 
+
+Answers & Exercises 4-9a. Page 143. 
+
+1. Depends on the number of pupils and the number of desks. 
+2. No. There are more states than there are cities of 
+over 1,000,000 in population. 
+3. Yes. For each person there Is a nose and for each 
+nose there corresponds a person; hence, counting noses 
+gives the total number of persons involved. 
+each odd la matched to the next 
+
+0 2 . . . lower even. 
+5. Yes. Match elements of R with elements of T by 
+means of elements in S. 
+6 Each whole number is matched with the whole number 
+which is two times as large. Thus: 
+
+Answers to Class lkercises. Page 144. 
+
+4. (a) No. 
+(b) Yes. Property 1. (section 4-1) 
+[pages 142-1441 
+
+
+(a) Yes. 
+(b) 3. 
+
+(c) Yes. 
+(d) Yes. 
+(e) Yes. 
+Yes. 
+(a) Yes. 
+(b) One. 
+line; point; point; line. 
+-to Exercises 4-gb. Page 145. 
+Each vertex to the side opposite. Yes. 
+Yes, you should observe it. 
+Yes; yes. 
+3. Yes; yes; yes; yes; yes. 
+"4. There are rays in space similar to the set of rays 
+described in Problem 2. 
+"5. The set of intersections of' the elements of K with 
+a plane form the set H. 
+*6. (a) Yes 
+(b) Yes 
+(c) Yes, see Problem 5 (Exercises 4-ga). 
+
+4-10. Simple Closed Cwes. 
+
+Page 147. 
+
+1. Understandings. 
+(a) Broken-line figures such as those we see in statistical 
+graphs, triangles, rectangles, as well as circles, and 
+[pages 144-1471 
+
+
+figure eights are curvee. 
+
+(b) A slmple closed curve in the plane separates the plane 
+into 2 sets--the points 'ofthe interior of the curve 
+and the points of the exterior of the curve. The curve 
+itself Is contained in neither set. 
+(c) The curve Is called the boundary of the interior (or the 
+exterior). 
+(d) If a point A is in the Interior of a curve and a point 
+B Is in the exterior of the curve, then the lntersectlcn 
+of and the curve contains at least one element. 
+2. Teaching Suggestions. 
+Draw some curves on the chalkboard, bringing out the idea 
+that we call them "curves" and that a segment is just one kind 
+of curve. We use the word "curve" in a special way in mathe-
+matics. 
+
+Note that a slmple closed curve separstes a plane Into two 
+aets and that the curve itself Is the boundary of the two aets. 
+Also, that any quadrilateral, parallelogram or rectangle is a 
+simple closed curve. Identify some of the many curves which are 
+suggested in the room, such as boundary of chalkboard, total 
+boundary of floor surface, etc. 
+
+Students enjoy drawing elaborate curvea which may still be 
+classified as slmple closed curves. Encourage their drawing a 
+few simple closed curves for a bulletin board exhibit. 
+
+Answers -to merciaea 4-10. Page 149. 
+
+2. The intersection of the exterior of J1 and the interior 
+[pages 147-1491 
+
+
+This is ruled 
+
+out because of 
+
+the extra point 
+
+Yes, 3. 
+
+4. No, It contains two. 
+5. Slmple closed curve, line, angle 
+6. (a) B and D 
++ 3 
+
+(c) BA and DE 
+-
+
+9. Because the curve would have to cross an even number of 
+times. If the curve crosses three times, the pencil is 
+then not on the aame side of the line as where it started. 
+Sample Questlona on Chapter 4 
+
+The sets of questions presented at the end of the chapter In 
+the Teachers Commentary are NOT intended as a Chapter test. 
+Teachers should construct chapter test carefully by combining 
+selected items from the set of questions included in the guide 
+and questions of their own writing. Great care should be used to 
+
+
+.d making the test too long. 
+
+1. If two different planes each contain the same three
+-
+
+points what can you say about the three points? h he 
+
+points are on a line.) 
+
+2. Draw L ABC. Label P a point in the Interior. Shade 
+-
+
+the P-side of line AB. 
+
+3. Draw two simple closed curves whose intersection is a 
+set of exactly four points. 
+4. Draw a simple closed curve which 1s the union of five 
+sements, no two on the same line. 
+0 
+
+5. Draw A PQR. Label a point A between P and Q. 
+Draw the line m. Llst all trl-
+angles represented In your figure. 
+IA pa, A PAR, nRAQ.1 
+P 
+
+6. Each point of a line separates the line Into iwo half-
+lines. Make two simllar statements, one about a line 
+and a plane and the other about a plane and space. 
+(A line separates a plane into two half-planes. A plane 
+separates space into two half-spaces.) 
+7. Suppose the intersection of two lines is the empty set. 
+If they are in the same plane they are 1 parallel ). 
+If they are not in the same plane they are { skew ). 
+8. Consider the f.lgure at the right. 
+(a) List 3 rays represented.
+3, 2,3)
+
+3 
+
+(b) What IS AC n aABC? (X) 
+(c) mat IS wniiif? 
+(point A) 
+
+
+101 
+
+9. Draw a horizontal line. Label four points on it P, Q, 
+R, and S in that order from left to right. 
+P Q RS 
+
+(a) Name two sepents whoae intersection is one point. 
+and 
+(b) Name two rays whose unlon 18 the line. ( and 8) 
+Name two segnents whose intersection is a segment.
+(c) 
+( ad a) 
+(d) Name two se@nentswhoae union la a segnent. 
+(Xand 
+10. Using the planes of the walls and ceiling of youp room, 
+list three planes whoae intersection is exactly one 
+point. (Front wall, side wall, and ceiling. ) 
+11. Label A, 8, and C three points not 
+all on the aame line. Draw s,%8,
+4-b 
+
+and x. 
+
+4Jjfg
+
+7A6B 
+
+(a) Into how many pieces (regions) does the union of 
+the aewents , , and aeparate the plane? 
+(2 
+
+(b) Into how many piecaa (regions) does the union of 
+lines %?, and sepraate the plane? (7) 
+12. Draw a vertical line R on your paper. Lsbel points 
+A, 3, C, and D in that order from top to bottom, 
+(a) what IS KE nED? (E) A 
+(b) What is Z n 3?(me mpty set 
+. B 
+
+(o) What is the unlon of '11B and z? 
+(3 
+(3 
+-.C 
+
+(d) What is the union of AXIi and 'BE? 0 
+(m) 4 
+
+13. In the figure, a set of rays 
+from P may be used to establish 
+P 
+
+a (one-to-one correspondence) 
+between AC' and ED. 
+
+
+To the left of an item in the left-hand column place 
+the letter of a corresponding Item from the right-hand 
+column: 
+
++ + 
+
+(9) 1. the,unlon of PA and -8 a. AP 
+(f) 2. J,n-4 b. AEi 
+(c) 3. segment c. A&~D 
+(3) 4. point in interior of L APB d. Q 
+(4 5. w e. 4 
+
+(a) 6. ray onya f. P 
+(b) 7. the union of a and a g. LAPB 
+(i) 8. h. empty set 
+(h) 9. an4 I.B 
+(j) 10. the union of4 and J. 4 
+In the corresponding blank to the left of each of the 
+following statements Indicate if it is true or false. 
+
+r rue) 1. Point Q is on the C-side of s. 
+(False) 2. is the intersection of two half-planes. 
+(~alse) 3. The union of and 3 LABC. 
+(~alae) 4. Point B separates 3lint two segments 
+
+and m. 
+
+
+103 
+
+(True) 5 Point B separates into two half-lines. 
+r rue) 6. Paint Q Is in the interior of angle ACE. 
+(False) 7. Point Q is In the interior of angle DBA. 
+
+r rue) 8. The interlor of angle ABC is the intersection 
+of a half-plane containing C and a half-plane 
+containing A. 
+
+(True) 9. Triangle ABC is a simple closed curve, 
+(True) 10. A one-to-one correspondence may be established 
+between (a) the set of lines intersecting 
+
+e 
+
+AC and contafning B and (b) the set of 
+
+C) 
+
+polnts on AC. 
+
+Multiple Choice. 
+
+(a) intersect in the empty set 
+(b) are parallel 
+(c) intersect in one point 
+(d) are in the same plane (a) 
+2. Segment &P: 
+(a) lies in plane M1 
+(b) is in plane % 
+(c) connects an element of MI with an 
+element of' M2 
+(d) none of these 
+
+3 (a] j2separates M1 into two half-planes 
+
+(b) / fl~~
+is the empty set 
+
+(c) /2n~1is the empty set 
+(d) 4 separates space 30 
+4. (a) ~,nl,= P 
+(c) % does not extend endlessly as does1 
+(d) % contains all the points 4& 
+5. Point P: 
+(a) is in the intersection of M1 and M;? 
+(b) 
+lies in a half-plane whose boundary isRp 
+
+(c) is not an element of s. 
+(d) 18 not an element of/ 5A 
+

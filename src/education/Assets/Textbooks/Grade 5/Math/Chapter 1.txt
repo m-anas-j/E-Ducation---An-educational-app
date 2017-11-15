@@ -1,0 +1,1320 @@
+1.1 Introduction 
+Chapter 1 
+Knowing our Numbers 
+Counting things is easy for us now. We can count objects in large numbers, 
+for example, the number of students in the school, and represent them 
+through numerals. We can also communicate large numbers using suitable 
+number names. 
+
+It is not as if we always knew how to convey large quantities in conversation 
+or through symbols. Many thousands years ago, people knew only small 
+numbers. Gradually, they learnt how to handle larger numbers. They also learnt 
+how to express large numbers in symbols. All this came through collective 
+efforts of human beings. Their path was not easy, they struggled all along the 
+way. In fact, the development of whole of Mathematics can be understood 
+this way. As human beings progressed, there was greater need for development 
+of Mathematics and as a result Mathematics grew further and faster. 
+
+We use numbers and know many things about them. Numbers help us 
+count concrete objects. They help us to say which collection of objects 
+is bigger and arrange them in order e.g., first, second, etc. Numbers are 
+used in many different contexts and in many ways. Think about various 
+situations where we use numbers. List five distinct situations in which 
+numbers are used. 
+
+We enjoyed working with numbers in our previous classes. We have added, 
+subtracted, multiplied and divided them. We also looked for patterns in number 
+sequences and done many other interesting things with numbers. In this chapter, 
+we shall move forward on such interesting things with a bit of review and 
+revision as well. 
+
+
+
+MATHEMATICS 
+
+1.2 Comparing Numbers 
+As we have done quite a lot of this earlier, let us see if we remember which is 
+the greatest among these : 
+
+
+(i) 92, 392, 4456, 89742 
+
+(ii) 1902, 1920, 9201, 9021, 9210 
+So, we know the answers. 
+Discuss with your friends, how you find the number that is the greatest. 
+
+Can you instantly find the greatest and the smallest numbers in each row? 
+1. 382, 4972, 18, 59785, 750. Ans. 59785 is the greatest and 
+18 is the smallest. 
+2. 1473, 89423, 100, 5000, 310. Ans. ____________________ 
+3. 1834, 75284, 111, 2333, 450 . Ans. ____________________ 
+4. 2853, 7691, 9999, 12002, 124. Ans. ____________________ 
+Was that easy? Why was it easy? 
+We just looked at the number of digits and found the answer. 
+The greatest number has the most thousands and the smallest is 
+only in hundreds or in tens. 
+
+Make five more problems of this kind and give to your friends 
+
+to solve. 
+Now, how do we compare 4875 and 3542? 
+This is also not very difficult.These two numbers have the 
+
+same number of digits. They are both in thousands. But the digit 
+at the thousands place in 4875 is greater than that in 3542. 
+Therefore, 4875 is greater than 3542. 
+
+Find the greatest and the smallest 
+numbers. 
+(a) 4536, 4892, 4370, 4452. 
+(b) 15623, 15073, 15189, 15800. 
+(c) 25286, 25245, 25270, 25210. 
+(d) 6895, 23787, 24569, 24659. 
+Next tell which is greater, 4875 or 
+4542? Here too the numbers have the 
+same number of digits. Further, the digits 
+at the thousands place are same in both. 
+What do we do then? We move to the 
+next digit, that is to the digit at the 
+hundreds place. The digit at the hundreds 
+place is greater in 4875 than in 4542. 
+Therefore, 4875 is greater than 4542. 
+
+
+2 
+
+
+KNOWING OUR NUMBERS 
+
+If the digits at hundreds place are also same in the two numbers, then what 
+do we do? 
+
+Compare 4875 and 4889 ; Also compare 4875 and 4879. 
+
+1.2.1 How many numbers can you make? 
+Suppose, we have four digits 7, 8, 3, 5. Using these digits we want to make 
+different 4-digit numbers such that no digits are repeated in a number. Thus, 
+7835 is allowed, but 7735 is not. Make as many 4-digit numbers as you can. 
+
+Which is the greatest number you can get? Which is the smallest number? 
+The greatest number is 8753 and the smallest is 3578. 
+Think about the arrangement of the digits in both. Can you say how the largest 
+
+number is formed? Write down your procedure. 
+
+
+1. Use the given digits without repetition and make the greatest and smallest 
+4-digit numbers. 
+(a) 2, 8, 7, 4 (b) 9, 7, 4, 1 (c) 4, 7, 5, 0 
+(d) 1, 7, 6, 2 (e) 5, 4, 0, 3 
+(Hint : 0754 is a 3-digit number.) 
+2. Now make the greatest and the smallest 4-digit numbers by using any one 
+digit twice. 
+(a) 3, 8, 7 (b) 9, 0, 5 (c) 0, 4, 9 (d) 8, 5, 1 
+(Hint : Think in each case which digit will you use twice.) 
+3. Make the greatest and the smallest 4-digit numbers using any four different 
+digits with conditions as given. 
+(a) Digit 7 is always at Greatest 9 
+86 
+
+7 
+
+ones place 
+
+Smallest 
+(Note, the number cannot begin with the digit 0. Why?) 
+
+1 02 7 
+(b) Digit 4 is always Greatest 
+at tens place 
+Smallest 
+
+(c) Digit 9 is always at 
+hundreds place 
+Greatest 
+Smallest 
+(d) Digit 1 is always at 
+thousands place 
+GreatestSmallest 
+
+3 
+4 
+4 
+9 
+9 
+1 
+1 
+
+MATHEMATICS 
+
+4. Take two digits, say 2 and 3. Make 4-digit numbers using both the digits equal 
+number of times. 
+Which is the greatest number? 
+Which is the smallest number? 
+How many different numbers can you make in all? 
+
+Stand in proper order 
+
+1. Who is the tallest? 
+2. Who is the shortest? 
+(a) Can you arrange them in the increasing order of their heights? 
+(b) Can you arrange them in the decreasing order of their heights? 
+Ramhari Dolly Mohan Shashi 
+(160 cm) (154 cm) (158 cm) (159 cm) 
+
+Rs 2635 Rs 1897 Rs 2854 Rs 1788 Rs 3975 
+Which to buy? 
+
+Sohan and Rita went 
+to buy an almirah. 
+There were many 
+almirahs available 
+with their price tags. 
+
+(a) Can you arrange their prices in increasing 
+order? 
+(b) Can you arrange their prices in 
+decreasing order? 
+Think of five more situations 
+where you compare three or 
+more quantities. 
+Ascending order Ascending order means arrangement from the smallest to the 
+
+greatest. 
+Descending order Descending order means arrangement from the greatest to 
+the smallest. 
+
+4 
+
+
+KNOWING OUR NUMBERS 
+
+1. Arrange the following numbers in ascending order : 
+(a) 847, 9754, 8320, 571 (b) 9801, 25751, 36501, 38802 
+2. Arrange the following numbers in descending order : 
+(a) 5000, 7500, 85400, 7861 (b) 1971, 45321, 88715, 92547 
+Make ten such examples of ascending/descending order and solve them. 
+1.2.2 Shifting digits 
+Have you thought what fun it would be if the digits in a number could shift 
+(move) from one place to the other? 
+
+Think about what would happen to 182. It could become as large as 821 
+and as small as 128. Try this with 391 as well. 
+
+Now think about this. Take any 3-digit number and exchange the digit at 
+the hundreds place with the digit at the ones place. 
+
+(a) Is the new number greater than the former one? 
+(b) Is the new number smaller than the former number? 
+Write the numbers formed in both ascending and descending order. 
+Before 
+
+7 9 5 
+Exchanging the 1st and the 3rd tiles. 
+
+After 
+
+5 9 7 
+If you exchange the 1st and the 3rd tiles (i.e. digits), in which case does the 
+number become greater? In which case does it become smaller? 
+Try this with a 4-digit number. 
+
+1.2.3 Introducing 10,000 
+
+We know that beyond 99 there is no 2-digit number. 99 is the greatest 2-digit 
+number. Similarly, the greatest 3-digit number is 999 and the greatest 4-digit 
+number is 9999. What shall we get if we add 1 to 9999? 
+
+Look at the pattern : 9 + 1 = 10 = 10 × 1 
+99 + 1 = 100 = 10 × 10 
+999 + 1 = 1000 = 10 × 100 
+
+We observe that 
+Greatest single digit number + 1 = smallest 2-digit number 
+Greatest 2-digit number + 1 = smallest 3-digit number 
+Greatest 3-digit number + 1 = smallest 4-digit number 
+
+5 
+
+MATHEMATICS 
+
+Should not we then expect that on adding 1 to the greatest 4-digit number, 
+we would get the smallest 5-digit number, that is 9999 + 1 = 10000. 
+The new number which comes next to 9999 is 10000. It is called 
+ten thousand. Further, we expect 10000 = 10 × 1000. 
+
+1.2.4 Revisiting place value 
+You have done this quite earlier, and you will certainly remember the expansion 
+of a 2-digit number like 78 as 
+78 = 70 + 8 = 7 × 10 + 8 
+Similarly, you will remember the expansion of a 3-digit number like 278 as 
+278 = 200 + 70 + 8 = 2 × 100 + 7 × 10 + 8 
+
+We say, here, 8 is at ones place, 7 is at tens place and 2 at hundreds place. 
+Later on we extended this idea to 4-digit numbers. 
+For example, the expansion of 5278 is 
+
+5278 = 5000 + 200 + 70 + 8 
+= 5 × 1000 + 2 × 100 + 7 × 10 + 8 
+Here, 8 is at ones place, 7 is at tens place, 2 is at hundreds place and 5 is at 
+thousands place. 
+With the number 10000 known to us, we may extend the idea further. We 
+may write 5-digit numbers like 
+45278 = 4 × 10000 + 5 × 1000 + 2 × 100 + 7 × 10 + 8 
+
+We say that here 8 is at ones place, 7 at tens place, 2 at hundreds place, 
+5 at thousands place and 4 at ten thousands place. The number is read as forty 
+five thousand, two hundred seventy eight. Can you now write the smallest 
+and the greatest 5-digit numbers? 
+
+Read and expand the numbers wherever there are blanks. 
+Number Number Name Expansion 
+20000 twenty thousand 2 × 10000 
+26000 twenty six thousand 2 × 10000 + 6 × 1000 
+38400 thirty eight thousand 3 × 10000 + 8 × 1000 
+four hundred + 4 × 100 
+65740 sixty five thousand 6 × 10000 + 5 × 1000 
+seven hundred forty + 7 × 100 + 4 × 10 
+6 
+
+
+KNOWING OUR NUMBERS 
+
+89324 eighty nine thousand 8 × 10000 + 9 × 1000 
+three hundred twenty four + 3 × 100 + 2 × 10 + 4 × 1 
+50000 _______________ _______________ 
+41000 _______________ _______________ 
+47300 _______________ _______________ 
+57630 _______________ _______________ 
+29485 _______________ _______________ 
+29085 _______________ _______________ 
+20085 _______________ _______________ 
+20005 _______________ _______________ 
+Write five more 5-digit numbers, read them and expand them. 
+1.2.5 Introducing 1,00,000 
+
+Which is the greatest 5-digit number? 
+Adding 1 to the greatest 5-digit number, should give the smallest 
+6-digit number : 99,999 + 1 = 1,00,000 
+This number is named one lakh. One lakh comes next to 99,999. 
+10 × 10,000 = 1,00,000 
+We may now write 6-digit numbers in the expanded form as 
+2,46,853 = 2 × 1,00,000 + 4 × 10,000 + 6 × 1,000 + 
+8 × 100 + 5 × 10 +3 × 1 
+
+This number has 3 at ones place, 5 at tens place, 8 at hundreds place, 6 at 
+thousands place, 4 at ten thousands place and 2 at lakh place. Its number 
+name is two lakh forty six thousand eight hundred fifty three. 
+
+Read and expand the numbers wherever there are blanks. 
+Number Number Name Expansion 
+3,00,000 three lakh 3 × 1,00,000 
+3,50,000 three lakh fifty thousand 3 × 1,00,000 + 5 × 10,000 
+3,53,500 three lakh fifty three 3 × 1,00,000 + 5 × 10,000 
+thousand five hundred + 3 × 1000 + 5 × 100 
+4,57,928 _______________ _______________ 
+4,07,928 _______________ _______________ 
+4,00,829 _______________ _______________ 
+4,00,029 _______________ _______________ 
+7 
+
+MATHEMATICS 
+
+1.2.6 Larger numbers 
+If we add one more to the greatest 6-digit number we get the smallest 7-digit 
+number. It is called ten lakh. 
+
+Write down the greatest 6-digit number and the smallest 7-digit number. 
+Write the greatest 7-digit number and the smallest 8-digit number. The smallest 
+
+
+8-digit number is called one crore. 
+Complete the pattern : 
+9 + 1 =10 
+99 + 1 = 100 
+999 + 1 = _______ 
+9,999 + 1 = _______ 
+99,999 + 1 = _______ 
+9,99,999 + 1 = _______ 
+99,99,999 + 1 = 1,00,00,000 
+
+Remember 
+1 hundred = 10 tens 
+1 thousand = 10 hundreds 
+= 100 tens 
+1 lakh = 100 thousands 
+= 1000 hundreds 
+1 crore = 100 lakhs 
+= 10,000 thousands 
+
+We come across large numbers in 
+many different situations. 
+For example, while the number of 
+children in your class would be a 
+2-digit number, the number of 
+children in your school would be 
+a 3 or 4-digit number. 
+The number of people in the nearby town would be much larger. 
+Is it a 5 or 6 or 7-digit number? 
+Do you know the number of people in your state? 
+How many digits would that number have? 
+What would be the number of grains in a sack full of wheat? A 5-digit number, 
+a 6-digit number or more? 
+1. What is 10 – 1 =? 
+2. What is 100 – 1 =? 
+3. What is 10,000 – 1 =? 
+4. What is 1,00,000 – 1 =? 
+5. What is 1,00,00,000 – 1 =? 
+(Hint : Use the said pattern.) 
+1. Give five examples where the number of things counted would be more than 
+6-digit number. 
+2. Starting from the greatest 6-digit number, write the previous five numbers in 
+descending order. 
+3. Starting from the smallest 8-digit number, write the next five numbers in 
+ascending order and read them. 
+8 
+
+
+KNOWING OUR NUMBERS 
+
+1.2.7 An aid in reading and writing large numbers 
+Try reading the following numbers : 
+(a) 279453 (b) 5035472 
+(c) 152700375 (d) 40350894 
+
+Was it difficult? 
+Did you find it difficult to keep track? 
+Sometimes it helps to use indicators to read and write large numbers. 
+
+Shagufta uses indicators which help her to read and write large numbers. 
+Her indicators are also useful in writing the expansion of numbers. For example, 
+she identifies the digits in ones place, tens place and hundreds place in 257 by 
+writing them under the tables O, T and H as 
+
+H T O Expansion 
+2 5 7 2 × 100 + 5 × 10 + 7 × 1 
+Similarly, for 2902, 
+Th H T O Expansion 
+2 9 0 2 2 × 1000 + 9 × 100 + 0 × 10 + 2 × 1 
+
+One can extend this idea to numbers upto lakh as seen in the following 
+table. (Let us call them placement boxes). Fill the entries in the blanks left. 
+
+Number TLakh Lakh TTh Th H T O Number Name Expansion 
+7,34,543 — 7 3 4 5 4 3 Seven lakh thirty 
+four thousand five 
+hundred forty three 
+----------------32,75,829 
+3 2 7 5 8 2 9 
+--------------------3 
+× 10,00,000 
++ 2 × 1,00,000 
++ 7 × 10,000 
++ 5 × 1000 
++ 8 × 100 
++ 2 × 10 + 9 
+
+Similarly, we may include numbers upto crore as shown below : 
+
+Number TCr Cr TLakh Lakh TTh Th H T O Number Name 
+2,57,34,543 — 2 5 7 3 4 5 4 3 ................................... 
+65,32,75,829 6 5 3 2 7 5 8 2 9 Sixty five crore thirty 
+two lakh seventy five 
+thousand eight hundred 
+twenty nine 
+
+You can make other formats of tables for writing the numbers in expanded form. 
+
+9 
+
+MATHEMATICS 
+
+Use of commas 
+
+You must have noticed that in writing large numbers in the 
+
+While writing 
+
+sections above, we have often used commas. Commas help us 
+
+number names, 
+in reading and writing large numbers. In our Indian System 
+
+we do not use 
+of Numeration we use ones, tens, hundreds, thousands and commas. 
+then lakhs and crores. Commas are used to mark thousands, 
+lakhs and crores. The first comma comes after hundreds place (three digits from the 
+right) and marks thousands. The second comma comes two digits later (five digits 
+from the right). It comes after ten thousands place and marks lakh. The third comma 
+comes after anothertwodigits(seven digitsfrom the right). Itcomes aftertenlakh 
+place and marks crore. 
+
+For example, 5, 08, 01, 592 
+
+3, 32, 40, 781 
+
+7, 27, 05, 062 
+
+Try reading the numbers given above. Write five more numbers in this form and 
+read them. 
+
+International System of Numeration 
+
+In the International System of Numeration, as it is being used we have ones, 
+tens, hundreds, thousands and then millions. One million is a thousand 
+thousands. Commas are used to mark thousands and millions. It comes after 
+every three digits from the right. The first comma marks thousands and the 
+next comma marks millions. For example, the number 50,801,592 is read in 
+the International System as fifty million eight hundred one thousand five 
+hundred ninety two. In the Indian System, it is five crore eight lakh one thousand 
+five hundred ninety two. 
+
+How many lakhs make a million? 
+
+How many millions make a crore? 
+
+Take three large numbers. Express them in both Indian and International 
+
+Numeration systems. 
+
+This may interest you : 
+
+To express numbers larger than a million, a billion is used in the International 
+
+System of Numeration: 1 billion = 1000 million. 
+
+10 
+
+
+Do you know? 
+India’s population increased by 
+27 million during 1921-1931; 
+37 million during 1931-1941; 
+44 million during 1941-1951; 
+78 million during 1951-1961! 
+
+KNOWING OUR NUMBERS 
+
+How much was the increase during 
+1991-2001? Try to find out. 
+
+Do you know what is India’s population 
+today? Try to find this too. 
+
+1. Read these numbers. Write them using placement boxes and then write 
+their expanded forms. 
+(i) 475320 (ii) 9847215 (iii) 97645310 (iv) 30458094 
+(a) Which is the smallest number? 
+(b) Which is the greatest number? 
+(c) Arrange these numbers in ascending and descending orders. 
+2. Read these numbers. 
+(i) 527864 (ii) 95432 (iii) 18950049 (iv) 70002509 
+(a) Write these numbers using placement boxes and then using commas in 
+Indian as well as International System of Numeration.. 
+(b) Arrange these in ascending and descending order. 
+3. Take three more groups of large numbers and do the exercise given above. 
+Can you help me write the numeral? 
+
+To write the numeral for a number you can follow the boxes again. 
+
+(a) Forty two lakh seventy thousand eight. 
+(b) Two crore ninety lakh fifty five thousand eight hundred. 
+(c) Seven crore sixty thousand fifty five. 
+11 
+1. You have the following digits 4, 5, 6, 0, 7 and 8. Using them, make five 
+numbers each with 6 digits. 
+(a) Put commas for easy reading. 
+(b) Arrange them in ascending and descending order. 
+2. Take the digits 4, 5, 6, 7, 8 and 9. Make any three numbers each with 8 
+digits. Put commas for easy reading. 
+3. From the digits 3, 0 and 4, make five numbers each with 6 digits. Use commas. 
+
+MATHEMATICS 
+
+
+EXERCISE 1.1 
+
+1. Fill in the blanks: 
+(a) 1 lakh = _______ ten thousand. 
+(b) 1 million = _______ hundred thousand. 
+(c) 1 crore = _______ ten lakh. 
+(d) 1 crore = _______ million. 
+(e) 1 million = _______ lakh. 
+2. Place commas correctly and write the numerals: 
+(a) Seventy three lakh seventy five thousand three hundred seven. 
+(b) Nine crore five lakh forty one. 
+(c) Seven crore fifty two lakh twenty one thousand three hundred two. 
+(d) Fifty eight million four hundred twenty three thousand two hundred two. 
+(e) Twenty three lakh thirty thousand ten. 
+3. Insert commas suitably and write the names according to Indian System of 
+Numeration : 
+(a) 87595762 (b) 8546283 (c) 99900046 (d) 98432701 
+4. Insert commas suitably and write the names according to International System 
+of Numeration : 
+(a) 78921092 (b) 7452283 (c) 99985102 (d) 48049831 
+1.3 Large Numbers in Practice 
+In earlier classes, we have learnt that we use centimetre (cm) as a unit of length. 
+For measuring the length of a pencil, the width of a book or 
+notebooks etc., we use centimetres. Our ruler has marks on each centimetre. 
+
+For measuring the thickness of a pencil, however, we find centimetre too big. 
+We use millimetre (mm) to show the thickness of a pencil. 
+
+1. How many 
+centimetres make a 
+kilometre? 
+2. Name five large cities 
+in India. Find their 
+population. Also, find 
+the distance in 
+kilometres between 
+each pair of these cities. 
+(a) 10 millimetres = 1 centimetre 
+To measure the length of the classroom or 
+the school building, we shall find 
+centimetre too small. We use metre for the 
+purpose. 
+
+(b) 1 metre = 100 centimetres 
+= 1000 millimetres 
+Even metre is too small, when we have to 
+state distances between cities, say, Delhi 
+and Mumbai, or Chennai and Kolkata. For 
+
+12 
+
+this we need kilometres (km). 
+
+
+KNOWING OUR NUMBERS 
+
+(c) 1 kilometre = 1000 metres 
+How many millimetres make 1 kilometre? 
+Since 1 m = 1000 mm 
+1 km = 1000 m = 1000 × 1000 mm = 10,00,000 mm 
+We go to the market to buy rice or wheat; we buy it in 
+kilograms (kg). But items like ginger or chillies which 
+we do not need in large quantities, we buy in grams (g). 
+We know 1 kilogram = 1000 grams. 
+
+Have you noticed the weight of the medicine tablets 
+given to the sick? It is very small. It is in milligrams 
+(mg). 
+
+1 gram = 1000 milligrams. 
+
+What is the capacity of a bucket for holding water? It 
+
+is usually 20 litres (
+..
+). Capacity is given in litres. But 
+
+sometimes we need a smaller unit, the millilitres. 
+
+A bottle of hair oil, a cleaning liquid or a soft drink 
+
+have labels which give the quantity of liquid inside in 
+millilitres (ml). 
+1 litre = 1000 millilitres. 
+
+Note that in all these units we have some words 
+common like kilo, milli and centi. You should remember 
+that among these kilo is the greatest and milli is the 
+smallest; kilo shows 1000 times greater, milli shows 
+1000 times smaller, i.e. 1 kilogram = 1000 grams, 
+1 gram = 1000 milligrams. 
+
+Similarly, centi shows 100 times smaller, i.e. 1 metre = 100 centimetres. 
+
+1. How many 
+milligrams 
+make one 
+kilogram? 
+2. A box contains 
+2,00,000 
+medicine tablets 
+each weighing 
+20 mg. What is 
+the total weight 
+of all the 
+tablets in the 
+box in grams 
+and in 
+kilograms? 
+13 
+1. A bus started its journey and reached different places with a speed of 
+60 km/hour. The journey is shown below. 
+(i) Find the total distance covered by the bus from A to D. 
+(ii) Find the total distance covered by the bus from D to G. 
+(iii) Find the total distance covered by the bus, if it starts 
+from A and returns back to A. 
+(iv) Can you find the difference of distances from C to D and D to E? 
+
+MATHEMATICS 
+
+
+The sales during the last year 
+Apples 2457 kg 
+Oranges 3004 kg 
+Combs 22760 
+Tooth brushes 25367 
+Pencils 38530 
+Note books 40002 
+Soap cakes 20005 
+(v) Find out the time taken by the bus to 
+reach 
+(a) A to B (b) C to D 
+(c) E to G (d) Total journey 
+2. Raman’s shop 
+Things Price 
+Apples Rs 40 per kg 
+Oranges Rs 30 per kg 
+Combs Rs 3 for one 
+Tooth brushes Rs 10 for one 
+Pencils Re 1 for one 
+Note books Rs 6 for one 
+Soap cakes Rs 8 for one 
+(a) Can you find the total weight of apples and oranges Raman sold last year? 
+Weight of apples = __________ kg 
+Weight of oranges = _________ kg 
+Therefore, total weight = _____ kg + _____ kg = _____ kg 
+Answer – The total weight of oranges and apples = _________ kg. 
+(b) Can you find the total money Raman got by selling apples? 
+(c) Can you find the total money Raman got by selling apples and oranges 
+together? 
+(d) Make a table showing how much money Raman received from selling 
+each item. Arrange the entries of amount of money received in 
+descending order. Find the item which brought him the highest amount. 
+How much is this amount? 
+14 
+
+
+KNOWING OUR NUMBERS 
+
+We have done a lot of problems that have addition, subtraction, multiplication 
+and division. We will try solving some more here. Before starting, look at these 
+examples and follow the methods used. 
+
+Example 1 : Population of Sundarnagar was 2,35,471 in the year 1991. In the 
+year 2001 it was found to be increased by 72,958. What was the population of 
+the city in 2001? 
+
+Solution : Population of the city in 2001 
+
+= Population of the city in 1991 + Increase in population 
+
+= 2,35,471 + 72,958 
+Now, 235471 
+
++ 72958 
+
+308429 
+
+Salma added them by writing 235471 as 200000 + 35000 + 471 and 
+72958 as 72000 + 958. She got the addition as 200000 + 107000 + 1429 = 308429. 
+Mary added it as 200000 + 35000 + 400 + 71 + 72000 + 900 + 58 = 308429 
+
+Answer : Population of the city in 2001 was 3,08,429. 
+
+All three methods are correct. 
+
+Example 2 : In one state, the number of bicycles sold in the year 2002-2003 
+was 7,43,000. In the year 2003-2004, the number of bicycles sold was 8,00,100. 
+In which year were more bicycles sold? and how many more? 
+
+Solution : Clearly, 8,00,100 is more than 7,43,000. So, in that state, more 
+bicycles were sold in the year 2003-2004 than in 2002-2003.
+
+ Now, 800100 Check the answer by adding 
+
+743000 
++ 57100 
+
+– 743000 
+
+
+057100 
+
+800100 (the answer is right) 
+
+Can you think of alternative ways of solving this problem? 
+Answer : 57,100 more bicycles were sold in the year 2003-2004. 
+
+Example 3 : The town newspaper is published every day. One copy has 
+12 pages. Everyday 11,980 copies are printed. How many total pages are 
+printed everyday? 
+
+15 
+
+MATHEMATICS 
+
+
+Solution : Each copy has 12 pages. Hence, 11,980 copies will have 
+12 × 11,980 pages. What would this number be? More than 1,00,000 or lesser. 
+Try to estimate. 
+
+Now, 11980 
+
+× 12 
+23960 
++ 119800 
+
+143760 
+
+Answer:Everyday 1,43,760 pages are printed. 
+Example 4 : The number of sheets of paper available for making notebooks 
+is 75,000. Each sheet makes 8 pages of a notebook. Each notebook contains 
+200 pages. How many notebooks can be made from the paper available? 
+
+Solution : Each sheet makes 8 pages. 
+Hence, 75,000 sheets make 8 × 75,000 pages, 
+
+Now, 75000 
+× 8 
+600000 
+
+Thus, 6,00,000 pages are available for making notebooks. 
+Now, 200 pages make 1 notebook. 
+Hence, 6,00,000 pages make 6,00,000 ÷ 200 notebooks. 
+3000 
+Now, 200 600000
+
+. 
+
+
+– 600 
+0000 The answer is 3,000 notebooks. 
+
+
+EXERCISE 1.2 
+
+1. A book exhibition was held for four days in a school. The number of tickets sold 
+at the counter on the first, second, third and final day was respectively 1094, 
+1812, 2050 and 2751. Find the total number of tickets sold on all the four days. 
+2. Shekhar is a famous cricket player. He has so far scored 6980 runs in test matches. 
+He wishes to complete 10,000 runs. How many more runs does he need? 
+3. In an election, the successful candidate registered 5,77,500 votes and his nearest 
+rival secured 3,48,700 votes. By what margin did the successful candidate win 
+the election? 
+4. Kirti bookstore sold books worth Rs 2,85,891 in the first week of June and books
+16 
+
+worth Rs 4,00,768 in the second week of the month. How much was the sale for 
+
+
+
+KNOWING OUR NUMBERS 
+
+the two weeks together? In which week was the sale greater and by how much? 
+
+5. Find the difference between the greatest and the least number that can be written using 
+the digits 6, 2, 7, 4, 3 each only once. 
+6. A machine, on an average, manufactures 2,825 screws a day. How many screws did 
+it produce in the month of January 2006? 
+7. A merchant had Rs 78,592 with her. She placed an order for purchasing 40 radio sets 
+at Rs 1200 each. How much money will remain with her after the purchase? 
+8. A student multiplied 7236 by 65 instead of multiplying by 56. By how much was his 
+answer greater than the correct answer? (Hint: Do you need to do both the 
+multiplications?) 
+9. To stitch a shirt, 2 m 15 cm cloth is needed. Out of 40 m cloth, how many shirts can be 
+stitched and how much cloth will remain? 
+(Hint: convert data in cm.) 
+
+10. Medicine is packed in boxes, each weighing 4 kg 500g. How many such boxes can be 
+loaded in a van which cannot carry beyond 800 kg? 
+11. The distance between the school and the house of a student’s house is 1 km 875 m. 
+Everyday she walks both ways. Find the total distance covered by her in six days. 
+12. A vessel has 4 litres and 500 ml of curd. In how many glasses, each of 25 ml 
+capacity, can it be filled? 
+1.3.1 Estimation 
+News 
+1. India drew with Pakistan in a hockey match watched by 51,000 spectators 
+in the stadium and 40 million television viewers world wide. 
+2. Approximately, 2000 people were killed and more than 50000 injured in a 
+cyclonic storm in coastal areas of India and Bangladesh. 
+3. Over 13 million passengers are carried over 63,000 kilometre route of 
+railway track every day. 
+Can we say that there were exactly as many people as the numbers quoted 
+in these news items? For example, 
+In (1), were there exactly 51,000 spectators in the stadium? or did exactly 
+40 million viewers watched the match on television? 
+Obviously, not. The word approximately itself 
+shows that the number of people were near about these 
+numbers. Clearly, 51,000 could be 50,800 or 51,300 
+but not 70,000. Similarly, 40 million implies much 
+more than 39 million but quite less than 41 million 
+but certainly not 50 million. 
+
+
+17 
+
+MATHEMATICS 
+
+
+The quantities given in the examples above are not exact counts, but are 
+estimates to give an idea of the quantity. 
+Discuss what each of these can suggest. 
+
+Where do we approximate? Imagine a big celebration at your home. The first 
+thing you do is to find out roughly how many guests may visit you. Can you get an 
+idea of the exact number of visitors? It is practically impossible. 
+
+The finance minister of the country presents a budget annually. The minister provides 
+for certain amount under the head ‘Education’. Can the amount be absolutely accurate? 
+It can only be a reasonably good estimate of the expenditure the country needs for 
+education during the year. 
+
+Think about the situations where we need to have the exact numbers and compare 
+them with situations where you can do with only an approximately estimated number. 
+Give three examples of each of such situations. 
+
+1.3.2 Estimating to the nearest tens by rounding off 
+Look at the following : 
+
+
+(a) Find which flags are closer to 260. 
+(b) Find the flags which are closer to 270. 
+Locate the numbers 10,17 and 20 on your ruler. Is 17 nearer to 10 or 20? The 
+gap between 17 and 20 is smaller when compared to the gap between 17 and 10. 
+
+
+So, we round off 17 as 20, correct to the nearest tens. 
+Now consider 12, which also lies between 10 and 20. However, 12 is 
+
+closer to 10 than to 20. So, we round off 12 to 10, correct to the nearest tens. 
+How would you round off 76 to the nearest tens? Is it not 80? 
+We see that the numbers 1,2,3 and 4 are nearer to 0 than to 10. So, we 
+
+round off 1, 2, 3 and 4 as 0. Number 6, 7, 8, 9 are nearer to 10, so, we round 
+them off as 10. Number 5 is equidistant from both 0 and 10; it is a common 
+practice to round it off as 10. 
+
+18 
+
+
+KNOWING OUR NUMBERS 
+
+Round these numbers to the nearest tens. 
+28 32 52 41 39 48 
+64 59 99 215 1453 2936 
+1.3.3 Estimating to the nearest hundreds by rounding off 
+Is 410 nearer to 400 or to 500? 
+410 is closer to 400, so it is rounded off to 400, correct to the nearest 
+
+hundred. 
+889 lies between 800 and 900. 
+It is nearer to 900, so it is rounded off as 900 correct to nearest hundred. 
+Numbers 1 to 49 are closer to 0 than to 100, and so are rounded off to 0. 
+Numbers 51 to 99 are closer to 100 than to 0, and so are rounded off to 100. 
+
+Number 50 is equidistant from 0 and 100 both. It is a common practice to round it off 
+as 100. 
+Check if the following rounding off is correct or not : 
+
+841 800; 9537 9500; 49730 49700; 
+2546 2500; 286 200; 5750 5800; 
+168 200; 149 100; 9870 9800. 
+
+Correct those which are wrong. 
+
+1.3.4 Estimating to the nearest thousands by rounding off 
+We know that numbers 1 to 499 are nearer to 0 than to 1000, so these numbers are 
+rounded off as 0. 
+
+The numbers 501 to 999 are nearer to 1000 than 0 so they are rounded off as 
+1000. 
+
+Number 500 is also rounded off as 1000. 
+
+Check if the following rounding off is correct or not : 
+
+2573 3000; 53552 53000; 
+
+6404 6000; 65437 65000; 
+
+7805 7000; 3499 4000. 
+
+Correct those which are wrong. 
+
+19 
+
+MATHEMATICS 
+
+
+Round off the given numbers to the nearest tens, hundreds and thousands. 
+Given Number Approximate to Nearest Rounded Form 
+75847 Tens ________________ 
+75847 Hundreds ________________ 
+75847 Thousands ________________ 
+75847 Ten thousands ________________ 
+1.3.5 Estimating outcomes of number situations 
+How do we add numbers? We add numbers by following the algorithm (i.e. the 
+given method) systematically. We write the numbers taking care that the digits in the 
+same place (ones, tens, hundreds etc.) are in the same column. For example, 
+
+3946 + 6579 + 2050 is written as — 
+Th H T O 
+3 9 4 6 
+6 5 7 9 
++ 2 0 5 0 
+
+We add the column of ones and if necessary carry forward the appropriate 
+number to the tens place as would be in this case. We then add the tens 
+column and this goes on. Complete the rest of the sum yourself. This 
+procedure takes time. 
+
+There are many situations where we need to find answers more quickly. 
+For example, when you go to a fair or the market, you find a variety of attractive 
+things which you want to buy. You need to quickly decide what you can buy. 
+So, you need to estimate the amount you need. It is the sum of the prices of 
+things you want to buy. 
+
+A trader is to receive money from two sources. The money he is to receive 
+is Rs 13,569 from one source and Rs 26,785 from another. He has to pay 
+Rs 37,000 to someone else by the evening. He rounds off the numbers to their 
+nearest thousands and quickly works out the rough answer. He is happy that 
+he has enough money. 
+
+Do you think he would have enough money? Can you tell without doing 
+the exact addition/subtraction? 
+
+Sheila and Mohan have to plan their monthly expenditure. They know 
+their monthly expenses on transport, on school requirements, on groceries, 
+
+20 
+
+
+KNOWING OUR NUMBERS 
+
+on milk, and on clothes and also on other regular 
+expenses. This month they have to go for visiting 
+and buying gifts. They estimate the amount they 
+would spend on all this and then add to see, if what 
+they have, would be enough. 
+
+
+Would they round off to thousands as the 
+trader did? 
+
+Think and discuss five more situations where we have to estimate sums or 
+remainders. 
+
+Did we use rounding off to the same place in all these? 
+
+There are no rigid rules when you want to estimate the outcomes of numbers. 
+The procedure depends on the degree of accuracy required and how quickly 
+the estimate is needed. The most important thing is, how sensible the guessed 
+answer would be. 
+
+1.3.6 To estimate sum or difference 
+As we have seen above we can round off a number to any place. The trader 
+rounded off the amounts to the nearest thousands and was satisfied that he had 
+enough. So, when you estimate any sum or difference, you should have an idea 
+of why you need to round off and therefore the place to which you would round 
+off. Look at the following examples. 
+
+Example 5 : Estimate: 5,290 + 17,986. 
+Solution : You find 17,986 > 5,290. 
+
+Round off to thousands. 
+
+17,986 is rounds off to 18,000 
+
++5,290 is rounds off to + 5,000 
+
+Estimated sum = 23,000 
+
+Does the method work? You may attempt to find the actual answer and 
+verify if the estimate is reasonable. 
+Example 6 : Estimate: 5,673 – 436. 
+
+Solution : To begin with we round off to thousands. (Why?) 
+
+5,673 rounds off to 6,000 
+– 436 rounds off to – 0 
+Estimated difference = 6,000 
+
+This is not a reasonable estimate. Why is this not reasonable? 
+
+21 
+
+MATHEMATICS 
+
+
+To get a closer estimate, let us try rounding each number to hundreds. 
+5,673 rounds off to 5,700 
+
+– 436 rounds off to – 400 
+Estimated difference = 5,300 
+This is a better and more meaningful estimate. 
+1.3.7 To estimate products 
+How do we estimate a product? 
+What is the estimate for 19 × 78? 
+It is obvious that the product is less than 2000. Why? 
+
+If we approximate 19 to the nearest tens, we get 20 and then approximate 78 
+to nearest tens, we get 80 and 20 × 80 = 1600 
+Look at 63 × 182 
+
+If we approximate both to the nearest hundreds we 
+get 100 × 200 = 20,000. This is much larger than the 
+actual product. So, what do we do? To get a more 
+reasonable estimate, we try rounding off 63 to the 
+nearest 10, i.e. 60, and also 182 to the nearest ten, i.e. 
+
+180. We get 60 × 180 or 10,800. This is a good 
+estimate, but is not quick enough. 
+If we now try approximating 63 to 60 and 182 to 
+the nearest hundred, i.e. 200, we get 60 × 200, and this 
+number 12,000 is a quick as well as good estimate of 
+the product. 
+
+The general rule that we can make is, therefore, Round off each factor to its 
+greatest place, then multiply the rounded off factors. Thus, in the above 
+example, we rounded off 63 to tens and 182 to hundreds. 
+
+Now, estimate 81 × 479 using this rule : 
+479 is rounded off to 500 (rounding off to hundreds), 
+and 81 is rounded off to 80 (rounding off to tens). 
+The estimated product = 500 × 80 = 40,000 
+An important use of estimates for you will be to check your answers. 
+
+
+Suppose, you have done the multiplication 37 × 1889, but 
+are not sure about your answer. A quick and reasonable estimate 
+of the product will be 40 × 2000 i.e. 80,000. If your answer 
+is close to 80,000, it is probably right. On the other hand, if 
+it is close to 8000 or 8,00,000, something is surely wrong in 
+your multiplication. 
+
+22 
+
+Same general rule may be followed by addition and 
+subtraction of two or more numbers. 
+
+Estimate the 
+following products : 
+(a) 87 × 313 
+(b) 9 × 795 
+(c) 898 × 785 
+(d) 958 × 387 
+Make five more 
+such problems and 
+solve them. 
+
+KNOWING OUR NUMBERS 
+
+
+EXERCISE 1.3 
+
+1. Estimate each of the following using general rule: 
+(a) 730 + 998 (b) 796 – 314 (c) 12,904 +2,888 (d) 28,292 – 21,496 
+Make ten more such examples of addition, subtraction and estimation of their outcome. 
+2. Give a rough estimate (by rounding off to nearest hundreds) and also a closer estimate 
+(by rounding off to nearest tens) : 
+(a) 439 + 334 + 4,317 (b) 1,08,734 – 47,599 (c) 8325 – 491 
+(d) 4,89,348 – 48,365 
+Make four more such examples. 
+3. Estimate the following products using general rule: 
+(a) 578 × 161 (b) 5281 × 3491 (c) 1291 × 592 (d) 9250 × 29 
+Make four more such examples. 
+1.4 Using Brackets 
+Suman bought 6 notebooks from the market and the cost was Rs 10 per notebook. 
+Her sister Sama also bought 7 notebooks of the same type. Find the total money 
+they paid. 
+
+Seema calculated the Meera calculated the 
+amount like this amount like this 
+
+6 × 10 + 7 × 10 6 + 7 =13 
+= 60 + 70 
+= 130 and 13 × 10 = 130 
+Ans. Rs 130 Ans. Rs 130 
+
+23 
+1. Write the expressions for each of the following using brackets. 
+(a) Four multiplied by the sum of nine and two. 
+(b) Divide the difference of eighteen and six by four. 
+(c) Forty five divided by three times the sum of three and two. 
+2. Write three different situations for (5 + 8) × 6. 
+(One such situation is : Sohani and Reeta work for 6 days; Sohani 
+works 5 hours a day and Reeta 8 hours a day. How many hours do 
+both of them work in a week?) 
+3. Write five situations for the following where brackets would be 
+necessary. (a) 7(8 – 3) (b) (7 + 2) (10 – 3) 
+
+MATHEMATICS 
+
+
+You can see that Seema’s and Meera’s ways to get the answer are a bit different. 
+
+But both give the correct result. Why? 
+Seema says, what Meera has done is 7 + 6 × 10. 
+Appu points out that 7 + 6 × 10 = 7 + 60 = 67. Thus, this is not what Meera 
+
+had done. All the three students are confused. 
+
+To avoid confusion in such cases we may use brackets. We can pack the numbers 
+6 and 7 together using a bracket, indicating that the pack is to be treated as a single 
+number. Thus, the answer is found by (6 + 7) × 10 = 13 × 10. 
+
+This is what Meera did. She first added 6 and 7 and then multiplied the sum 
+by 10. 
+
+This clearly tells us : First, turn everything inside the brackets ( ) into a 
+single number and then do the operation outside which in this case is to 
+multiply by 10. 
+
+1.4.1 Expanding brackets 
+Now, observe how use of brackets allows us to follow our procedure 
+systematically. Do you think that it will be easy to keep a track of what steps we 
+have to follow without using brackets? 
+
+(i) 7 × 109 = 7 × (100 + 9) = 7 × 100 + 7 × 9 = 700 + 63 = 763 
+(ii)102 × 103 = (100 + 2) × (100 + 3) = (100 + 2) × 100 + (100 + 2) × 3 
+= 100 × 100 + 2 × 100 + 100 × 3 + 2 × 3 
+= 10,000 + 200 + 300 + 6 = 10,000 + 500 + 6 
+= 10,506 
+
+(iii) 17 × 109 = (10 + 7) × 109 = 10 × 109 + 7 × 109 
+= 10 × (100 + 9) + 7 × (100 + 9) 
+= 10 × 100 + 10 × 9 + 7 × 100 + 7 × 9 
+= 1000 + 90 + 700 + 63 = 1,790 + 63 
+= 1,853 
+
+1.5 Roman Numerals 
+We have been using the Hindu-Arabic numeral system so far. This 
+is not the only system available. One of the early systems of 
+writing numerals is the system of Roman numerals. This system 
+is still used in many places. 
+
+XII 
+I 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+IX 
+X 
+XI 
+VIII 
+For example, we can see the use of Roman numerals in clocks; it 
+is also used for classes in the school time table etc. 
+Find three other examples, where Roman numerals are used. 
+
+24 
+
+The Roman numerals 
+
+
+KNOWING OUR NUMBERS 
+
+I, II, III, IV, V, VI, VII, VIII, IX, X 
+denote 1,2,3,4,5,6,7,8,9 and 10 respectively. This is followed by XI for 11, XII 
+
+for 12,... till XX for 20. Some more Roman numerals are : 
+IVXLC D M 
+1 5 10 50 100 500 1000 
+The rules for the system are : 
+
+(a) If a symbol is repeated, its value is added as many times as it occurs: 
+i.e. II is equal 2, XX is 20 and XXX is 30. 
+(b) A symbol is not repeated more than three times. But the symbols V, L and D 
+are never repeated. 
+(c) If a symbol of smaller value is written to the right of a symbol of greater 
+value, its value gets added to the value of greater symbol. 
+VI = 5 + 1 = 6, XII = 10 + 2 = 12 
+and LXV = 50 + 10 + 5 = 65 
+
+(d) If a symbol of smaller value is written to the left of a symbol of greater 
+value, its value is subtracted from the value of the greater symbol. 
+IV = 5 – 1 = 4, IX = 10 – 1 = 9 
+XL= 50 – 10 = 40, XC = 100 – 10 = 90 
+
+(e) The symbols V, L and D are never written to the left of a symbol of greater 
+value, i.e. V, L and D are never subtracted. 
+The symbol I can be subtracted from V and X only. 
+The symbol X can be subtracted from L, M and C only. 
+
+Following these rules we get, 
+1= I 10 = X 100 = C 
+2=II 20 = XX 
+3= III 30 = XXX 
+4=IV 40 = XL 
+5=V 50 = L 
+6=VI 60 = LX 
+7= VII 70 = LXX 
+8 = VIII 80 = LXXX 
+9=IX 90 = XC 
+
+Write in 
+Roman 
+numerals. 
+1. 73 
+2. 92 
+(a) Write in Roman numerals the missing numbers in the 
+table. 
+(b) XXXX, VX, IC, XVV are not written. Can you tell why? 
+25
+
+MATHEMATICS 
+
+
+Example 7 : Write in Roman Numerals (a) 69 (b) 98. 
+Solution : (a) 69 = 60 + 9 (b) 98 = 90 + 8 
+= (50 + 10) + 9 = (100 – 10) + 8 
+= LX + IX = XC + VIII 
+= LX IX = XCVIII 
+
+What have we discussed? 
+
+1. Given two numbers, one with more digits is the greater number. If the number of 
+digits in two given numbers is the same, that number is larger, which has a greater 
+leftmost digit. If this digit also happens to be the same, we look at the next digit and 
+so on. 
+2. In forming numbers from given digits, we should be careful to see if the conditions 
+under which the numbers are to be formed are satisfied. Thus, to form the greatest 
+four digit number from 7, 8, 3, 5 without repeating a single digit, we need to use all 
+four digits, the greatest number can have only 8 as the leftmost digit. 
+3. The smallest four digit number is 1000 (one thousand). It follows the largest three 
+digit number 999. Similarly, the smallest five digit number is 10,000. It is ten thousand 
+and follows the largest four digit number 9999. 
+Further, the smallest six digit number is 100,000. It is one lakh and follows the largest 
+five digit number 99,999. This carries on for higher digit numbers in a similar manner. 
+
+4. Use of commas helps in reading and writing large numbers. In the Indian system of 
+numeration we have commas after 3 digits starting from the right and thereafter every 
+2 digits. The commas after 3, 5 and 7 digits separate thousand, lakh and crore 
+respectively. In the International system of numeration commas are placed after every 
+3 digits starting from the right. The commas after 3 and 6 digits separate thousand 
+and million respectively. 
+5. Large numbers are needed in many places in daily life. For example, for giving number 
+of students in a school, number of people in a village or town, money paid or received 
+in large transactions (paying and selling), in measuring large distances say betwen 
+various cities in a country or in the world and so on. 
+6. Remember kilo shows 1000 times larger, Centi shows 100 times smaller and milli 
+shows 1000 times smaller, thus, 1 kilometre = 1000 metres, 1 metre = 100 centimetres 
+or 1000 millimetres etc. 
+7. There are a number of situations in which we do not need the exact quantity but need 
+only a reasonable guess or an estimate. For example, while stating how many spectators 
+watched a particular international hockey match, we state the approximate number, 
+say 51,000, we do not need to state the exact number. 
+26 
+
+
+KNOWING OUR NUMBERS 
+
+8. Estimation involves approximating a quantity to an accuracy required. Thus, 4117 
+may be approximated to 4100 or to 4000, i.e. to the nearest hundred or to the 
+nearest thousand depending on our need. 
+9. In number of situations, we have to estimate the outcome of number operations. This 
+is done by rounding off the numbers involved and getting a quick, rough answer. 
+10. Estimating the outcome of number operations is useful in checking answers. 
+11. Use of brackets allows us to avoid confusion in the problems where we need to 
+carry out more than one number operation. 
+12. We use the Hindu-Arabic system of numerals. Another system of writing numerals is 
+the Roman system. 
+27 
+

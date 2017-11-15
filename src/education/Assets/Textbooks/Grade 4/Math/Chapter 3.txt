@@ -1,0 +1,889 @@
+
+Chapter 3 
+
+WHOLE NUMBERS 
+
+3-1. Countinp; Numbers. 
+Page 67. Understandfngs to be developed in this section: 
+
+(a) Number is an idea. 
+(1) Small numbers can be learned without counting, 
+some large ones by patterns. (Cards, ~ominoes) 
+(2) The number of members of any set can be found by 
+matching the members of theset with some standard 
+set. This is a clwnsy method If the number of 
+members Is large, as the standard sets must them-
+selves be large. 
+(3) Matching the members of a set with a memorized set 
+of sounds representing the countlng numbers is the 
+best known way of finding the number of members in 
+a set. 
+
+(b) One-to-one correspondence. 
+Two sets are in a one-to-one correspondence when 
+each member of one set is matched with only one 
+member of the other set and vice-versa. 
+(c) "~ountingmmbers" are sometimes calf ed "natural numbers1' 
+(d) The name that we give to the set of counting numbers 
+and zero Is "whole numbers." The counting numbers do 
+-not include zero. 
+Answers -to Exercises 3-1, Rgea 68-70. 
+
+! 1. (a) 1, 2, 3, 4, 5, 6. 
+
+(b) 1-t.1,2+1, 3 +1,o-t-5, 5+1, 1+6,54-3. 
+L-
+
+(c) IV, v, VI, VII, VIII, IX, X, XI. 
+'seven> 'seven9 3sevenb 'seven* 5sevenj 6seven* 
+
+loseven 
+
+
+2. all; 7 and 8. 
+
+3. Putting them in a 5 x 5 square will probably be as 
+slrnple a pattern as any other. 
+
+5. Multiply 4 by 3; (2 x 5) + (2 x 1); 2 x 6 on each side 
+of diagonal; 2 x 6 on each side of the vertical line 
+segment; any other way that doesn't use one-to-one 
+correspondence. 
+6. French -un; Spanish -unos; German -ein; Russian-adeen 
+7. IV corresponds to two dots. 
+8. 8 was left out. 
+9. 17 
+10. He aubtracted 27 from 81. No, the answer should be 55. 
+11. Two-to-one correspondence Four-to-one correspondence 
+(a) Feet to people (a) Tires to cars, wagons 
+(b) Ears, eyes, arms, hands (b) Legs to dogs, homes 
+etc., to people. cows 
+12 The following illustrates a one-to-one correspondence 
+between the countinq numbers and the even numbers. 
+
+3-2. Commutative Properties for Whole Numbers. 
+Page '70. The principal objective In the study of the commutative, 
+associative, and dlstributive properties is to have the puplls 
+understand their statements in mathematical language; to dia-
+tingulsh one property from another; and to recognize the property 
+or properties, that may be used in such problems as in Exercises 
+3 and 4. These are not propertiea that are being proved. The 
+pupils have used them for a long the, but they probably have 
+not had names for them and have not recognized when they have 
+been uslng them. 
+
+The pupils will be helped in understanding the commutative 
+property if they have some small objects with which to work. 
+Pieces of paper will do but cubical blocks will be better. Cubi-
+cal blocks will be more useful in illustrating the associative 
+property for multiplication. lhphasize that the commutative 
+property 1s a property of (belongs to) the operation of addition 
+and Is not dependent upon the numeration system that Is used. 
+
+
+! 
+!
+Use Roman numerals and numbers in base five to illustrate. For 
+' example in base five add 
+
+This is a good qpportunity to review numbers in numeration systems 
+other than that with base ten. 
+
+Students should be taught to add ''up the column" as well as 
+IIdom the colwnn." Use three whole numbers in the addition since 
+the use of three numbers will not only illustrate commutativity 
+but will lead very naturally into associativity. 
+
+Commutative Property of Multiplication 
+Diagrams of stars on the blackboard, arrangements of the 
+blocks in raws and columns will be helpful.
+
+***+* 
+
+Five rows of 4 stars in each row
+
+***** 
+
++*+~cY Four columns of 5 stars in each column
+
++**** 
+
+After repeated arrangements of stars (or blocks) in rows and 
+columns strive for understanding of adb = bea where a and b 
+represent any whole numbers. 
+
+Answers -to Exercfses p2a. Page_ B. 
+
+1. Parts a, c, d, f, h, i,m aretrue 
+Parts b, e, g, j, k, 1 are false 
+2. (a) 644 (b) 110,596 (c) 155,752 (d) ''Len 
+3, (a) 7+4=4+7 (f) (3 . 2) + 5 = 5 + (3 . 2) 
+
+(b) 12 5 > 5 . 11 (g) 8-3<9-3 
+(c) 23 12 < 12 32 (h) 86 . 135 = 135 . 86 
+(d) 3< 6 (i) 24 + 3 > 3+ 24 
+(4 16 > 9 > 3 (J) a > c 
+4, (a) 2052 (b) 25,620 (4 289,884 (d) 1132,,n 
+
+[pages 70-741 
+
+
+(4 46 
+
+(f) 0, 1, 2, 3, 4, 5, 6 
+(g) 0, f, 2, 3, 4 
+(h) any whole number 
+Answers -to mercises 3-2b. Page 2. 
+
+1. Reault is unchanged In parts a, b, c. 
+Result Is changed in parts d, e, f, g, h, i. 
+2 No. 
+
+3. The actlvitfes are commutative in parts a, c, e. 
+4. Yes. 
+5. The operation in part d Is commutative. (The opera-
+tions in parts a, b, c are commutative only if the 
+first number in each is equal to the second.) 
+6 mamples of commutative activities. 
+To wash your face and wash your hair. 
+To go north one block and then west one block. 
+To count to 100 and write the alphabet. 
+
+Examples of activities which are not comutative. 
+To put out the cat and go to bed. 
+To eat dinner and get up from the table. 
+To rake the leaves and burn them. 
+
+33 Asaociatlve Properties for Whole Numbers. 
+Page 74. Have the students use blocks or disks to make such 
+arrangements aa 
+
+**# ** *+** 
+
+Then have them push the first two sets together and count the 
+total (3 -I-2) + 4. Then after rearranging have them push the 
+second two sets together and count the total 3 + (2 -k 4). Use 
+sufficient variations of this procedure to lead to the under-
+standing that (a + b) + c = a + (b + c) where a, b, c are any 
+counting numbers. 
+
+Then ask: Is the product (3 x 4) x 5 equal to the product 
+3 x (4 x 5)? 
+
+[pages 73-74] 
+
+
+This may be illustrated by arranging a set of 20 blocks in 
+
+a rectangular array, 4 by 5. Then put two more layers of 20 
+blocks each on top of these forming a box arrangement. Look at 
+it in different ways to see (3 x 4) x 5 and 3 x (4 x 5). 
+Different sets of boxes may be made to Illustrate 2 x (3 x 4), 
+(2 x 3) x 4 and many others. Again, emphasfs is upon arrival 
+at understanding that a . (b . c) = (a . b) . c where a, b, c 
+are any whole numbers. 
+
+Point out some operations or activities which are not associ-
+ative and have students suggest others. 
+
+Answers & Exercises u.Pages 77-78. 
+
+1. (a) (4 + 7) + 2 -4 -1-(7 + 2) Associative property 
+of addition 
+(4 i-7) +2 =11 +2 =13 
+4+(7+2) =4+9=13 
+
+(b) 8 + (6 -t 3) = (8+ 6) + 3 Associative property 
+of addition
+8+(6+3) =8+9=17 
+(8 +6) +3 = 14 +3 = 17 
+
+(c) 46 + (73 + 98) = (46 + 73) + 98 Associative prop-
+erty of addition
+46 + (73 + 98) = 46 + 171 = 217 
+(46 + 73) + 98 = 119 + 98 = 217 
+
+(d) (6 -5) 9 = 6 (5 
+9) Associative property 
+270 of multiplication
+(6 
+
+
+5) 9 = 30 . 9 = 
+6 -(5 9) = 6 45 = 270 
+
+(e) (21 + 5) + 4 = 21 + (5 + 4) Associative property 
+of addition
+(21 + 5) -t 4 = 26 -t 4 = 30 
+21 + (5 + 4) = 21 + g = 30 
+
+(f) (9 
+
+
+7) 8=9 (7. 8) Associative property 
+
+
+of multiplication
+
+(9 
+
+7) 
+
+
+8 = 63 
+
+
+8 = 504 
+9 
+
+(7 . 8) = 9 
+
+56 -504 
+
+(g) 436 + (476 + I) = (436 + 476) + 1 Associative prop- 
+erty of addition
+436 + (476+ 1) = 436 + 477 = 913 
+(436 + 476) + 1 = 912 + 1 = 913 
+
+
+(h) (57 
+
+
+80) . 75 = 57 (80 
+
+
+75) Associative prop-
+perty of multi-
+(57 -80) 75 = (4560) -75 plication 
+
+
+(80 
+
+
+75) = 57 
+
+
+6000 = 342,000
+
+57 
+
+2. (a) No. (b) No. (c) There is no associatfve 
+property of subtraction, or the associative property of 
+subtraction does not hold. 
+3. (a) No. 
+(b) No. 
+(c) 
+(d) 
+(75+ 15) + 5 = 1 
+75 + (15 + 5) -25 
+4. (a) Either (6 + 1) + g 
+(6 + 1) + 9 
+(b) 2 (13 10) = 2 
+
+
+(e) 80 + (20 + 2) = 8 
+(f) (80t20) +2 =2 
+(g) The associative property 
+does not hold for division. 
+= 7 + g = 16, or 
+= 6 + (1 + 9) Associative prop-
+
+erty of addition
+
+=6+1O 
+= 16 
+
+130 = 260 Pupils may prefer 
+thls way. 
+
+(c) (12 9) 10 = (108) 10 = 1080 
+
+
+(d) 4 (25 76) = (4 
+
+
+25) . 76 Associative property 
+of multiplication
+= loo 
+
+
+76 
+
+= 7600 
+
+(e) 340 + (522+ 60) = 340 + (60+ 522) Commutative 
+property of 
+addition. 
+= (340 + 60) + 522 Associative 
+
+property of 
+addition 
+
+(r) (5 . 67) 2 = (67 5) -2 Commutative property 
+of multiplication. 
+= 67 . (5 a 2) Assoclative property 
+of multiplication
+
+= 67 . 10 
+
+3-4. -The Distrlbutlve Property. 
+Page E.hphasize that the use of two operations in thls prop-
+erty makes it eaay to distinguish the distributive from the two 
+
+
+preceding properties, 
+
+The blocks can be used in the following way. Lay out 2 
+rows of 3 each and 2 rows of 5 each, 
+
+*** *+***
+
+*** +**** 
+
+Ask: If we move these together, we will have 2 times -what? When 
+we move them together do we get 2 times 8? This can be repeated 
+until pupils understand that 
+
+a . (b + c) = (a . b) + (a . c) 
+when a, b, q are whole numbers. Repetition of the same illus-
+tration with different numbers of blocks may be better than 
+different types of illustrations. For bright students, the dis-
+tributive property can be extended to 3 tema. Thia can be 
+illustrated and used with 3 digit numbers. The general form is: 
+a(b + c + d) = ab + ac + ad 
+Use the distributive property to help make mental computatbns 
+
+7-32 = 7*(30 + 2) = (7.30)-I-(7.2) = 210 + 14 = 224 
+
+35.8 = (30 + 51.8 -(30.8) + (5.8)= 240 + 40 = 280 
+5*152= 5-(100+ 50 + 2) = (5.100) + (5.50) -t (5-2) 
+= 500 + 250 + 10 = 760 
+Answers Exercises e.Pauea 82-84. 
+
+1. (a) 6 /30 
+
+
+2. (a) 4.12 = 48 (f) 30 + 18 = 48 
+28 + 20 -48 6.8 = 48 
+(b) 18+24=42 (g) 2-24 = 48 
+6-7= 42 32 + 16 = 48 
+(c) 48i-42490 (h) 12.4 = 63 
+1546 = 90 60 + 3 = 63 
+
+(d) 23.5 = 115 (i) 3216 + 3484 = 6700 
+
+46 + 69 = 115 67.100 = 4700 
+
+(e) 11.7 = 77 (J) 36 + 36 = 72 
+33 + 44 = 77 72.1 = 72 
+
+3 (a) 3*(4 + 2)= (3-4) +-(3.3) 
+
+(b) 2-(2+ 5) = (2-4)+ (2.5) 
+(c) 13.(6 -1-4) (13.5) + (13.5) 
+
+(a) (2.7) + (3.71 = (g -t 21.7 
+
+(e) (g.4) + (1.4) = (6 + 71-5 
+
+
+4. (a) 9.(8 + 2) (dl (13.6) + (27.6) 
+(b) (8.14) + (8.17) (4 (15~6)+ (15.13) 
+(c) (12.5) + (12.7) (f) 1245 + 4) 
+1 6. he following parts are true: b, c, d. 
+! The following parts are falae: a, e. 
+7. (a) (20+7)*(30+ 4) = 20*(30+ 4) +7-(30+4) 
+= (20.30) + (20.4) + (7.30) 
+= 600 + 80 + 210 + 28 
+= 918 
+(b) (10 -t 3).(20 + 2) = 10.(20 + 2) + 3*(20 + 2) 
+=(10*20)+ (10.2) + (3.20 + 
+= 200 + 20 -t 60+ 6 
+= 286 
+(c) (30 + 7)*(30+3) = 30*(30+3) +?*(30+3)-(30.30) + (30.3) + (7.30) 
+= goo + go + 210 + 21 
+= 1221 
+[pages 82-84] 
+
+
+(d) (60 + 4).(60 + 6) = 60+(60+ 6) + 4*(60 + 6) 
+= (60.60)+ (6046)+ (4.60)+ (4.6) 
+= 3600 + 360 + 240 + 24 
+= 4224 
+8. From (a) to (b) Comtatfve property of multiplication 
+From (b) to (c) Associative property of multiplication 
+From (c) to (d) Commutative property of addition 
+From (d) to (e) Associative property of addition 
+From (e) to (f) Commutative property of multiplication 
+From (f) to (g) Associative property of multiplication 
+From (g) to (h) Distributive property 
+
+3-5. Sets and the Closure Property. 
+Page -84. Pnphasis here is placed upon (1) understanding the 
+meaning of set and (2)the meaning of a set closed under an opera-
+tion. Pupils will give many examples of sets. There is just one 
+empty set, The set of marbles which has no marbles in It is the 
+
+same as the set of coins which a pupil has in his pocket if he 
+
+[pagee 83-84 1 
+
+
+has no coins in his pocket. 
+
+Good examples of sets closed under addition: 
+
+The set of whole numbers. 
+
+The set of counting numbers. 
+
+Then ask if they are closed under multiplication. Lr:fier 
+subtraction? Under division? 
+
+Rnphasize that if just one pair of counting numbers can be 
+found such that thefr difference (or quotient) is not a counting 
+number, then the set of counting numbers Is not closed under sub-
+traction (or dlvlsion) . For example, 9-12 is not a counting 
+number for there is no counting number which can be added to 12 
+to get 9 and 12 is not a counting number slnce there Is no 
+counting number which can be multiplied by 9 to get 12. 
+
+Answers to Exercises 3-5a. Pages 87-88. 
+
+I. (a) No. The sum of 2 odd numbers is always an even 
+number. 
+(b) No. 
+2. Yea, slnce the sum of 2 even numbers is always an even 
+number. 
+3. Yes. Since each of the numbers in the set is a multiple 
+of 5, the sum of any two numbers in the set is a multl-
+ple of 5. 
+4. Each set is closed under multiplication. 
+5. (a) Yes, 
+(b) No. For example 500 + 501 = 1001 and 1001 is not 
+In the set. 
+(c) No. For example, 3 + 47 = 50, and 50 is not in 
+the set. 
+(d) Yes. If the numerals of 2 numbers end in 0, then 
+the sum of the numbers ends in 0. 
+6. (a) Yes. (b) NO. (c) NO. (a) Yes. 
+7. Yes. Multiplication is an abbreviated process for 
+addition. 
+8. No. 
+9. No. 
+[pages 84-873 
+
+
+Answers Exercises 3-5b. Paw 87. 
+1. (a) 8578 (b) 3165 
+
+10. Two million, seventy thousand, three hundred fifty-one. 
+11. 72 cents 
+3-6. averse Operations. 
+Page 88. The basic concepts In this section are: 
+
+1. The meaning of inverse. 
+2. Addition and multiplication have the closure, 
+cormutative, and associative properties, while 
+their inverses do not. 
+The meaning of inverse may be explained by giving an example, 
+"I write on the chalkboard" may be stated as one actually writes 
+"inverse" on the board. Then the teacher may say "The inverse 
+of writing on the board is erasing the board." The board may be 
+actually erased. If the phrase "opposite or inverset'is used it 
+may help the pupil underatand the meaning of inverse. It should 
+be emphasized that the inverae operation undoes the first 
+operation. Some pupils may think that the railure to do an 
+operation is the inverse of the operation. For example, to the 
+question "What is the inverse of singing?" the pupil may say 
+"~otsinging." "~otsinging" is the negation of "singing" and 
+Is not the inverse of "singing." In this connection it is 
+Important to point out that some operations have no inverse. 
+
+Some discussion of a . x = b may be helpful to many 
+students. The following questions may be suggestive, 
+
+1. What operation Is indicated by a 
+x? 
+
+2. What operation will undo multiplication? 
+
+3. What is the inverse of multiplication? 
+4. To undo a 
+x, do we divide a 
+x by a or a 
+x 
+by x? (Since a . x means a times x we divide by 
+a, the multiplier.) 
+
+5. .How do we undo 3 -2? 8 x 4? Divide 6 by 3; divide 
+32 by 8? 
+6. In terms of these symbols, can you define dfvision? 
+An understanding of a -x = b will be helpful to the pupll as 
+he studies percenGage, and the equivalence of the two statements 
+"b + a = and "a . x = b" will be of great importance in 
+
+Chapter 6. Therefore, an emphasis on understanding the relation-
+ship between a, x, and b is desirable. 
+
+Answers -to Exercises 3-6. Pages 90-91. 
+
+1. The operations in the following parts have inverses: 
+a, b, c, d, e, f, h, j, 1, o. 
+2. (a) Put down the pencil. 
+(b) Take off your hat. 
+(c) Get out of a car. 
+(d) Withdraw your hand. 
+(e) Divide. 
+(f) Tear down. 
+( h) Step backward. 
+(j) Subtraction. 
+(1) Addition. 
+(o) Putting on a tire. 
+3. (a) 46471 (f)$1342.67 (k) 33 
+(b) $507.10 (g) 876 (1) 1476 
+(c) 506 ft. (h) 987 (m) 68 
+(d) $1412.78 (i) 798 (4 143 
+
+I 
+
+j (e) $1101.04 (3) 697 (0) 58140 
+
+j 
+
+4. (a) 5 
+(b) 5 
+(4 1 
+(4 7 
+
+(e) None 
+
+None 
+
+7 
+
+Any whole number 
+4 
+
+5 
+5 
+
+9 
+
+9 
+
+3-7. Betweenness and the Number Wne. 
+Page B.Understandings 
+
+1. The number ltne helps to show how the counting numbers 
+are related. The students may ask about the dots to 
+the left of zero. These dots will be discussed next 
+year. 
+2. A number ia less than a second number if the first Is 
+to the left of the second. A number is greater than 
+another if It is to the right of it. 
+3 There is not always a counting number between two count-
+ing numbers. 
+
+4. To find the number of whole numbers between two other 
+numbers (if it can be done at all): Subtract the 
+smaller from the larger and then subtract one (1) from 
+the remainder. Or, subtract one (1) from the largerand then find the difference between that and the 
+smaller. br, add I to the smaller and then subtract 
+from the larger. mample: Between 7 and 15. 
+Method 1 15 -7 -8 8 -1 = 7 
+
+Method 2 15 -1 = 14 14 -7 = 7 
+Method 3 7 + 1 = 8 15 -8 = 7 
+
+
+Answers to Exercises 3-7. 
+1. (a) 17 (fl 2 
+
+(b) 21 (g) None 
+(4 4 (h) 88 
+(dl 7 (I) 3 is answer. Discuss with 
+class that the answer is
+
+(e) None. 
+either a -(b + 1) or 
+
+(a -b) -1 or (a -1) -b. 
+
+2. (a) 10 (4 18 
+(b) 11 (f) 22 
+(4 24 (g) 16 
+(4 30 (h) 9 
+
+3. (a)?(b)? (c), k),(il, (J)* 
+4. (a) Yes. (b) Yes. (c) Yes. 
+Q b t 
+
+5. cb O, A a a b. c 
+Either of the two sftuations is possible. The diagrams 
+indicate that b is between c and d regardless of 
+whether c(d or d<c. 
+
+3-80 -The Number -One. 
+PaKe &. In tNs lesson emphasla should be placed not only on 
+special properties of the operations with 1 but also on the 
+closure, associative and commutative properties. The fact that 
+there is more than one way to represent the number 1 ia empha-
+sized in the first exercise. Of course this gives the teacher 
+an opportunity to review the concept of numeral as a name for a 
+number and not the number itself. Pupils think of the operation 
+with numbers so frequently that they forget that (4 -3) is 
+really another way to represent 1. 
+
+A class discussion of the lesson summary In symbols may be 
+profitable for many pupils. Of course some other letter in place 
+of C could be used as practice for pupils in translating symbols 
+into words. Be sure that the pupils have the ideas before 
+attempting symbolism. Pupilat translations of the mathematical 
+
+
+sentences could be somewhat as follows: 
+
+(a) The counting numbers (c) are obtained by starting 
+wlth 1 and repeatedly adding 1. 
+(b) If any counting number Is multiplied by I, the product 
+is the same number. 
+(c) If any counting number is divlded by 1, the quotient 
+is the same counting number. 
+(d) If any counting number is divided by the same number, 
+the quotient is 1. 
+(e) The number one, raised to any power which is a counting 
+number, equals 1. 
+Answers to E5cercises s.Page 96.
+
+-
+
+1. The symbols in the followtng parts represent the 
+number 1: 
+2 2
+
+2. (a) 100.1 = 100 (d) 1m3.1 = f 
+(b) 10bl.l*l= 10 ) 0.1 = 0 
+(4 Tl4--
+14 (f) 1.0 = 0 
+We can get any countfng number by the repeated addition 
+of 1 to another counting number if the number we wish 
+to get is larger than the counting number to which we 
+
+add. 
+
+We can get any counting number by the repeated subtrac-
+
+tion of 1 from another counting nwnber If the number we 
+
+wish to get is smaller than the countlng number from 
+
+which we subtract. 
+
+4. Yes. 1-1=0; 3 -1 -1-1=O. Zero isnot a 
+counting number. 
+5. The successive addition of 1's to any counting number 
+will give a counting number. But, the successive 
+subtraction of 1's from any counting nwnber will become 
+0 if carried tar enough. 
+6. (a) 876429 (c) 897638 (el 3479 (g) 1 
+
+69 
+
+3-9. The Number Zero. 
+Pa~ex.The purpose of this lesson is to understand why we can 
+or cannot perform the fundamental operations with zero. 
+
+It is important for pupils to understand that zero is a 
+perfectly good number and that it does not mean "nothing." The 
+pupil should see that, In addition and subtraction, zero obeys 
+the same laws as the counting nmbera. 
+
+In explaining the product of c . 0 and 0 . c, It may be 
+helpful to review briefly the meaning of multipllcatlon. Such 
+discussion questions might be: 
+
+1. What is another way to find the answer to 3 x 5? 
+2. What does 3 x 5 mean? It means 5 + 5 + 5 and not 
+3 +3 +3 4-3 +3* 
+3. Make up a real problem using 3 x 5. he price of 3 
+pencils at 5$ each.) 
+4. What does 5 x 3 mean? (1t mema 3 + 3 + 3 + 3 + 3.) 
+5. Make up a real problem using 5 x 3. h he price of 5 
+pencils at 3$ each.) 
+After such questlon4, zero may be Introduced In the discussion 
+as multiplicand and multiplier, since 5 a O = 0 
+
+
+5 by the 
+commutative property for multiplication. 
+In case of division, puplls should understand why we divide 
+0 by a and do not divide a by 0. It may be desirable to 
+use several examples so that the pupils will see that should 
+be 0 and % is not the name of any whole number. 
+
+Some or the pupils may be interested in why we do not define 
+or some other number. They should understand that it
+
+% = 1 
+
+would be out of harmony with the fact that zero times any number 
+equals zero. 
+The translations Into words of the symbolic statements 
+concerning zero can be somewhat as follows: 
+
+(a) If zero is added to any whole number, the sum is the 
+same whole nmber. 
+(b) If any whole number Is added to zero, the sum is the 
+same whole number. 
+(c) If zero is subtracted from any whole number, the differ-
+
+ence is the same whole number. 
+
+(d) If any whole number is multiplied by zero, the product 
+is zero. 
+(e) If zero is multiplied by any whole number, the product 
+is zero. 
+(f) If the product of any two whole numbers is zero, then 
+one of the whole numbers Is zero or both are zero. 
+(g) If zero is divided by any counting number, the quotlent 
+is zero. 
+(h) Zero cannot be used as a divisor. 
+Answers 5 Exercises 3-9. Page 101. 
+
+1. The symb~lsin the following parts represent zero: 
+(blJ (49 (f)Y (hl, 01, (j), (k), (I), {m)Y (4, 
+(01, (q), (4. 
+
+18424 (1) 897 
+641388 (m) 4397.16 
+144, remainder 56 (n) Divislon by zero not possible 
+152, remainder 60 (0) 1 
+
+$36538.26 (PI $1846 
+$60477.81 ( sl 0 
+0 (r) 0 
+$846.25 (4 0 
+
+$70.65 (t) 0 
+679 (4 976 
+319 (4 $97.46 
+
+3. The error is in the generalization to c in part (I). 
+If a . b = c, a or b does not need to be c. 
+Example: 2 . 2 = 4. This exercise shows the error 
+that may be made by making a generalization on a few 
+cases. 
+
+3-10. Summary. Page 102. (1n student text only) 
+
+[pagea 100-1031 
+
+
+j Answers to ''HOW Are Questions, Chapters 1-3.
+
+---You Doing?" 
+
+lm (122)three = ( 17)ten = (32Iflve (~tis easiest to get 
+to base five by going through base ten.) 
+
+2. Yes. Start by filling either the 3-cup or the 5-cup 
+container. If the three-cup 1s-filled first then: 
+(a) Pour 3 Into 5; (b) Fill 3; (c) Pour 2 from 3 
+Into 5, which leaves 1 in 3; (d) hpty 5, pour 1 left 
+in 3 into 5; (e) Pill 3. Now we have 4. 
+If the five-cup is filled flrst then: 
+(a) Pour 3 from 5 into 3, which leaves 2 in 5; (b) Bnpty 
+3 and pour in 2 from 5; (c) ill 5; (h) ill 3 by 
+pouring 1 from 5; (e) hpty 3. Now we have 4. 
+3. f 
+4. 1,111 
+5 176 x 176 x 176 x 176 x 176 x 176 x 176 
+
+6. Addition 
+7. Base 2 
+8. (2~27)+(0~9)+(1~3)+(0~1) 
+
+9. 31 
+
+10. 4 which equals
+x 216 is the value of the 4 in (451~)~~~ 
+
+864. < x 27 is the value of the 4 in (41)twenty-seven, 
+which equals 108. 864 is 8 times 108. 
+11. The set of whole numbers has a zero and the set of 
+counting numbers has not. 
+1 The statement is false, If one can find one example 
+where the operation is not closed, then this operation 
+is not closed for the set of whole numbers, 
+
+13. Commutative property of multiplication. 
+14. One (I) 
+15. Any of the properties listed in the sectfon on zero. 
+16. 13.(2 + 5) or (2 + 5)*13 
+17. 136 + (25 + 75) 
+18. Multiply 65 times 11 and see if the product is 715. 
+19. 40 
+20. (7.3) + 6.(5-3) 
+[page 1031 
+
+
+Sample Questions -for Chapter 
+
+The sets of questions presented at the end of each 
+chapter in the Teacherst Commentary are not intended as 
+a chapter test. Teachers should construct chapter tests 
+carefully by combining selected items from the set of 
+questions included in the guide and questions of their 
+own writing. Great care should be used to avoid maklng 
+the test too long. 
+
+1. Insert a symbol which makes a true statement: 
+8+4 4+8 
+
+2. How many days are there between March 13, 1951 and 
+March 27, 1951? 
+Show with one example that the set of numbers from 10 
+to 15 Is not closed under addition. 
+4. Answer true or false: The identity for multiplication 
+in the set of whole numbers is zero. 
+5. If K is a counting number then 0 = ? 
+6. Apply the commutative property of addition to: (4.5) + 6 
+7. We are uslng the property when we say 
+that 3a + 5a Is another way of writing (3 + 5)ma. 
+8. If the product of 5 and a certain number fa zero, then 
+that number must be: (a) 1 (b) 0 (c) 5 
+(d) None of the above 
+9. When the number one is divided by any counting number n, 
+the answer is alwaya: (a) 0 (b) 1 (c) n 
+(d) None of the above 
+10. Which of the following numerals are names of counting 
+numbers? (10)~~14 0 (7UIten 5.* XIV 
+11. [ (7 + 3) + 7. (6*5)1 = E(7 + 3) + (7.6).5) illustrates 
+the associative property of ? 
+
+12. How many counting numbers are there between and 
+131 
+13. Make a true statement of (3.7) -E (4 ) 7. ( 1 
+14. To check the statement 7 x 345 = 2415 by the inverse 
+operation we would ? 
+
+15. The letters a, b, and x represent counting numbers, 
+and a = X. What can we say about the relation between 
+a and b? 
+
+Answers -to Sample Questions 
+
+1. = 9. a 
+2. 13 10. 14, (713Iten' XIV 
+3. 12+13=25 11. Multiplication 
+4. False 12. 1 
+
+5. 0 3. (3.7) + (4.7) = 7.(3 + 4) 
+6 6 + (4.5) 14. Divide 2415 by 7 (or by 345) 
+7. Distributive 1 a is a multiple of b, and 
+a is either greater than
+8. b 
+b or equal to b. 
+
+

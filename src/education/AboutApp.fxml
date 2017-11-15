@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="education.AboutApp">
+   <children>
+      <ImageView fitHeight="610.0" fitWidth="800.0" layoutY="-10.0">
+         <image>
+            <Image url="@Assets/signup.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="378.0" fitWidth="540.0" layoutX="132.0" layoutY="184.0">
+         <image>
+            <Image url="@Assets/note-148282_960_720.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="301.0" layoutY="61.0" prefHeight="60.0" prefWidth="177.0" text="Developer" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="37.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="164.0" fitWidth="164.0" layoutX="78.0">
+         <image>
+            <Image url="@Assets/occupation-33-512.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="156.0" fitWidth="164.0" layoutX="549.0" layoutY="9.0">
+         <image>
+            <Image url="@Assets/Computer-Monitor-Icon-PNG.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="label1" layoutX="172.0" layoutY="226.0" prefHeight="295.0" prefWidth="454.0" text="Label" wrapText="true">
+         <font>
+            <Font name="Comic Sans MS" size="20.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
