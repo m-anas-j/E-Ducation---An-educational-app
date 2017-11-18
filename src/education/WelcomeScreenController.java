@@ -143,6 +143,11 @@ public class WelcomeScreenController {
         Main.aboutApp.show();
     }
 
+    @FXML public void makeWarningDisappear()
+    {
+        wrongPassword.setVisible(false);
+    }
+
 
 
 
