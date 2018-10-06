@@ -83,7 +83,7 @@ public class ControllerSignup implements Initializable{
         else if(passTextField.getText().equals(confirmPassTextField.getText()))
         {
             User newUser = new User();
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             newUser.setFullname(fullnameTextfield.getText());
             newUser.setUsername(userTextfield.getText());
             newUser.setPassword(passTextField.getText());

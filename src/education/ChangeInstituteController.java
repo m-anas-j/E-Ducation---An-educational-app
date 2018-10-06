@@ -48,7 +48,7 @@ public class ChangeInstituteController {
     {
         if(passwordField.getText().equals(password))
         {
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             objectUserDatabase.changeInstitute(WelcomeScreenController._username,instituteTextField.getText());
             WelcomeScreenController._institute = instituteTextField.getText();
             System.out.println("Done");

@@ -55,7 +55,7 @@ public class ChangePasswordController {
     {
         if (oldPasswordField.getText().equals(WelcomeScreenController._password) && newPasswordfield.getText().equals(confirmPasswordField.getText()))
         {
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             objectUserDatabase.changeUserPassword(WelcomeScreenController._username,newPasswordfield.getText());
             System.out.println("Done");
             Main.passwordChangeWindow.close();

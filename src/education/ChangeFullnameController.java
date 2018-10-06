@@ -59,7 +59,7 @@ public class ChangeFullnameController {
     {
         if(passwordField.getText().equals(password))
         {
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             objectUserDatabase.changeUserFullname(WelcomeScreenController._username,fullnameTextField.getText());
             WelcomeScreenController._fullname = fullnameTextField.getText();
             System.out.println("Done");

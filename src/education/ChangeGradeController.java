@@ -63,7 +63,7 @@ public class ChangeGradeController implements Initializable{
     {
         if(passwordField.getText().equals(password))
         {
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             objectUserDatabase.changeGrade(WelcomeScreenController._username,gradeCombobox.getValue());
             WelcomeScreenController._grade = gradeCombobox.getValue();
             System.out.println("Done");

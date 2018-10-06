@@ -268,7 +268,7 @@ public class QuestionScreenController implements Initializable{
         int prevScore = Integer.parseInt(Main.userProfileScreen.getSkilllevel());
         score = score + prevScore;
         WelcomeScreenController._skilllevel = Integer.toString(score);
-        UserDatabase objectUserDatabase = new UserDatabase();
+        UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
         objectUserDatabase.updateScore(Main.userProfileScreen.getUsername(),score);
     }
 

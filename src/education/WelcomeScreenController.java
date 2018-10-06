@@ -45,7 +45,7 @@ public class WelcomeScreenController {
 
     public void set_scene() throws IOException
     {
-        Parent rootWelcomeScreen = FXMLLoader.load(getClass().getResource("WelcomeScreen.fxml"));
+        Parent rootWelcomeScreen = FXMLLoader.load(getClass().getResource("WelcomeScreen.fxml") );
         welcomeScene = new Scene(rootWelcomeScreen);
         region.prefWidthProperty().set(anchorPane.getWidth()/3.43);
     }
@@ -64,7 +64,7 @@ public class WelcomeScreenController {
             System.out.println("Logging in...");
             _username = userTextField.getText();
             //String _fullname,_password, _institute, _grade, _skilllevel;
-            UserDatabase objectUserDatabase = new UserDatabase();
+            UserDatabase objectUserDatabase = new UserDatabase("mayosenpai","mayosenpai");
             objectUserDatabase.result = objectUserDatabase.statement.executeQuery("SELECT * FROM USERDATABASE WHERE USERNAME='" + _username + "'" );
             objectUserDatabase.result.next();
             //_password = objectUserDatabase.result.getString(3);

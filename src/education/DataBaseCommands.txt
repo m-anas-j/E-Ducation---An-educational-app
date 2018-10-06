@@ -1,0 +1,22 @@
+create table userdatabase
+(
+	fullname varchar2(25),
+	username varchar2(10) primary key,
+	password varchar2(8),
+	institute varchar2(25),
+	grade int,
+	skilllevel int
+);
+
+create table quizdatabase
+(
+	id varchar2(8),
+	ques varchar2(50),
+	choice1 varchar2(12),
+	choice2 varchar2(12),
+	choice3 varchar2(12),
+	choice4 varchar2(12),
+	answer varchar2(12)
+);
+
+insert into quizdatabase values('04En01','What is the ice-cream cart compared to?','Fruits','Love','Happiness','Flower bed','Flower bed');

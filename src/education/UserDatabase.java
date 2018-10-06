@@ -10,12 +10,12 @@ public class UserDatabase {
     static ResultSet result;
     File file = new File("input.txt");
 
-    public UserDatabase()
+    public UserDatabase(String username, String password)
     {
         try
         {
             Class.forName("oracle.jdbc.driver.OracleDriver");
-            con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/XE","mayosenpai","mayosenpai");
+            con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/XE",username,password);
             statement=con.createStatement();
         }
         catch(Exception e)
